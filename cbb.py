@@ -21,7 +21,9 @@ def make_soup(url):
     print ("Crawling...")
     webpage = url
     br = mechanize.Browser()
-    data = br.open(webpage).get_data()
+    br.set_handle_robots(False)
+    br.addheaders = [('User-agent', 'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.1) Gecko/2008071615 Fedora/3.0.1-1.fc9 Firefox/3.0.1')]
+    data = br.open(webpage).read()
     soup = BeautifulSoup(data, "html.parser")
     soup.prettify()
     #print soup
@@ -61,21 +63,40 @@ def get_games(date):
             href = link.get("href")
             if "playbyplay" in href:
                 play_by_plays.append(href)
-                print href
+                #print href
     return play_by_plays
 
 
 def get_play_by_play(pbp_path):
     "Returns the play-by-play data for a given game id."
+    print (ESPN_URL + pbp_path)
     soup = make_soup(ESPN_URL + pbp_path)  #make_soup opens the url and returns the source code
+#<<<<<<< HEAD
     table = soup.find("table", class_ = "mod-data mod-pbp")   #find the only table tag and returns string (find_all returns array)
     ##table has table row and table data (tr, td), but table var is a string**
+    print "------------------------------"
+    print soup
+    print "------------------------------"
+    '''table = soup.find_all("div", "story-container")   #find the only table tag and returns string (find_all returns array)
+    '''##table has table row and table data (tr, td), but table var is a string**
+#>>>>>>> 8c94b1874697e0be2b50ddaf102d215faf710eb4
     #table rows has class for odd or even (probly why the table on espn is switched colors)
     #rows is an matrix of tr tags with even or odd 
     #eg <tr class="even"><td valign=top width=50>19:53</td><td valign=top>&nbsp;</td><td valign=top style="text-align:center;" NOWRAP>0-0</td><td valign=top>Karl-Anthony Towns missed Three Point Jumper.</td></tr>
     #each row in rows is an array of td's
-    print ("help")
+    #print table
     #find_all splits table string into array by tr 
+
+    #rows = []
+    #print tbl
+    table = soup
+    if not table:
+        return None
+
+    tbl = table.find_all("tr", lambda x: x in ("odd", "even"))
+    for r in table.find_all("tr", lambda x: x in ("odd", "even")):
+        print r
+
     rows = [row.find_all("td") for row in table.find_all("tr",
         lambda x: x in ("odd", "even"))]
 
@@ -103,7 +124,6 @@ def get_play_by_play(pbp_path):
 
     return data
 
-
 if __name__ == '__main__':
     try:
         START_DATE = datetime.strptime(sys.argv[1], "%Y-%m-%d")
@@ -127,11 +147,13 @@ if __name__ == '__main__':
                 print "Writing data for game: {0}".format(game_id)
                 #save the data 
                 #cbb-play-data/ is a directory/folder and will write separate file for each game
-                with open("cbb-play-data/" + game_id + ".csv", "w") as f:
-                    writer = csv.writer(f, delimiter="|")
-                    #header of the data 
-                    writer.writerow(["time", "away", "score", "home"])
-                    writer.writerows(get_play_by_play(game))
+                pbp = get_play_by_play(game)
+                if pbp:
+                    with open("cbb-play-data/" + game_id + ".csv", "w") as f:
+                        writer = csv.writer(f, delimiter="|")
+                        #header of the data 
+                        writer.writerow(["time", "away", "score", "home"])
+                        writer.writerows(pbp)
 
             except UnicodeEncodeError:
                 print "Unable to write data for game: {0}".format(game_id)
