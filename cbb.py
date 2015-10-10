@@ -68,7 +68,7 @@ def get_games(date):
 def get_play_by_play(pbp_path):
     "Returns the play-by-play data for a given game id."
     soup = make_soup(ESPN_URL + pbp_path)  #make_soup opens the url and returns the source code
-    table = soup.find("table", "mod-data mod-pbp")   #find the only table tag and returns string (find_all returns array)
+    table = soup.find("table", class_ = "mod-data mod-pbp")   #find the only table tag and returns string (find_all returns array)
     ##table has table row and table data (tr, td), but table var is a string**
     #table rows has class for odd or even (probly why the table on espn is switched colors)
     #rows is an matrix of tr tags with even or odd 
