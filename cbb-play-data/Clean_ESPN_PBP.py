@@ -5,11 +5,12 @@ import numpy as np
 import re
 import os
 
-
+#read in file of 
+team_gameID = pd.read_csv("Team_GameIDs.csv", delimiter = ',')
 dates = [x for x in os.listdir(".") if os.path.isdir(os.path.join(".",x))] 
 for date in dates:
 	games = [x for x in os.listdir(date)] 
-	print games
+	#print games
 
 	for game in games:
 		fname = os.path.join(date,game)  #creates path by concatenating and adding / in btw
@@ -106,8 +107,6 @@ for date in dates:
 				else: 
 					home_win[i] = 0
 
-
-
 				if i > 1:
 					away_points_scored[i] = int(away_score[i]) - int(away_score[i-1])
 					home_points_scored[i] = int(home_score[i]) - int(home_score[i-1])
@@ -164,7 +163,11 @@ for date in dates:
 
 		filename = "../Processed-PBP/%s" % game
 		data = stat_generator(game)
-		data.to_csv(filename, sep = '\t')
+		#print data["Game_id"]
+		merged_data = data.merge(team_gameID, how = 'left', on = "Game_id") 
+		#data.to_csv(filename, sep = '\t')
+		merged_data.to_csv("../Processed-PBP/test.csv",sep = '\t')
+
 
 def main():
 	#filename = "../Processed-PBP/{0}/".format(d.strftime("%Y-%m-%d")) + game_id + ".csv"
