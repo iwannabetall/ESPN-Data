@@ -1,0 +1,298 @@
+	Game_id	PBP_description	sec_remaining	home_score	away_score	home_points_scored	away_points_scored	home_poss	turnover
+0	400608191.0	Jump Ball won by Charlotte	1200.0	0.0	0.0	0.0	0.0	1.0	0.0
+1	400608191.0	Mike Thorne Jr. missed Jumper.	1173.0	0.0	0.0	0.0	0.0	1.0	0.0
+2	400608191.0	Tonye Jekiri Defensive Rebound.	1173.0	0.0	0.0	0.0	0.0	0.0	0.0
+3	400608191.0	Angel Rodriguez made Three Point Jumper. Assisted by Sheldon McClellan.	1151.0	0.0	3.0	0.0	3.0	0.0	0.0
+4	400608191.0	Foul on Angel Rodriguez.	1126.0	0.0	3.0	0.0	0.0	0.0	0.0
+5	400608191.0	Pierri Henry missed Jumper.	1119.0	0.0	3.0	0.0	0.0	1.0	0.0
+6	400608191.0	Willie Clayton Offensive Rebound.	1119.0	0.0	3.0	0.0	0.0	1.0	0.0
+7	400608191.0	Mike Thorne Jr. made Jumper.	1112.0	2.0	3.0	2.0	0.0	1.0	0.0
+8	400608191.0	Sheldon McClellan missed Three Point Jumper.	1090.0	2.0	3.0	0.0	0.0	0.0	0.0
+9	400608191.0	Pierri Henry Defensive Rebound.	1090.0	2.0	3.0	0.0	0.0	1.0	0.0
+10	400608191.0	Foul on Sheldon McClellan.	1081.0	2.0	3.0	0.0	0.0	0.0	0.0
+11	400608191.0	Terrence Williams made Free Throw.	1081.0	3.0	3.0	1.0	0.0	1.0	0.0
+12	400608191.0	Terrence Williams made Free Throw.	1081.0	4.0	3.0	1.0	0.0	1.0	0.0
+13	400608191.0	Manu Lecomte missed Three Point Jumper.	1070.0	4.0	3.0	0.0	0.0	0.0	0.0
+14	400608191.0	Terrence Williams Defensive Rebound.	1070.0	4.0	3.0	0.0	0.0	1.0	0.0
+15	400608191.0	Terrence Williams Turnover.	1061.0	4.0	3.0	0.0	0.0	1.0	1.0
+16	400608191.0	Angel Rodriguez Steal.	1061.0	4.0	3.0	0.0	0.0	0.0	0.0
+17	400608191.0	Angel Rodriguez missed Jumper.	1056.0	4.0	3.0	0.0	0.0	0.0	0.0
+18	400608191.0	Willie Clayton Block.	1056.0	4.0	3.0	0.0	0.0	1.0	0.0
+19	400608191.0	Miami (FL) Offensive Rebound.	1056.0	4.0	3.0	0.0	0.0	0.0	0.0
+20	400608191.0	Sheldon McClellan Turnover.	1055.0	4.0	3.0	0.0	0.0	0.0	1.0
+21	400608191.0	Mike Thorne Jr. Steal.	1055.0	4.0	3.0	0.0	0.0	1.0	0.0
+22	400608191.0	Willie Clayton missed Jumper.	1040.0	4.0	3.0	0.0	0.0	1.0	0.0
+23	400608191.0	Mike Thorne Jr. Offensive Rebound.	1040.0	4.0	3.0	0.0	0.0	1.0	0.0
+24	400608191.0	Mike Thorne Jr. missed Two Point Tip Shot.	1040.0	4.0	3.0	0.0	0.0	1.0	0.0
+25	400608191.0	Terrence Williams Offensive Rebound.	1040.0	4.0	3.0	0.0	0.0	1.0	0.0
+26	400608191.0	Terrence Williams Turnover.	1040.0	4.0	3.0	0.0	0.0	1.0	1.0
+27	400608191.0	Sheldon McClellan missed Jumper.	1024.0	4.0	3.0	0.0	0.0	0.0	0.0
+28	400608191.0	Braxton Ogbueze Defensive Rebound.	1024.0	4.0	3.0	0.0	0.0	1.0	0.0
+29	400608191.0	Mike Thorne Jr. Turnover.	1011.0	4.0	3.0	0.0	0.0	1.0	1.0
+30	400608191.0	Joe Thomas Steal.	1011.0	4.0	3.0	0.0	0.0	0.0	0.0
+31	400608191.0	Angel Rodriguez Turnover.	1005.0	4.0	3.0	0.0	0.0	0.0	1.0
+32	400608191.0	Willie Clayton missed Jumper.	989.0	4.0	3.0	0.0	0.0	1.0	0.0
+33	400608191.0	Sheldon McClellan Defensive Rebound.	989.0	4.0	3.0	0.0	0.0	0.0	0.0
+34	400608191.0	Sheldon McClellan made Layup. Assisted by Angel Rodriguez.	971.0	4.0	5.0	0.0	2.0	0.0	0.0
+35	400608191.0	Torin Dorn Turnover.	953.0	4.0	5.0	0.0	0.0	1.0	1.0
+36	400608191.0	 Official TV Timeout	953.0	4.0	5.0	0.0	0.0	0.0	0.0
+37	400608191.0	Angel Rodriguez missed Three Point Jumper.	944.0	4.0	5.0	0.0	0.0	0.0	0.0
+38	400608191.0	Joe Thomas Offensive Rebound.	944.0	4.0	5.0	0.0	0.0	0.0	0.0
+39	400608191.0	Manu Lecomte made Three Point Jumper. Assisted by Joe Thomas.	935.0	4.0	8.0	0.0	3.0	0.0	0.0
+40	400608191.0	Pierri Henry made Jumper.	926.0	6.0	8.0	2.0	0.0	1.0	0.0
+41	400608191.0	Manu Lecomte made Jumper.	909.0	6.0	10.0	0.0	2.0	0.0	0.0
+42	400608191.0	Mike Thorne Jr. made Jumper.	891.0	8.0	10.0	2.0	0.0	1.0	0.0
+43	400608191.0	Tonye Jekiri missed Jumper.	867.0	8.0	10.0	0.0	0.0	0.0	0.0
+44	400608191.0	Pierri Henry Defensive Rebound.	867.0	8.0	10.0	0.0	0.0	1.0	0.0
+45	400608191.0	Mike Thorne Jr. made Jumper.	852.0	10.0	10.0	2.0	0.0	1.0	0.0
+46	400608191.0	Manu Lecomte made Layup.	836.0	10.0	12.0	0.0	2.0	0.0	0.0
+47	400608191.0	Pierri Henry made Layup.	820.0	12.0	12.0	2.0	0.0	1.0	0.0
+48	400608191.0	Manu Lecomte missed Three Point Jumper.	802.0	12.0	12.0	0.0	0.0	0.0	0.0
+49	400608191.0	Pierri Henry Defensive Rebound.	802.0	12.0	12.0	0.0	0.0	1.0	0.0
+50	400608191.0	Keyshawn Woods made Layup.	791.0	14.0	12.0	2.0	0.0	1.0	0.0
+51	400608191.0	Angel Rodriguez missed Jumper.	775.0	14.0	12.0	0.0	0.0	0.0	0.0
+52	400608191.0	Mike Thorne Jr. Defensive Rebound.	775.0	14.0	12.0	0.0	0.0	1.0	0.0
+53	400608191.0	Willie Clayton Turnover.	761.0	14.0	12.0	0.0	0.0	1.0	1.0
+54	400608191.0	Foul on Pierri Henry.	732.0	14.0	12.0	0.0	0.0	1.0	0.0
+55	400608191.0	JaQuan Newton missed Free Throw.	732.0	14.0	12.0	0.0	0.0	0.0	0.0
+56	400608191.0	Miami (FL) Deadball Team Rebound.	732.0	14.0	12.0	0.0	0.0	0.0	0.0
+57	400608191.0	JaQuan Newton missed Free Throw.	732.0	14.0	12.0	0.0	0.0	0.0	0.0
+58	400608191.0	Terrence Williams Defensive Rebound.	732.0	14.0	12.0	0.0	0.0	1.0	0.0
+59	400608191.0	Willie Clayton missed Jumper.	719.0	14.0	12.0	0.0	0.0	1.0	0.0
+60	400608191.0	Tonye Jekiri Block.	719.0	14.0	12.0	0.0	0.0	0.0	0.0
+61	400608191.0	Tonye Jekiri Defensive Rebound.	719.0	14.0	12.0	0.0	0.0	0.0	0.0
+62	400608191.0	James Palmer Turnover.	701.0	14.0	12.0	0.0	0.0	0.0	1.0
+63	400608191.0	 Official TV Timeout	701.0	14.0	12.0	0.0	0.0	0.0	0.0
+64	400608191.0	Torin Dorn missed Three Point Jumper.	689.0	14.0	12.0	0.0	0.0	1.0	0.0
+65	400608191.0	JaQuan Newton Defensive Rebound.	689.0	14.0	12.0	0.0	0.0	0.0	0.0
+66	400608191.0	Omar Sherman missed Three Point Jumper.	679.0	14.0	12.0	0.0	0.0	0.0	0.0
+67	400608191.0	Torin Dorn Defensive Rebound.	679.0	14.0	12.0	0.0	0.0	1.0	0.0
+68	400608191.0	Pierri Henry missed Jumper.	657.0	14.0	12.0	0.0	0.0	1.0	0.0
+69	400608191.0	Miami (FL) Defensive Rebound.	657.0	14.0	12.0	0.0	0.0	0.0	0.0
+70	400608191.0	Omar Sherman missed Three Point Jumper.	641.0	14.0	12.0	0.0	0.0	0.0	0.0
+71	400608191.0	Keyshawn Woods Defensive Rebound.	641.0	14.0	12.0	0.0	0.0	1.0	0.0
+72	400608191.0	Keyshawn Woods Turnover.	631.0	14.0	12.0	0.0	0.0	1.0	1.0
+73	400608191.0	Sheldon McClellan made Jumper.	613.0	14.0	14.0	0.0	2.0	0.0	0.0
+74	400608191.0	Terrence Williams Turnover.	597.0	14.0	14.0	0.0	0.0	1.0	1.0
+75	400608191.0	Angel Rodriguez Steal.	597.0	14.0	14.0	0.0	0.0	0.0	0.0
+76	400608191.0	Tonye Jekiri made Layup. Assisted by Sheldon McClellan.	586.0	14.0	16.0	0.0	2.0	0.0	0.0
+77	400608191.0	Foul on Willie Clayton.	586.0	14.0	16.0	0.0	0.0	1.0	0.0
+78	400608191.0	Tonye Jekiri made Free Throw.	586.0	14.0	17.0	0.0	1.0	0.0	0.0
+79	400608191.0	Keyshawn Woods made Three Point Jumper. Assisted by Terrence Williams.	576.0	17.0	17.0	3.0	0.0	1.0	0.0
+80	400608191.0	Sheldon McClellan made Layup. Assisted by JaQuan Newton.	540.0	17.0	19.0	0.0	2.0	0.0	0.0
+81	400608191.0	Ivan Benkovic made Three Point Jumper. Assisted by Terrence Williams.	520.0	20.0	19.0	3.0	0.0	1.0	0.0
+82	400608191.0	JaQuan Newton made Jumper.	488.0	20.0	21.0	0.0	2.0	0.0	0.0
+83	400608191.0	Mike Thorne Jr. missed Jumper.	476.0	20.0	21.0	0.0	0.0	1.0	0.0
+84	400608191.0	Omar Sherman Defensive Rebound.	476.0	20.0	21.0	0.0	0.0	0.0	0.0
+85	400608191.0	Sheldon McClellan missed Three Point Jumper.	463.0	20.0	21.0	0.0	0.0	0.0	0.0
+86	400608191.0	Tonye Jekiri Offensive Rebound.	463.0	20.0	21.0	0.0	0.0	0.0	0.0
+87	400608191.0	Foul on Ivan Benkovic.	446.0	20.0	21.0	0.0	0.0	1.0	0.0
+88	400608191.0	 Official TV Timeout	446.0	20.0	21.0	0.0	0.0	0.0	0.0
+89	400608191.0	Angel Rodriguez made Free Throw.	446.0	20.0	22.0	0.0	1.0	0.0	0.0
+90	400608191.0	Angel Rodriguez made Free Throw.	446.0	20.0	23.0	0.0	1.0	0.0	0.0
+91	400608191.0	Angel Rodriguez made Free Throw.	446.0	20.0	24.0	0.0	1.0	0.0	0.0
+92	400608191.0	Mike Thorne Jr. made Jumper. Assisted by Torin Dorn.	427.0	22.0	24.0	2.0	0.0	1.0	0.0
+93	400608191.0	Omar Sherman made Dunk. Assisted by Angel Rodriguez.	399.0	22.0	26.0	0.0	2.0	0.0	0.0
+94	400608191.0	Ivan Benkovic made Three Point Jumper. Assisted by Torin Dorn.	388.0	25.0	26.0	3.0	0.0	1.0	0.0
+95	400608191.0	Angel Rodriguez missed Three Point Jumper.	355.0	25.0	26.0	0.0	0.0	0.0	0.0
+96	400608191.0	Sheldon McClellan Offensive Rebound.	355.0	25.0	26.0	0.0	0.0	0.0	0.0
+97	400608191.0	Manu Lecomte missed Three Point Jumper.	331.0	25.0	26.0	0.0	0.0	0.0	0.0
+98	400608191.0	Tonye Jekiri Offensive Rebound.	331.0	25.0	26.0	0.0	0.0	0.0	0.0
+99	400608191.0	Tonye Jekiri made Layup.	323.0	25.0	28.0	0.0	2.0	0.0	0.0
+100	400608191.0	Foul on Omar Sherman.	287.0	25.0	28.0	0.0	0.0	0.0	0.0
+101	400608191.0	Mike Thorne Jr. missed Free Throw.	287.0	25.0	28.0	0.0	0.0	1.0	0.0
+102	400608191.0	Charlotte Deadball Team Rebound.	287.0	25.0	28.0	0.0	0.0	1.0	0.0
+103	400608191.0	Mike Thorne Jr. missed Free Throw.	287.0	25.0	28.0	0.0	0.0	1.0	0.0
+104	400608191.0	Sheldon McClellan Defensive Rebound.	287.0	25.0	28.0	0.0	0.0	0.0	0.0
+105	400608191.0	Angel Rodriguez Turnover.	274.0	25.0	28.0	0.0	0.0	0.0	1.0
+106	400608191.0	Ivan Benkovic made Three Point Jumper. Assisted by Willie Clayton.	253.0	28.0	28.0	3.0	0.0	1.0	0.0
+107	400608191.0	Manu Lecomte missed Three Point Jumper.	230.0	28.0	28.0	0.0	0.0	0.0	0.0
+108	400608191.0	Sheldon McClellan Offensive Rebound.	230.0	28.0	28.0	0.0	0.0	0.0	0.0
+109	400608191.0	Sheldon McClellan made Layup.	223.0	28.0	30.0	0.0	2.0	0.0	0.0
+110	400608191.0	Keyshawn Woods missed Three Point Jumper.	204.0	28.0	30.0	0.0	0.0	1.0	0.0
+111	400608191.0	Angel Rodriguez Defensive Rebound.	204.0	28.0	30.0	0.0	0.0	0.0	0.0
+112	400608191.0	Angel Rodriguez missed Jumper.	196.0	28.0	30.0	0.0	0.0	0.0	0.0
+113	400608191.0	Mike Thorne Jr. Block.	196.0	28.0	30.0	0.0	0.0	1.0	0.0
+114	400608191.0	Torin Dorn Defensive Rebound.	196.0	28.0	30.0	0.0	0.0	1.0	0.0
+115	400608191.0	 Official TV Timeout	187.0	28.0	30.0	0.0	0.0	0.0	0.0
+116	400608191.0	Foul on Omar Sherman.	187.0	28.0	30.0	0.0	0.0	0.0	0.0
+117	400608191.0	Torin Dorn made Free Throw.	187.0	29.0	30.0	1.0	0.0	1.0	0.0
+118	400608191.0	Torin Dorn missed Free Throw.	187.0	29.0	30.0	0.0	0.0	1.0	0.0
+119	400608191.0	Willie Clayton Offensive Rebound.	187.0	29.0	30.0	0.0	0.0	1.0	0.0
+120	400608191.0	Foul on Angel Rodriguez.	186.0	29.0	30.0	0.0	0.0	0.0	0.0
+121	400608191.0	Pierri Henry Turnover.	174.0	29.0	30.0	0.0	0.0	1.0	1.0
+122	400608191.0	Sheldon McClellan Steal.	174.0	29.0	30.0	0.0	0.0	0.0	0.0
+123	400608191.0	Foul on Ivan Benkovic.	169.0	29.0	30.0	0.0	0.0	1.0	0.0
+124	400608191.0	Tonye Jekiri made Dunk. Assisted by JaQuan Newton.	149.0	29.0	32.0	0.0	2.0	0.0	0.0
+125	400608191.0	Willie Clayton Turnover.	149.0	29.0	32.0	0.0	0.0	1.0	1.0
+126	400608191.0	James Palmer made Three Point Jumper. Assisted by Manu Lecomte.	110.0	29.0	35.0	0.0	3.0	0.0	0.0
+127	400608191.0	Mike Thorne Jr. missed Jumper.	96.0	29.0	35.0	0.0	0.0	1.0	0.0
+128	400608191.0	JaQuan Newton Defensive Rebound.	96.0	29.0	35.0	0.0	0.0	0.0	0.0
+129	400608191.0	JaQuan Newton Turnover.	90.0	29.0	35.0	0.0	0.0	0.0	1.0
+130	400608191.0	Pierri Henry Steal.	90.0	29.0	35.0	0.0	0.0	1.0	0.0
+131	400608191.0	Pierri Henry missed Three Point Jumper.	75.0	29.0	35.0	0.0	0.0	1.0	0.0
+132	400608191.0	Sheldon McClellan Defensive Rebound.	75.0	29.0	35.0	0.0	0.0	0.0	0.0
+133	400608191.0	Foul on Terrence Williams.	68.0	29.0	35.0	0.0	0.0	1.0	0.0
+134	400608191.0	Sheldon McClellan missed Jumper.	66.0	29.0	35.0	0.0	0.0	0.0	0.0
+135	400608191.0	Willie Clayton Defensive Rebound.	66.0	29.0	35.0	0.0	0.0	1.0	0.0
+136	400608191.0	Terrence Williams missed Three Point Jumper.	52.0	29.0	35.0	0.0	0.0	1.0	0.0
+137	400608191.0	Willie Clayton Offensive Rebound.	52.0	29.0	35.0	0.0	0.0	1.0	0.0
+138	400608191.0	Willie Clayton missed Layup.	47.0	29.0	35.0	0.0	0.0	1.0	0.0
+139	400608191.0	Terrence Williams Offensive Rebound.	47.0	29.0	35.0	0.0	0.0	1.0	0.0
+140	400608191.0	Terrence Williams made Jumper.	39.0	31.0	35.0	2.0	0.0	1.0	0.0
+141	400608191.0	James Palmer made Three Point Jumper. Assisted by Manu Lecomte.	24.0	31.0	38.0	0.0	3.0	0.0	0.0
+142	400608191.0	Pierri Henry Turnover.	4.0	31.0	38.0	0.0	0.0	1.0	1.0
+143	400608191.0	Miami (FL)  Timeout	4.0	31.0	38.0	0.0	0.0	0.0	0.0
+144	400608191.0	End of 1st half	0.0	31.0	38.0	0.0	0.0	0.0	0.0
+145	400608191.0	Jump Ball won by Miami (FL)	1200.0	31.0	38.0	0.0	0.0	0.0	0.0
+146	400608191.0	Pierri Henry Turnover.	1182.0	31.0	38.0	0.0	0.0	1.0	1.0
+147	400608191.0	Angel Rodriguez Turnover.	1148.0	31.0	38.0	0.0	0.0	0.0	1.0
+148	400608191.0	Keyshawn Woods Steal.	1148.0	31.0	38.0	0.0	0.0	1.0	0.0
+149	400608191.0	Terrence Williams missed Layup.	1134.0	31.0	38.0	0.0	0.0	1.0	0.0
+150	400608191.0	Willie Clayton Offensive Rebound.	1134.0	31.0	38.0	0.0	0.0	1.0	0.0
+151	400608191.0	Willie Clayton missed Jumper.	1130.0	31.0	38.0	0.0	0.0	1.0	0.0
+152	400608191.0	Tonye Jekiri Block.	1129.0	31.0	38.0	0.0	0.0	0.0	0.0
+153	400608191.0	Tonye Jekiri Defensive Rebound.	1128.0	31.0	38.0	0.0	0.0	0.0	0.0
+154	400608191.0	Sheldon McClellan missed Jumper.	1128.0	31.0	38.0	0.0	0.0	0.0	0.0
+155	400608191.0	Joe Thomas Offensive Rebound.	1127.0	31.0	38.0	0.0	0.0	0.0	0.0
+156	400608191.0	Sheldon McClellan made Layup. Assisted by Joe Thomas.	1121.0	31.0	40.0	0.0	2.0	0.0	0.0
+157	400608191.0	Keyshawn Woods missed Layup.	1095.0	31.0	40.0	0.0	0.0	1.0	0.0
+158	400608191.0	Joe Thomas Defensive Rebound.	1095.0	31.0	40.0	0.0	0.0	0.0	0.0
+159	400608191.0	Foul on Terrence Williams.	1082.0	31.0	40.0	0.0	0.0	1.0	0.0
+160	400608191.0	Angel Rodriguez made Free Throw.	1082.0	31.0	41.0	0.0	1.0	0.0	0.0
+161	400608191.0	Angel Rodriguez missed Free Throw.	1082.0	31.0	41.0	0.0	0.0	0.0	0.0
+162	400608191.0	Mike Thorne Jr. Defensive Rebound.	1082.0	31.0	41.0	0.0	0.0	1.0	0.0
+163	400608191.0	Joe Thomas missed Jumper.	1071.0	31.0	41.0	0.0	0.0	0.0	0.0
+164	400608191.0	Keyshawn Woods made Three Point Jumper. Assisted by Pierri Henry.	1063.0	34.0	41.0	3.0	0.0	1.0	0.0
+165	400608191.0	Pierri Henry Block.	1038.0	34.0	41.0	0.0	0.0	1.0	0.0
+166	400608191.0	Pierri Henry Defensive Rebound.	1035.0	34.0	41.0	0.0	0.0	1.0	0.0
+167	400608191.0	Keyshawn Woods missed Three Point Jumper.	1033.0	34.0	41.0	0.0	0.0	1.0	0.0
+168	400608191.0	Angel Rodriguez Defensive Rebound.	1032.0	34.0	41.0	0.0	0.0	0.0	0.0
+169	400608191.0	Angel Rodriguez made Jumper.	1012.0	34.0	43.0	0.0	2.0	0.0	0.0
+170	400608191.0	Mike Thorne Jr. made Jumper. Assisted by Pierri Henry.	997.0	36.0	43.0	2.0	0.0	1.0	0.0
+171	400608191.0	Manu Lecomte missed Three Point Jumper.	975.0	36.0	43.0	0.0	0.0	0.0	0.0
+172	400608191.0	Willie Clayton Defensive Rebound.	974.0	36.0	43.0	0.0	0.0	1.0	0.0
+173	400608191.0	Pierri Henry missed Three Point Jumper.	962.0	36.0	43.0	0.0	0.0	1.0	0.0
+174	400608191.0	Tonye Jekiri Defensive Rebound.	961.0	36.0	43.0	0.0	0.0	0.0	0.0
+175	400608191.0	Foul on Willie Clayton.	960.0	36.0	43.0	0.0	0.0	1.0	0.0
+176	400608191.0	 Official TV Timeout	959.0	36.0	43.0	0.0	0.0	0.0	0.0
+177	400608191.0	Angel Rodriguez missed Jumper.	946.0	36.0	43.0	0.0	0.0	0.0	0.0
+178	400608191.0	Sheldon McClellan Offensive Rebound.	946.0	36.0	43.0	0.0	0.0	0.0	0.0
+179	400608191.0	James Palmer made Jumper. Assisted by Tonye Jekiri.	894.0	36.0	45.0	0.0	2.0	0.0	0.0
+180	400608191.0	Mike Thorne Jr. missed Jumper.	894.0	36.0	45.0	0.0	0.0	1.0	0.0
+181	400608191.0	James Palmer Defensive Rebound.	894.0	36.0	45.0	0.0	0.0	0.0	0.0
+182	400608191.0	Sheldon McClellan made Dunk. Assisted by Tonye Jekiri.	894.0	36.0	47.0	0.0	2.0	0.0	0.0
+183	400608191.0	Keyshawn Woods Turnover.	878.0	36.0	47.0	0.0	0.0	1.0	1.0
+184	400608191.0	Manu Lecomte Steal.	878.0	36.0	47.0	0.0	0.0	0.0	0.0
+185	400608191.0	Angel Rodriguez missed Three Point Jumper.	874.0	36.0	47.0	0.0	0.0	0.0	0.0
+186	400608191.0	Torin Dorn Defensive Rebound.	873.0	36.0	47.0	0.0	0.0	1.0	0.0
+187	400608191.0	Torin Dorn missed Jumper.	866.0	36.0	47.0	0.0	0.0	1.0	0.0
+188	400608191.0	Tonye Jekiri Defensive Rebound.	865.0	36.0	47.0	0.0	0.0	0.0	0.0
+189	400608191.0	Foul on Mike Thorne Jr..	842.0	36.0	47.0	0.0	0.0	1.0	0.0
+190	400608191.0	Tonye Jekiri made Free Throw.	841.0	36.0	48.0	0.0	1.0	0.0	0.0
+191	400608191.0	Tonye Jekiri made Free Throw.	841.0	36.0	49.0	0.0	1.0	0.0	0.0
+192	400608191.0	Pierri Henry made Layup.	831.0	38.0	49.0	2.0	0.0	1.0	0.0
+193	400608191.0	Manu Lecomte made Layup.	799.0	38.0	51.0	0.0	2.0	0.0	0.0
+194	400608191.0	Cameron Blakley Turnover.	785.0	38.0	51.0	0.0	0.0	1.0	1.0
+195	400608191.0	Manu Lecomte missed Three Point Jumper.	767.0	38.0	51.0	0.0	0.0	0.0	0.0
+196	400608191.0	Omar Sherman Offensive Rebound.	767.0	38.0	51.0	0.0	0.0	0.0	0.0
+197	400608191.0	Sheldon McClellan made Jumper. Assisted by JaQuan Newton.	754.0	38.0	53.0	0.0	2.0	0.0	0.0
+198	400608191.0	Foul on Cameron Blakley.	754.0	38.0	53.0	0.0	0.0	1.0	0.0
+199	400608191.0	Sheldon McClellan made Free Throw.	754.0	38.0	54.0	0.0	1.0	0.0	0.0
+200	400608191.0	Pierri Henry made Layup.	746.0	40.0	54.0	2.0	0.0	1.0	0.0
+201	400608191.0	Manu Lecomte made Three Point Jumper. Assisted by James Palmer.	722.0	40.0	57.0	0.0	3.0	0.0	0.0
+202	400608191.0	Cameron Blakley missed Three Point Jumper.	709.0	40.0	57.0	0.0	0.0	1.0	0.0
+203	400608191.0	Sheldon McClellan Defensive Rebound.	709.0	40.0	57.0	0.0	0.0	0.0	0.0
+204	400608191.0	Cameron Blakley Block.	687.0	40.0	57.0	0.0	0.0	1.0	0.0
+205	400608191.0	JaQuan Newton missed Jumper.	687.0	40.0	57.0	0.0	0.0	0.0	0.0
+206	400608191.0	 Official TV Timeout	686.0	40.0	57.0	0.0	0.0	0.0	0.0
+207	400608191.0	JaQuan Newton Offensive Rebound.	686.0	40.0	57.0	0.0	0.0	0.0	0.0
+208	400608191.0	Omar Sherman made Jumper.	676.0	40.0	59.0	0.0	2.0	0.0	0.0
+209	400608191.0	Pierri Henry missed Three Point Jumper.	661.0	40.0	59.0	0.0	0.0	1.0	0.0
+210	400608191.0	Omar Sherman Defensive Rebound.	661.0	40.0	59.0	0.0	0.0	0.0	0.0
+211	400608191.0	Angel Rodriguez missed Three Point Jumper.	647.0	40.0	59.0	0.0	0.0	0.0	0.0
+212	400608191.0	Pierri Henry Defensive Rebound.	647.0	40.0	59.0	0.0	0.0	1.0	0.0
+213	400608191.0	Torin Dorn made Jumper.	637.0	42.0	59.0	2.0	0.0	1.0	0.0
+214	400608191.0	Foul on Torin Dorn.	607.0	42.0	59.0	0.0	0.0	1.0	0.0
+215	400608191.0	James Palmer missed Three Point Jumper.	593.0	42.0	59.0	0.0	0.0	0.0	0.0
+216	400608191.0	Willie Clayton Defensive Rebound.	593.0	42.0	59.0	0.0	0.0	1.0	0.0
+217	400608191.0	Mike Thorne Jr. missed Jumper.	578.0	42.0	59.0	0.0	0.0	1.0	0.0
+218	400608191.0	Miami (FL) Defensive Rebound.	578.0	42.0	59.0	0.0	0.0	0.0	0.0
+219	400608191.0	Foul on Willie Clayton.	578.0	42.0	59.0	0.0	0.0	1.0	0.0
+220	400608191.0	Foul on Willie Clayton.	539.0	42.0	59.0	0.0	0.0	1.0	0.0
+221	400608191.0	Tonye Jekiri made Free Throw.	539.0	42.0	60.0	0.0	1.0	0.0	0.0
+222	400608191.0	Tonye Jekiri made Free Throw.	539.0	42.0	61.0	0.0	1.0	0.0	0.0
+223	400608191.0	Torin Dorn Turnover.	519.0	42.0	61.0	0.0	0.0	1.0	1.0
+224	400608191.0	Angel Rodriguez Steal.	519.0	42.0	61.0	0.0	0.0	0.0	0.0
+225	400608191.0	Angel Rodriguez made Layup.	514.0	42.0	63.0	0.0	2.0	0.0	0.0
+226	400608191.0	Foul on Tonye Jekiri.	497.0	42.0	63.0	0.0	0.0	0.0	0.0
+227	400608191.0	Keyshawn Woods Turnover.	497.0	42.0	63.0	0.0	0.0	1.0	1.0
+228	400608191.0	Angel Rodriguez Steal.	497.0	42.0	63.0	0.0	0.0	0.0	0.0
+229	400608191.0	Angel Rodriguez made Layup.	497.0	42.0	65.0	0.0	2.0	0.0	0.0
+230	400608191.0	Charlotte  Timeout	488.0	42.0	65.0	0.0	0.0	0.0	0.0
+231	400608191.0	Terrence Williams missed Jumper.	475.0	42.0	65.0	0.0	0.0	1.0	0.0
+232	400608191.0	Mike Thorne Jr. Offensive Rebound.	475.0	42.0	65.0	0.0	0.0	1.0	0.0
+233	400608191.0	Mike Thorne Jr. missed Two Point Tip Shot.	475.0	42.0	65.0	0.0	0.0	1.0	0.0
+234	400608191.0	Terrence Williams Offensive Rebound.	475.0	42.0	65.0	0.0	0.0	1.0	0.0
+235	400608191.0	Foul on Angel Rodriguez.	473.0	42.0	65.0	0.0	0.0	0.0	0.0
+236	400608191.0	 Official TV Timeout	473.0	42.0	65.0	0.0	0.0	0.0	0.0
+237	400608191.0	Foul on Angel Rodriguez.	470.0	42.0	65.0	0.0	0.0	0.0	0.0
+238	400608191.0	Pierri Henry missed Jumper.	466.0	42.0	65.0	0.0	0.0	1.0	0.0
+239	400608191.0	Mike Thorne Jr. Offensive Rebound.	466.0	42.0	65.0	0.0	0.0	1.0	0.0
+240	400608191.0	Mike Thorne Jr. made Jumper.	455.0	44.0	65.0	2.0	0.0	1.0	0.0
+241	400608191.0	JaQuan Newton missed Jumper.	431.0	44.0	65.0	0.0	0.0	0.0	0.0
+242	400608191.0	Terrence Williams Defensive Rebound.	431.0	44.0	65.0	0.0	0.0	1.0	0.0
+243	400608191.0	Foul on Sheldon McClellan.	419.0	44.0	65.0	0.0	0.0	0.0	0.0
+244	400608191.0	Mike Thorne Jr. made Jumper.	411.0	46.0	65.0	2.0	0.0	1.0	0.0
+245	400608191.0	Sheldon McClellan Turnover.	387.0	46.0	65.0	0.0	0.0	0.0	1.0
+246	400608191.0	Keyshawn Woods Steal.	387.0	46.0	65.0	0.0	0.0	1.0	0.0
+247	400608191.0	Keyshawn Woods missed Jumper.	372.0	46.0	65.0	0.0	0.0	1.0	0.0
+248	400608191.0	Terrence Williams Offensive Rebound.	372.0	46.0	65.0	0.0	0.0	1.0	0.0
+249	400608191.0	Terrence Williams made Layup.	371.0	48.0	65.0	2.0	0.0	1.0	0.0
+250	400608191.0	Miami (FL)  Timeout	369.0	48.0	65.0	0.0	0.0	0.0	0.0
+251	400608191.0	Manu Lecomte missed Three Point Jumper.	365.0	48.0	65.0	0.0	0.0	0.0	0.0
+252	400608191.0	Keyshawn Woods Defensive Rebound.	365.0	48.0	65.0	0.0	0.0	1.0	0.0
+253	400608191.0	Keyshawn Woods Turnover.	356.0	48.0	65.0	0.0	0.0	1.0	1.0
+254	400608191.0	James Palmer Steal.	356.0	48.0	65.0	0.0	0.0	0.0	0.0
+255	400608191.0	James Palmer made Layup.	351.0	48.0	67.0	0.0	2.0	0.0	0.0
+256	400608191.0	Pierri Henry Turnover.	325.0	48.0	67.0	0.0	0.0	1.0	1.0
+257	400608191.0	JaQuan Newton Steal.	325.0	48.0	67.0	0.0	0.0	0.0	0.0
+258	400608191.0	Foul on Pierri Henry.	320.0	48.0	67.0	0.0	0.0	1.0	0.0
+259	400608191.0	JaQuan Newton missed Free Throw.	320.0	48.0	67.0	0.0	0.0	0.0	0.0
+260	400608191.0	Miami (FL) Deadball Team Rebound.	320.0	48.0	67.0	0.0	0.0	0.0	0.0
+261	400608191.0	JaQuan Newton made Free Throw.	320.0	48.0	68.0	0.0	1.0	0.0	0.0
+262	400608191.0	Pierri Henry made Three Point Jumper. Assisted by Willie Clayton.	309.0	51.0	68.0	3.0	0.0	1.0	0.0
+263	400608191.0	JaQuan Newton Turnover.	285.0	51.0	68.0	0.0	0.0	0.0	1.0
+264	400608191.0	Pierri Henry Turnover.	277.0	51.0	68.0	0.0	0.0	1.0	1.0
+265	400608191.0	Angel Rodriguez Steal.	277.0	51.0	68.0	0.0	0.0	0.0	0.0
+266	400608191.0	Sheldon McClellan made Dunk. Assisted by Angel Rodriguez.	271.0	51.0	70.0	0.0	2.0	0.0	0.0
+267	400608191.0	Mike Thorne Jr. made Jumper.	255.0	53.0	70.0	2.0	0.0	1.0	0.0
+268	400608191.0	Charlotte  Timeout	255.0	53.0	70.0	0.0	0.0	0.0	0.0
+269	400608191.0	James Palmer made Jumper. Assisted by Angel Rodriguez.	246.0	53.0	72.0	0.0	2.0	0.0	0.0
+270	400608191.0	Pierri Henry missed Jumper.	234.0	53.0	72.0	0.0	0.0	1.0	0.0
+271	400608191.0	Sheldon McClellan Defensive Rebound.	234.0	53.0	72.0	0.0	0.0	0.0	0.0
+272	400608191.0	Sheldon McClellan Turnover.	228.0	53.0	72.0	0.0	0.0	0.0	1.0
+273	400608191.0	Torin Dorn Steal.	228.0	53.0	72.0	0.0	0.0	1.0	0.0
+274	400608191.0	Mike Thorne Jr. made Jumper.	221.0	55.0	72.0	2.0	0.0	1.0	0.0
+275	400608191.0	Sheldon McClellan missed Jumper.	190.0	55.0	72.0	0.0	0.0	0.0	0.0
+276	400608191.0	Torin Dorn Defensive Rebound.	190.0	55.0	72.0	0.0	0.0	1.0	0.0
+277	400608191.0	Foul on Sheldon McClellan.	183.0	55.0	72.0	0.0	0.0	0.0	0.0
+278	400608191.0	 Official TV Timeout	183.0	55.0	72.0	0.0	0.0	0.0	0.0
+279	400608191.0	Ivan Benkovic missed Three Point Jumper.	177.0	55.0	72.0	0.0	0.0	1.0	0.0
+280	400608191.0	Angel Rodriguez Block.	177.0	55.0	72.0	0.0	0.0	0.0	0.0
+281	400608191.0	Charlotte Offensive Rebound.	177.0	55.0	72.0	0.0	0.0	1.0	0.0
+282	400608191.0	Torin Dorn made Layup.	171.0	57.0	72.0	2.0	0.0	1.0	0.0
+283	400608191.0	Manu Lecomte made Three Point Jumper. Assisted by Sheldon McClellan.	141.0	57.0	75.0	0.0	3.0	0.0	0.0
+284	400608191.0	Foul on Tonye Jekiri.	115.0	57.0	75.0	0.0	0.0	0.0	0.0
+285	400608191.0	Mike Thorne Jr. missed Free Throw.	115.0	57.0	75.0	0.0	0.0	1.0	0.0
+286	400608191.0	Charlotte Deadball Team Rebound.	115.0	57.0	75.0	0.0	0.0	1.0	0.0
+287	400608191.0	Mike Thorne Jr. made Free Throw.	115.0	58.0	75.0	1.0	0.0	1.0	0.0
+288	400608191.0	Tonye Jekiri missed Jumper.	87.0	58.0	75.0	0.0	0.0	0.0	0.0
+289	400608191.0	Mike Thorne Jr. Defensive Rebound.	87.0	58.0	75.0	0.0	0.0	1.0	0.0
+290	400608191.0	Pierri Henry Turnover.	73.0	58.0	75.0	0.0	0.0	1.0	1.0
+291	400608191.0	James Palmer missed Jumper.	46.0	58.0	75.0	0.0	0.0	0.0	0.0
+292	400608191.0	James Palmer Offensive Rebound.	46.0	58.0	75.0	0.0	0.0	0.0	0.0
+293	400608191.0	Sheldon McClellan made Dunk. Assisted by Angel Rodriguez.	16.0	58.0	77.0	0.0	2.0	0.0	0.0
+294	400608191.0	Mike Thorne Jr. missed Jumper.	1.0	58.0	77.0	0.0	0.0	1.0	0.0
+295	400608191.0	Miami (FL) Defensive Rebound.	1.0	58.0	77.0	0.0	0.0	0.0	0.0
+296	400608191.0	End of Game	0.0	58.0	77.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,326 @@
+	Game_id	PBP_description	sec_remaining	home_score	away_score	home_points_scored	away_points_scored	home_poss	turnover
+0	400609015.0	Jump Ball won by Rhode Island	1200.0	0.0	0.0	0.0	0.0	0.0	0.0
+1	400609015.0	Gilvydas Biruta Turnover.	1181.0	0.0	0.0	0.0	0.0	0.0	1.0
+2	400609015.0	Marcus Georges-Hunt Steal.	1181.0	0.0	0.0	0.0	0.0	1.0	0.0
+3	400609015.0	Demarco Cox missed Layup.	1181.0	0.0	0.0	0.0	0.0	1.0	0.0
+4	400609015.0	Gilvydas Biruta Block.	1181.0	0.0	0.0	0.0	0.0	0.0	0.0
+5	400609015.0	Biggie Minnis Defensive Rebound.	1181.0	0.0	0.0	0.0	0.0	0.0	0.0
+6	400609015.0	Jared Terrell missed Layup.	1163.0	0.0	0.0	0.0	0.0	0.0	0.0
+7	400609015.0	Demarco Cox Defensive Rebound.	1163.0	0.0	0.0	0.0	0.0	1.0	0.0
+8	400609015.0	Charles Mitchell missed Jumper.	1145.0	0.0	0.0	0.0	0.0	1.0	0.0
+9	400609015.0	Quinton Stephens Offensive Rebound.	1145.0	0.0	0.0	0.0	0.0	1.0	0.0
+10	400609015.0	Demarco Cox made Jumper. Assisted by Marcus Georges-Hunt.	1130.0	2.0	0.0	2.0	0.0	1.0	0.0
+11	400609015.0	Gilvydas Biruta missed Three Point Jumper.	1109.0	2.0	0.0	0.0	0.0	0.0	0.0
+12	400609015.0	Gilvydas Biruta Offensive Rebound.	1109.0	2.0	0.0	0.0	0.0	0.0	0.0
+13	400609015.0	Gilvydas Biruta made Jumper.	1093.0	2.0	2.0	0.0	2.0	0.0	0.0
+14	400609015.0	Charles Mitchell Turnover.	1085.0	2.0	2.0	0.0	0.0	1.0	1.0
+15	400609015.0	E.C. Matthews Turnover.	1068.0	2.0	2.0	0.0	0.0	0.0	1.0
+16	400609015.0	Travis Jorgenson Turnover.	1055.0	2.0	2.0	0.0	0.0	1.0	1.0
+17	400609015.0	Hassan Martin Steal.	1055.0	2.0	2.0	0.0	0.0	0.0	0.0
+18	400609015.0	Jared Terrell made Jumper.	1050.0	2.0	4.0	0.0	2.0	0.0	0.0
+19	400609015.0	Marcus Georges-Hunt Turnover.	1039.0	2.0	4.0	0.0	0.0	1.0	1.0
+20	400609015.0	Jared Terrell Steal.	1039.0	2.0	4.0	0.0	0.0	0.0	0.0
+21	400609015.0	Jared Terrell made Layup.	1031.0	2.0	6.0	0.0	2.0	0.0	0.0
+22	400609015.0	Travis Jorgenson missed Three Point Jumper.	1005.0	2.0	6.0	0.0	0.0	1.0	0.0
+23	400609015.0	Rhode Island Defensive Rebound.	1005.0	2.0	6.0	0.0	0.0	0.0	0.0
+24	400609015.0	Hassan Martin missed Jumper.	986.0	2.0	6.0	0.0	0.0	0.0	0.0
+25	400609015.0	Rhode Island Offensive Rebound.	986.0	2.0	6.0	0.0	0.0	0.0	0.0
+26	400609015.0	Foul on Quinton Stephens.	986.0	2.0	6.0	0.0	0.0	1.0	0.0
+27	400609015.0	Biggie Minnis Turnover.	986.0	2.0	6.0	0.0	0.0	0.0	1.0
+28	400609015.0	Marcus Georges-Hunt Steal.	986.0	2.0	6.0	0.0	0.0	1.0	0.0
+29	400609015.0	Charles Mitchell missed Jumper.	972.0	2.0	6.0	0.0	0.0	1.0	0.0
+30	400609015.0	Hassan Martin Block.	972.0	2.0	6.0	0.0	0.0	0.0	0.0
+31	400609015.0	Hassan Martin Defensive Rebound.	972.0	2.0	6.0	0.0	0.0	0.0	0.0
+32	400609015.0	E.C. Matthews missed Three Point Jumper.	958.0	2.0	6.0	0.0	0.0	0.0	0.0
+33	400609015.0	Travis Jorgenson Defensive Rebound.	958.0	2.0	6.0	0.0	0.0	1.0	0.0
+34	400609015.0	Demarco Cox made Layup. Assisted by Marcus Georges-Hunt.	946.0	4.0	6.0	2.0	0.0	1.0	0.0
+35	400609015.0	E.C. Matthews Turnover.	923.0	4.0	6.0	0.0	0.0	0.0	1.0
+36	400609015.0	Charles Mitchell Steal.	923.0	4.0	6.0	0.0	0.0	1.0	0.0
+37	400609015.0	Quinton Stephens missed Jumper.	917.0	4.0	6.0	0.0	0.0	1.0	0.0
+38	400609015.0	Rhode Island Defensive Rebound.	916.0	4.0	6.0	0.0	0.0	0.0	0.0
+39	400609015.0	 Official TV Timeout	916.0	4.0	6.0	0.0	0.0	0.0	0.0
+40	400609015.0	Jared Terrell missed Three Point Jumper.	893.0	4.0	6.0	0.0	0.0	0.0	0.0
+41	400609015.0	Georgia Tech Defensive Rebound.	893.0	4.0	6.0	0.0	0.0	1.0	0.0
+42	400609015.0	Marcus Georges-Hunt missed Jumper.	857.0	4.0	6.0	0.0	0.0	1.0	0.0
+43	400609015.0	Hassan Martin Defensive Rebound.	857.0	4.0	6.0	0.0	0.0	0.0	0.0
+44	400609015.0	Foul on Robert Sampson.	857.0	4.0	6.0	0.0	0.0	1.0	0.0
+45	400609015.0	E.C. Matthews missed Three Point Jumper.	827.0	4.0	6.0	0.0	0.0	0.0	0.0
+46	400609015.0	Georgia Tech Defensive Rebound.	827.0	4.0	6.0	0.0	0.0	1.0	0.0
+47	400609015.0	Robert Sampson Turnover.	813.0	4.0	6.0	0.0	0.0	1.0	1.0
+48	400609015.0	Jarvis Garrett Turnover.	805.0	4.0	6.0	0.0	0.0	0.0	1.0
+49	400609015.0	Chris Bolden Steal.	805.0	4.0	6.0	0.0	0.0	1.0	0.0
+50	400609015.0	Chris Bolden made Layup.	782.0	6.0	6.0	2.0	0.0	1.0	0.0
+51	400609015.0	Earl Watson missed Jumper.	770.0	6.0	6.0	0.0	0.0	0.0	0.0
+52	400609015.0	Ben Lammers Block.	770.0	6.0	6.0	0.0	0.0	1.0	0.0
+53	400609015.0	Ben Lammers Defensive Rebound.	770.0	6.0	6.0	0.0	0.0	1.0	0.0
+54	400609015.0	Robert Sampson missed Layup.	756.0	6.0	6.0	0.0	0.0	1.0	0.0
+55	400609015.0	Hassan Martin Defensive Rebound.	756.0	6.0	6.0	0.0	0.0	0.0	0.0
+56	400609015.0	T.J. Buchanan missed Layup.	751.0	6.0	6.0	0.0	0.0	0.0	0.0
+57	400609015.0	Ben Lammers Block.	751.0	6.0	6.0	0.0	0.0	1.0	0.0
+58	400609015.0	Robert Sampson Defensive Rebound.	751.0	6.0	6.0	0.0	0.0	1.0	0.0
+59	400609015.0	Josh Heath Turnover.	748.0	6.0	6.0	0.0	0.0	1.0	1.0
+60	400609015.0	Earl Watson Steal.	748.0	6.0	6.0	0.0	0.0	0.0	0.0
+61	400609015.0	Jarvis Garrett Turnover.	744.0	6.0	6.0	0.0	0.0	0.0	1.0
+62	400609015.0	Josh Heath made Jumper.	739.0	8.0	6.0	2.0	0.0	1.0	0.0
+63	400609015.0	Earl Watson made Dunk. Assisted by T.J. Buchanan.	709.0	8.0	8.0	0.0	2.0	0.0	0.0
+64	400609015.0	Foul on Tadric Jackson.	709.0	8.0	8.0	0.0	0.0	1.0	0.0
+65	400609015.0	 Official TV Timeout	708.0	8.0	8.0	0.0	0.0	0.0	0.0
+66	400609015.0	Earl Watson made Free Throw.	708.0	8.0	9.0	0.0	1.0	0.0	0.0
+67	400609015.0	Robert Sampson Turnover.	702.0	8.0	9.0	0.0	0.0	1.0	1.0
+68	400609015.0	E.C. Matthews Steal.	702.0	8.0	9.0	0.0	0.0	0.0	0.0
+69	400609015.0	E.C. Matthews made Layup.	696.0	8.0	11.0	0.0	2.0	0.0	0.0
+70	400609015.0	Chris Bolden made Three Point Jumper.	681.0	11.0	11.0	3.0	0.0	1.0	0.0
+71	400609015.0	E.C. Matthews made Three Point Jumper. Assisted by T.J. Buchanan.	665.0	11.0	14.0	0.0	3.0	0.0	0.0
+72	400609015.0	Tadric Jackson missed Jumper.	643.0	11.0	14.0	0.0	0.0	1.0	0.0
+73	400609015.0	Ben Lammers Offensive Rebound.	643.0	11.0	14.0	0.0	0.0	1.0	0.0
+74	400609015.0	Josh Heath missed Jumper.	634.0	11.0	14.0	0.0	0.0	1.0	0.0
+75	400609015.0	E.C. Matthews Defensive Rebound.	634.0	11.0	14.0	0.0	0.0	0.0	0.0
+76	400609015.0	Foul on Earl Watson.	608.0	11.0	14.0	0.0	0.0	0.0	0.0
+77	400609015.0	Earl Watson Turnover.	608.0	11.0	14.0	0.0	0.0	0.0	1.0
+78	400609015.0	Foul on T.J. Buchanan.	608.0	11.0	14.0	0.0	0.0	0.0	0.0
+79	400609015.0	Demarco Cox made Free Throw.	599.0	12.0	14.0	1.0	0.0	1.0	0.0
+80	400609015.0	Demarco Cox missed Free Throw.	599.0	12.0	14.0	0.0	0.0	1.0	0.0
+81	400609015.0	Rhode Island Defensive Rebound.	599.0	12.0	14.0	0.0	0.0	0.0	0.0
+82	400609015.0	Foul on Charles Mitchell.	599.0	12.0	14.0	0.0	0.0	1.0	0.0
+83	400609015.0	T.J. Buchanan made Jumper. Assisted by E.C. Matthews.	579.0	12.0	16.0	0.0	2.0	0.0	0.0
+84	400609015.0	Foul on T.J. Buchanan.	579.0	12.0	16.0	0.0	0.0	0.0	0.0
+85	400609015.0	Foul on Hassan Martin.	558.0	12.0	16.0	0.0	0.0	0.0	0.0
+86	400609015.0	Demarco Cox made Free Throw.	558.0	13.0	16.0	1.0	0.0	1.0	0.0
+87	400609015.0	Demarco Cox missed Free Throw.	558.0	13.0	16.0	0.0	0.0	1.0	0.0
+88	400609015.0	Gilvydas Biruta Defensive Rebound.	558.0	13.0	16.0	0.0	0.0	0.0	0.0
+89	400609015.0	Gilvydas Biruta missed Jumper.	544.0	13.0	16.0	0.0	0.0	0.0	0.0
+90	400609015.0	Demarco Cox Defensive Rebound.	544.0	13.0	16.0	0.0	0.0	1.0	0.0
+91	400609015.0	Marcus Georges-Hunt missed Jumper.	537.0	13.0	16.0	0.0	0.0	1.0	0.0
+92	400609015.0	Jared Terrell Defensive Rebound.	537.0	13.0	16.0	0.0	0.0	0.0	0.0
+93	400609015.0	Gilvydas Biruta missed Three Point Jumper.	509.0	13.0	16.0	0.0	0.0	0.0	0.0
+94	400609015.0	Marcus Georges-Hunt Defensive Rebound.	509.0	13.0	16.0	0.0	0.0	1.0	0.0
+95	400609015.0	Travis Jorgenson missed Three Point Jumper.	495.0	13.0	16.0	0.0	0.0	1.0	0.0
+96	400609015.0	Quinton Stephens Offensive Rebound.	495.0	13.0	16.0	0.0	0.0	1.0	0.0
+97	400609015.0	Demarco Cox Turnover.	489.0	13.0	16.0	0.0	0.0	1.0	1.0
+98	400609015.0	Biggie Minnis Turnover.	464.0	13.0	16.0	0.0	0.0	0.0	1.0
+99	400609015.0	 Official TV Timeout	462.0	13.0	16.0	0.0	0.0	0.0	0.0
+100	400609015.0	Foul on Jared Terrell.	451.0	13.0	16.0	0.0	0.0	0.0	0.0
+101	400609015.0	Foul on Biggie Minnis.	434.0	13.0	16.0	0.0	0.0	0.0	0.0
+102	400609015.0	Marcus Georges-Hunt made Jumper.	415.0	15.0	16.0	2.0	0.0	1.0	0.0
+103	400609015.0	E.C. Matthews made Jumper.	389.0	15.0	18.0	0.0	2.0	0.0	0.0
+104	400609015.0	Marcus Georges-Hunt made Layup.	383.0	17.0	18.0	2.0	0.0	1.0	0.0
+105	400609015.0	Foul on Hassan Martin.	383.0	17.0	18.0	0.0	0.0	0.0	0.0
+106	400609015.0	Marcus Georges-Hunt made Free Throw.	383.0	18.0	18.0	1.0	0.0	1.0	0.0
+107	400609015.0	Jared Terrell Turnover.	362.0	18.0	18.0	0.0	0.0	0.0	1.0
+108	400609015.0	Marcus Georges-Hunt missed Jumper.	351.0	18.0	18.0	0.0	0.0	1.0	0.0
+109	400609015.0	Charles Mitchell Offensive Rebound.	351.0	18.0	18.0	0.0	0.0	1.0	0.0
+110	400609015.0	Charles Mitchell made Layup.	345.0	20.0	18.0	2.0	0.0	1.0	0.0
+111	400609015.0	E.C. Matthews missed Three Point Jumper.	316.0	20.0	18.0	0.0	0.0	0.0	0.0
+112	400609015.0	Rhode Island Offensive Rebound.	316.0	20.0	18.0	0.0	0.0	0.0	0.0
+113	400609015.0	Jared Terrell missed Jumper.	299.0	20.0	18.0	0.0	0.0	0.0	0.0
+114	400609015.0	Ben Lammers Defensive Rebound.	299.0	20.0	18.0	0.0	0.0	1.0	0.0
+115	400609015.0	Foul on Gilvydas Biruta.	298.0	20.0	18.0	0.0	0.0	0.0	0.0
+116	400609015.0	Ben Lammers made Free Throw.	298.0	21.0	18.0	1.0	0.0	1.0	0.0
+117	400609015.0	Ben Lammers missed Free Throw.	298.0	21.0	18.0	0.0	0.0	1.0	0.0
+118	400609015.0	E.C. Matthews Defensive Rebound.	298.0	21.0	18.0	0.0	0.0	0.0	0.0
+119	400609015.0	Gilvydas Biruta missed Jumper.	282.0	21.0	18.0	0.0	0.0	0.0	0.0
+120	400609015.0	Josh Heath Defensive Rebound.	282.0	21.0	18.0	0.0	0.0	1.0	0.0
+121	400609015.0	Josh Heath Turnover.	281.0	21.0	18.0	0.0	0.0	1.0	1.0
+122	400609015.0	E.C. Matthews Steal.	281.0	21.0	18.0	0.0	0.0	0.0	0.0
+123	400609015.0	Gilvydas Biruta missed Jumper.	239.0	21.0	18.0	0.0	0.0	0.0	0.0
+124	400609015.0	Ben Lammers Defensive Rebound.	239.0	21.0	18.0	0.0	0.0	1.0	0.0
+125	400609015.0	Foul on Marcus Georges-Hunt.	222.0	21.0	18.0	0.0	0.0	1.0	0.0
+126	400609015.0	Marcus Georges-Hunt Turnover.	222.0	21.0	18.0	0.0	0.0	1.0	1.0
+127	400609015.0	 Official TV Timeout	218.0	21.0	18.0	0.0	0.0	0.0	0.0
+128	400609015.0	Gilvydas Biruta Turnover.	200.0	21.0	18.0	0.0	0.0	0.0	1.0
+129	400609015.0	Foul on Gilvydas Biruta.	200.0	21.0	18.0	0.0	0.0	0.0	0.0
+130	400609015.0	Marcus Georges-Hunt made Layup.	188.0	23.0	18.0	2.0	0.0	1.0	0.0
+131	400609015.0	Foul on Robert Sampson.	188.0	23.0	18.0	0.0	0.0	1.0	0.0
+132	400609015.0	E.C. Matthews missed Three Point Jumper.	150.0	23.0	18.0	0.0	0.0	0.0	0.0
+133	400609015.0	Quinton Stephens Defensive Rebound.	150.0	23.0	18.0	0.0	0.0	1.0	0.0
+134	400609015.0	Demarco Cox Turnover.	135.0	23.0	18.0	0.0	0.0	1.0	1.0
+135	400609015.0	Jarelle Reischel missed Three Point Jumper.	112.0	23.0	18.0	0.0	0.0	0.0	0.0
+136	400609015.0	Demarco Cox Defensive Rebound.	112.0	23.0	18.0	0.0	0.0	1.0	0.0
+137	400609015.0	Marcus Georges-Hunt made Three Point Jumper. Assisted by Charles Mitchell.	93.0	26.0	18.0	3.0	0.0	1.0	0.0
+138	400609015.0	Rhode Island  Timeout	83.0	26.0	18.0	0.0	0.0	0.0	0.0
+139	400609015.0	E.C. Matthews Turnover.	65.0	26.0	18.0	0.0	0.0	0.0	1.0
+140	400609015.0	Josh Heath Steal.	65.0	26.0	18.0	0.0	0.0	1.0	0.0
+141	400609015.0	Georgia Tech  Timeout	64.0	26.0	18.0	0.0	0.0	0.0	0.0
+142	400609015.0	Foul on Jarelle Reischel.	45.0	26.0	18.0	0.0	0.0	0.0	0.0
+143	400609015.0	Quinton Stephens made Free Throw.	45.0	27.0	18.0	1.0	0.0	1.0	0.0
+144	400609015.0	Quinton Stephens missed Free Throw.	45.0	27.0	18.0	0.0	0.0	1.0	0.0
+145	400609015.0	Jarelle Reischel Defensive Rebound.	45.0	27.0	18.0	0.0	0.0	0.0	0.0
+146	400609015.0	Biggie Minnis Turnover.	24.0	27.0	18.0	0.0	0.0	0.0	1.0
+147	400609015.0	Marcus Georges-Hunt Steal.	24.0	27.0	18.0	0.0	0.0	1.0	0.0
+148	400609015.0	Marcus Georges-Hunt made Dunk.	14.0	29.0	18.0	2.0	0.0	1.0	0.0
+149	400609015.0	E.C. Matthews Turnover.	1.0	29.0	18.0	0.0	0.0	0.0	1.0
+150	400609015.0	End of 1st half	0.0	29.0	18.0	0.0	0.0	0.0	0.0
+151	400609015.0	Jump Ball won by Georgia Tech	1200.0	29.0	18.0	0.0	0.0	1.0	0.0
+152	400609015.0	Travis Jorgenson made Three Point Jumper. Assisted by Demarco Cox.	1180.0	32.0	18.0	3.0	0.0	1.0	0.0
+153	400609015.0	E.C. Matthews Turnover.	1150.0	32.0	18.0	0.0	0.0	0.0	1.0
+154	400609015.0	Marcus Georges-Hunt Steal.	1150.0	32.0	18.0	0.0	0.0	1.0	0.0
+155	400609015.0	Foul on Marcus Georges-Hunt.	1140.0	32.0	18.0	0.0	0.0	1.0	0.0
+156	400609015.0	Marcus Georges-Hunt Turnover.	1140.0	32.0	18.0	0.0	0.0	1.0	1.0
+157	400609015.0	Hassan Martin made Layup. Assisted by Gilvydas Biruta.	1123.0	32.0	20.0	0.0	2.0	0.0	0.0
+158	400609015.0	Marcus Georges-Hunt missed Three Point Jumper.	1093.0	32.0	20.0	0.0	0.0	1.0	0.0
+159	400609015.0	Rhode Island Defensive Rebound.	1093.0	32.0	20.0	0.0	0.0	0.0	0.0
+160	400609015.0	Gilvydas Biruta missed Jumper.	1075.0	32.0	20.0	0.0	0.0	0.0	0.0
+161	400609015.0	Marcus Georges-Hunt Defensive Rebound.	1075.0	32.0	20.0	0.0	0.0	1.0	0.0
+162	400609015.0	Quinton Stephens missed Jumper.	1066.0	32.0	20.0	0.0	0.0	1.0	0.0
+163	400609015.0	Gilvydas Biruta Defensive Rebound.	1066.0	32.0	20.0	0.0	0.0	0.0	0.0
+164	400609015.0	Hassan Martin made Layup. Assisted by E.C. Matthews.	1056.0	32.0	22.0	0.0	2.0	0.0	0.0
+165	400609015.0	Charles Mitchell Turnover.	1023.0	32.0	22.0	0.0	0.0	1.0	1.0
+166	400609015.0	Gilvydas Biruta made Jumper. Assisted by E.C. Matthews.	995.0	32.0	24.0	0.0	2.0	0.0	0.0
+167	400609015.0	Charles Mitchell missed Jumper.	967.0	32.0	24.0	0.0	0.0	1.0	0.0
+168	400609015.0	Biggie Minnis Defensive Rebound.	967.0	32.0	24.0	0.0	0.0	0.0	0.0
+169	400609015.0	Gilvydas Biruta missed Three Point Jumper.	931.0	32.0	24.0	0.0	0.0	0.0	0.0
+170	400609015.0	Quinton Stephens Defensive Rebound.	931.0	32.0	24.0	0.0	0.0	1.0	0.0
+171	400609015.0	Foul on E.C. Matthews.	931.0	32.0	24.0	0.0	0.0	0.0	0.0
+172	400609015.0	 Official TV Timeout	915.0	32.0	24.0	0.0	0.0	0.0	0.0
+173	400609015.0	Marcus Georges-Hunt missed Jumper.	906.0	32.0	24.0	0.0	0.0	1.0	0.0
+174	400609015.0	Hassan Martin Defensive Rebound.	906.0	32.0	24.0	0.0	0.0	0.0	0.0
+175	400609015.0	Jared Terrell missed Three Point Jumper.	883.0	32.0	24.0	0.0	0.0	0.0	0.0
+176	400609015.0	Marcus Georges-Hunt Defensive Rebound.	883.0	32.0	24.0	0.0	0.0	1.0	0.0
+177	400609015.0	Foul on T.J. Buchanan.	874.0	32.0	24.0	0.0	0.0	0.0	0.0
+178	400609015.0	Robert Sampson made Three Point Jumper. Assisted by Josh Heath.	868.0	35.0	24.0	3.0	0.0	1.0	0.0
+179	400609015.0	Foul on Jared Terrell.	846.0	35.0	24.0	0.0	0.0	0.0	0.0
+180	400609015.0	Jared Terrell Turnover.	846.0	35.0	24.0	0.0	0.0	0.0	1.0
+181	400609015.0	Foul on Tadric Jackson.	816.0	35.0	24.0	0.0	0.0	1.0	0.0
+182	400609015.0	Tadric Jackson Turnover.	816.0	35.0	24.0	0.0	0.0	1.0	1.0
+183	400609015.0	Foul on Robert Sampson.	790.0	35.0	24.0	0.0	0.0	1.0	0.0
+184	400609015.0	Gilvydas Biruta missed Free Throw.	790.0	35.0	24.0	0.0	0.0	0.0	0.0
+185	400609015.0	Rhode Island Deadball Team Rebound.	790.0	35.0	24.0	0.0	0.0	0.0	0.0
+186	400609015.0	Gilvydas Biruta made Free Throw.	790.0	35.0	25.0	0.0	1.0	0.0	0.0
+187	400609015.0	Tadric Jackson Turnover.	789.0	35.0	25.0	0.0	0.0	1.0	1.0
+188	400609015.0	E.C. Matthews missed Jumper.	783.0	35.0	25.0	0.0	0.0	0.0	0.0
+189	400609015.0	Quinton Stephens Defensive Rebound.	783.0	35.0	25.0	0.0	0.0	1.0	0.0
+190	400609015.0	Josh Heath Turnover.	780.0	35.0	25.0	0.0	0.0	1.0	1.0
+191	400609015.0	Matthew Butler missed Jumper.	747.0	35.0	25.0	0.0	0.0	0.0	0.0
+192	400609015.0	Hassan Martin Offensive Rebound.	747.0	35.0	25.0	0.0	0.0	0.0	0.0
+193	400609015.0	Foul on Chris Bolden.	747.0	35.0	25.0	0.0	0.0	1.0	0.0
+194	400609015.0	Matthew Butler Turnover.	726.0	35.0	25.0	0.0	0.0	0.0	1.0
+195	400609015.0	Marcus Georges-Hunt Steal.	726.0	35.0	25.0	0.0	0.0	1.0	0.0
+196	400609015.0	Demarco Cox made Dunk. Assisted by Quinton Stephens.	718.0	37.0	25.0	2.0	0.0	1.0	0.0
+197	400609015.0	Foul on Chris Bolden.	707.0	37.0	25.0	0.0	0.0	1.0	0.0
+198	400609015.0	 Official TV Timeout	707.0	37.0	25.0	0.0	0.0	0.0	0.0
+199	400609015.0	T.J. Buchanan made Layup.	693.0	37.0	27.0	0.0	2.0	0.0	0.0
+200	400609015.0	Foul on Jared Terrell.	674.0	37.0	27.0	0.0	0.0	0.0	0.0
+201	400609015.0	Charles Mitchell made Free Throw.	674.0	38.0	27.0	1.0	0.0	1.0	0.0
+202	400609015.0	Charles Mitchell made Free Throw.	674.0	39.0	27.0	1.0	0.0	1.0	0.0
+203	400609015.0	Jarelle Reischel made Layup.	660.0	39.0	29.0	0.0	2.0	0.0	0.0
+204	400609015.0	Marcus Georges-Hunt missed Layup.	648.0	39.0	29.0	0.0	0.0	1.0	0.0
+205	400609015.0	Jared Terrell Defensive Rebound.	648.0	39.0	29.0	0.0	0.0	0.0	0.0
+206	400609015.0	Jared Terrell missed Layup.	637.0	39.0	29.0	0.0	0.0	0.0	0.0
+207	400609015.0	Jarelle Reischel Offensive Rebound.	637.0	39.0	29.0	0.0	0.0	0.0	0.0
+208	400609015.0	Jarelle Reischel made Layup.	637.0	39.0	31.0	0.0	2.0	0.0	0.0
+209	400609015.0	Foul on Quinton Stephens.	637.0	39.0	31.0	0.0	0.0	1.0	0.0
+210	400609015.0	Jarelle Reischel made Free Throw.	637.0	39.0	32.0	0.0	1.0	0.0	0.0
+211	400609015.0	Chris Bolden Turnover.	613.0	39.0	32.0	0.0	0.0	1.0	1.0
+212	400609015.0	Jared Terrell Steal.	613.0	39.0	32.0	0.0	0.0	0.0	0.0
+213	400609015.0	Jared Terrell made Layup.	610.0	39.0	34.0	0.0	2.0	0.0	0.0
+214	400609015.0	Foul on Chris Bolden.	609.0	39.0	34.0	0.0	0.0	1.0	0.0
+215	400609015.0	Jared Terrell made Free Throw.	608.0	39.0	35.0	0.0	1.0	0.0	0.0
+216	400609015.0	Foul on Jarvis Garrett.	603.0	39.0	35.0	0.0	0.0	0.0	0.0
+217	400609015.0	Georgia Tech  Timeout	602.0	39.0	35.0	0.0	0.0	0.0	0.0
+218	400609015.0	Chris Bolden missed Three Point Jumper.	573.0	39.0	35.0	0.0	0.0	1.0	0.0
+219	400609015.0	Marcus Georges-Hunt Offensive Rebound.	573.0	39.0	35.0	0.0	0.0	1.0	0.0
+220	400609015.0	Marcus Georges-Hunt missed Layup.	564.0	39.0	35.0	0.0	0.0	1.0	0.0
+221	400609015.0	T.J. Buchanan Defensive Rebound.	564.0	39.0	35.0	0.0	0.0	0.0	0.0
+222	400609015.0	Foul on Chris Bolden.	563.0	39.0	35.0	0.0	0.0	1.0	0.0
+223	400609015.0	Jarelle Reischel missed Free Throw.	563.0	39.0	35.0	0.0	0.0	0.0	0.0
+224	400609015.0	Charles Mitchell Defensive Rebound.	563.0	39.0	35.0	0.0	0.0	1.0	0.0
+225	400609015.0	Foul on Hassan Martin.	551.0	39.0	35.0	0.0	0.0	0.0	0.0
+226	400609015.0	Robert Sampson made Free Throw.	551.0	40.0	35.0	1.0	0.0	1.0	0.0
+227	400609015.0	Robert Sampson made Free Throw.	551.0	41.0	35.0	1.0	0.0	1.0	0.0
+228	400609015.0	Foul on Robert Sampson.	531.0	41.0	35.0	0.0	0.0	1.0	0.0
+229	400609015.0	Jared Terrell made Free Throw.	531.0	41.0	36.0	0.0	1.0	0.0	0.0
+230	400609015.0	Jared Terrell made Free Throw.	531.0	41.0	37.0	0.0	1.0	0.0	0.0
+231	400609015.0	Quinton Stephens made Three Point Jumper. Assisted by Travis Jorgenson.	500.0	44.0	37.0	3.0	0.0	1.0	0.0
+232	400609015.0	Foul on Jarelle Reischel.	500.0	44.0	37.0	0.0	0.0	0.0	0.0
+233	400609015.0	Quinton Stephens made Free Throw.	500.0	45.0	37.0	1.0	0.0	1.0	0.0
+234	400609015.0	Jared Terrell missed Three Point Jumper.	476.0	45.0	37.0	0.0	0.0	0.0	0.0
+235	400609015.0	Travis Jorgenson Defensive Rebound.	476.0	45.0	37.0	0.0	0.0	1.0	0.0
+236	400609015.0	Tadric Jackson missed Jumper.	466.0	45.0	37.0	0.0	0.0	1.0	0.0
+237	400609015.0	Gilvydas Biruta Defensive Rebound.	466.0	45.0	37.0	0.0	0.0	0.0	0.0
+238	400609015.0	Jarelle Reischel missed Jumper.	457.0	45.0	37.0	0.0	0.0	0.0	0.0
+239	400609015.0	Demarco Cox Defensive Rebound.	457.0	45.0	37.0	0.0	0.0	1.0	0.0
+240	400609015.0	Foul on Jared Terrell.	438.0	45.0	37.0	0.0	0.0	0.0	0.0
+241	400609015.0	 Official TV Timeout	438.0	45.0	37.0	0.0	0.0	0.0	0.0
+242	400609015.0	Demarco Cox missed Free Throw.	438.0	45.0	37.0	0.0	0.0	1.0	0.0
+243	400609015.0	Georgia Tech Deadball Team Rebound.	438.0	45.0	37.0	0.0	0.0	1.0	0.0
+244	400609015.0	Demarco Cox made Free Throw.	438.0	46.0	37.0	1.0	0.0	1.0	0.0
+245	400609015.0	Hassan Martin made Dunk. Assisted by Gilvydas Biruta.	423.0	46.0	39.0	0.0	2.0	0.0	0.0
+246	400609015.0	Foul on Marcus Georges-Hunt.	407.0	46.0	39.0	0.0	0.0	1.0	0.0
+247	400609015.0	Marcus Georges-Hunt Turnover.	407.0	46.0	39.0	0.0	0.0	1.0	1.0
+248	400609015.0	T.J. Buchanan made Free Throw.	407.0	46.0	40.0	0.0	1.0	0.0	0.0
+249	400609015.0	T.J. Buchanan made Free Throw.	407.0	46.0	41.0	0.0	1.0	0.0	0.0
+250	400609015.0	Foul on Demarco Cox.	395.0	46.0	41.0	0.0	0.0	1.0	0.0
+251	400609015.0	Hassan Martin made Free Throw.	395.0	46.0	42.0	0.0	1.0	0.0	0.0
+252	400609015.0	Hassan Martin made Free Throw.	395.0	46.0	43.0	0.0	1.0	0.0	0.0
+253	400609015.0	Foul on E.C. Matthews.	381.0	46.0	43.0	0.0	0.0	0.0	0.0
+254	400609015.0	Tadric Jackson missed Free Throw.	381.0	46.0	43.0	0.0	0.0	1.0	0.0
+255	400609015.0	Georgia Tech Deadball Team Rebound.	381.0	46.0	43.0	0.0	0.0	1.0	0.0
+256	400609015.0	Tadric Jackson made Free Throw.	381.0	47.0	43.0	1.0	0.0	1.0	0.0
+257	400609015.0	Tadric Jackson made Free Throw.	381.0	48.0	43.0	1.0	0.0	1.0	0.0
+258	400609015.0	Gilvydas Biruta made Layup. Assisted by T.J. Buchanan.	349.0	48.0	45.0	0.0	2.0	0.0	0.0
+259	400609015.0	Foul on T.J. Buchanan.	331.0	48.0	45.0	0.0	0.0	0.0	0.0
+260	400609015.0	Marcus Georges-Hunt made Free Throw.	331.0	49.0	45.0	1.0	0.0	1.0	0.0
+261	400609015.0	Marcus Georges-Hunt made Free Throw.	331.0	50.0	45.0	1.0	0.0	1.0	0.0
+262	400609015.0	E.C. Matthews missed Three Point Jumper.	311.0	50.0	45.0	0.0	0.0	0.0	0.0
+263	400609015.0	Charles Mitchell Defensive Rebound.	311.0	50.0	45.0	0.0	0.0	1.0	0.0
+264	400609015.0	Demarco Cox missed Jumper.	290.0	50.0	45.0	0.0	0.0	1.0	0.0
+265	400609015.0	Demarco Cox Offensive Rebound.	290.0	50.0	45.0	0.0	0.0	1.0	0.0
+266	400609015.0	Marcus Georges-Hunt made Layup.	277.0	52.0	45.0	2.0	0.0	1.0	0.0
+267	400609015.0	Foul on Charles Mitchell.	264.0	52.0	45.0	0.0	0.0	1.0	0.0
+268	400609015.0	E.C. Matthews made Free Throw.	264.0	52.0	46.0	0.0	1.0	0.0	0.0
+269	400609015.0	E.C. Matthews made Free Throw.	264.0	52.0	47.0	0.0	1.0	0.0	0.0
+270	400609015.0	Josh Heath made Layup.	236.0	54.0	47.0	2.0	0.0	1.0	0.0
+271	400609015.0	Foul on Charles Mitchell.	217.0	54.0	47.0	0.0	0.0	1.0	0.0
+272	400609015.0	 Official TV Timeout	217.0	54.0	47.0	0.0	0.0	0.0	0.0
+273	400609015.0	T.J. Buchanan missed Free Throw.	217.0	54.0	47.0	0.0	0.0	0.0	0.0
+274	400609015.0	Rhode Island Deadball Team Rebound.	217.0	54.0	47.0	0.0	0.0	0.0	0.0
+275	400609015.0	T.J. Buchanan made Free Throw.	217.0	54.0	48.0	0.0	1.0	0.0	0.0
+276	400609015.0	Demarco Cox made Layup. Assisted by Josh Heath.	186.0	56.0	48.0	2.0	0.0	1.0	0.0
+277	400609015.0	Rhode Island  Timeout	178.0	56.0	48.0	0.0	0.0	0.0	0.0
+278	400609015.0	Jared Terrell missed Three Point Jumper.	165.0	56.0	48.0	0.0	0.0	0.0	0.0
+279	400609015.0	Demarco Cox Defensive Rebound.	165.0	56.0	48.0	0.0	0.0	1.0	0.0
+280	400609015.0	Josh Heath missed Layup.	165.0	56.0	48.0	0.0	0.0	1.0	0.0
+281	400609015.0	Charles Mitchell Offensive Rebound.	165.0	56.0	48.0	0.0	0.0	1.0	0.0
+282	400609015.0	Charles Mitchell missed Layup.	165.0	56.0	48.0	0.0	0.0	1.0	0.0
+283	400609015.0	Hassan Martin Defensive Rebound.	134.0	56.0	48.0	0.0	0.0	0.0	0.0
+284	400609015.0	Foul on Marcus Georges-Hunt.	125.0	56.0	48.0	0.0	0.0	1.0	0.0
+285	400609015.0	Jared Terrell missed Free Throw.	125.0	56.0	48.0	0.0	0.0	0.0	0.0
+286	400609015.0	Rhode Island Deadball Team Rebound.	125.0	56.0	48.0	0.0	0.0	0.0	0.0
+287	400609015.0	Jared Terrell made Free Throw.	125.0	56.0	49.0	0.0	1.0	0.0	0.0
+288	400609015.0	Josh Heath Turnover.	110.0	56.0	49.0	0.0	0.0	1.0	1.0
+289	400609015.0	Hassan Martin Steal.	110.0	56.0	49.0	0.0	0.0	0.0	0.0
+290	400609015.0	Biggie Minnis missed Jumper.	104.0	56.0	49.0	0.0	0.0	0.0	0.0
+291	400609015.0	Jarvis Garrett Offensive Rebound.	104.0	56.0	49.0	0.0	0.0	0.0	0.0
+292	400609015.0	Rhode Island  Timeout	100.0	56.0	49.0	0.0	0.0	0.0	0.0
+293	400609015.0	Jump Ball won by Rhode Island	82.0	56.0	49.0	0.0	0.0	0.0	0.0
+294	400609015.0	E.C. Matthews missed Jumper.	75.0	56.0	49.0	0.0	0.0	0.0	0.0
+295	400609015.0	Robert Sampson Defensive Rebound.	75.0	56.0	49.0	0.0	0.0	1.0	0.0
+296	400609015.0	Georgia Tech  Timeout	65.0	56.0	49.0	0.0	0.0	0.0	0.0
+297	400609015.0	Foul on Jarvis Garrett.	63.0	56.0	49.0	0.0	0.0	0.0	0.0
+298	400609015.0	Josh Heath made Free Throw.	63.0	57.0	49.0	1.0	0.0	1.0	0.0
+299	400609015.0	Josh Heath missed Free Throw.	63.0	57.0	49.0	0.0	0.0	1.0	0.0
+300	400609015.0	Jarelle Reischel Defensive Rebound.	63.0	57.0	49.0	0.0	0.0	0.0	0.0
+301	400609015.0	Hassan Martin made Dunk. Assisted by E.C. Matthews.	53.0	57.0	51.0	0.0	2.0	0.0	0.0
+302	400609015.0	Rhode Island  Timeout	51.0	57.0	51.0	0.0	0.0	0.0	0.0
+303	400609015.0	Quinton Stephens made Dunk. Assisted by Tadric Jackson.	44.0	59.0	51.0	2.0	0.0	1.0	0.0
+304	400609015.0	T.J. Buchanan made Layup.	40.0	59.0	53.0	0.0	2.0	0.0	0.0
+305	400609015.0	Rhode Island  Timeout	39.0	59.0	53.0	0.0	0.0	0.0	0.0
+306	400609015.0	Foul on Hassan Martin.	38.0	59.0	53.0	0.0	0.0	0.0	0.0
+307	400609015.0	Josh Heath made Free Throw.	38.0	60.0	53.0	1.0	0.0	1.0	0.0
+308	400609015.0	Josh Heath missed Free Throw.	38.0	60.0	53.0	0.0	0.0	1.0	0.0
+309	400609015.0	Hassan Martin Defensive Rebound.	38.0	60.0	53.0	0.0	0.0	0.0	0.0
+310	400609015.0	E.C. Matthews made Layup.	28.0	60.0	55.0	0.0	2.0	0.0	0.0
+311	400609015.0	Foul on Jared Terrell.	17.0	60.0	55.0	0.0	0.0	0.0	0.0
+312	400609015.0	Josh Heath made Free Throw.	17.0	61.0	55.0	1.0	0.0	1.0	0.0
+313	400609015.0	Josh Heath missed Free Throw.	17.0	61.0	55.0	0.0	0.0	1.0	0.0
+314	400609015.0	Hassan Martin Defensive Rebound.	17.0	61.0	55.0	0.0	0.0	0.0	0.0
+315	400609015.0	E.C. Matthews made Three Point Jumper. Assisted by T.J. Buchanan.	13.0	61.0	58.0	0.0	3.0	0.0	0.0
+316	400609015.0	Foul on Jarelle Reischel.	8.0	61.0	58.0	0.0	0.0	0.0	0.0
+317	400609015.0	Tadric Jackson made Free Throw.	8.0	62.0	58.0	1.0	0.0	1.0	0.0
+318	400609015.0	Tadric Jackson made Free Throw.	8.0	63.0	58.0	1.0	0.0	1.0	0.0
+319	400609015.0	E.C. Matthews made Three Point Jumper. Assisted by T.J. Buchanan.	3.0	63.0	61.0	0.0	3.0	0.0	0.0
+320	400609015.0	Foul on Jarelle Reischel.	3.0	63.0	61.0	0.0	0.0	0.0	0.0
+321	400609015.0	Robert Sampson missed Free Throw.	3.0	63.0	61.0	0.0	0.0	1.0	0.0
+322	400609015.0	Georgia Tech Deadball Team Rebound.	3.0	63.0	61.0	0.0	0.0	1.0	0.0
+323	400609015.0	Robert Sampson made Free Throw.	3.0	64.0	61.0	1.0	0.0	1.0	0.0
+324	400609015.0	End of Game	0.0	64.0	61.0	0.0	0.0	0.0	0.0

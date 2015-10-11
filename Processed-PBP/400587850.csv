@@ -1,0 +1,460 @@
+	Game_id	PBP_description	sec_remaining	home_score	away_score	home_points_scored	away_points_scored	home_poss	turnover
+0	400587850.0	Chris Burgess missed Three Point Jumper.	1179.0	0.0	0.0	0.0	0.0	0.0	0.0
+1	400587850.0	Dustin Clarke Offensive Rebound.	1179.0	0.0	0.0	0.0	0.0	0.0	0.0
+2	400587850.0	Chris Burgess missed Three Point Jumper.	1179.0	0.0	0.0	0.0	0.0	0.0	0.0
+3	400587850.0	Dustin Clarke Offensive Rebound.	1179.0	0.0	0.0	0.0	0.0	0.0	0.0
+4	400587850.0	Dustin Clarke made Layup.	1176.0	0.0	2.0	0.0	2.0	0.0	0.0
+5	400587850.0	Dustin Clarke made Layup.	1176.0	0.0	2.0	0.0	0.0	0.0	0.0
+6	400587850.0	Marcus Georges-Hunt made Layup. Assisted by Travis Jorgenson.	1170.0	2.0	2.0	2.0	0.0	1.0	0.0
+7	400587850.0	Foul on Michael Obacha.	1170.0	2.0	2.0	0.0	0.0	0.0	0.0
+8	400587850.0	Marcus Georges-Hunt missed Free Throw.	1170.0	2.0	2.0	0.0	0.0	1.0	0.0
+9	400587850.0	Michael Obacha Defensive Rebound.	1170.0	2.0	2.0	0.0	0.0	0.0	0.0
+10	400587850.0	Chris Burgess missed Three Point Jumper.	1135.0	2.0	2.0	0.0	0.0	0.0	0.0
+11	400587850.0	Marcus Georges-Hunt Defensive Rebound.	1135.0	2.0	2.0	0.0	0.0	1.0	0.0
+12	400587850.0	Marcus Georges-Hunt Defensive Rebound.	1135.0	2.0	2.0	0.0	0.0	1.0	0.0
+13	400587850.0	Travis Jorgenson missed Three Point Jumper.	1117.0	2.0	2.0	0.0	0.0	1.0	0.0
+14	400587850.0	Frank Eaves Defensive Rebound.	1117.0	2.0	2.0	0.0	0.0	0.0	0.0
+15	400587850.0	Frank Eaves Defensive Rebound.	1117.0	2.0	2.0	0.0	0.0	0.0	0.0
+16	400587850.0	Tommy Spagnolo missed Jumper.	1101.0	2.0	2.0	0.0	0.0	0.0	0.0
+17	400587850.0	Travis Jorgenson Defensive Rebound.	1101.0	2.0	2.0	0.0	0.0	1.0	0.0
+18	400587850.0	Marcus Georges-Hunt made Layup.	1095.0	4.0	2.0	2.0	0.0	1.0	0.0
+19	400587850.0	Marcus Georges-Hunt made Layup.	1095.0	4.0	2.0	0.0	0.0	1.0	0.0
+20	400587850.0	Dustin Clarke made Three Point Jumper. Assisted by Chris Burgess.	1087.0	4.0	5.0	0.0	3.0	0.0	0.0
+21	400587850.0	Demarco Cox Turnover.	1073.0	4.0	5.0	0.0	0.0	1.0	1.0
+22	400587850.0	Tommy Spagnolo Steal.	1072.0	4.0	5.0	0.0	0.0	0.0	0.0
+23	400587850.0	Frank Eaves made Layup.	1047.0	4.0	7.0	0.0	2.0	0.0	0.0
+24	400587850.0	Charles Mitchell missed Jumper.	1030.0	4.0	7.0	0.0	0.0	1.0	0.0
+25	400587850.0	Frank Eaves Defensive Rebound.	1030.0	4.0	7.0	0.0	0.0	0.0	0.0
+26	400587850.0	Frank Eaves made Layup.	1022.0	4.0	9.0	0.0	2.0	0.0	0.0
+27	400587850.0	Charles Mitchell missed Layup.	993.0	4.0	9.0	0.0	0.0	1.0	0.0
+28	400587850.0	Charles Mitchell Offensive Rebound.	993.0	4.0	9.0	0.0	0.0	1.0	0.0
+29	400587850.0	Charles Mitchell made Two Point Tip Shot.	990.0	6.0	9.0	2.0	0.0	1.0	0.0
+30	400587850.0	Charles Mitchell made Two Point Tip Shot.	990.0	6.0	9.0	0.0	0.0	1.0	0.0
+31	400587850.0	Tommy Spagnolo made Layup.	980.0	6.0	11.0	0.0	2.0	0.0	0.0
+32	400587850.0	Tommy Spagnolo made Layup.	980.0	6.0	11.0	0.0	0.0	0.0	0.0
+33	400587850.0	Quinton Stephens missed Jumper.	957.0	6.0	11.0	0.0	0.0	1.0	0.0
+34	400587850.0	Dustin Clarke Defensive Rebound.	957.0	6.0	11.0	0.0	0.0	0.0	0.0
+35	400587850.0	Dustin Clarke Turnover.	948.0	6.0	11.0	0.0	0.0	0.0	1.0
+36	400587850.0	 Official TV Timeout	948.0	6.0	11.0	0.0	0.0	0.0	0.0
+37	400587850.0	Dustin Clarke Turnover.	948.0	6.0	11.0	0.0	0.0	0.0	1.0
+38	400587850.0	Foul on Robert Sampson.	941.0	6.0	11.0	0.0	0.0	1.0	0.0
+39	400587850.0	Robert Sampson Turnover.	941.0	6.0	11.0	0.0	0.0	1.0	1.0
+40	400587850.0	Robert Sampson Turnover.	941.0	6.0	11.0	0.0	0.0	1.0	1.0
+41	400587850.0	Frank Eaves Turnover.	906.0	6.0	11.0	0.0	0.0	0.0	1.0
+42	400587850.0	Robert Sampson Steal.	906.0	6.0	11.0	0.0	0.0	1.0	0.0
+43	400587850.0	Robert Sampson Steal.	906.0	6.0	11.0	0.0	0.0	1.0	0.0
+44	400587850.0	Josh Heath Turnover.	902.0	6.0	11.0	0.0	0.0	1.0	1.0
+45	400587850.0	Josh Heath Turnover.	902.0	6.0	11.0	0.0	0.0	1.0	1.0
+46	400587850.0	Frank Eaves Steal.	901.0	6.0	11.0	0.0	0.0	0.0	0.0
+47	400587850.0	Frank Eaves Steal.	901.0	6.0	11.0	0.0	0.0	0.0	0.0
+48	400587850.0	Robert Sampson Block.	882.0	6.0	11.0	0.0	0.0	1.0	0.0
+49	400587850.0	Griffin Kinney missed Layup.	882.0	6.0	11.0	0.0	0.0	0.0	0.0
+50	400587850.0	Griffin Kinney missed Layup.	882.0	6.0	11.0	0.0	0.0	0.0	0.0
+51	400587850.0	Robert Sampson Defensive Rebound.	881.0	6.0	11.0	0.0	0.0	1.0	0.0
+52	400587850.0	Josh Heath missed Jumper.	863.0	6.0	11.0	0.0	0.0	1.0	0.0
+53	400587850.0	Georgia Tech Offensive Rebound.	863.0	6.0	11.0	0.0	0.0	1.0	0.0
+54	400587850.0	Chris Bolden made Jumper. Assisted by Josh Heath.	857.0	8.0	11.0	2.0	0.0	1.0	0.0
+55	400587850.0	Chris Bolden made Jumper. Assisted by Josh Heath.	857.0	8.0	11.0	0.0	0.0	1.0	0.0
+56	400587850.0	Foul on Josh Heath.	825.0	8.0	11.0	0.0	0.0	1.0	0.0
+57	400587850.0	Foul on Josh Heath.	797.0	8.0	11.0	0.0	0.0	1.0	0.0
+58	400587850.0	Foul on Griffin Kinney.	797.0	8.0	11.0	0.0	0.0	0.0	0.0
+59	400587850.0	Foul on Griffin Kinney.	797.0	8.0	11.0	0.0	0.0	0.0	0.0
+60	400587850.0	Griffin Kinney Turnover.	797.0	8.0	11.0	0.0	0.0	0.0	1.0
+61	400587850.0	Griffin Kinney Turnover.	797.0	8.0	11.0	0.0	0.0	0.0	1.0
+62	400587850.0	Foul on Griffin Kinney.	783.0	8.0	11.0	0.0	0.0	0.0	0.0
+63	400587850.0	Foul on Jacob Lawson.	775.0	8.0	11.0	0.0	0.0	0.0	0.0
+64	400587850.0	Ben Lammers missed Free Throw.	775.0	8.0	11.0	0.0	0.0	1.0	0.0
+65	400587850.0	Georgia Tech Deadball Team Rebound.	775.0	8.0	11.0	0.0	0.0	1.0	0.0
+66	400587850.0	Georgia Tech Deadball Team Rebound.	775.0	8.0	11.0	0.0	0.0	1.0	0.0
+67	400587850.0	Ben Lammers made Free Throw.	775.0	9.0	11.0	1.0	0.0	1.0	0.0
+68	400587850.0	Ben Lammers made Free Throw.	775.0	9.0	11.0	0.0	0.0	1.0	0.0
+69	400587850.0	Jacob Lawson missed Layup.	756.0	9.0	11.0	0.0	0.0	0.0	0.0
+70	400587850.0	Jacob Lawson missed Layup.	756.0	9.0	11.0	0.0	0.0	0.0	0.0
+71	400587850.0	Robert Sampson Defensive Rebound.	756.0	9.0	11.0	0.0	0.0	1.0	0.0
+72	400587850.0	Foul on Tab Hamilton.	749.0	9.0	11.0	0.0	0.0	0.0	0.0
+73	400587850.0	Foul on Tab Hamilton.	749.0	9.0	11.0	0.0	0.0	0.0	0.0
+74	400587850.0	Tadric Jackson made Free Throw.	749.0	10.0	11.0	1.0	0.0	1.0	0.0
+75	400587850.0	Tadric Jackson made Free Throw.	749.0	10.0	11.0	0.0	0.0	1.0	0.0
+76	400587850.0	Tadric Jackson made Free Throw.	749.0	11.0	11.0	1.0	0.0	1.0	0.0
+77	400587850.0	Tadric Jackson made Free Throw.	749.0	11.0	11.0	0.0	0.0	1.0	0.0
+78	400587850.0	Jacob Lawson Turnover.	733.0	11.0	11.0	0.0	0.0	0.0	1.0
+79	400587850.0	Chris Bolden missed Three Point Jumper.	721.0	11.0	11.0	0.0	0.0	1.0	0.0
+80	400587850.0	Chris Bolden missed Three Point Jumper.	721.0	11.0	11.0	0.0	0.0	1.0	0.0
+81	400587850.0	Robert Sampson Offensive Rebound.	721.0	11.0	11.0	0.0	0.0	1.0	0.0
+82	400587850.0	Robert Sampson Offensive Rebound.	721.0	11.0	11.0	0.0	0.0	1.0	0.0
+83	400587850.0	Robert Sampson made Dunk.	718.0	13.0	11.0	2.0	0.0	1.0	0.0
+84	400587850.0	Robert Sampson made Dunk.	718.0	13.0	11.0	0.0	0.0	1.0	0.0
+85	400587850.0	Appalachian St  Turnover.	680.0	13.0	11.0	0.0	0.0	0.0	1.0
+86	400587850.0	Appalachian St  Turnover.	680.0	13.0	11.0	0.0	0.0	0.0	1.0
+87	400587850.0	 Official TV Timeout	680.0	13.0	11.0	0.0	0.0	0.0	0.0
+88	400587850.0	 Official TV Timeout	680.0	13.0	11.0	0.0	0.0	0.0	0.0
+89	400587850.0	Demarco Cox made Layup. Assisted by Robert Sampson.	672.0	15.0	11.0	2.0	0.0	1.0	0.0
+90	400587850.0	Tommy Spagnolo missed Layup.	655.0	15.0	11.0	0.0	0.0	0.0	0.0
+91	400587850.0	Robert Sampson Defensive Rebound.	655.0	15.0	11.0	0.0	0.0	1.0	0.0
+92	400587850.0	Robert Sampson Defensive Rebound.	655.0	15.0	11.0	0.0	0.0	1.0	0.0
+93	400587850.0	Robert Sampson missed Jumper.	642.0	15.0	11.0	0.0	0.0	1.0	0.0
+94	400587850.0	Robert Sampson missed Jumper.	642.0	15.0	11.0	0.0	0.0	1.0	0.0
+95	400587850.0	Robert Sampson Offensive Rebound.	642.0	15.0	11.0	0.0	0.0	1.0	0.0
+96	400587850.0	Tadric Jackson missed Three Point Jumper.	628.0	15.0	11.0	0.0	0.0	1.0	0.0
+97	400587850.0	Tadric Jackson missed Three Point Jumper.	628.0	15.0	11.0	0.0	0.0	1.0	0.0
+98	400587850.0	Jake Babic Defensive Rebound.	628.0	15.0	11.0	0.0	0.0	0.0	0.0
+99	400587850.0	Foul on Jacob Lawson.	615.0	15.0	11.0	0.0	0.0	0.0	0.0
+100	400587850.0	Jacob Lawson Turnover.	615.0	15.0	11.0	0.0	0.0	0.0	1.0
+101	400587850.0	Foul on Jacob Lawson.	615.0	15.0	11.0	0.0	0.0	0.0	0.0
+102	400587850.0	Jacob Lawson Turnover.	615.0	15.0	11.0	0.0	0.0	0.0	1.0
+103	400587850.0	Tadric Jackson made Jumper.	597.0	17.0	11.0	2.0	0.0	1.0	0.0
+104	400587850.0	Tommy Spagnolo made Layup. Assisted by Dustin Clarke.	586.0	17.0	13.0	0.0	2.0	0.0	0.0
+105	400587850.0	Tommy Spagnolo made Layup. Assisted by Dustin Clarke.	586.0	17.0	13.0	0.0	0.0	0.0	0.0
+106	400587850.0	Chris Bolden missed Jumper.	571.0	17.0	13.0	0.0	0.0	1.0	0.0
+107	400587850.0	Chris Bolden missed Jumper.	571.0	17.0	13.0	0.0	0.0	1.0	0.0
+108	400587850.0	Michael Obacha Defensive Rebound.	571.0	17.0	13.0	0.0	0.0	0.0	0.0
+109	400587850.0	Michael Obacha Defensive Rebound.	571.0	17.0	13.0	0.0	0.0	0.0	0.0
+110	400587850.0	Tommy Spagnolo made Jumper.	558.0	17.0	15.0	0.0	2.0	0.0	0.0
+111	400587850.0	Tommy Spagnolo made Jumper.	558.0	17.0	15.0	0.0	0.0	0.0	0.0
+112	400587850.0	Travis Jorgenson missed Three Point Jumper.	548.0	17.0	15.0	0.0	0.0	1.0	0.0
+113	400587850.0	Michael Obacha Defensive Rebound.	548.0	17.0	15.0	0.0	0.0	0.0	0.0
+114	400587850.0	Travis Jorgenson missed Three Point Jumper.	548.0	17.0	15.0	0.0	0.0	1.0	0.0
+115	400587850.0	Michael Obacha Defensive Rebound.	548.0	17.0	15.0	0.0	0.0	0.0	0.0
+116	400587850.0	Jake Babic missed Three Point Jumper.	531.0	17.0	15.0	0.0	0.0	0.0	0.0
+117	400587850.0	Tadric Jackson Defensive Rebound.	531.0	17.0	15.0	0.0	0.0	1.0	0.0
+118	400587850.0	Jake Babic missed Three Point Jumper.	531.0	17.0	15.0	0.0	0.0	0.0	0.0
+119	400587850.0	Tadric Jackson Defensive Rebound.	531.0	17.0	15.0	0.0	0.0	1.0	0.0
+120	400587850.0	Charles Mitchell missed Layup.	521.0	17.0	15.0	0.0	0.0	1.0	0.0
+121	400587850.0	Tommy Spagnolo Defensive Rebound.	521.0	17.0	15.0	0.0	0.0	0.0	0.0
+122	400587850.0	Tommy Spagnolo Defensive Rebound.	521.0	17.0	15.0	0.0	0.0	0.0	0.0
+123	400587850.0	Chris Burgess made Jumper.	515.0	17.0	17.0	0.0	2.0	0.0	0.0
+124	400587850.0	Chris Burgess made Jumper.	515.0	17.0	17.0	0.0	0.0	0.0	0.0
+125	400587850.0	Tadric Jackson missed Three Point Jumper.	492.0	17.0	17.0	0.0	0.0	1.0	0.0
+126	400587850.0	Tadric Jackson missed Three Point Jumper.	492.0	17.0	17.0	0.0	0.0	1.0	0.0
+127	400587850.0	Tommy Spagnolo Defensive Rebound.	492.0	17.0	17.0	0.0	0.0	0.0	0.0
+128	400587850.0	Tommy Spagnolo Defensive Rebound.	492.0	17.0	17.0	0.0	0.0	0.0	0.0
+129	400587850.0	Tommy Spagnolo missed Jumper.	469.0	17.0	17.0	0.0	0.0	0.0	0.0
+130	400587850.0	Tommy Spagnolo missed Jumper.	469.0	17.0	17.0	0.0	0.0	0.0	0.0
+131	400587850.0	Demarco Cox Defensive Rebound.	469.0	17.0	17.0	0.0	0.0	1.0	0.0
+132	400587850.0	Demarco Cox Defensive Rebound.	469.0	17.0	17.0	0.0	0.0	1.0	0.0
+133	400587850.0	Foul on Tommy Spagnolo.	461.0	17.0	17.0	0.0	0.0	0.0	0.0
+134	400587850.0	Foul on Tommy Spagnolo.	461.0	17.0	17.0	0.0	0.0	0.0	0.0
+135	400587850.0	 Official TV Timeout	461.0	17.0	17.0	0.0	0.0	0.0	0.0
+136	400587850.0	 Official TV Timeout	461.0	17.0	17.0	0.0	0.0	0.0	0.0
+137	400587850.0	Tadric Jackson missed Free Throw.	461.0	17.0	17.0	0.0	0.0	1.0	0.0
+138	400587850.0	Tadric Jackson missed Free Throw.	461.0	17.0	17.0	0.0	0.0	1.0	0.0
+139	400587850.0	Georgia Tech Deadball Team Rebound.	461.0	17.0	17.0	0.0	0.0	1.0	0.0
+140	400587850.0	Georgia Tech Deadball Team Rebound.	461.0	17.0	17.0	0.0	0.0	1.0	0.0
+141	400587850.0	Tadric Jackson made Free Throw.	461.0	18.0	17.0	1.0	0.0	1.0	0.0
+142	400587850.0	Tadric Jackson made Free Throw.	461.0	18.0	17.0	0.0	0.0	1.0	0.0
+143	400587850.0	Dustin Clarke missed Three Point Jumper.	450.0	18.0	17.0	0.0	0.0	0.0	0.0
+144	400587850.0	Corey Heyward Defensive Rebound.	450.0	18.0	17.0	0.0	0.0	1.0	0.0
+145	400587850.0	Corey Heyward Defensive Rebound.	450.0	18.0	17.0	0.0	0.0	1.0	0.0
+146	400587850.0	Demarco Cox made Jumper.	436.0	20.0	17.0	2.0	0.0	1.0	0.0
+147	400587850.0	Demarco Cox made Jumper.	436.0	20.0	17.0	0.0	0.0	1.0	0.0
+148	400587850.0	Foul on Mike Kobani.	436.0	20.0	17.0	0.0	0.0	0.0	0.0
+149	400587850.0	Foul on Mike Kobani.	436.0	20.0	17.0	0.0	0.0	0.0	0.0
+150	400587850.0	Demarco Cox missed Free Throw.	436.0	20.0	17.0	0.0	0.0	1.0	0.0
+151	400587850.0	Dustin Clarke Defensive Rebound.	436.0	20.0	17.0	0.0	0.0	0.0	0.0
+152	400587850.0	Dustin Clarke Defensive Rebound.	436.0	20.0	17.0	0.0	0.0	0.0	0.0
+153	400587850.0	Landon Goesling missed Jumper.	409.0	20.0	17.0	0.0	0.0	0.0	0.0
+154	400587850.0	Landon Goesling missed Jumper.	409.0	20.0	17.0	0.0	0.0	0.0	0.0
+155	400587850.0	Dustin Clarke Offensive Rebound.	409.0	20.0	17.0	0.0	0.0	0.0	0.0
+156	400587850.0	Dustin Clarke Offensive Rebound.	409.0	20.0	17.0	0.0	0.0	0.0	0.0
+157	400587850.0	Dustin Clarke made Layup.	405.0	20.0	19.0	0.0	2.0	0.0	0.0
+158	400587850.0	Dustin Clarke made Layup.	405.0	20.0	19.0	0.0	0.0	0.0	0.0
+159	400587850.0	Foul on Frank Eaves.	387.0	20.0	19.0	0.0	0.0	0.0	0.0
+160	400587850.0	Marcus Georges-Hunt made Free Throw.	387.0	21.0	19.0	1.0	0.0	1.0	0.0
+161	400587850.0	Marcus Georges-Hunt made Free Throw.	387.0	21.0	19.0	0.0	0.0	1.0	0.0
+162	400587850.0	Marcus Georges-Hunt made Free Throw.	387.0	22.0	19.0	1.0	0.0	1.0	0.0
+163	400587850.0	Marcus Georges-Hunt made Free Throw.	387.0	22.0	19.0	0.0	0.0	1.0	0.0
+164	400587850.0	Dustin Clarke made Jumper.	376.0	22.0	21.0	0.0	2.0	0.0	0.0
+165	400587850.0	Dustin Clarke made Jumper.	376.0	22.0	21.0	0.0	0.0	0.0	0.0
+166	400587850.0	Robert Sampson made Jumper. Assisted by Marcus Georges-Hunt.	358.0	24.0	21.0	2.0	0.0	1.0	0.0
+167	400587850.0	Robert Sampson made Jumper. Assisted by Marcus Georges-Hunt.	358.0	24.0	21.0	0.0	0.0	1.0	0.0
+168	400587850.0	Frank Eaves missed Jumper.	334.0	24.0	21.0	0.0	0.0	0.0	0.0
+169	400587850.0	Frank Eaves missed Jumper.	334.0	24.0	21.0	0.0	0.0	0.0	0.0
+170	400587850.0	Robert Sampson Defensive Rebound.	334.0	24.0	21.0	0.0	0.0	1.0	0.0
+171	400587850.0	Robert Sampson Defensive Rebound.	334.0	24.0	21.0	0.0	0.0	1.0	0.0
+172	400587850.0	Charles Mitchell missed Jumper.	321.0	24.0	21.0	0.0	0.0	1.0	0.0
+173	400587850.0	Michael Obacha Block.	321.0	24.0	21.0	0.0	0.0	0.0	0.0
+174	400587850.0	Charles Mitchell missed Jumper.	321.0	24.0	21.0	0.0	0.0	1.0	0.0
+175	400587850.0	Michael Obacha Block.	321.0	24.0	21.0	0.0	0.0	0.0	0.0
+176	400587850.0	Georgia Tech Offensive Rebound.	319.0	24.0	21.0	0.0	0.0	1.0	0.0
+177	400587850.0	Georgia Tech Offensive Rebound.	319.0	24.0	21.0	0.0	0.0	1.0	0.0
+178	400587850.0	Foul on Mike Kobani.	314.0	24.0	21.0	0.0	0.0	0.0	0.0
+179	400587850.0	Foul on Mike Kobani.	314.0	24.0	21.0	0.0	0.0	0.0	0.0
+180	400587850.0	Charles Mitchell missed Free Throw.	314.0	24.0	21.0	0.0	0.0	1.0	0.0
+181	400587850.0	Georgia Tech Deadball Team Rebound.	314.0	24.0	21.0	0.0	0.0	1.0	0.0
+182	400587850.0	Charles Mitchell made Free Throw.	314.0	25.0	21.0	1.0	0.0	1.0	0.0
+183	400587850.0	Dustin Clarke missed Jumper.	292.0	25.0	21.0	0.0	0.0	0.0	0.0
+184	400587850.0	Charles Mitchell Defensive Rebound.	292.0	25.0	21.0	0.0	0.0	1.0	0.0
+185	400587850.0	Dustin Clarke missed Jumper.	292.0	25.0	21.0	0.0	0.0	0.0	0.0
+186	400587850.0	Charles Mitchell Defensive Rebound.	292.0	25.0	21.0	0.0	0.0	1.0	0.0
+187	400587850.0	Marcus Georges-Hunt made Jumper.	283.0	27.0	21.0	2.0	0.0	1.0	0.0
+188	400587850.0	Marcus Georges-Hunt made Jumper.	283.0	27.0	21.0	0.0	0.0	1.0	0.0
+189	400587850.0	Tab Hamilton missed Jumper.	255.0	27.0	21.0	0.0	0.0	0.0	0.0
+190	400587850.0	Tab Hamilton missed Jumper.	255.0	27.0	21.0	0.0	0.0	0.0	0.0
+191	400587850.0	Georgia Tech Deadball Team Rebound.	255.0	27.0	21.0	0.0	0.0	1.0	0.0
+192	400587850.0	Foul on Dustin Clarke.	253.0	27.0	21.0	0.0	0.0	0.0	0.0
+193	400587850.0	Marcus Georges-Hunt made Free Throw.	253.0	28.0	21.0	1.0	0.0	1.0	0.0
+194	400587850.0	Foul on Dustin Clarke.	253.0	27.0	21.0	-1.0	0.0	0.0	0.0
+195	400587850.0	Marcus Georges-Hunt made Free Throw.	253.0	28.0	21.0	1.0	0.0	1.0	0.0
+196	400587850.0	Marcus Georges-Hunt made Free Throw.	253.0	29.0	21.0	1.0	0.0	1.0	0.0
+197	400587850.0	Michael Obacha made Layup. Assisted by Tab Hamilton.	225.0	29.0	23.0	0.0	2.0	0.0	0.0
+198	400587850.0	Foul on Tab Hamilton.	216.0	29.0	23.0	0.0	0.0	0.0	0.0
+199	400587850.0	 Official TV Timeout	216.0	29.0	23.0	0.0	0.0	0.0	0.0
+200	400587850.0	Marcus Georges-Hunt made Free Throw.	216.0	30.0	23.0	1.0	0.0	1.0	0.0
+201	400587850.0	Marcus Georges-Hunt made Free Throw.	216.0	31.0	23.0	1.0	0.0	1.0	0.0
+202	400587850.0	Marcus Georges-Hunt made Free Throw.	216.0	31.0	23.0	0.0	0.0	1.0	0.0
+203	400587850.0	Frank Eaves missed Three Point Jumper.	189.0	31.0	23.0	0.0	0.0	0.0	0.0
+204	400587850.0	Georgia Tech Defensive Rebound.	189.0	31.0	23.0	0.0	0.0	1.0	0.0
+205	400587850.0	Marcus Georges-Hunt made Layup. Assisted by Robert Sampson.	175.0	33.0	23.0	2.0	0.0	1.0	0.0
+206	400587850.0	Foul on Marcus Georges-Hunt.	151.0	33.0	23.0	0.0	0.0	1.0	0.0
+207	400587850.0	Foul on Marcus Georges-Hunt.	151.0	33.0	23.0	0.0	0.0	1.0	0.0
+208	400587850.0	Foul on Robert Sampson.	148.0	33.0	23.0	0.0	0.0	1.0	0.0
+209	400587850.0	Foul on Robert Sampson.	148.0	33.0	23.0	0.0	0.0	1.0	0.0
+210	400587850.0	Chris Burgess made Layup. Assisted by Jake Babic.	144.0	33.0	25.0	0.0	2.0	0.0	0.0
+211	400587850.0	Marcus Georges-Hunt missed Layup.	131.0	33.0	25.0	0.0	0.0	1.0	0.0
+212	400587850.0	Marcus Georges-Hunt Offensive Rebound.	131.0	33.0	25.0	0.0	0.0	1.0	0.0
+213	400587850.0	Marcus Georges-Hunt missed Jumper.	127.0	33.0	25.0	0.0	0.0	1.0	0.0
+214	400587850.0	Marcus Georges-Hunt missed Jumper.	127.0	33.0	25.0	0.0	0.0	1.0	0.0
+215	400587850.0	Demarco Cox Offensive Rebound.	127.0	33.0	25.0	0.0	0.0	1.0	0.0
+216	400587850.0	Demarco Cox Offensive Rebound.	127.0	33.0	25.0	0.0	0.0	1.0	0.0
+217	400587850.0	Demarco Cox made Layup.	123.0	35.0	25.0	2.0	0.0	1.0	0.0
+218	400587850.0	Demarco Cox made Layup.	123.0	35.0	25.0	0.0	0.0	1.0	0.0
+219	400587850.0	Tommy Spagnolo missed Three Point Jumper.	112.0	35.0	25.0	0.0	0.0	0.0	0.0
+220	400587850.0	Tommy Spagnolo missed Three Point Jumper.	112.0	35.0	25.0	0.0	0.0	0.0	0.0
+221	400587850.0	Marcus Georges-Hunt Defensive Rebound.	112.0	35.0	25.0	0.0	0.0	1.0	0.0
+222	400587850.0	Foul on Tommy Spagnolo.	105.0	35.0	25.0	0.0	0.0	0.0	0.0
+223	400587850.0	Marcus Georges-Hunt made Free Throw.	105.0	36.0	25.0	1.0	0.0	1.0	0.0
+224	400587850.0	Marcus Georges-Hunt made Free Throw.	105.0	36.0	25.0	0.0	0.0	1.0	0.0
+225	400587850.0	Marcus Georges-Hunt missed Free Throw.	105.0	36.0	25.0	0.0	0.0	1.0	0.0
+226	400587850.0	Michael Obacha Defensive Rebound.	105.0	36.0	25.0	0.0	0.0	0.0	0.0
+227	400587850.0	Frank Eaves Turnover.	78.0	36.0	25.0	0.0	0.0	0.0	1.0
+228	400587850.0	Chris Bolden Turnover.	64.0	36.0	25.0	0.0	0.0	1.0	1.0
+229	400587850.0	Chris Bolden Turnover.	64.0	36.0	25.0	0.0	0.0	1.0	1.0
+230	400587850.0	Appalachian St  Timeout	55.0	36.0	25.0	0.0	0.0	0.0	0.0
+231	400587850.0	Appalachian St  Timeout	55.0	36.0	25.0	0.0	0.0	0.0	0.0
+232	400587850.0	Rantavious Gilbert Turnover.	37.0	36.0	25.0	0.0	0.0	0.0	1.0
+233	400587850.0	Rantavious Gilbert Turnover.	37.0	36.0	25.0	0.0	0.0	0.0	1.0
+234	400587850.0	Georgia Tech  Timeout	29.0	36.0	25.0	0.0	0.0	0.0	0.0
+235	400587850.0	Georgia Tech  Timeout	29.0	36.0	25.0	0.0	0.0	0.0	0.0
+236	400587850.0	Tadric Jackson missed Three Point Jumper.	5.0	36.0	25.0	0.0	0.0	1.0	0.0
+237	400587850.0	Tadric Jackson missed Three Point Jumper.	5.0	36.0	25.0	0.0	0.0	1.0	0.0
+238	400587850.0	Demarco Cox Offensive Rebound.	5.0	36.0	25.0	0.0	0.0	1.0	0.0
+239	400587850.0	Demarco Cox Offensive Rebound.	5.0	36.0	25.0	0.0	0.0	1.0	0.0
+240	400587850.0	Demarco Cox missed Jumper.	2.0	36.0	25.0	0.0	0.0	1.0	0.0
+241	400587850.0	Demarco Cox missed Jumper.	2.0	36.0	25.0	0.0	0.0	1.0	0.0
+242	400587850.0	Rantavious Gilbert Defensive Rebound.	2.0	36.0	25.0	0.0	0.0	0.0	0.0
+243	400587850.0	End of 1st half	0.0	36.0	25.0	0.0	0.0	0.0	0.0
+244	400587850.0	Marcus Georges-Hunt missed Three Point Jumper.	1182.0	36.0	25.0	0.0	0.0	1.0	0.0
+245	400587850.0	Tommy Spagnolo Defensive Rebound.	1182.0	36.0	25.0	0.0	0.0	0.0	0.0
+246	400587850.0	Chris Burgess made Layup.	1150.0	36.0	27.0	0.0	2.0	0.0	0.0
+247	400587850.0	Marcus Georges-Hunt missed Three Point Jumper.	1128.0	36.0	27.0	0.0	0.0	1.0	0.0
+248	400587850.0	Dustin Clarke Defensive Rebound.	1128.0	36.0	27.0	0.0	0.0	0.0	0.0
+249	400587850.0	Tommy Spagnolo made Jumper. Assisted by Chris Burgess.	1117.0	36.0	29.0	0.0	2.0	0.0	0.0
+250	400587850.0	Charles Mitchell missed Jumper.	1100.0	36.0	29.0	0.0	0.0	1.0	0.0
+251	400587850.0	Dustin Clarke Defensive Rebound.	1100.0	36.0	29.0	0.0	0.0	0.0	0.0
+252	400587850.0	Chris Burgess Turnover.	1087.0	36.0	29.0	0.0	0.0	0.0	1.0
+253	400587850.0	Demarco Cox Steal.	1083.0	36.0	29.0	0.0	0.0	1.0	0.0
+254	400587850.0	Marcus Georges-Hunt missed Three Point Jumper.	1081.0	36.0	29.0	0.0	0.0	1.0	0.0
+255	400587850.0	Charles Mitchell Offensive Rebound.	1081.0	36.0	29.0	0.0	0.0	1.0	0.0
+256	400587850.0	Charles Mitchell missed Layup.	1077.0	36.0	29.0	0.0	0.0	1.0	0.0
+257	400587850.0	Tommy Spagnolo Block.	1077.0	36.0	29.0	0.0	0.0	0.0	0.0
+258	400587850.0	Tommy Spagnolo Block.	1077.0	36.0	29.0	0.0	0.0	0.0	0.0
+259	400587850.0	Georgia Tech Offensive Rebound.	1075.0	36.0	29.0	0.0	0.0	1.0	0.0
+260	400587850.0	Georgia Tech Offensive Rebound.	1075.0	36.0	29.0	0.0	0.0	1.0	0.0
+261	400587850.0	Demarco Cox made Layup. Assisted by Marcus Georges-Hunt.	1072.0	38.0	29.0	2.0	0.0	1.0	0.0
+262	400587850.0	Chris Burgess missed Three Point Jumper.	1056.0	38.0	29.0	0.0	0.0	0.0	0.0
+263	400587850.0	Robert Sampson Defensive Rebound.	1056.0	38.0	29.0	0.0	0.0	1.0	0.0
+264	400587850.0	Foul on Marcus Georges-Hunt.	1048.0	38.0	29.0	0.0	0.0	1.0	0.0
+265	400587850.0	Marcus Georges-Hunt Turnover.	1048.0	38.0	29.0	0.0	0.0	1.0	1.0
+266	400587850.0	Tommy Spagnolo missed Layup.	1021.0	38.0	29.0	0.0	0.0	0.0	0.0
+267	400587850.0	Demarco Cox Defensive Rebound.	1021.0	38.0	29.0	0.0	0.0	1.0	0.0
+268	400587850.0	Robert Sampson made Jumper. Assisted by Travis Jorgenson.	1010.0	40.0	29.0	2.0	0.0	1.0	0.0
+269	400587850.0	Foul on Robert Sampson.	996.0	40.0	29.0	0.0	0.0	1.0	0.0
+270	400587850.0	Chris Burgess made Jumper. Assisted by Dustin Clarke.	984.0	40.0	31.0	0.0	2.0	0.0	0.0
+271	400587850.0	Quinton Stephens made Three Point Jumper. Assisted by Travis Jorgenson.	970.0	43.0	31.0	3.0	0.0	1.0	0.0
+272	400587850.0	Frank Eaves made Three Point Jumper. Assisted by Griffin Kinney.	951.0	43.0	34.0	0.0	3.0	0.0	0.0
+273	400587850.0	Foul on Marcus Georges-Hunt.	944.0	43.0	34.0	0.0	0.0	1.0	0.0
+274	400587850.0	Marcus Georges-Hunt Turnover.	944.0	43.0	34.0	0.0	0.0	1.0	1.0
+275	400587850.0	Marcus Georges-Hunt Turnover.	944.0	43.0	34.0	0.0	0.0	1.0	1.0
+276	400587850.0	 Official TV Timeout	944.0	43.0	34.0	0.0	0.0	0.0	0.0
+277	400587850.0	 Official TV Timeout	944.0	43.0	34.0	0.0	0.0	0.0	0.0
+278	400587850.0	Frank Eaves missed Three Point Jumper.	916.0	43.0	34.0	0.0	0.0	0.0	0.0
+279	400587850.0	Ben Lammers Defensive Rebound.	916.0	43.0	34.0	0.0	0.0	1.0	0.0
+280	400587850.0	Ben Lammers Defensive Rebound.	916.0	43.0	34.0	0.0	0.0	1.0	0.0
+281	400587850.0	Josh Heath made Jumper.	903.0	45.0	34.0	2.0	0.0	1.0	0.0
+282	400587850.0	Dustin Clarke Turnover.	890.0	45.0	34.0	0.0	0.0	0.0	1.0
+283	400587850.0	Foul on Tommy Spagnolo.	875.0	45.0	34.0	0.0	0.0	0.0	0.0
+284	400587850.0	Ben Lammers missed Layup.	856.0	45.0	34.0	0.0	0.0	1.0	0.0
+285	400587850.0	Ben Lammers missed Layup.	856.0	45.0	34.0	0.0	0.0	1.0	0.0
+286	400587850.0	Tommy Spagnolo Defensive Rebound.	856.0	45.0	34.0	0.0	0.0	0.0	0.0
+287	400587850.0	Griffin Kinney made Layup. Assisted by Chris Burgess.	849.0	45.0	36.0	0.0	2.0	0.0	0.0
+288	400587850.0	Griffin Kinney made Layup. Assisted by Chris Burgess.	849.0	45.0	36.0	0.0	0.0	0.0	0.0
+289	400587850.0	Chris Bolden made Layup.	837.0	47.0	36.0	2.0	0.0	1.0	0.0
+290	400587850.0	Chris Bolden made Layup.	837.0	47.0	36.0	0.0	0.0	1.0	0.0
+291	400587850.0	Frank Eaves missed Layup.	831.0	47.0	36.0	0.0	0.0	0.0	0.0
+292	400587850.0	Quinton Stephens Block.	831.0	47.0	36.0	0.0	0.0	1.0	0.0
+293	400587850.0	Quinton Stephens Block.	831.0	47.0	36.0	0.0	0.0	1.0	0.0
+294	400587850.0	Robert Sampson Defensive Rebound.	829.0	47.0	36.0	0.0	0.0	1.0	0.0
+295	400587850.0	Robert Sampson made Dunk. Assisted by Josh Heath.	822.0	49.0	36.0	2.0	0.0	1.0	0.0
+296	400587850.0	Griffin Kinney Turnover.	820.0	49.0	36.0	0.0	0.0	0.0	1.0
+297	400587850.0	Foul on Chris Burgess.	817.0	49.0	36.0	0.0	0.0	0.0	0.0
+298	400587850.0	Foul on Chris Bolden.	816.0	49.0	36.0	0.0	0.0	1.0	0.0
+299	400587850.0	Chris Bolden Turnover.	816.0	49.0	36.0	0.0	0.0	1.0	1.0
+300	400587850.0	Foul on Ben Lammers.	806.0	49.0	36.0	0.0	0.0	1.0	0.0
+301	400587850.0	Frank Eaves made Free Throw.	806.0	49.0	37.0	0.0	1.0	0.0	0.0
+302	400587850.0	Frank Eaves made Free Throw.	806.0	49.0	38.0	0.0	1.0	0.0	0.0
+303	400587850.0	Ben Lammers made Dunk. Assisted by Robert Sampson.	799.0	51.0	38.0	2.0	0.0	1.0	0.0
+304	400587850.0	Foul on Tadric Jackson.	777.0	51.0	38.0	0.0	0.0	1.0	0.0
+305	400587850.0	Tab Hamilton made Jumper. Assisted by Jake Babic.	760.0	51.0	40.0	0.0	2.0	0.0	0.0
+306	400587850.0	Tadric Jackson missed Three Point Jumper.	739.0	51.0	40.0	0.0	0.0	1.0	0.0
+307	400587850.0	Griffin Kinney Defensive Rebound.	739.0	51.0	40.0	0.0	0.0	0.0	0.0
+308	400587850.0	Griffin Kinney Turnover.	726.0	51.0	40.0	0.0	0.0	0.0	1.0
+309	400587850.0	Demarco Cox made Layup. Assisted by Chris Bolden.	711.0	53.0	40.0	2.0	0.0	1.0	0.0
+310	400587850.0	Foul on Jacob Lawson.	711.0	53.0	40.0	0.0	0.0	0.0	0.0
+311	400587850.0	 Official TV Timeout	711.0	53.0	40.0	0.0	0.0	0.0	0.0
+312	400587850.0	Demarco Cox missed Free Throw.	711.0	53.0	40.0	0.0	0.0	1.0	0.0
+313	400587850.0	Georgia Tech Offensive Rebound.	711.0	53.0	40.0	0.0	0.0	1.0	0.0
+314	400587850.0	Demarco Cox made Layup. Assisted by Tadric Jackson.	682.0	55.0	40.0	2.0	0.0	1.0	0.0
+315	400587850.0	Appalachian St  Timeout	672.0	55.0	40.0	0.0	0.0	0.0	0.0
+316	400587850.0	Appalachian St  Timeout	672.0	55.0	40.0	0.0	0.0	0.0	0.0
+317	400587850.0	Frank Eaves missed Three Point Jumper.	652.0	55.0	40.0	0.0	0.0	0.0	0.0
+318	400587850.0	Frank Eaves missed Three Point Jumper.	652.0	55.0	40.0	0.0	0.0	0.0	0.0
+319	400587850.0	Chris Bolden Defensive Rebound.	652.0	55.0	40.0	0.0	0.0	1.0	0.0
+320	400587850.0	Tadric Jackson made Layup. Assisted by Chris Bolden.	647.0	57.0	40.0	2.0	0.0	1.0	0.0
+321	400587850.0	Tadric Jackson made Layup. Assisted by Chris Bolden.	647.0	57.0	40.0	0.0	0.0	1.0	0.0
+322	400587850.0	Foul on Frank Eaves.	642.0	57.0	40.0	0.0	0.0	0.0	0.0
+323	400587850.0	Frank Eaves Turnover.	642.0	57.0	40.0	0.0	0.0	0.0	1.0
+324	400587850.0	Frank Eaves Turnover.	642.0	57.0	40.0	0.0	0.0	0.0	1.0
+325	400587850.0	Tadric Jackson made Three Point Jumper. Assisted by Josh Heath.	639.0	60.0	40.0	3.0	0.0	1.0	0.0
+326	400587850.0	Tadric Jackson made Three Point Jumper. Assisted by Josh Heath.	639.0	60.0	40.0	0.0	0.0	1.0	0.0
+327	400587850.0	Chris Burgess made Layup.	631.0	60.0	42.0	0.0	2.0	0.0	0.0
+328	400587850.0	Tadric Jackson missed Three Point Jumper.	619.0	60.0	42.0	0.0	0.0	1.0	0.0
+329	400587850.0	Jacob Lawson Defensive Rebound.	619.0	60.0	42.0	0.0	0.0	0.0	0.0
+330	400587850.0	Foul on Demarco Cox.	610.0	60.0	42.0	0.0	0.0	1.0	0.0
+331	400587850.0	Chris Burgess made Free Throw.	610.0	60.0	43.0	0.0	1.0	0.0	0.0
+332	400587850.0	Chris Burgess made Free Throw.	610.0	60.0	43.0	0.0	0.0	0.0	0.0
+333	400587850.0	Chris Burgess made Free Throw.	610.0	60.0	44.0	0.0	1.0	0.0	0.0
+334	400587850.0	Foul on Tab Hamilton.	599.0	60.0	44.0	0.0	0.0	0.0	0.0
+335	400587850.0	Tadric Jackson made Jumper.	582.0	62.0	44.0	2.0	0.0	1.0	0.0
+336	400587850.0	Tadric Jackson made Jumper.	582.0	62.0	44.0	0.0	0.0	1.0	0.0
+337	400587850.0	Chris Burgess made Three Point Jumper.	558.0	62.0	47.0	0.0	3.0	0.0	0.0
+338	400587850.0	Tadric Jackson missed Three Point Jumper.	546.0	62.0	47.0	0.0	0.0	1.0	0.0
+339	400587850.0	Marcus Georges-Hunt Offensive Rebound.	546.0	62.0	47.0	0.0	0.0	1.0	0.0
+340	400587850.0	Foul on Rantavious Gilbert.	538.0	62.0	47.0	0.0	0.0	0.0	0.0
+341	400587850.0	Foul on Michael Obacha.	527.0	62.0	47.0	0.0	0.0	0.0	0.0
+342	400587850.0	Robert Sampson made Free Throw.	527.0	63.0	47.0	1.0	0.0	1.0	0.0
+343	400587850.0	Robert Sampson made Free Throw.	527.0	63.0	47.0	0.0	0.0	1.0	0.0
+344	400587850.0	Robert Sampson missed Free Throw.	527.0	63.0	47.0	0.0	0.0	1.0	0.0
+345	400587850.0	Robert Sampson missed Free Throw.	527.0	63.0	47.0	0.0	0.0	1.0	0.0
+346	400587850.0	Rantavious Gilbert Defensive Rebound.	527.0	63.0	47.0	0.0	0.0	0.0	0.0
+347	400587850.0	Chris Burgess missed Layup.	519.0	63.0	47.0	0.0	0.0	0.0	0.0
+348	400587850.0	Chris Burgess missed Layup.	519.0	63.0	47.0	0.0	0.0	0.0	0.0
+349	400587850.0	Quinton Stephens Defensive Rebound.	519.0	63.0	47.0	0.0	0.0	1.0	0.0
+350	400587850.0	Quinton Stephens Defensive Rebound.	519.0	63.0	47.0	0.0	0.0	1.0	0.0
+351	400587850.0	Marcus Georges-Hunt missed Jumper.	504.0	63.0	47.0	0.0	0.0	1.0	0.0
+352	400587850.0	Marcus Georges-Hunt missed Jumper.	504.0	63.0	47.0	0.0	0.0	1.0	0.0
+353	400587850.0	Rantavious Gilbert Block.	504.0	63.0	47.0	0.0	0.0	0.0	0.0
+354	400587850.0	Rantavious Gilbert Block.	504.0	63.0	47.0	0.0	0.0	0.0	0.0
+355	400587850.0	Chris Burgess Defensive Rebound.	502.0	63.0	47.0	0.0	0.0	0.0	0.0
+356	400587850.0	Chris Burgess Defensive Rebound.	502.0	63.0	47.0	0.0	0.0	0.0	0.0
+357	400587850.0	Foul on Landon Goesling.	497.0	63.0	47.0	0.0	0.0	0.0	0.0
+358	400587850.0	Landon Goesling Turnover.	497.0	63.0	47.0	0.0	0.0	0.0	1.0
+359	400587850.0	Foul on Michael Obacha.	481.0	63.0	47.0	0.0	0.0	0.0	0.0
+360	400587850.0	Robert Sampson missed Free Throw.	481.0	63.0	47.0	0.0	0.0	1.0	0.0
+361	400587850.0	Robert Sampson missed Free Throw.	481.0	63.0	47.0	0.0	0.0	1.0	0.0
+362	400587850.0	Georgia Tech Deadball Team Rebound.	481.0	63.0	47.0	0.0	0.0	1.0	0.0
+363	400587850.0	Georgia Tech Deadball Team Rebound.	481.0	63.0	47.0	0.0	0.0	1.0	0.0
+364	400587850.0	Robert Sampson made Free Throw.	481.0	64.0	47.0	1.0	0.0	1.0	0.0
+365	400587850.0	Chris Burgess missed Jumper.	451.0	64.0	47.0	0.0	0.0	0.0	0.0
+366	400587850.0	Marcus Georges-Hunt Defensive Rebound.	451.0	64.0	47.0	0.0	0.0	1.0	0.0
+367	400587850.0	 Official TV Timeout	448.0	64.0	47.0	0.0	0.0	0.0	0.0
+368	400587850.0	Foul on Chris Burgess.	432.0	64.0	47.0	0.0	0.0	0.0	0.0
+369	400587850.0	Quinton Stephens made Free Throw.	432.0	65.0	47.0	1.0	0.0	1.0	0.0
+370	400587850.0	Quinton Stephens made Free Throw.	432.0	65.0	47.0	0.0	0.0	1.0	0.0
+371	400587850.0	Quinton Stephens made Free Throw.	432.0	66.0	47.0	1.0	0.0	1.0	0.0
+372	400587850.0	Landon Goesling missed Jumper.	408.0	66.0	47.0	0.0	0.0	0.0	0.0
+373	400587850.0	Ben Lammers Defensive Rebound.	408.0	66.0	47.0	0.0	0.0	1.0	0.0
+374	400587850.0	Landon Goesling missed Jumper.	408.0	66.0	47.0	0.0	0.0	0.0	0.0
+375	400587850.0	Ben Lammers Defensive Rebound.	408.0	66.0	47.0	0.0	0.0	1.0	0.0
+376	400587850.0	Foul on Marcus Georges-Hunt.	382.0	66.0	47.0	0.0	0.0	1.0	0.0
+377	400587850.0	Marcus Georges-Hunt Turnover.	382.0	66.0	47.0	0.0	0.0	1.0	1.0
+378	400587850.0	Foul on Marcus Georges-Hunt.	382.0	66.0	47.0	0.0	0.0	1.0	0.0
+379	400587850.0	Marcus Georges-Hunt Turnover.	382.0	66.0	47.0	0.0	0.0	1.0	1.0
+380	400587850.0	Michael Obacha Turnover.	366.0	66.0	47.0	0.0	0.0	0.0	1.0
+381	400587850.0	Michael Obacha Turnover.	366.0	66.0	47.0	0.0	0.0	0.0	1.0
+382	400587850.0	Ben Lammers Steal.	365.0	66.0	47.0	0.0	0.0	1.0	0.0
+383	400587850.0	Ben Lammers Steal.	365.0	66.0	47.0	0.0	0.0	1.0	0.0
+384	400587850.0	Travis Jorgenson made Layup.	361.0	68.0	47.0	2.0	0.0	1.0	0.0
+385	400587850.0	Landon Goesling missed Three Point Jumper.	334.0	68.0	47.0	0.0	0.0	0.0	0.0
+386	400587850.0	Chris Bolden Defensive Rebound.	334.0	68.0	47.0	0.0	0.0	1.0	0.0
+387	400587850.0	Landon Goesling missed Three Point Jumper.	334.0	68.0	47.0	0.0	0.0	0.0	0.0
+388	400587850.0	Chris Bolden Defensive Rebound.	334.0	68.0	47.0	0.0	0.0	1.0	0.0
+389	400587850.0	Robert Sampson missed Three Point Jumper.	326.0	68.0	47.0	0.0	0.0	1.0	0.0
+390	400587850.0	Dustin Clarke Defensive Rebound.	326.0	68.0	47.0	0.0	0.0	0.0	0.0
+391	400587850.0	Robert Sampson missed Three Point Jumper.	326.0	68.0	47.0	0.0	0.0	1.0	0.0
+392	400587850.0	Dustin Clarke Defensive Rebound.	326.0	68.0	47.0	0.0	0.0	0.0	0.0
+393	400587850.0	Dustin Clarke Turnover.	318.0	68.0	47.0	0.0	0.0	0.0	1.0
+394	400587850.0	Dustin Clarke Turnover.	318.0	68.0	47.0	0.0	0.0	0.0	1.0
+395	400587850.0	Tadric Jackson missed Jumper.	303.0	68.0	47.0	0.0	0.0	1.0	0.0
+396	400587850.0	Tadric Jackson missed Jumper.	303.0	68.0	47.0	0.0	0.0	1.0	0.0
+397	400587850.0	Griffin Kinney Defensive Rebound.	303.0	68.0	47.0	0.0	0.0	0.0	0.0
+398	400587850.0	Griffin Kinney Defensive Rebound.	303.0	68.0	47.0	0.0	0.0	0.0	0.0
+399	400587850.0	Landon Goesling missed Layup.	297.0	68.0	47.0	0.0	0.0	0.0	0.0
+400	400587850.0	Chris Bolden Block.	297.0	68.0	47.0	0.0	0.0	1.0	0.0
+401	400587850.0	Dustin Clarke Offensive Rebound.	295.0	68.0	47.0	0.0	0.0	0.0	0.0
+402	400587850.0	Dustin Clarke made Layup.	293.0	68.0	49.0	0.0	2.0	0.0	0.0
+403	400587850.0	Appalachian St  Timeout	293.0	68.0	49.0	0.0	0.0	0.0	0.0
+404	400587850.0	Appalachian St  Timeout	293.0	68.0	49.0	0.0	0.0	0.0	0.0
+405	400587850.0	Chris Bolden missed Layup.	267.0	68.0	49.0	0.0	0.0	1.0	0.0
+406	400587850.0	Chris Bolden missed Layup.	267.0	68.0	49.0	0.0	0.0	1.0	0.0
+407	400587850.0	Dustin Clarke Defensive Rebound.	267.0	68.0	49.0	0.0	0.0	0.0	0.0
+408	400587850.0	Dustin Clarke Defensive Rebound.	267.0	68.0	49.0	0.0	0.0	0.0	0.0
+409	400587850.0	Griffin Kinney Turnover.	236.0	68.0	49.0	0.0	0.0	0.0	1.0
+410	400587850.0	 Official TV Timeout	236.0	68.0	49.0	0.0	0.0	0.0	0.0
+411	400587850.0	Josh Heath Turnover.	222.0	68.0	49.0	0.0	0.0	1.0	1.0
+412	400587850.0	Josh Heath Turnover.	222.0	68.0	49.0	0.0	0.0	1.0	1.0
+413	400587850.0	Griffin Kinney Steal.	221.0	68.0	49.0	0.0	0.0	0.0	0.0
+414	400587850.0	Griffin Kinney Steal.	221.0	68.0	49.0	0.0	0.0	0.0	0.0
+415	400587850.0	Milos Kostic missed Three Point Jumper.	209.0	68.0	49.0	0.0	0.0	0.0	0.0
+416	400587850.0	Demarco Cox Defensive Rebound.	209.0	68.0	49.0	0.0	0.0	1.0	0.0
+417	400587850.0	Milos Kostic missed Three Point Jumper.	209.0	68.0	49.0	0.0	0.0	0.0	0.0
+418	400587850.0	Demarco Cox Defensive Rebound.	209.0	68.0	49.0	0.0	0.0	1.0	0.0
+419	400587850.0	Foul on Logan Jackson.	189.0	68.0	49.0	0.0	0.0	0.0	0.0
+420	400587850.0	Foul on Logan Jackson.	189.0	68.0	49.0	0.0	0.0	0.0	0.0
+421	400587850.0	Demarco Cox missed Free Throw.	189.0	68.0	49.0	0.0	0.0	1.0	0.0
+422	400587850.0	Georgia Tech Deadball Team Rebound.	189.0	68.0	49.0	0.0	0.0	1.0	0.0
+423	400587850.0	Demarco Cox missed Free Throw.	189.0	68.0	49.0	0.0	0.0	1.0	0.0
+424	400587850.0	Georgia Tech Deadball Team Rebound.	189.0	68.0	49.0	0.0	0.0	1.0	0.0
+425	400587850.0	Demarco Cox made Free Throw.	189.0	69.0	49.0	1.0	0.0	1.0	0.0
+426	400587850.0	Demarco Cox made Free Throw.	189.0	69.0	49.0	0.0	0.0	1.0	0.0
+427	400587850.0	Foul on Abdoulaye Gueye.	174.0	69.0	49.0	0.0	0.0	1.0	0.0
+428	400587850.0	Foul on Abdoulaye Gueye.	174.0	69.0	49.0	0.0	0.0	1.0	0.0
+429	400587850.0	Milos Kostic made Free Throw.	174.0	69.0	50.0	0.0	1.0	0.0	0.0
+430	400587850.0	Milos Kostic made Free Throw.	174.0	69.0	50.0	0.0	0.0	0.0	0.0
+431	400587850.0	Milos Kostic made Free Throw.	174.0	69.0	51.0	0.0	1.0	0.0	0.0
+432	400587850.0	Milos Kostic made Free Throw.	174.0	69.0	51.0	0.0	0.0	0.0	0.0
+433	400587850.0	Brooks Doyle Turnover.	146.0	69.0	51.0	0.0	0.0	1.0	1.0
+434	400587850.0	Brooks Doyle Turnover.	146.0	69.0	51.0	0.0	0.0	1.0	1.0
+435	400587850.0	Dustin Clarke made Layup. Assisted by Milos Kostic.	123.0	69.0	53.0	0.0	2.0	0.0	0.0
+436	400587850.0	Dustin Clarke made Layup. Assisted by Milos Kostic.	123.0	69.0	53.0	0.0	0.0	0.0	0.0
+437	400587850.0	Foul on Jalen Sanders.	93.0	69.0	53.0	0.0	0.0	0.0	0.0
+438	400587850.0	Corey Heyward missed Free Throw.	93.0	69.0	53.0	0.0	0.0	1.0	0.0
+439	400587850.0	Georgia Tech Deadball Team Rebound.	93.0	69.0	53.0	0.0	0.0	1.0	0.0
+440	400587850.0	Corey Heyward missed Free Throw.	93.0	69.0	53.0	0.0	0.0	1.0	0.0
+441	400587850.0	Georgia Tech Deadball Team Rebound.	93.0	69.0	53.0	0.0	0.0	1.0	0.0
+442	400587850.0	Corey Heyward made Free Throw.	93.0	70.0	53.0	1.0	0.0	1.0	0.0
+443	400587850.0	Corey Heyward made Free Throw.	93.0	70.0	53.0	0.0	0.0	1.0	0.0
+444	400587850.0	Foul on Rand Rowland.	81.0	70.0	53.0	0.0	0.0	1.0	0.0
+445	400587850.0	Foul on Rand Rowland.	81.0	70.0	53.0	0.0	0.0	1.0	0.0
+446	400587850.0	Mike Kobani made Free Throw.	81.0	70.0	54.0	0.0	1.0	0.0	0.0
+447	400587850.0	Mike Kobani made Free Throw.	81.0	70.0	54.0	0.0	0.0	0.0	0.0
+448	400587850.0	Mike Kobani made Free Throw.	81.0	70.0	55.0	0.0	1.0	0.0	0.0
+449	400587850.0	Mike Kobani made Free Throw.	81.0	70.0	55.0	0.0	0.0	0.0	0.0
+450	400587850.0	Abdoulaye Gueye Turnover.	59.0	70.0	55.0	0.0	0.0	1.0	1.0
+451	400587850.0	Abdoulaye Gueye Turnover.	59.0	70.0	55.0	0.0	0.0	1.0	1.0
+452	400587850.0	Logan Jackson made Layup.	52.0	70.0	57.0	0.0	2.0	0.0	0.0
+453	400587850.0	Logan Jackson made Layup.	52.0	70.0	57.0	0.0	0.0	0.0	0.0
+454	400587850.0	Brooks Doyle missed Jumper.	34.0	70.0	57.0	0.0	0.0	1.0	0.0
+455	400587850.0	Georgia Tech Offensive Rebound.	34.0	70.0	57.0	0.0	0.0	1.0	0.0
+456	400587850.0	Brooks Doyle missed Jumper.	34.0	70.0	57.0	0.0	0.0	1.0	0.0
+457	400587850.0	Georgia Tech Offensive Rebound.	34.0	70.0	57.0	0.0	0.0	1.0	0.0
+458	400587850.0	End of Game	0.0	70.0	57.0	0.0	0.0	0.0	0.0

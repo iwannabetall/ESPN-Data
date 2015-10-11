@@ -1,0 +1,352 @@
+	Game_id	PBP_description	sec_remaining	home_score	away_score	home_points_scored	away_points_scored	home_poss	turnover
+0	400587831.0	Kenneth Lowe missed Jumper.	1180.0	0.0	0.0	0.0	0.0	0.0	0.0
+1	400587831.0	Miami (FL) Defensive Rebound.	1180.0	0.0	0.0	0.0	0.0	1.0	0.0
+2	400587831.0	Manu Lecomte Turnover.	1146.0	0.0	0.0	0.0	0.0	1.0	1.0
+3	400587831.0	Carrington Love Steal.	1145.0	0.0	0.0	0.0	0.0	0.0	0.0
+4	400587831.0	Keifer Sykes missed Jumper.	1134.0	0.0	0.0	0.0	0.0	0.0	0.0
+5	400587831.0	Sheldon McClellan Defensive Rebound.	1134.0	0.0	0.0	0.0	0.0	1.0	0.0
+6	400587831.0	Joe Thomas missed Jumper.	1097.0	0.0	0.0	0.0	0.0	1.0	0.0
+7	400587831.0	Tonye Jekiri Offensive Rebound.	1097.0	0.0	0.0	0.0	0.0	1.0	0.0
+8	400587831.0	Tonye Jekiri made Jumper. Assisted by Joe Thomas.	1089.0	2.0	0.0	2.0	0.0	1.0	0.0
+9	400587831.0	Keifer Sykes Turnover.	1068.0	2.0	0.0	0.0	0.0	0.0	1.0
+10	400587831.0	Sheldon McClellan missed Layup.	1043.0	2.0	0.0	0.0	0.0	1.0	0.0
+11	400587831.0	Joe Thomas Offensive Rebound.	1043.0	2.0	0.0	0.0	0.0	1.0	0.0
+12	400587831.0	Joe Thomas made Layup.	1041.0	4.0	0.0	2.0	0.0	1.0	0.0
+13	400587831.0	Kenneth Lowe missed Layup.	1027.0	4.0	0.0	0.0	0.0	0.0	0.0
+14	400587831.0	Tonye Jekiri Block.	1027.0	4.0	0.0	0.0	0.0	1.0	0.0
+15	400587831.0	Joe Thomas Defensive Rebound.	1025.0	4.0	0.0	0.0	0.0	1.0	0.0
+16	400587831.0	Angel Rodriguez missed Three Point Jumper.	1007.0	4.0	0.0	0.0	0.0	1.0	0.0
+17	400587831.0	Jordan Fouse Defensive Rebound.	1007.0	4.0	0.0	0.0	0.0	0.0	0.0
+18	400587831.0	Kenneth Lowe missed Jumper.	993.0	4.0	0.0	0.0	0.0	0.0	0.0
+19	400587831.0	Joe Thomas Defensive Rebound.	993.0	4.0	0.0	0.0	0.0	1.0	0.0
+20	400587831.0	Sheldon McClellan missed Jumper.	967.0	4.0	0.0	0.0	0.0	1.0	0.0
+21	400587831.0	Jordan Fouse Defensive Rebound.	967.0	4.0	0.0	0.0	0.0	0.0	0.0
+22	400587831.0	Keifer Sykes missed Jumper.	959.0	4.0	0.0	0.0	0.0	0.0	0.0
+23	400587831.0	Joe Thomas Defensive Rebound.	959.0	4.0	0.0	0.0	0.0	1.0	0.0
+24	400587831.0	Angel Rodriguez Turnover.	952.0	4.0	0.0	0.0	0.0	1.0	1.0
+25	400587831.0	 Official TV Timeout	952.0	4.0	0.0	0.0	0.0	0.0	0.0
+26	400587831.0	Greg Mays made Jumper. Assisted by Keifer Sykes.	937.0	4.0	2.0	0.0	2.0	0.0	0.0
+27	400587831.0	Angel Rodriguez missed Jumper.	917.0	4.0	2.0	0.0	0.0	1.0	0.0
+28	400587831.0	Omar Sherman Offensive Rebound.	917.0	4.0	2.0	0.0	0.0	1.0	0.0
+29	400587831.0	Omar Sherman Turnover.	914.0	4.0	2.0	0.0	0.0	1.0	1.0
+30	400587831.0	Alfonzo McKinnie made Three Point Jumper. Assisted by Keifer Sykes.	896.0	4.0	5.0	0.0	3.0	0.0	0.0
+31	400587831.0	Sheldon McClellan missed Three Point Jumper.	863.0	4.0	5.0	0.0	0.0	1.0	0.0
+32	400587831.0	Keifer Sykes Defensive Rebound.	863.0	4.0	5.0	0.0	0.0	0.0	0.0
+33	400587831.0	Alfonzo McKinnie missed Jumper.	855.0	4.0	5.0	0.0	0.0	0.0	0.0
+34	400587831.0	Sheldon McClellan Defensive Rebound.	855.0	4.0	5.0	0.0	0.0	1.0	0.0
+35	400587831.0	Angel Rodriguez missed Three Point Jumper.	849.0	4.0	5.0	0.0	0.0	1.0	0.0
+36	400587831.0	Alfonzo McKinnie Defensive Rebound.	849.0	4.0	5.0	0.0	0.0	0.0	0.0
+37	400587831.0	Alfonzo McKinnie missed Jumper.	832.0	4.0	5.0	0.0	0.0	0.0	0.0
+38	400587831.0	Angel Rodriguez Defensive Rebound.	832.0	4.0	5.0	0.0	0.0	1.0	0.0
+39	400587831.0	Foul on Jordan Fouse.	824.0	4.0	5.0	0.0	0.0	0.0	0.0
+40	400587831.0	Deandre Burnett missed Three Point Jumper.	823.0	4.0	5.0	0.0	0.0	1.0	0.0
+41	400587831.0	Alfonzo McKinnie Defensive Rebound.	823.0	4.0	5.0	0.0	0.0	0.0	0.0
+42	400587831.0	Foul on Sheldon McClellan.	816.0	4.0	5.0	0.0	0.0	1.0	0.0
+43	400587831.0	Keifer Sykes made Jumper.	814.0	4.0	7.0	0.0	2.0	0.0	0.0
+44	400587831.0	Sheldon McClellan made Three Point Jumper. Assisted by James Palmer.	793.0	7.0	7.0	3.0	0.0	1.0	0.0
+45	400587831.0	Carrington Love made Layup.	777.0	7.0	9.0	0.0	2.0	0.0	0.0
+46	400587831.0	Angel Rodriguez missed Three Point Jumper.	764.0	7.0	9.0	0.0	0.0	1.0	0.0
+47	400587831.0	Jordan Fouse Defensive Rebound.	764.0	7.0	9.0	0.0	0.0	0.0	0.0
+48	400587831.0	Greg Mays missed Jumper.	744.0	7.0	9.0	0.0	0.0	0.0	0.0
+49	400587831.0	Deandre Burnett Defensive Rebound.	744.0	7.0	9.0	0.0	0.0	1.0	0.0
+50	400587831.0	Deandre Burnett Turnover.	737.0	7.0	9.0	0.0	0.0	1.0	1.0
+51	400587831.0	Carrington Love Steal.	737.0	7.0	9.0	0.0	0.0	0.0	0.0
+52	400587831.0	Foul on Deandre Burnett.	737.0	7.0	9.0	0.0	0.0	1.0	0.0
+53	400587831.0	Keifer Sykes made Three Point Jumper.	733.0	7.0	12.0	0.0	3.0	0.0	0.0
+54	400587831.0	Foul on Daeshon Francis.	702.0	7.0	12.0	0.0	0.0	0.0	0.0
+55	400587831.0	 Official TV Timeout	702.0	7.0	12.0	0.0	0.0	0.0	0.0
+56	400587831.0	Ja'Quan Newton missed Three Point Jumper.	687.0	7.0	12.0	0.0	0.0	1.0	0.0
+57	400587831.0	Omar Sherman Offensive Rebound.	687.0	7.0	12.0	0.0	0.0	1.0	0.0
+58	400587831.0	Omar Sherman missed Layup.	683.0	7.0	12.0	0.0	0.0	1.0	0.0
+59	400587831.0	Daeshon Francis Defensive Rebound.	683.0	7.0	12.0	0.0	0.0	0.0	0.0
+60	400587831.0	Alfonzo McKinnie missed Jumper.	674.0	7.0	12.0	0.0	0.0	0.0	0.0
+61	400587831.0	Henry Uwadiae Offensive Rebound.	674.0	7.0	12.0	0.0	0.0	0.0	0.0
+62	400587831.0	Henry Uwadiae Turnover.	672.0	7.0	12.0	0.0	0.0	0.0	1.0
+63	400587831.0	Foul on Alfonzo McKinnie.	659.0	7.0	12.0	0.0	0.0	0.0	0.0
+64	400587831.0	Ja'Quan Newton Turnover.	644.0	7.0	12.0	0.0	0.0	1.0	1.0
+65	400587831.0	Greg Mays Steal.	642.0	7.0	12.0	0.0	0.0	0.0	0.0
+66	400587831.0	Greg Mays Turnover.	641.0	7.0	12.0	0.0	0.0	0.0	1.0
+67	400587831.0	Deandre Burnett Steal.	641.0	7.0	12.0	0.0	0.0	1.0	0.0
+68	400587831.0	Deandre Burnett made Layup.	640.0	9.0	12.0	2.0	0.0	1.0	0.0
+69	400587831.0	Foul on Kenneth Lowe.	640.0	9.0	12.0	0.0	0.0	0.0	0.0
+70	400587831.0	Deandre Burnett missed Free Throw.	640.0	9.0	12.0	0.0	0.0	1.0	0.0
+71	400587831.0	Kenneth Lowe Defensive Rebound.	640.0	9.0	12.0	0.0	0.0	0.0	0.0
+72	400587831.0	Kenneth Lowe made Layup.	624.0	9.0	14.0	0.0	2.0	0.0	0.0
+73	400587831.0	Sheldon McClellan made Layup.	595.0	11.0	14.0	2.0	0.0	1.0	0.0
+74	400587831.0	Kenneth Lowe made Jumper.	583.0	11.0	16.0	0.0	2.0	0.0	0.0
+75	400587831.0	James Palmer missed Jumper.	566.0	11.0	16.0	0.0	0.0	1.0	0.0
+76	400587831.0	Khalil Small Defensive Rebound.	566.0	11.0	16.0	0.0	0.0	0.0	0.0
+77	400587831.0	Greg Mays missed Jumper.	549.0	11.0	16.0	0.0	0.0	0.0	0.0
+78	400587831.0	Kenneth Lowe Offensive Rebound.	549.0	11.0	16.0	0.0	0.0	0.0	0.0
+79	400587831.0	Carrington Love made Jumper.	531.0	11.0	18.0	0.0	2.0	0.0	0.0
+80	400587831.0	Ja'Quan Newton missed Jumper.	507.0	11.0	18.0	0.0	0.0	1.0	0.0
+81	400587831.0	Carrington Love Defensive Rebound.	507.0	11.0	18.0	0.0	0.0	0.0	0.0
+82	400587831.0	Kenneth Lowe made Layup. Assisted by Carrington Love.	498.0	11.0	20.0	0.0	2.0	0.0	0.0
+83	400587831.0	Miami (FL)  Timeout	497.0	11.0	20.0	0.0	0.0	0.0	0.0
+84	400587831.0	Manu Lecomte missed Three Point Jumper.	479.0	11.0	20.0	0.0	0.0	1.0	0.0
+85	400587831.0	Carrington Love Defensive Rebound.	479.0	11.0	20.0	0.0	0.0	0.0	0.0
+86	400587831.0	Greg Mays made Jumper. Assisted by Kenneth Lowe.	461.0	11.0	22.0	0.0	2.0	0.0	0.0
+87	400587831.0	Manu Lecomte missed Jumper.	441.0	11.0	22.0	0.0	0.0	1.0	0.0
+88	400587831.0	Joe Thomas Offensive Rebound.	441.0	11.0	22.0	0.0	0.0	1.0	0.0
+89	400587831.0	Deandre Burnett missed Jumper.	425.0	11.0	22.0	0.0	0.0	1.0	0.0
+90	400587831.0	Kenneth Lowe Defensive Rebound.	425.0	11.0	22.0	0.0	0.0	0.0	0.0
+91	400587831.0	Carrington Love missed Jumper.	393.0	11.0	22.0	0.0	0.0	0.0	0.0
+92	400587831.0	Joe Thomas Defensive Rebound.	393.0	11.0	22.0	0.0	0.0	1.0	0.0
+93	400587831.0	Angel Rodriguez missed Jumper.	384.0	11.0	22.0	0.0	0.0	1.0	0.0
+94	400587831.0	Joe Thomas Offensive Rebound.	384.0	11.0	22.0	0.0	0.0	1.0	0.0
+95	400587831.0	Joe Thomas made Dunk.	384.0	13.0	22.0	2.0	0.0	1.0	0.0
+96	400587831.0	Foul on Kenneth Lowe.	384.0	13.0	22.0	0.0	0.0	0.0	0.0
+97	400587831.0	 Official TV Timeout	384.0	13.0	22.0	0.0	0.0	0.0	0.0
+98	400587831.0	Joe Thomas missed Free Throw.	384.0	13.0	22.0	0.0	0.0	1.0	0.0
+99	400587831.0	Carrington Love Defensive Rebound.	384.0	13.0	22.0	0.0	0.0	0.0	0.0
+100	400587831.0	Keifer Sykes missed Three Point Jumper.	365.0	13.0	22.0	0.0	0.0	0.0	0.0
+101	400587831.0	Carrington Love Offensive Rebound.	365.0	13.0	22.0	0.0	0.0	0.0	0.0
+102	400587831.0	Keifer Sykes missed Jumper.	357.0	13.0	22.0	0.0	0.0	0.0	0.0
+103	400587831.0	Miami (FL) Defensive Rebound.	357.0	13.0	22.0	0.0	0.0	1.0	0.0
+104	400587831.0	Foul on Greg Mays.	356.0	13.0	22.0	0.0	0.0	0.0	0.0
+105	400587831.0	Deandre Burnett made Three Point Jumper. Assisted by Joe Thomas.	332.0	16.0	22.0	3.0	0.0	1.0	0.0
+106	400587831.0	Carrington Love missed Three Point Jumper.	301.0	16.0	22.0	0.0	0.0	0.0	0.0
+107	400587831.0	Joe Thomas Defensive Rebound.	301.0	16.0	22.0	0.0	0.0	1.0	0.0
+108	400587831.0	Deandre Burnett made Three Point Jumper. Assisted by Tonye Jekiri.	279.0	19.0	22.0	3.0	0.0	1.0	0.0
+109	400587831.0	Green Bay  Timeout	276.0	19.0	22.0	0.0	0.0	0.0	0.0
+110	400587831.0	Keifer Sykes missed Three Point Jumper.	261.0	19.0	22.0	0.0	0.0	0.0	0.0
+111	400587831.0	Joe Thomas Defensive Rebound.	261.0	19.0	22.0	0.0	0.0	1.0	0.0
+112	400587831.0	Deandre Burnett missed Layup.	253.0	19.0	22.0	0.0	0.0	1.0	0.0
+113	400587831.0	Alfonzo McKinnie Defensive Rebound.	253.0	19.0	22.0	0.0	0.0	0.0	0.0
+114	400587831.0	Foul on Manu Lecomte.	240.0	19.0	22.0	0.0	0.0	1.0	0.0
+115	400587831.0	Foul on Joe Thomas.	237.0	19.0	22.0	0.0	0.0	1.0	0.0
+116	400587831.0	 Official TV Timeout	237.0	19.0	22.0	0.0	0.0	0.0	0.0
+117	400587831.0	Jordan Fouse made Free Throw.	237.0	19.0	23.0	0.0	1.0	0.0	0.0
+118	400587831.0	Jordan Fouse missed Free Throw.	237.0	19.0	23.0	0.0	0.0	0.0	0.0
+119	400587831.0	Alfonzo McKinnie Offensive Rebound.	237.0	19.0	23.0	0.0	0.0	0.0	0.0
+120	400587831.0	Greg Mays missed Three Point Jumper.	208.0	19.0	23.0	0.0	0.0	0.0	0.0
+121	400587831.0	Carrington Love Offensive Rebound.	208.0	19.0	23.0	0.0	0.0	0.0	0.0
+122	400587831.0	Carrington Love missed Three Point Jumper.	202.0	19.0	23.0	0.0	0.0	0.0	0.0
+123	400587831.0	Tonye Jekiri Defensive Rebound.	202.0	19.0	23.0	0.0	0.0	1.0	0.0
+124	400587831.0	Angel Rodriguez missed Layup.	185.0	19.0	23.0	0.0	0.0	1.0	0.0
+125	400587831.0	Carrington Love Block.	185.0	19.0	23.0	0.0	0.0	0.0	0.0
+126	400587831.0	Carrington Love Defensive Rebound.	184.0	19.0	23.0	0.0	0.0	0.0	0.0
+127	400587831.0	Keifer Sykes missed Jumper.	180.0	19.0	23.0	0.0	0.0	0.0	0.0
+128	400587831.0	Deandre Burnett Block.	180.0	19.0	23.0	0.0	0.0	1.0	0.0
+129	400587831.0	Green Bay Offensive Rebound.	180.0	19.0	23.0	0.0	0.0	0.0	0.0
+130	400587831.0	Foul on Angel Rodriguez.	177.0	19.0	23.0	0.0	0.0	1.0	0.0
+131	400587831.0	Greg Mays missed Free Throw.	177.0	19.0	23.0	0.0	0.0	0.0	0.0
+132	400587831.0	Green Bay Deadball Team Rebound.	177.0	19.0	23.0	0.0	0.0	0.0	0.0
+133	400587831.0	Greg Mays missed Free Throw.	177.0	19.0	23.0	0.0	0.0	0.0	0.0
+134	400587831.0	Tonye Jekiri Defensive Rebound.	177.0	19.0	23.0	0.0	0.0	1.0	0.0
+135	400587831.0	Sheldon McClellan made Dunk. Assisted by Angel Rodriguez.	164.0	21.0	23.0	2.0	0.0	1.0	0.0
+136	400587831.0	Greg Mays missed Jumper.	147.0	21.0	23.0	0.0	0.0	0.0	0.0
+137	400587831.0	Joe Thomas Block.	147.0	21.0	23.0	0.0	0.0	1.0	0.0
+138	400587831.0	Miami (FL) Defensive Rebound.	147.0	21.0	23.0	0.0	0.0	1.0	0.0
+139	400587831.0	Foul on Alfonzo McKinnie.	147.0	21.0	23.0	0.0	0.0	0.0	0.0
+140	400587831.0	Joe Thomas missed Free Throw.	147.0	21.0	23.0	0.0	0.0	1.0	0.0
+141	400587831.0	Keifer Sykes Defensive Rebound.	147.0	21.0	23.0	0.0	0.0	0.0	0.0
+142	400587831.0	Turner Botz missed Three Point Jumper.	126.0	21.0	23.0	0.0	0.0	0.0	0.0
+143	400587831.0	Jordan Fouse Offensive Rebound.	126.0	21.0	23.0	0.0	0.0	0.0	0.0
+144	400587831.0	Greg Mays Turnover.	118.0	21.0	23.0	0.0	0.0	0.0	1.0
+145	400587831.0	Sheldon McClellan missed Jumper.	104.0	21.0	23.0	0.0	0.0	1.0	0.0
+146	400587831.0	Keifer Sykes Defensive Rebound.	104.0	21.0	23.0	0.0	0.0	0.0	0.0
+147	400587831.0	Carrington Love missed Layup.	93.0	21.0	23.0	0.0	0.0	0.0	0.0
+148	400587831.0	Henry Uwadiae Offensive Rebound.	93.0	21.0	23.0	0.0	0.0	0.0	0.0
+149	400587831.0	Henry Uwadiae made Layup.	91.0	21.0	25.0	0.0	2.0	0.0	0.0
+150	400587831.0	Foul on Joe Thomas.	91.0	21.0	25.0	0.0	0.0	1.0	0.0
+151	400587831.0	Henry Uwadiae missed Free Throw.	91.0	21.0	25.0	0.0	0.0	0.0	0.0
+152	400587831.0	Sheldon McClellan Defensive Rebound.	91.0	21.0	25.0	0.0	0.0	1.0	0.0
+153	400587831.0	Angel Rodriguez missed Layup.	71.0	21.0	25.0	0.0	0.0	1.0	0.0
+154	400587831.0	Carrington Love Defensive Rebound.	71.0	21.0	25.0	0.0	0.0	0.0	0.0
+155	400587831.0	Keifer Sykes missed Three Point Jumper.	64.0	21.0	25.0	0.0	0.0	0.0	0.0
+156	400587831.0	Joe Thomas Defensive Rebound.	64.0	21.0	25.0	0.0	0.0	1.0	0.0
+157	400587831.0	Deandre Burnett made Layup.	58.0	23.0	25.0	2.0	0.0	1.0	0.0
+158	400587831.0	Turner Botz missed Three Point Jumper.	20.0	23.0	25.0	0.0	0.0	0.0	0.0
+159	400587831.0	Sheldon McClellan Defensive Rebound.	20.0	23.0	25.0	0.0	0.0	1.0	0.0
+160	400587831.0	Deandre Burnett missed Three Point Jumper.	10.0	23.0	25.0	0.0	0.0	1.0	0.0
+161	400587831.0	Jordan Fouse Block.	10.0	23.0	25.0	0.0	0.0	0.0	0.0
+162	400587831.0	Deandre Burnett Offensive Rebound.	8.0	23.0	25.0	0.0	0.0	1.0	0.0
+163	400587831.0	Sheldon McClellan missed Layup.	1.0	23.0	25.0	0.0	0.0	1.0	0.0
+164	400587831.0	Henry Uwadiae Block.	1.0	23.0	25.0	0.0	0.0	0.0	0.0
+165	400587831.0	Miami (FL) Offensive Rebound.	0.0	23.0	25.0	0.0	0.0	1.0	0.0
+166	400587831.0	End of 1st half	0.0	23.0	25.0	0.0	0.0	0.0	0.0
+167	400587831.0	Kenneth Lowe made Jumper.	1183.0	23.0	27.0	0.0	2.0	0.0	0.0
+168	400587831.0	Miami (FL)  Turnover.	1144.0	23.0	27.0	0.0	0.0	1.0	1.0
+169	400587831.0	Keifer Sykes made Dunk. Assisted by Carrington Love.	1124.0	23.0	29.0	0.0	2.0	0.0	0.0
+170	400587831.0	Foul on Carrington Love.	1101.0	23.0	29.0	0.0	0.0	0.0	0.0
+171	400587831.0	Angel Rodriguez missed Jumper.	1096.0	23.0	29.0	0.0	0.0	1.0	0.0
+172	400587831.0	Joe Thomas Offensive Rebound.	1096.0	23.0	29.0	0.0	0.0	1.0	0.0
+173	400587831.0	Foul on Kenneth Lowe.	1074.0	23.0	29.0	0.0	0.0	0.0	0.0
+174	400587831.0	Angel Rodriguez made Three Point Jumper. Assisted by Sheldon McClellan.	1069.0	26.0	29.0	3.0	0.0	1.0	0.0
+175	400587831.0	Carrington Love made Layup.	1035.0	26.0	31.0	0.0	2.0	0.0	0.0
+176	400587831.0	Sheldon McClellan missed Layup.	1014.0	26.0	31.0	0.0	0.0	1.0	0.0
+177	400587831.0	Jordan Fouse Block.	1014.0	26.0	31.0	0.0	0.0	0.0	0.0
+178	400587831.0	Miami (FL) Offensive Rebound.	1013.0	26.0	31.0	0.0	0.0	1.0	0.0
+179	400587831.0	Manu Lecomte Turnover.	1005.0	26.0	31.0	0.0	0.0	1.0	1.0
+180	400587831.0	Carrington Love Steal.	1005.0	26.0	31.0	0.0	0.0	0.0	0.0
+181	400587831.0	Carrington Love Turnover.	1000.0	26.0	31.0	0.0	0.0	0.0	1.0
+182	400587831.0	Manu Lecomte Steal.	999.0	26.0	31.0	0.0	0.0	1.0	0.0
+183	400587831.0	Tonye Jekiri Turnover.	995.0	26.0	31.0	0.0	0.0	1.0	1.0
+184	400587831.0	Keifer Sykes Steal.	992.0	26.0	31.0	0.0	0.0	0.0	0.0
+185	400587831.0	Foul on Angel Rodriguez.	989.0	26.0	31.0	0.0	0.0	1.0	0.0
+186	400587831.0	Foul on Greg Mays.	980.0	26.0	31.0	0.0	0.0	0.0	0.0
+187	400587831.0	Greg Mays Turnover.	980.0	26.0	31.0	0.0	0.0	0.0	1.0
+188	400587831.0	Foul on Alfonzo McKinnie.	965.0	26.0	31.0	0.0	0.0	0.0	0.0
+189	400587831.0	Angel Rodriguez made Free Throw.	965.0	27.0	31.0	1.0	0.0	1.0	0.0
+190	400587831.0	Angel Rodriguez made Free Throw.	965.0	28.0	31.0	1.0	0.0	1.0	0.0
+191	400587831.0	Carrington Love missed Jumper.	936.0	28.0	31.0	0.0	0.0	0.0	0.0
+192	400587831.0	Joe Thomas Defensive Rebound.	936.0	28.0	31.0	0.0	0.0	1.0	0.0
+193	400587831.0	Foul on Alfonzo McKinnie.	917.0	28.0	31.0	0.0	0.0	0.0	0.0
+194	400587831.0	 Official TV Timeout	917.0	28.0	31.0	0.0	0.0	0.0	0.0
+195	400587831.0	Angel Rodriguez made Free Throw.	917.0	29.0	31.0	1.0	0.0	1.0	0.0
+196	400587831.0	Angel Rodriguez made Free Throw.	917.0	30.0	31.0	1.0	0.0	1.0	0.0
+197	400587831.0	Greg Mays made Jumper.	894.0	30.0	33.0	0.0	2.0	0.0	0.0
+198	400587831.0	Manu Lecomte Turnover.	874.0	30.0	33.0	0.0	0.0	1.0	1.0
+199	400587831.0	Jordan Fouse Steal.	874.0	30.0	33.0	0.0	0.0	0.0	0.0
+200	400587831.0	Foul on Manu Lecomte.	874.0	30.0	33.0	0.0	0.0	1.0	0.0
+201	400587831.0	Carrington Love made Three Point Jumper. Assisted by Jordan Fouse.	859.0	30.0	36.0	0.0	3.0	0.0	0.0
+202	400587831.0	Angel Rodriguez Turnover.	834.0	30.0	36.0	0.0	0.0	1.0	1.0
+203	400587831.0	Jordan Fouse Steal.	833.0	30.0	36.0	0.0	0.0	0.0	0.0
+204	400587831.0	Carrington Love made Layup. Assisted by Jordan Fouse.	830.0	30.0	38.0	0.0	2.0	0.0	0.0
+205	400587831.0	Foul on Jordan Fouse.	823.0	30.0	38.0	0.0	0.0	0.0	0.0
+206	400587831.0	Angel Rodriguez missed Layup.	803.0	30.0	38.0	0.0	0.0	1.0	0.0
+207	400587831.0	Jordan Fouse Defensive Rebound.	803.0	30.0	38.0	0.0	0.0	0.0	0.0
+208	400587831.0	Greg Mays missed Layup.	795.0	30.0	38.0	0.0	0.0	0.0	0.0
+209	400587831.0	Joe Thomas Defensive Rebound.	795.0	30.0	38.0	0.0	0.0	1.0	0.0
+210	400587831.0	Foul on Henry Uwadiae.	791.0	30.0	38.0	0.0	0.0	0.0	0.0
+211	400587831.0	Angel Rodriguez missed Free Throw.	791.0	30.0	38.0	0.0	0.0	1.0	0.0
+212	400587831.0	Miami (FL) Deadball Team Rebound.	791.0	30.0	38.0	0.0	0.0	1.0	0.0
+213	400587831.0	Angel Rodriguez made Free Throw.	791.0	31.0	38.0	1.0	0.0	1.0	0.0
+214	400587831.0	Khalil Small missed Jumper.	774.0	31.0	38.0	0.0	0.0	0.0	0.0
+215	400587831.0	Daeshon Francis Offensive Rebound.	774.0	31.0	38.0	0.0	0.0	0.0	0.0
+216	400587831.0	Daeshon Francis missed Layup.	770.0	31.0	38.0	0.0	0.0	0.0	0.0
+217	400587831.0	Omar Sherman Block.	770.0	31.0	38.0	0.0	0.0	1.0	0.0
+218	400587831.0	Khalil Small Offensive Rebound.	768.0	31.0	38.0	0.0	0.0	0.0	0.0
+219	400587831.0	Henry Uwadiae made Dunk. Assisted by Khalil Small.	736.0	31.0	40.0	0.0	2.0	0.0	0.0
+220	400587831.0	Sheldon McClellan missed Jumper.	735.0	31.0	40.0	0.0	0.0	1.0	0.0
+221	400587831.0	Omar Sherman Offensive Rebound.	734.0	31.0	40.0	0.0	0.0	1.0	0.0
+222	400587831.0	Omar Sherman missed Layup.	733.0	31.0	40.0	0.0	0.0	1.0	0.0
+223	400587831.0	Henry Uwadiae Defensive Rebound.	732.0	31.0	40.0	0.0	0.0	0.0	0.0
+224	400587831.0	Keifer Sykes made Jumper.	732.0	31.0	42.0	0.0	2.0	0.0	0.0
+225	400587831.0	Deandre Burnett missed Three Point Jumper.	713.0	31.0	42.0	0.0	0.0	1.0	0.0
+226	400587831.0	Jordan Fouse Defensive Rebound.	713.0	31.0	42.0	0.0	0.0	0.0	0.0
+227	400587831.0	Keifer Sykes missed Layup.	706.0	31.0	42.0	0.0	0.0	0.0	0.0
+228	400587831.0	Omar Sherman Block.	706.0	31.0	42.0	0.0	0.0	1.0	0.0
+229	400587831.0	Green Bay Offensive Rebound.	706.0	31.0	42.0	0.0	0.0	0.0	0.0
+230	400587831.0	 Official TV Timeout	706.0	31.0	42.0	0.0	0.0	0.0	0.0
+231	400587831.0	Keifer Sykes made Jumper.	687.0	31.0	44.0	0.0	2.0	0.0	0.0
+232	400587831.0	Foul on Khalil Small.	666.0	31.0	44.0	0.0	0.0	0.0	0.0
+233	400587831.0	Deandre Burnett made Free Throw.	666.0	32.0	44.0	1.0	0.0	1.0	0.0
+234	400587831.0	Deandre Burnett missed Free Throw.	666.0	32.0	44.0	0.0	0.0	1.0	0.0
+235	400587831.0	Keifer Sykes Defensive Rebound.	666.0	32.0	44.0	0.0	0.0	0.0	0.0
+236	400587831.0	Keifer Sykes missed Three Point Jumper.	647.0	32.0	44.0	0.0	0.0	0.0	0.0
+237	400587831.0	Omar Sherman Defensive Rebound.	647.0	32.0	44.0	0.0	0.0	1.0	0.0
+238	400587831.0	Tonye Jekiri missed Jumper.	637.0	32.0	44.0	0.0	0.0	1.0	0.0
+239	400587831.0	Green Bay Defensive Rebound.	637.0	32.0	44.0	0.0	0.0	0.0	0.0
+240	400587831.0	Greg Mays missed Three Point Jumper.	608.0	32.0	44.0	0.0	0.0	0.0	0.0
+241	400587831.0	Jordan Fouse Offensive Rebound.	608.0	32.0	44.0	0.0	0.0	0.0	0.0
+242	400587831.0	Jordan Fouse made Jumper.	606.0	32.0	46.0	0.0	2.0	0.0	0.0
+243	400587831.0	Angel Rodriguez Turnover.	572.0	32.0	46.0	0.0	0.0	1.0	1.0
+244	400587831.0	Jordan Fouse Steal.	572.0	32.0	46.0	0.0	0.0	0.0	0.0
+245	400587831.0	Carrington Love made Layup. Assisted by Jordan Fouse.	570.0	32.0	48.0	0.0	2.0	0.0	0.0
+246	400587831.0	James Palmer Turnover.	548.0	32.0	48.0	0.0	0.0	1.0	1.0
+247	400587831.0	Carrington Love Steal.	548.0	32.0	48.0	0.0	0.0	0.0	0.0
+248	400587831.0	Keifer Sykes missed Three Point Jumper.	522.0	32.0	48.0	0.0	0.0	0.0	0.0
+249	400587831.0	Greg Mays Offensive Rebound.	522.0	32.0	48.0	0.0	0.0	0.0	0.0
+250	400587831.0	Foul on Tonye Jekiri.	501.0	32.0	48.0	0.0	0.0	1.0	0.0
+251	400587831.0	Foul on Tonye Jekiri.	500.0	32.0	48.0	0.0	0.0	1.0	0.0
+252	400587831.0	Carrington Love Turnover.	484.0	32.0	48.0	0.0	0.0	0.0	1.0
+253	400587831.0	Deandre Burnett made Jumper.	467.0	34.0	48.0	2.0	0.0	1.0	0.0
+254	400587831.0	Foul on Angel Rodriguez.	461.0	34.0	48.0	0.0	0.0	1.0	0.0
+255	400587831.0	 Official TV Timeout	461.0	34.0	48.0	0.0	0.0	0.0	0.0
+256	400587831.0	Foul on Kenneth Lowe.	446.0	34.0	48.0	0.0	0.0	0.0	0.0
+257	400587831.0	Kenneth Lowe Turnover.	446.0	34.0	48.0	0.0	0.0	0.0	1.0
+258	400587831.0	Deandre Burnett missed Jumper.	415.0	34.0	48.0	0.0	0.0	1.0	0.0
+259	400587831.0	Greg Mays Defensive Rebound.	415.0	34.0	48.0	0.0	0.0	0.0	0.0
+260	400587831.0	Keifer Sykes Turnover.	381.0	34.0	48.0	0.0	0.0	0.0	1.0
+261	400587831.0	Davon Reed Steal.	380.0	34.0	48.0	0.0	0.0	1.0	0.0
+262	400587831.0	Deandre Burnett made Layup.	379.0	36.0	48.0	2.0	0.0	1.0	0.0
+263	400587831.0	Foul on Carrington Love.	379.0	36.0	48.0	0.0	0.0	0.0	0.0
+264	400587831.0	Deandre Burnett made Free Throw.	379.0	37.0	48.0	1.0	0.0	1.0	0.0
+265	400587831.0	Greg Mays missed Layup.	357.0	37.0	48.0	0.0	0.0	0.0	0.0
+266	400587831.0	Deandre Burnett Defensive Rebound.	357.0	37.0	48.0	0.0	0.0	1.0	0.0
+267	400587831.0	Deandre Burnett made Three Point Jumper. Assisted by James Palmer.	341.0	40.0	48.0	3.0	0.0	1.0	0.0
+268	400587831.0	Green Bay  Timeout	337.0	40.0	48.0	0.0	0.0	0.0	0.0
+269	400587831.0	Carrington Love Turnover.	332.0	40.0	48.0	0.0	0.0	0.0	1.0
+270	400587831.0	Angel Rodriguez Steal.	332.0	40.0	48.0	0.0	0.0	1.0	0.0
+271	400587831.0	Foul on Jordan Fouse.	330.0	40.0	48.0	0.0	0.0	0.0	0.0
+272	400587831.0	Sheldon McClellan made Free Throw.	330.0	41.0	48.0	1.0	0.0	1.0	0.0
+273	400587831.0	Sheldon McClellan missed Free Throw.	330.0	41.0	48.0	0.0	0.0	1.0	0.0
+274	400587831.0	Jordan Fouse Defensive Rebound.	330.0	41.0	48.0	0.0	0.0	0.0	0.0
+275	400587831.0	Carrington Love Turnover.	318.0	41.0	48.0	0.0	0.0	0.0	1.0
+276	400587831.0	Deandre Burnett Steal.	317.0	41.0	48.0	0.0	0.0	1.0	0.0
+277	400587831.0	Deandre Burnett made Layup.	316.0	43.0	48.0	2.0	0.0	1.0	0.0
+278	400587831.0	Green Bay  Timeout	316.0	43.0	48.0	0.0	0.0	0.0	0.0
+279	400587831.0	Foul on Davon Reed.	303.0	43.0	48.0	0.0	0.0	1.0	0.0
+280	400587831.0	Alfonzo McKinnie missed Free Throw.	303.0	43.0	48.0	0.0	0.0	0.0	0.0
+281	400587831.0	Green Bay Deadball Team Rebound.	303.0	43.0	48.0	0.0	0.0	0.0	0.0
+282	400587831.0	Alfonzo McKinnie missed Free Throw.	303.0	43.0	48.0	0.0	0.0	0.0	0.0
+283	400587831.0	Sheldon McClellan Defensive Rebound.	303.0	43.0	48.0	0.0	0.0	1.0	0.0
+284	400587831.0	Sheldon McClellan missed Layup.	293.0	43.0	48.0	0.0	0.0	1.0	0.0
+285	400587831.0	Alfonzo McKinnie Defensive Rebound.	293.0	43.0	48.0	0.0	0.0	0.0	0.0
+286	400587831.0	Alfonzo McKinnie made Dunk. Assisted by Greg Mays.	284.0	43.0	50.0	0.0	2.0	0.0	0.0
+287	400587831.0	Deandre Burnett missed Three Point Jumper.	269.0	43.0	50.0	0.0	0.0	1.0	0.0
+288	400587831.0	Alfonzo McKinnie Defensive Rebound.	269.0	43.0	50.0	0.0	0.0	0.0	0.0
+289	400587831.0	Foul on Sheldon McClellan.	254.0	43.0	50.0	0.0	0.0	1.0	0.0
+290	400587831.0	Carrington Love made Free Throw.	254.0	43.0	51.0	0.0	1.0	0.0	0.0
+291	400587831.0	Carrington Love made Free Throw.	254.0	43.0	52.0	0.0	1.0	0.0	0.0
+292	400587831.0	Foul on Alfonzo McKinnie.	236.0	43.0	52.0	0.0	0.0	0.0	0.0
+293	400587831.0	 Official TV Timeout	236.0	43.0	52.0	0.0	0.0	0.0	0.0
+294	400587831.0	Angel Rodriguez made Free Throw.	236.0	44.0	52.0	1.0	0.0	1.0	0.0
+295	400587831.0	Angel Rodriguez made Free Throw.	236.0	45.0	52.0	1.0	0.0	1.0	0.0
+296	400587831.0	Greg Mays made Layup. Assisted by Kenneth Lowe.	221.0	45.0	54.0	0.0	2.0	0.0	0.0
+297	400587831.0	Sheldon McClellan made Dunk. Assisted by Angel Rodriguez.	193.0	47.0	54.0	2.0	0.0	1.0	0.0
+298	400587831.0	Foul on Carrington Love.	168.0	47.0	54.0	0.0	0.0	0.0	0.0
+299	400587831.0	Carrington Love Turnover.	168.0	47.0	54.0	0.0	0.0	0.0	1.0
+300	400587831.0	Angel Rodriguez missed Layup.	158.0	47.0	54.0	0.0	0.0	1.0	0.0
+301	400587831.0	Keifer Sykes Defensive Rebound.	158.0	47.0	54.0	0.0	0.0	0.0	0.0
+302	400587831.0	Foul on Angel Rodriguez.	152.0	47.0	54.0	0.0	0.0	1.0	0.0
+303	400587831.0	Carrington Love made Free Throw.	152.0	47.0	55.0	0.0	1.0	0.0	0.0
+304	400587831.0	Carrington Love made Free Throw.	152.0	47.0	56.0	0.0	1.0	0.0	0.0
+305	400587831.0	Davon Reed missed Layup.	143.0	47.0	56.0	0.0	0.0	1.0	0.0
+306	400587831.0	Sheldon McClellan Offensive Rebound.	142.0	47.0	56.0	0.0	0.0	1.0	0.0
+307	400587831.0	Sheldon McClellan made Layup.	141.0	49.0	56.0	2.0	0.0	1.0	0.0
+308	400587831.0	Miami (FL)  Timeout	141.0	49.0	56.0	0.0	0.0	0.0	0.0
+309	400587831.0	Green Bay  Timeout	141.0	49.0	56.0	0.0	0.0	0.0	0.0
+310	400587831.0	Jordan Fouse Turnover.	139.0	49.0	56.0	0.0	0.0	0.0	1.0
+311	400587831.0	Angel Rodriguez Steal.	138.0	49.0	56.0	0.0	0.0	1.0	0.0
+312	400587831.0	Angel Rodriguez missed Layup.	138.0	49.0	56.0	0.0	0.0	1.0	0.0
+313	400587831.0	Green Bay Defensive Rebound.	138.0	49.0	56.0	0.0	0.0	0.0	0.0
+314	400587831.0	Greg Mays made Dunk. Assisted by Carrington Love.	132.0	49.0	58.0	0.0	2.0	0.0	0.0
+315	400587831.0	Sheldon McClellan missed Three Point Jumper.	115.0	49.0	58.0	0.0	0.0	1.0	0.0
+316	400587831.0	Keifer Sykes Defensive Rebound.	115.0	49.0	58.0	0.0	0.0	0.0	0.0
+317	400587831.0	Foul on James Palmer.	104.0	49.0	58.0	0.0	0.0	1.0	0.0
+318	400587831.0	Carrington Love made Free Throw.	104.0	49.0	59.0	0.0	1.0	0.0	0.0
+319	400587831.0	Carrington Love missed Free Throw.	104.0	49.0	59.0	0.0	0.0	0.0	0.0
+320	400587831.0	Sheldon McClellan Defensive Rebound.	104.0	49.0	59.0	0.0	0.0	1.0	0.0
+321	400587831.0	Angel Rodriguez missed Three Point Jumper.	94.0	49.0	59.0	0.0	0.0	1.0	0.0
+322	400587831.0	Sheldon McClellan Offensive Rebound.	94.0	49.0	59.0	0.0	0.0	1.0	0.0
+323	400587831.0	Sheldon McClellan made Layup.	92.0	51.0	59.0	2.0	0.0	1.0	0.0
+324	400587831.0	Miami (FL)  Timeout	91.0	51.0	59.0	0.0	0.0	0.0	0.0
+325	400587831.0	Foul on Davon Reed.	89.0	51.0	59.0	0.0	0.0	1.0	0.0
+326	400587831.0	Keifer Sykes missed Free Throw.	89.0	51.0	59.0	0.0	0.0	0.0	0.0
+327	400587831.0	Green Bay Deadball Team Rebound.	89.0	51.0	59.0	0.0	0.0	0.0	0.0
+328	400587831.0	Keifer Sykes made Free Throw.	89.0	51.0	60.0	0.0	1.0	0.0	0.0
+329	400587831.0	Sheldon McClellan made Dunk. Assisted by Angel Rodriguez.	77.0	53.0	60.0	2.0	0.0	1.0	0.0
+330	400587831.0	Foul on James Palmer.	68.0	53.0	60.0	0.0	0.0	1.0	0.0
+331	400587831.0	Keifer Sykes made Free Throw.	68.0	53.0	61.0	0.0	1.0	0.0	0.0
+332	400587831.0	Keifer Sykes made Free Throw.	68.0	53.0	62.0	0.0	1.0	0.0	0.0
+333	400587831.0	Angel Rodriguez made Layup.	61.0	55.0	62.0	2.0	0.0	1.0	0.0
+334	400587831.0	Foul on Sheldon McClellan.	54.0	55.0	62.0	0.0	0.0	1.0	0.0
+335	400587831.0	Keifer Sykes made Free Throw.	54.0	55.0	63.0	0.0	1.0	0.0	0.0
+336	400587831.0	Keifer Sykes made Free Throw.	54.0	55.0	64.0	0.0	1.0	0.0	0.0
+337	400587831.0	James Palmer missed Three Point Jumper.	45.0	55.0	64.0	0.0	0.0	1.0	0.0
+338	400587831.0	Carrington Love Defensive Rebound.	45.0	55.0	64.0	0.0	0.0	0.0	0.0
+339	400587831.0	Foul on Sheldon McClellan.	43.0	55.0	64.0	0.0	0.0	1.0	0.0
+340	400587831.0	Carrington Love made Free Throw.	43.0	55.0	65.0	0.0	1.0	0.0	0.0
+341	400587831.0	Carrington Love made Free Throw.	43.0	55.0	66.0	0.0	1.0	0.0	0.0
+342	400587831.0	Angel Rodriguez missed Three Point Jumper.	34.0	55.0	66.0	0.0	0.0	1.0	0.0
+343	400587831.0	Carrington Love Block.	34.0	55.0	66.0	0.0	0.0	0.0	0.0
+344	400587831.0	Keifer Sykes Defensive Rebound.	33.0	55.0	66.0	0.0	0.0	0.0	0.0
+345	400587831.0	Foul on Angel Rodriguez.	33.0	55.0	66.0	0.0	0.0	1.0	0.0
+346	400587831.0	Keifer Sykes made Free Throw.	33.0	55.0	67.0	0.0	1.0	0.0	0.0
+347	400587831.0	Keifer Sykes made Free Throw.	33.0	55.0	68.0	0.0	1.0	0.0	0.0
+348	400587831.0	Deandre Burnett missed Three Point Jumper.	29.0	55.0	68.0	0.0	0.0	1.0	0.0
+349	400587831.0	Carrington Love Defensive Rebound.	29.0	55.0	68.0	0.0	0.0	0.0	0.0
+350	400587831.0	End of Game	0.0	55.0	68.0	0.0	0.0	0.0	0.0
