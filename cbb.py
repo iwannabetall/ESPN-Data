@@ -114,6 +114,24 @@ def get_play_by_play(pbp_path):
 
         data.append(values)
 
+    '''Find Home and Away Team infos for the game'''
+    game_data = []
+    team_data = []
+    game_data.append(pbp_path.lower().split("gameid=")[1])
+    for team in ["team home", "team away"]:
+        matchup = soup.find("div", "matchup")
+        the_team = soup.find("div", team)
+        team_Name = the_team.find("a").text  #away team name 
+        team_Rank = ""   #away team rank 
+        rank = the_team.find("span", "rank")
+        if rank:
+            team_Rank = rank.text
+        team_Record = the_team.find("p").text   #away team record 
+        
+        team_data.extend([team_Name, team_Rank, team_Record])
+        #print "Name: %s, Rank %s, Record %s\n"%(team_Name, team_Rank, team_Record)
+    print game_data + team_data
+
     return data
 
 if __name__ == '__main__':
@@ -145,7 +163,7 @@ if __name__ == '__main__':
                     if not os.path.exists(os.path.dirname(filename)):
                         os.makedirs(os.path.dirname(filename))
                     with open(filename, "w") as f:
-                        writer = csv.writer(f, delimiter="|")
+                        writer = csv.writer(f, delimiter="\t")
                         #header of the data 
                         writer.writerow(["time", "away", "score", "home"])
                         writer.writerows(pbp)
