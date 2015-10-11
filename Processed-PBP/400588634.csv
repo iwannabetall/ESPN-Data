@@ -1,0 +1,350 @@
+	Game_id	PBP_description	sec_remaining	home_score	away_score	home_points_scored	away_points_scored	home_poss	turnover
+0	400588634.0	Jump Ball won by Kennesaw St	1200.0	0.0	0.0	0.0	0.0	0.0	0.0
+1	400588634.0	Orlando Coleman missed Three Point Jumper.	1175.0	0.0	0.0	0.0	0.0	0.0	0.0
+2	400588634.0	Kaleb Joseph Defensive Rebound.	1175.0	0.0	0.0	0.0	0.0	1.0	0.0
+3	400588634.0	Rakeem Christmas missed Jumper.	1155.0	0.0	0.0	0.0	0.0	1.0	0.0
+4	400588634.0	Chris McCullough Offensive Rebound.	1155.0	0.0	0.0	0.0	0.0	1.0	0.0
+5	400588634.0	Chris McCullough made Layup.	1152.0	2.0	0.0	2.0	0.0	1.0	0.0
+6	400588634.0	Foul on Nick Masterson.	1152.0	2.0	0.0	0.0	0.0	0.0	0.0
+7	400588634.0	Chris McCullough made Free Throw.	1152.0	3.0	0.0	1.0	0.0	1.0	0.0
+8	400588634.0	Yonel Brown missed Three Point Jumper.	1126.0	3.0	0.0	0.0	0.0	0.0	0.0
+9	400588634.0	Rakeem Christmas Defensive Rebound.	1126.0	3.0	0.0	0.0	0.0	1.0	0.0
+10	400588634.0	Foul on Willy Kouassi.	1104.0	3.0	0.0	0.0	0.0	0.0	0.0
+11	400588634.0	Chris McCullough missed Jumper.	1099.0	3.0	0.0	0.0	0.0	1.0	0.0
+12	400588634.0	Rakeem Christmas Offensive Rebound.	1099.0	3.0	0.0	0.0	0.0	1.0	0.0
+13	400588634.0	Rakeem Christmas made Two Point Tip Shot.	1099.0	5.0	0.0	2.0	0.0	1.0	0.0
+14	400588634.0	Orlando Coleman Turnover.	1081.0	5.0	0.0	0.0	0.0	0.0	1.0
+15	400588634.0	Tyler Roberson Steal.	1081.0	5.0	0.0	0.0	0.0	1.0	0.0
+16	400588634.0	Kaleb Joseph missed Layup.	1070.0	5.0	0.0	0.0	0.0	1.0	0.0
+17	400588634.0	Tyler Roberson Offensive Rebound.	1070.0	5.0	0.0	0.0	0.0	1.0	0.0
+18	400588634.0	Tyler Roberson missed Layup.	1070.0	5.0	0.0	0.0	0.0	1.0	0.0
+19	400588634.0	Chris McCullough Offensive Rebound.	1070.0	5.0	0.0	0.0	0.0	1.0	0.0
+20	400588634.0	Chris McCullough missed Two Point Tip Shot.	1070.0	5.0	0.0	0.0	0.0	1.0	0.0
+21	400588634.0	Willy Kouassi Block.	1070.0	5.0	0.0	0.0	0.0	0.0	0.0
+22	400588634.0	Yonel Brown Defensive Rebound.	1070.0	5.0	0.0	0.0	0.0	0.0	0.0
+23	400588634.0	Foul on Rakeem Christmas.	1064.0	5.0	0.0	0.0	0.0	1.0	0.0
+24	400588634.0	Damien Wilson made Free Throw.	1064.0	5.0	1.0	0.0	1.0	0.0	0.0
+25	400588634.0	Damien Wilson made Free Throw.	1064.0	5.0	2.0	0.0	1.0	0.0	0.0
+26	400588634.0	Rakeem Christmas missed Jumper.	1044.0	5.0	2.0	0.0	0.0	1.0	0.0
+27	400588634.0	Willy Kouassi Defensive Rebound.	1044.0	5.0	2.0	0.0	0.0	0.0	0.0
+28	400588634.0	Delbert Love Turnover.	1030.0	5.0	2.0	0.0	0.0	0.0	1.0
+29	400588634.0	Trevor Cooney Steal.	1030.0	5.0	2.0	0.0	0.0	1.0	0.0
+30	400588634.0	Trevor Cooney made Layup. Assisted by Kaleb Joseph.	1026.0	7.0	2.0	2.0	0.0	1.0	0.0
+31	400588634.0	Damien Wilson Turnover.	1010.0	7.0	2.0	0.0	0.0	0.0	1.0
+32	400588634.0	Kaleb Joseph Steal.	1010.0	7.0	2.0	0.0	0.0	1.0	0.0
+33	400588634.0	Kaleb Joseph Turnover.	1002.0	7.0	2.0	0.0	0.0	1.0	1.0
+34	400588634.0	Damien Wilson missed Jumper.	995.0	7.0	2.0	0.0	0.0	0.0	0.0
+35	400588634.0	Tyler Roberson Defensive Rebound.	995.0	7.0	2.0	0.0	0.0	1.0	0.0
+36	400588634.0	Chris McCullough missed Jumper.	981.0	7.0	2.0	0.0	0.0	1.0	0.0
+37	400588634.0	Tyler Roberson Offensive Rebound.	981.0	7.0	2.0	0.0	0.0	1.0	0.0
+38	400588634.0	Tyler Roberson missed Two Point Tip Shot.	981.0	7.0	2.0	0.0	0.0	1.0	0.0
+39	400588634.0	Rakeem Christmas Offensive Rebound.	981.0	7.0	2.0	0.0	0.0	1.0	0.0
+40	400588634.0	Rakeem Christmas made Two Point Tip Shot.	981.0	9.0	2.0	2.0	0.0	1.0	0.0
+41	400588634.0	Damien Wilson missed Three Point Jumper.	943.0	9.0	2.0	0.0	0.0	0.0	0.0
+42	400588634.0	Chris McCullough Defensive Rebound.	943.0	9.0	2.0	0.0	0.0	1.0	0.0
+43	400588634.0	Rakeem Christmas missed Jumper.	918.0	9.0	2.0	0.0	0.0	1.0	0.0
+44	400588634.0	Willy Kouassi Defensive Rebound.	918.0	9.0	2.0	0.0	0.0	0.0	0.0
+45	400588634.0	Orlando Coleman missed Jumper.	900.0	9.0	2.0	0.0	0.0	0.0	0.0
+46	400588634.0	Rakeem Christmas Defensive Rebound.	900.0	9.0	2.0	0.0	0.0	1.0	0.0
+47	400588634.0	Tyler Roberson Turnover.	889.0	9.0	2.0	0.0	0.0	1.0	1.0
+48	400588634.0	Official TV Timeout	889.0	9.0	2.0	0.0	0.0	0.0	0.0
+49	400588634.0	Bernard Morena Turnover.	876.0	9.0	2.0	0.0	0.0	0.0	1.0
+50	400588634.0	Trevor Cooney Steal.	876.0	9.0	2.0	0.0	0.0	1.0	0.0
+51	400588634.0	Tyler Roberson missed Three Point Jumper.	870.0	9.0	2.0	0.0	0.0	1.0	0.0
+52	400588634.0	Kennesaw St Defensive Rebound.	870.0	9.0	2.0	0.0	0.0	0.0	0.0
+53	400588634.0	Foul on Chris McCullough.	869.0	9.0	2.0	0.0	0.0	1.0	0.0
+54	400588634.0	Foul on Bernard Morena.	857.0	9.0	2.0	0.0	0.0	0.0	0.0
+55	400588634.0	Bernard Morena Turnover.	857.0	9.0	2.0	0.0	0.0	0.0	1.0
+56	400588634.0	Rakeem Christmas missed Jumper.	841.0	9.0	2.0	0.0	0.0	1.0	0.0
+57	400588634.0	Willy Kouassi Defensive Rebound.	841.0	9.0	2.0	0.0	0.0	0.0	0.0
+58	400588634.0	Nigel Pruitt made Three Point Jumper. Assisted by Yonel Brown.	824.0	9.0	5.0	0.0	3.0	0.0	0.0
+59	400588634.0	Foul on Yonel Brown.	814.0	9.0	5.0	0.0	0.0	0.0	0.0
+60	400588634.0	Foul on Willy Kouassi.	800.0	9.0	5.0	0.0	0.0	0.0	0.0
+61	400588634.0	Chris McCullough missed Jumper.	793.0	9.0	5.0	0.0	0.0	1.0	0.0
+62	400588634.0	Damien Wilson Defensive Rebound.	793.0	9.0	5.0	0.0	0.0	0.0	0.0
+63	400588634.0	Bernard Morena missed Jumper.	769.0	9.0	5.0	0.0	0.0	0.0	0.0
+64	400588634.0	Rakeem Christmas Block.	769.0	9.0	5.0	0.0	0.0	1.0	0.0
+65	400588634.0	B.J. Johnson Defensive Rebound.	769.0	9.0	5.0	0.0	0.0	1.0	0.0
+66	400588634.0	Ron Patterson missed Three Point Jumper.	760.0	9.0	5.0	0.0	0.0	1.0	0.0
+67	400588634.0	Chris McCullough Offensive Rebound.	760.0	9.0	5.0	0.0	0.0	1.0	0.0
+68	400588634.0	B.J. Johnson missed Three Point Jumper.	751.0	9.0	5.0	0.0	0.0	1.0	0.0
+69	400588634.0	Rakeem Christmas Offensive Rebound.	751.0	9.0	5.0	0.0	0.0	1.0	0.0
+70	400588634.0	Foul on Bernard Morena.	750.0	9.0	5.0	0.0	0.0	0.0	0.0
+71	400588634.0	Foul on Justin Diecker.	741.0	9.0	5.0	0.0	0.0	0.0	0.0
+72	400588634.0	Rakeem Christmas missed Free Throw.	741.0	9.0	5.0	0.0	0.0	1.0	0.0
+73	400588634.0	Orlando Coleman Defensive Rebound.	741.0	9.0	5.0	0.0	0.0	0.0	0.0
+74	400588634.0	Damien Wilson made Jumper. Assisted by Orlando Coleman.	736.0	9.0	7.0	0.0	2.0	0.0	0.0
+75	400588634.0	Foul on Rakeem Christmas.	736.0	9.0	7.0	0.0	0.0	1.0	0.0
+76	400588634.0	Damien Wilson missed Free Throw.	736.0	9.0	7.0	0.0	0.0	0.0	0.0
+77	400588634.0	B.J. Johnson Defensive Rebound.	736.0	9.0	7.0	0.0	0.0	1.0	0.0
+78	400588634.0	Tyler Roberson missed Jumper.	716.0	9.0	7.0	0.0	0.0	1.0	0.0
+79	400588634.0	Ron Patterson Offensive Rebound.	716.0	9.0	7.0	0.0	0.0	1.0	0.0
+80	400588634.0	Ron Patterson missed Jumper.	716.0	9.0	7.0	0.0	0.0	1.0	0.0
+81	400588634.0	Tyler Roberson Offensive Rebound.	716.0	9.0	7.0	0.0	0.0	1.0	0.0
+82	400588634.0	Tyler Roberson missed Jumper.	716.0	9.0	7.0	0.0	0.0	1.0	0.0
+83	400588634.0	Damien Wilson Defensive Rebound.	716.0	9.0	7.0	0.0	0.0	0.0	0.0
+84	400588634.0	Orlando Coleman missed Layup.	708.0	9.0	7.0	0.0	0.0	0.0	0.0
+85	400588634.0	Kaleb Joseph Defensive Rebound.	708.0	9.0	7.0	0.0	0.0	1.0	0.0
+86	400588634.0	Chris McCullough made Dunk. Assisted by Kaleb Joseph.	703.0	11.0	7.0	2.0	0.0	1.0	0.0
+87	400588634.0	Foul on Ron Patterson.	676.0	11.0	7.0	0.0	0.0	1.0	0.0
+88	400588634.0	Official TV Timeout	676.0	11.0	7.0	0.0	0.0	0.0	0.0
+89	400588634.0	Nigel Pruitt missed Three Point Jumper.	664.0	11.0	7.0	0.0	0.0	0.0	0.0
+90	400588634.0	Ron Patterson Defensive Rebound.	664.0	11.0	7.0	0.0	0.0	1.0	0.0
+91	400588634.0	Kaleb Joseph missed Jumper.	644.0	11.0	7.0	0.0	0.0	1.0	0.0
+92	400588634.0	Orlando Coleman Defensive Rebound.	644.0	11.0	7.0	0.0	0.0	0.0	0.0
+93	400588634.0	Justin Diecker Turnover.	621.0	11.0	7.0	0.0	0.0	0.0	1.0
+94	400588634.0	B.J. Johnson made Layup. Assisted by Kaleb Joseph.	609.0	13.0	7.0	2.0	0.0	1.0	0.0
+95	400588634.0	Nigel Pruitt Turnover.	581.0	13.0	7.0	0.0	0.0	0.0	1.0
+96	400588634.0	Tyler Roberson Steal.	581.0	13.0	7.0	0.0	0.0	1.0	0.0
+97	400588634.0	Foul on Nigel Pruitt.	569.0	13.0	7.0	0.0	0.0	0.0	0.0
+98	400588634.0	B.J. Johnson made Free Throw.	569.0	14.0	7.0	1.0	0.0	1.0	0.0
+99	400588634.0	B.J. Johnson made Free Throw.	569.0	15.0	7.0	1.0	0.0	1.0	0.0
+100	400588634.0	Jump Ball won by Syracuse	547.0	15.0	7.0	0.0	0.0	1.0	0.0
+101	400588634.0	Justin Diecker Turnover.	547.0	15.0	7.0	0.0	0.0	0.0	1.0
+102	400588634.0	Chinonso Obokoh Steal.	547.0	15.0	7.0	0.0	0.0	1.0	0.0
+103	400588634.0	Kaleb Joseph Turnover.	539.0	15.0	7.0	0.0	0.0	1.0	1.0
+104	400588634.0	Delbert Love Steal.	539.0	15.0	7.0	0.0	0.0	0.0	0.0
+105	400588634.0	Delbert Love made Dunk.	536.0	15.0	9.0	0.0	2.0	0.0	0.0
+106	400588634.0	Syracuse  Timeout	527.0	15.0	9.0	0.0	0.0	0.0	0.0
+107	400588634.0	Tyler Roberson missed Layup.	518.0	15.0	9.0	0.0	0.0	1.0	0.0
+108	400588634.0	B.J. Johnson Offensive Rebound.	518.0	15.0	9.0	0.0	0.0	1.0	0.0
+109	400588634.0	B.J. Johnson made Layup.	511.0	17.0	9.0	2.0	0.0	1.0	0.0
+110	400588634.0	Delbert Love Turnover.	493.0	17.0	9.0	0.0	0.0	0.0	1.0
+111	400588634.0	Kaleb Joseph Steal.	493.0	17.0	9.0	0.0	0.0	1.0	0.0
+112	400588634.0	Kaleb Joseph made Layup.	481.0	19.0	9.0	2.0	0.0	1.0	0.0
+113	400588634.0	Justin Diecker missed Layup.	462.0	19.0	9.0	0.0	0.0	0.0	0.0
+114	400588634.0	Chinonso Obokoh Block.	462.0	19.0	9.0	0.0	0.0	1.0	0.0
+115	400588634.0	Chinonso Obokoh Defensive Rebound.	462.0	19.0	9.0	0.0	0.0	1.0	0.0
+116	400588634.0	Tyler Roberson missed Layup.	449.0	19.0	9.0	0.0	0.0	1.0	0.0
+117	400588634.0	Chinonso Obokoh Offensive Rebound.	449.0	19.0	9.0	0.0	0.0	1.0	0.0
+118	400588634.0	Chinonso Obokoh made Two Point Tip Shot.	449.0	21.0	9.0	2.0	0.0	1.0	0.0
+119	400588634.0	Damien Wilson missed Three Point Jumper.	417.0	21.0	9.0	0.0	0.0	0.0	0.0
+120	400588634.0	Trevor Cooney Defensive Rebound.	417.0	21.0	9.0	0.0	0.0	1.0	0.0
+121	400588634.0	Tyler Roberson made Layup. Assisted by Kaleb Joseph.	409.0	23.0	9.0	2.0	0.0	1.0	0.0
+122	400588634.0	Kennesaw St  Timeout	401.0	23.0	9.0	0.0	0.0	0.0	0.0
+123	400588634.0	Damien Wilson Turnover.	399.0	23.0	9.0	0.0	0.0	0.0	1.0
+124	400588634.0	B.J. Johnson Steal.	399.0	23.0	9.0	0.0	0.0	1.0	0.0
+125	400588634.0	Chris McCullough made Layup. Assisted by B.J. Johnson.	394.0	25.0	9.0	2.0	0.0	1.0	0.0
+126	400588634.0	Yonel Brown missed Three Point Jumper.	381.0	25.0	9.0	0.0	0.0	0.0	0.0
+127	400588634.0	Chris McCullough Block.	381.0	25.0	9.0	0.0	0.0	1.0	0.0
+128	400588634.0	Chris McCullough Defensive Rebound.	381.0	25.0	9.0	0.0	0.0	1.0	0.0
+129	400588634.0	Foul on Yonel Brown.	361.0	25.0	9.0	0.0	0.0	0.0	0.0
+130	400588634.0	Official TV Timeout	360.0	25.0	9.0	0.0	0.0	0.0	0.0
+131	400588634.0	Chris McCullough made Free Throw.	360.0	26.0	9.0	1.0	0.0	1.0	0.0
+132	400588634.0	Chris McCullough made Free Throw.	360.0	27.0	9.0	1.0	0.0	1.0	0.0
+133	400588634.0	Willy Kouassi missed Jumper.	345.0	27.0	9.0	0.0	0.0	0.0	0.0
+134	400588634.0	Nick Masterson Offensive Rebound.	345.0	27.0	9.0	0.0	0.0	0.0	0.0
+135	400588634.0	Nick Masterson Turnover.	338.0	27.0	9.0	0.0	0.0	0.0	1.0
+136	400588634.0	Ron Patterson Steal.	338.0	27.0	9.0	0.0	0.0	1.0	0.0
+137	400588634.0	Chris McCullough missed Layup.	332.0	27.0	9.0	0.0	0.0	1.0	0.0
+138	400588634.0	B.J. Johnson Offensive Rebound.	332.0	27.0	9.0	0.0	0.0	1.0	0.0
+139	400588634.0	B.J. Johnson made Two Point Tip Shot.	332.0	29.0	9.0	2.0	0.0	1.0	0.0
+140	400588634.0	Orlando Coleman Turnover.	319.0	29.0	9.0	0.0	0.0	0.0	1.0
+141	400588634.0	Rakeem Christmas missed Jumper.	300.0	29.0	9.0	0.0	0.0	1.0	0.0
+142	400588634.0	Willy Kouassi Defensive Rebound.	300.0	29.0	9.0	0.0	0.0	0.0	0.0
+143	400588634.0	Delbert Love missed Three Point Jumper.	293.0	29.0	9.0	0.0	0.0	0.0	0.0
+144	400588634.0	B.J. Johnson Defensive Rebound.	293.0	29.0	9.0	0.0	0.0	1.0	0.0
+145	400588634.0	B.J. Johnson Turnover.	284.0	29.0	9.0	0.0	0.0	1.0	1.0
+146	400588634.0	Damien Wilson missed Layup.	267.0	29.0	9.0	0.0	0.0	0.0	0.0
+147	400588634.0	Kennesaw St Offensive Rebound.	267.0	29.0	9.0	0.0	0.0	0.0	0.0
+148	400588634.0	Damien Wilson Turnover.	265.0	29.0	9.0	0.0	0.0	0.0	1.0
+149	400588634.0	Ron Patterson Steal.	265.0	29.0	9.0	0.0	0.0	1.0	0.0
+150	400588634.0	Trevor Cooney made Layup. Assisted by Tyler Roberson.	256.0	31.0	9.0	2.0	0.0	1.0	0.0
+151	400588634.0	Foul on Chinonso Obokoh.	239.0	31.0	9.0	0.0	0.0	1.0	0.0
+152	400588634.0	Official TV Timeout	239.0	31.0	9.0	0.0	0.0	0.0	0.0
+153	400588634.0	Foul on Chinonso Obokoh.	220.0	31.0	9.0	0.0	0.0	1.0	0.0
+154	400588634.0	Damien Wilson Turnover.	215.0	31.0	9.0	0.0	0.0	0.0	1.0
+155	400588634.0	Chinonso Obokoh Steal.	215.0	31.0	9.0	0.0	0.0	1.0	0.0
+156	400588634.0	Trevor Cooney missed Three Point Jumper.	201.0	31.0	9.0	0.0	0.0	1.0	0.0
+157	400588634.0	Orlando Coleman Defensive Rebound.	201.0	31.0	9.0	0.0	0.0	0.0	0.0
+158	400588634.0	Orlando Coleman Turnover.	191.0	31.0	9.0	0.0	0.0	0.0	1.0
+159	400588634.0	Ron Patterson missed Jumper.	191.0	31.0	9.0	0.0	0.0	1.0	0.0
+160	400588634.0	Willy Kouassi Defensive Rebound.	191.0	31.0	9.0	0.0	0.0	0.0	0.0
+161	400588634.0	Willy Kouassi Turnover.	173.0	31.0	9.0	0.0	0.0	0.0	1.0
+162	400588634.0	Chris McCullough Steal.	173.0	31.0	9.0	0.0	0.0	1.0	0.0
+163	400588634.0	Ron Patterson missed Layup.	159.0	31.0	9.0	0.0	0.0	1.0	0.0
+164	400588634.0	Willy Kouassi Defensive Rebound.	159.0	31.0	9.0	0.0	0.0	0.0	0.0
+165	400588634.0	Orlando Coleman made Jumper.	150.0	31.0	11.0	0.0	2.0	0.0	0.0
+166	400588634.0	Tyler Roberson missed Jumper.	135.0	31.0	11.0	0.0	0.0	1.0	0.0
+167	400588634.0	B.J. Johnson Offensive Rebound.	135.0	31.0	11.0	0.0	0.0	1.0	0.0
+168	400588634.0	B.J. Johnson made Layup.	134.0	33.0	11.0	2.0	0.0	1.0	0.0
+169	400588634.0	Foul on Damien Wilson.	134.0	33.0	11.0	0.0	0.0	0.0	0.0
+170	400588634.0	B.J. Johnson made Free Throw.	134.0	34.0	11.0	1.0	0.0	1.0	0.0
+171	400588634.0	Orlando Coleman missed Jumper.	121.0	34.0	11.0	0.0	0.0	0.0	0.0
+172	400588634.0	Kaleb Joseph Defensive Rebound.	121.0	34.0	11.0	0.0	0.0	1.0	0.0
+173	400588634.0	Kaleb Joseph Turnover.	118.0	34.0	11.0	0.0	0.0	1.0	1.0
+174	400588634.0	Damien Wilson missed Jumper.	107.0	34.0	11.0	0.0	0.0	0.0	0.0
+175	400588634.0	Syracuse Defensive Rebound.	107.0	34.0	11.0	0.0	0.0	1.0	0.0
+176	400588634.0	Chris McCullough made Jumper. Assisted by B.J. Johnson.	86.0	36.0	11.0	2.0	0.0	1.0	0.0
+177	400588634.0	Orlando Coleman missed Three Point Jumper.	71.0	36.0	11.0	0.0	0.0	0.0	0.0
+178	400588634.0	Tyler Roberson Defensive Rebound.	71.0	36.0	11.0	0.0	0.0	1.0	0.0
+179	400588634.0	Kaleb Joseph Turnover.	65.0	36.0	11.0	0.0	0.0	1.0	1.0
+180	400588634.0	Yonel Brown Steal.	65.0	36.0	11.0	0.0	0.0	0.0	0.0
+181	400588634.0	Yonel Brown made Layup.	62.0	36.0	13.0	0.0	2.0	0.0	0.0
+182	400588634.0	Foul on Kaleb Joseph.	62.0	36.0	13.0	0.0	0.0	1.0	0.0
+183	400588634.0	Yonel Brown made Free Throw.	62.0	36.0	14.0	0.0	1.0	0.0	0.0
+184	400588634.0	B.J. Johnson missed Three Point Jumper.	51.0	36.0	14.0	0.0	0.0	1.0	0.0
+185	400588634.0	Orlando Coleman Defensive Rebound.	51.0	36.0	14.0	0.0	0.0	0.0	0.0
+186	400588634.0	Damien Wilson missed Jumper.	39.0	36.0	14.0	0.0	0.0	0.0	0.0
+187	400588634.0	Tyler Roberson Defensive Rebound.	39.0	36.0	14.0	0.0	0.0	1.0	0.0
+188	400588634.0	Foul on Justin Diecker.	17.0	36.0	14.0	0.0	0.0	0.0	0.0
+189	400588634.0	Chris McCullough missed Free Throw.	17.0	36.0	14.0	0.0	0.0	1.0	0.0
+190	400588634.0	Syracuse Deadball Team Rebound.	17.0	36.0	14.0	0.0	0.0	1.0	0.0
+191	400588634.0	Chris McCullough missed Free Throw.	17.0	36.0	14.0	0.0	0.0	1.0	0.0
+192	400588634.0	Chris McCullough Offensive Rebound.	17.0	36.0	14.0	0.0	0.0	1.0	0.0
+193	400588634.0	Chris McCullough missed Jumper.	16.0	36.0	14.0	0.0	0.0	1.0	0.0
+194	400588634.0	Damien Wilson Defensive Rebound.	16.0	36.0	14.0	0.0	0.0	0.0	0.0
+195	400588634.0	Orlando Coleman made Jumper.	1.0	36.0	16.0	0.0	2.0	0.0	0.0
+196	400588634.0	End of 1st half	0.0	36.0	16.0	0.0	0.0	0.0	0.0
+197	400588634.0	Jump Ball won by Kennesaw St	1200.0	36.0	16.0	0.0	0.0	0.0	0.0
+198	400588634.0	Yonel Brown missed Jumper.	1191.0	36.0	16.0	0.0	0.0	0.0	0.0
+199	400588634.0	Kaleb Joseph Defensive Rebound.	1191.0	36.0	16.0	0.0	0.0	1.0	0.0
+200	400588634.0	Kaleb Joseph made Jumper.	1180.0	38.0	16.0	2.0	0.0	1.0	0.0
+201	400588634.0	Foul on Kaleb Joseph.	1165.0	38.0	16.0	0.0	0.0	1.0	0.0
+202	400588634.0	Willy Kouassi Turnover.	1153.0	38.0	16.0	0.0	0.0	0.0	1.0
+203	400588634.0	Trevor Cooney made Layup. Assisted by Rakeem Christmas.	1138.0	40.0	16.0	2.0	0.0	1.0	0.0
+204	400588634.0	Foul on Kaleb Joseph.	1116.0	40.0	16.0	0.0	0.0	1.0	0.0
+205	400588634.0	Damien Wilson made Jumper. Assisted by Orlando Coleman.	1115.0	40.0	18.0	0.0	2.0	0.0	0.0
+206	400588634.0	Rakeem Christmas made Jumper. Assisted by Trevor Cooney.	1095.0	42.0	18.0	2.0	0.0	1.0	0.0
+207	400588634.0	Orlando Coleman made Jumper.	1078.0	42.0	20.0	0.0	2.0	0.0	0.0
+208	400588634.0	Foul on Willy Kouassi.	1073.0	42.0	20.0	0.0	0.0	0.0	0.0
+209	400588634.0	Rakeem Christmas made Jumper. Assisted by Kaleb Joseph.	1062.0	44.0	20.0	2.0	0.0	1.0	0.0
+210	400588634.0	Yonel Brown Turnover.	1048.0	44.0	20.0	0.0	0.0	0.0	1.0
+211	400588634.0	Chris McCullough made Jumper. Assisted by Kaleb Joseph.	1035.0	46.0	20.0	2.0	0.0	1.0	0.0
+212	400588634.0	Orlando Coleman Turnover.	1014.0	46.0	20.0	0.0	0.0	0.0	1.0
+213	400588634.0	Chris McCullough Steal.	1014.0	46.0	20.0	0.0	0.0	1.0	0.0
+214	400588634.0	Tyler Roberson made Jumper.	1006.0	48.0	20.0	2.0	0.0	1.0	0.0
+215	400588634.0	Kennesaw St  Timeout	1002.0	48.0	20.0	0.0	0.0	0.0	0.0
+216	400588634.0	Damien Wilson missed Three Point Jumper.	981.0	48.0	20.0	0.0	0.0	0.0	0.0
+217	400588634.0	Kaleb Joseph Defensive Rebound.	981.0	48.0	20.0	0.0	0.0	1.0	0.0
+218	400588634.0	Trevor Cooney missed Jumper.	971.0	48.0	20.0	0.0	0.0	1.0	0.0
+219	400588634.0	Rakeem Christmas Offensive Rebound.	971.0	48.0	20.0	0.0	0.0	1.0	0.0
+220	400588634.0	Foul on Bernard Morena.	967.0	48.0	20.0	0.0	0.0	0.0	0.0
+221	400588634.0	Rakeem Christmas made Free Throw.	967.0	49.0	20.0	1.0	0.0	1.0	0.0
+222	400588634.0	Rakeem Christmas made Free Throw.	967.0	50.0	20.0	1.0	0.0	1.0	0.0
+223	400588634.0	Damien Wilson made Jumper. Assisted by Nick Masterson.	950.0	50.0	22.0	0.0	2.0	0.0	0.0
+224	400588634.0	Official TV Timeout	936.0	50.0	22.0	0.0	0.0	0.0	0.0
+225	400588634.0	Chris McCullough Turnover.	933.0	50.0	22.0	0.0	0.0	1.0	1.0
+226	400588634.0	Orlando Coleman Steal.	933.0	50.0	22.0	0.0	0.0	0.0	0.0
+227	400588634.0	Damien Wilson missed Jumper.	913.0	50.0	22.0	0.0	0.0	0.0	0.0
+228	400588634.0	Chris McCullough Defensive Rebound.	913.0	50.0	22.0	0.0	0.0	1.0	0.0
+229	400588634.0	Rakeem Christmas made Layup. Assisted by Chris McCullough.	892.0	52.0	22.0	2.0	0.0	1.0	0.0
+230	400588634.0	Foul on Chris McCullough.	870.0	52.0	22.0	0.0	0.0	1.0	0.0
+231	400588634.0	Orlando Coleman missed Jumper.	861.0	52.0	22.0	0.0	0.0	0.0	0.0
+232	400588634.0	Chris McCullough Defensive Rebound.	861.0	52.0	22.0	0.0	0.0	1.0	0.0
+233	400588634.0	Rakeem Christmas made Layup. Assisted by Trevor Cooney.	851.0	54.0	22.0	2.0	0.0	1.0	0.0
+234	400588634.0	Nigel Pruitt missed Three Point Jumper.	835.0	54.0	22.0	0.0	0.0	0.0	0.0
+235	400588634.0	Kennesaw St Offensive Rebound.	835.0	54.0	22.0	0.0	0.0	0.0	0.0
+236	400588634.0	Delbert Love made Three Point Jumper. Assisted by Orlando Coleman.	818.0	54.0	25.0	0.0	3.0	0.0	0.0
+237	400588634.0	Foul on Nigel Pruitt.	798.0	54.0	25.0	0.0	0.0	0.0	0.0
+238	400588634.0	Foul on Rakeem Christmas.	797.0	54.0	25.0	0.0	0.0	1.0	0.0
+239	400588634.0	Rakeem Christmas Turnover.	797.0	54.0	25.0	0.0	0.0	1.0	1.0
+240	400588634.0	Yonel Brown missed Three Point Jumper.	785.0	54.0	25.0	0.0	0.0	0.0	0.0
+241	400588634.0	Ron Patterson Block.	785.0	54.0	25.0	0.0	0.0	1.0	0.0
+242	400588634.0	Rakeem Christmas Defensive Rebound.	785.0	54.0	25.0	0.0	0.0	1.0	0.0
+243	400588634.0	Ron Patterson missed Three Point Jumper.	762.0	54.0	25.0	0.0	0.0	1.0	0.0
+244	400588634.0	Rakeem Christmas Offensive Rebound.	762.0	54.0	25.0	0.0	0.0	1.0	0.0
+245	400588634.0	Foul on Bernard Morena.	758.0	54.0	25.0	0.0	0.0	0.0	0.0
+246	400588634.0	Rakeem Christmas made Free Throw.	758.0	55.0	25.0	1.0	0.0	1.0	0.0
+247	400588634.0	Rakeem Christmas made Free Throw.	758.0	56.0	25.0	1.0	0.0	1.0	0.0
+248	400588634.0	Foul on Kaleb Joseph.	749.0	56.0	25.0	0.0	0.0	1.0	0.0
+249	400588634.0	Delbert Love Turnover.	735.0	56.0	25.0	0.0	0.0	0.0	1.0
+250	400588634.0	Chris McCullough missed Jumper.	720.0	56.0	25.0	0.0	0.0	1.0	0.0
+251	400588634.0	Nigel Pruitt Defensive Rebound.	720.0	56.0	25.0	0.0	0.0	0.0	0.0
+252	400588634.0	Delbert Love made Three Point Jumper. Assisted by Yonel Brown.	710.0	56.0	28.0	0.0	3.0	0.0	0.0
+253	400588634.0	Syracuse  Timeout	705.0	56.0	28.0	0.0	0.0	0.0	0.0
+254	400588634.0	Ron Patterson made Three Point Jumper. Assisted by Chris McCullough.	696.0	59.0	28.0	3.0	0.0	1.0	0.0
+255	400588634.0	Willy Kouassi missed Layup.	673.0	59.0	28.0	0.0	0.0	0.0	0.0
+256	400588634.0	Rakeem Christmas Block.	673.0	59.0	28.0	0.0	0.0	1.0	0.0
+257	400588634.0	Kennesaw St Offensive Rebound.	673.0	59.0	28.0	0.0	0.0	0.0	0.0
+258	400588634.0	Official TV Timeout	670.0	59.0	28.0	0.0	0.0	0.0	0.0
+259	400588634.0	Delbert Love missed Three Point Jumper.	667.0	59.0	28.0	0.0	0.0	0.0	0.0
+260	400588634.0	Nigel Pruitt Offensive Rebound.	667.0	59.0	28.0	0.0	0.0	0.0	0.0
+261	400588634.0	Kennesaw St  Turnover.	653.0	59.0	28.0	0.0	0.0	0.0	1.0
+262	400588634.0	Rakeem Christmas made Layup. Assisted by B.J. Johnson.	644.0	61.0	28.0	2.0	0.0	1.0	0.0
+263	400588634.0	Willy Kouassi made Layup. Assisted by Nigel Pruitt.	623.0	61.0	30.0	0.0	2.0	0.0	0.0
+264	400588634.0	B.J. Johnson missed Three Point Jumper.	600.0	61.0	30.0	0.0	0.0	1.0	0.0
+265	400588634.0	Foul on Rakeem Christmas.	597.0	61.0	30.0	0.0	0.0	1.0	0.0
+266	400588634.0	Rakeem Christmas Offensive Rebound.	597.0	61.0	30.0	0.0	0.0	1.0	0.0
+267	400588634.0	Rakeem Christmas Turnover.	597.0	61.0	30.0	0.0	0.0	1.0	1.0
+268	400588634.0	Willy Kouassi missed Layup.	575.0	61.0	30.0	0.0	0.0	0.0	0.0
+269	400588634.0	Chris McCullough Defensive Rebound.	575.0	61.0	30.0	0.0	0.0	1.0	0.0
+270	400588634.0	Ron Patterson missed Three Point Jumper.	556.0	61.0	30.0	0.0	0.0	1.0	0.0
+271	400588634.0	Chris McCullough Offensive Rebound.	556.0	61.0	30.0	0.0	0.0	1.0	0.0
+272	400588634.0	Chris McCullough missed Layup.	552.0	61.0	30.0	0.0	0.0	1.0	0.0
+273	400588634.0	Chinonso Obokoh Offensive Rebound.	552.0	61.0	30.0	0.0	0.0	1.0	0.0
+274	400588634.0	B.J. Johnson made Layup.	547.0	63.0	30.0	2.0	0.0	1.0	0.0
+275	400588634.0	Nigel Pruitt made Three Point Jumper. Assisted by Willy Kouassi.	535.0	63.0	33.0	0.0	3.0	0.0	0.0
+276	400588634.0	Foul on Nigel Pruitt.	506.0	63.0	33.0	0.0	0.0	0.0	0.0
+277	400588634.0	Trevor Cooney missed Free Throw.	506.0	63.0	33.0	0.0	0.0	1.0	0.0
+278	400588634.0	Syracuse Deadball Team Rebound.	506.0	63.0	33.0	0.0	0.0	1.0	0.0
+279	400588634.0	Trevor Cooney made Free Throw.	506.0	64.0	33.0	1.0	0.0	1.0	0.0
+280	400588634.0	Foul on Chinonso Obokoh.	485.0	64.0	33.0	0.0	0.0	1.0	0.0
+281	400588634.0	Damien Wilson missed Free Throw.	485.0	64.0	33.0	0.0	0.0	0.0	0.0
+282	400588634.0	Chris McCullough Defensive Rebound.	485.0	64.0	33.0	0.0	0.0	1.0	0.0
+283	400588634.0	Foul on Damien Wilson.	472.0	64.0	33.0	0.0	0.0	0.0	0.0
+284	400588634.0	Official TV Timeout	472.0	64.0	33.0	0.0	0.0	0.0	0.0
+285	400588634.0	Chris McCullough made Free Throw.	472.0	65.0	33.0	1.0	0.0	1.0	0.0
+286	400588634.0	Chris McCullough missed Free Throw.	472.0	65.0	33.0	0.0	0.0	1.0	0.0
+287	400588634.0	Chinonso Obokoh Offensive Rebound.	472.0	65.0	33.0	0.0	0.0	1.0	0.0
+288	400588634.0	B.J. Johnson made Three Point Jumper. Assisted by Trevor Cooney.	470.0	68.0	33.0	3.0	0.0	1.0	0.0
+289	400588634.0	Delbert Love missed Three Point Jumper.	445.0	68.0	33.0	0.0	0.0	0.0	0.0
+290	400588634.0	B.J. Johnson Defensive Rebound.	445.0	68.0	33.0	0.0	0.0	1.0	0.0
+291	400588634.0	B.J. Johnson missed Three Point Jumper.	431.0	68.0	33.0	0.0	0.0	1.0	0.0
+292	400588634.0	Willy Kouassi Defensive Rebound.	431.0	68.0	33.0	0.0	0.0	0.0	0.0
+293	400588634.0	Yonel Brown Turnover.	424.0	68.0	33.0	0.0	0.0	0.0	1.0
+294	400588634.0	Chris McCullough Steal.	424.0	68.0	33.0	0.0	0.0	1.0	0.0
+295	400588634.0	Chris McCullough made Layup.	396.0	70.0	33.0	2.0	0.0	1.0	0.0
+296	400588634.0	Foul on Chinonso Obokoh.	372.0	70.0	33.0	0.0	0.0	1.0	0.0
+297	400588634.0	Willy Kouassi missed Free Throw.	372.0	70.0	33.0	0.0	0.0	0.0	0.0
+298	400588634.0	Trevor Cooney Defensive Rebound.	372.0	70.0	33.0	0.0	0.0	1.0	0.0
+299	400588634.0	Tyler Roberson made Jumper.	362.0	72.0	33.0	2.0	0.0	1.0	0.0
+300	400588634.0	Willy Kouassi missed Layup.	337.0	72.0	33.0	0.0	0.0	0.0	0.0
+301	400588634.0	Tyler Roberson Defensive Rebound.	337.0	72.0	33.0	0.0	0.0	1.0	0.0
+302	400588634.0	B.J. Johnson made Three Point Jumper. Assisted by Ron Patterson.	331.0	75.0	33.0	3.0	0.0	1.0	0.0
+303	400588634.0	Willy Kouassi made Dunk. Assisted by Delbert Love.	308.0	75.0	35.0	0.0	2.0	0.0	0.0
+304	400588634.0	Tyler Roberson made Jumper. Assisted by B.J. Johnson.	290.0	77.0	35.0	2.0	0.0	1.0	0.0
+305	400588634.0	Nigel Pruitt missed Jumper.	275.0	77.0	35.0	0.0	0.0	0.0	0.0
+306	400588634.0	B.J. Johnson Defensive Rebound.	275.0	77.0	35.0	0.0	0.0	1.0	0.0
+307	400588634.0	Tyler Roberson made Dunk. Assisted by Ron Patterson.	265.0	79.0	35.0	2.0	0.0	1.0	0.0
+308	400588634.0	Nigel Pruitt made Jumper. Assisted by Nick Masterson.	248.0	79.0	37.0	0.0	2.0	0.0	0.0
+309	400588634.0	Trevor Cooney made Three Point Jumper. Assisted by Ron Patterson.	232.0	82.0	37.0	3.0	0.0	1.0	0.0
+310	400588634.0	Delbert Love missed Three Point Jumper.	225.0	82.0	37.0	0.0	0.0	0.0	0.0
+311	400588634.0	Delbert Love Offensive Rebound.	225.0	82.0	37.0	0.0	0.0	0.0	0.0
+312	400588634.0	Nigel Pruitt Turnover.	217.0	82.0	37.0	0.0	0.0	0.0	1.0
+313	400588634.0	Official TV Timeout	216.0	82.0	37.0	0.0	0.0	0.0	0.0
+314	400588634.0	Ron Patterson missed Layup.	205.0	82.0	37.0	0.0	0.0	1.0	0.0
+315	400588634.0	Orlando Coleman Block.	205.0	82.0	37.0	0.0	0.0	0.0	0.0
+316	400588634.0	Tyler Roberson Offensive Rebound.	205.0	82.0	37.0	0.0	0.0	1.0	0.0
+317	400588634.0	Tyler Roberson missed Layup.	204.0	82.0	37.0	0.0	0.0	1.0	0.0
+318	400588634.0	Syracuse Offensive Rebound.	204.0	82.0	37.0	0.0	0.0	1.0	0.0
+319	400588634.0	Foul on Justin Diecker.	204.0	82.0	37.0	0.0	0.0	0.0	0.0
+320	400588634.0	Rakeem Christmas made Free Throw.	204.0	83.0	37.0	1.0	0.0	1.0	0.0
+321	400588634.0	Rakeem Christmas missed Free Throw.	204.0	83.0	37.0	0.0	0.0	1.0	0.0
+322	400588634.0	Damien Wilson Defensive Rebound.	204.0	83.0	37.0	0.0	0.0	0.0	0.0
+323	400588634.0	Orlando Coleman missed Three Point Jumper.	187.0	83.0	37.0	0.0	0.0	0.0	0.0
+324	400588634.0	Tyler Roberson Defensive Rebound.	187.0	83.0	37.0	0.0	0.0	1.0	0.0
+325	400588634.0	Rakeem Christmas made Jumper.	174.0	85.0	37.0	2.0	0.0	1.0	0.0
+326	400588634.0	Orlando Coleman made Jumper.	150.0	85.0	39.0	0.0	2.0	0.0	0.0
+327	400588634.0	Trevor Cooney made Jumper. Assisted by Ron Patterson.	138.0	87.0	39.0	2.0	0.0	1.0	0.0
+328	400588634.0	Nick Masterson Turnover.	108.0	87.0	39.0	0.0	0.0	0.0	1.0
+329	400588634.0	Chinonso Obokoh Steal.	108.0	87.0	39.0	0.0	0.0	1.0	0.0
+330	400588634.0	Ron Patterson Turnover.	101.0	87.0	39.0	0.0	0.0	1.0	1.0
+331	400588634.0	Nigel Pruitt made Three Point Jumper. Assisted by Yonel Brown.	94.0	87.0	42.0	0.0	3.0	0.0	0.0
+332	400588634.0	Ron Patterson made Layup.	75.0	89.0	42.0	2.0	0.0	1.0	0.0
+333	400588634.0	Tanner Wozniak missed Three Point Jumper.	50.0	89.0	42.0	0.0	0.0	0.0	0.0
+334	400588634.0	Syracuse Defensive Rebound.	50.0	89.0	42.0	0.0	0.0	1.0	0.0
+335	400588634.0	Foul on Justin Diecker.	50.0	89.0	42.0	0.0	0.0	0.0	0.0
+336	400588634.0	Tyler Roberson missed Free Throw.	50.0	89.0	42.0	0.0	0.0	1.0	0.0
+337	400588634.0	Nigel Pruitt Defensive Rebound.	50.0	89.0	42.0	0.0	0.0	0.0	0.0
+338	400588634.0	Tanner Wozniak Turnover.	47.0	89.0	42.0	0.0	0.0	0.0	1.0
+339	400588634.0	Carter Sanderson missed Three Point Jumper.	24.0	89.0	42.0	0.0	0.0	1.0	0.0
+340	400588634.0	Syracuse Offensive Rebound.	24.0	89.0	42.0	0.0	0.0	1.0	0.0
+341	400588634.0	Tyler Roberson Turnover.	12.0	89.0	42.0	0.0	0.0	1.0	1.0
+342	400588634.0	Nigel Pruitt Steal.	12.0	89.0	42.0	0.0	0.0	0.0	0.0
+343	400588634.0	Nigel Pruitt missed Layup.	12.0	89.0	42.0	0.0	0.0	0.0	0.0
+344	400588634.0	Mike Sutton Block.	12.0	89.0	42.0	0.0	0.0	1.0	0.0
+345	400588634.0	Nigel Pruitt Offensive Rebound.	12.0	89.0	42.0	0.0	0.0	0.0	0.0
+346	400588634.0	Yonel Brown missed Jumper.	5.0	89.0	42.0	0.0	0.0	0.0	0.0
+347	400588634.0	Tyler Roberson Defensive Rebound.	5.0	89.0	42.0	0.0	0.0	1.0	0.0
+348	400588634.0	End of Game	0.0	89.0	42.0	0.0	0.0	0.0	0.0

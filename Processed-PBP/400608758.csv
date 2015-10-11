@@ -1,0 +1,364 @@
+	Game_id	PBP_description	sec_remaining	home_score	away_score	home_points_scored	away_points_scored	home_poss	turnover
+0	400608758.0	Jump Ball won by UCLA	1200.0	0.0	0.0	0.0	0.0	1.0	0.0
+1	400608758.0	Jump Ball won by UCLA	1199.0	0.0	0.0	0.0	0.0	1.0	0.0
+2	400608758.0	Isaac Hamilton missed Layup.	1199.0	0.0	0.0	0.0	0.0	1.0	0.0
+3	400608758.0	Kevon Looney Offensive Rebound.	1199.0	0.0	0.0	0.0	0.0	1.0	0.0
+4	400608758.0	Kevon Looney made Dunk.	1195.0	2.0	0.0	2.0	0.0	1.0	0.0
+5	400608758.0	Justin Jackson missed Jumper.	1167.0	2.0	0.0	0.0	0.0	0.0	0.0
+6	400608758.0	Tony Parker Defensive Rebound.	1167.0	2.0	0.0	0.0	0.0	1.0	0.0
+7	400608758.0	Isaac Hamilton missed Three Point Jumper.	1167.0	2.0	0.0	0.0	0.0	1.0	0.0
+8	400608758.0	Marcus Paige Defensive Rebound.	1167.0	2.0	0.0	0.0	0.0	0.0	0.0
+9	400608758.0	Nate Britt missed Three Point Jumper.	1167.0	2.0	0.0	0.0	0.0	0.0	0.0
+10	400608758.0	Norman Powell Defensive Rebound.	1167.0	2.0	0.0	0.0	0.0	1.0	0.0
+11	400608758.0	Bryce Alford Turnover.	1167.0	2.0	0.0	0.0	0.0	1.0	1.0
+12	400608758.0	Marcus Paige made Three Point Jumper. Assisted by Nate Britt.	1133.0	2.0	3.0	0.0	3.0	0.0	0.0
+13	400608758.0	Foul on Isaiah Hicks.	1112.0	2.0	3.0	0.0	0.0	0.0	0.0
+14	400608758.0	Tony Parker made Jumper. Assisted by Isaac Hamilton.	1107.0	4.0	3.0	2.0	0.0	1.0	0.0
+15	400608758.0	Marcus Paige missed Three Point Jumper.	1094.0	4.0	3.0	0.0	0.0	0.0	0.0
+16	400608758.0	Justin Jackson Offensive Rebound.	1094.0	4.0	3.0	0.0	0.0	0.0	0.0
+17	400608758.0	Joel James missed Jumper.	1078.0	4.0	3.0	0.0	0.0	0.0	0.0
+18	400608758.0	Kevon Looney Defensive Rebound.	1078.0	4.0	3.0	0.0	0.0	1.0	0.0
+19	400608758.0	Norman Powell made Dunk.	1072.0	6.0	3.0	2.0	0.0	1.0	0.0
+20	400608758.0	Isaiah Hicks missed Layup.	1058.0	6.0	3.0	0.0	0.0	0.0	0.0
+21	400608758.0	Norman Powell Defensive Rebound.	1058.0	6.0	3.0	0.0	0.0	1.0	0.0
+22	400608758.0	Foul on Nate Britt.	1056.0	6.0	3.0	0.0	0.0	0.0	0.0
+23	400608758.0	Norman Powell missed Free Throw.	1056.0	6.0	3.0	0.0	0.0	1.0	0.0
+24	400608758.0	UCLA Deadball Team Rebound.	1056.0	6.0	3.0	0.0	0.0	1.0	0.0
+25	400608758.0	Norman Powell made Free Throw.	1056.0	7.0	3.0	1.0	0.0	1.0	0.0
+26	400608758.0	Marcus Paige missed Jumper.	1046.0	7.0	3.0	0.0	0.0	0.0	0.0
+27	400608758.0	Isaac Hamilton Defensive Rebound.	1046.0	7.0	3.0	0.0	0.0	1.0	0.0
+28	400608758.0	Tony Parker missed Layup.	1029.0	7.0	3.0	0.0	0.0	1.0	0.0
+29	400608758.0	Nate Britt Defensive Rebound.	1029.0	7.0	3.0	0.0	0.0	0.0	0.0
+30	400608758.0	Nate Britt made Layup.	1021.0	7.0	5.0	0.0	2.0	0.0	0.0
+31	400608758.0	Norman Powell Turnover.	1005.0	7.0	5.0	0.0	0.0	1.0	1.0
+32	400608758.0	Nate Britt Steal.	1005.0	7.0	5.0	0.0	0.0	0.0	0.0
+33	400608758.0	Justin Jackson made Layup. Assisted by Marcus Paige.	1001.0	7.0	7.0	0.0	2.0	0.0	0.0
+34	400608758.0	Tony Parker made Layup. Assisted by Bryce Alford.	988.0	9.0	7.0	2.0	0.0	1.0	0.0
+35	400608758.0	Isaiah Hicks Turnover.	970.0	9.0	7.0	0.0	0.0	0.0	1.0
+36	400608758.0	Norman Powell Steal.	970.0	9.0	7.0	0.0	0.0	1.0	0.0
+37	400608758.0	Norman Powell made Layup.	965.0	11.0	7.0	2.0	0.0	1.0	0.0
+38	400608758.0	Justin Jackson missed Three Point Jumper.	951.0	11.0	7.0	0.0	0.0	0.0	0.0
+39	400608758.0	Tony Parker Defensive Rebound.	951.0	11.0	7.0	0.0	0.0	1.0	0.0
+40	400608758.0	Norman Powell Turnover.	941.0	11.0	7.0	0.0	0.0	1.0	1.0
+41	400608758.0	Justin Jackson Steal.	941.0	11.0	7.0	0.0	0.0	0.0	0.0
+42	400608758.0	Foul on Kevon Looney.	938.0	11.0	7.0	0.0	0.0	1.0	0.0
+43	400608758.0	 Official TV Timeout	938.0	11.0	7.0	0.0	0.0	0.0	0.0
+44	400608758.0	Nate Britt made Free Throw.	938.0	11.0	8.0	0.0	1.0	0.0	0.0
+45	400608758.0	Nate Britt made Free Throw.	938.0	11.0	9.0	0.0	1.0	0.0	0.0
+46	400608758.0	Kevon Looney missed Jumper.	925.0	11.0	9.0	0.0	0.0	1.0	0.0
+47	400608758.0	Tony Parker Offensive Rebound.	925.0	11.0	9.0	0.0	0.0	1.0	0.0
+48	400608758.0	Kevon Looney made Three Point Jumper.	895.0	14.0	9.0	3.0	0.0	1.0	0.0
+49	400608758.0	Justin Jackson missed Layup.	885.0	14.0	9.0	0.0	0.0	0.0	0.0
+50	400608758.0	UCLA Defensive Rebound.	885.0	14.0	9.0	0.0	0.0	1.0	0.0
+51	400608758.0	Foul on Brice Johnson.	864.0	14.0	9.0	0.0	0.0	0.0	0.0
+52	400608758.0	Kevon Looney made Free Throw.	864.0	15.0	9.0	1.0	0.0	1.0	0.0
+53	400608758.0	Kevon Looney made Free Throw.	864.0	16.0	9.0	1.0	0.0	1.0	0.0
+54	400608758.0	Foul on Noah Allen.	853.0	16.0	9.0	0.0	0.0	1.0	0.0
+55	400608758.0	Joel Berry II made Layup.	847.0	16.0	11.0	0.0	2.0	0.0	0.0
+56	400608758.0	Bryce Alford made Jumper. Assisted by Kevon Looney.	830.0	18.0	11.0	2.0	0.0	1.0	0.0
+57	400608758.0	Kennedy Meeks made Layup.	809.0	18.0	13.0	0.0	2.0	0.0	0.0
+58	400608758.0	Isaac Hamilton Turnover.	807.0	18.0	13.0	0.0	0.0	1.0	1.0
+59	400608758.0	J.P. Tokoto Steal.	807.0	18.0	13.0	0.0	0.0	0.0	0.0
+60	400608758.0	Foul on Noah Allen.	802.0	18.0	13.0	0.0	0.0	1.0	0.0
+61	400608758.0	Brice Johnson made Layup. Assisted by Joel Berry II.	797.0	18.0	15.0	0.0	2.0	0.0	0.0
+62	400608758.0	Foul on Kennedy Meeks.	790.0	18.0	15.0	0.0	0.0	0.0	0.0
+63	400608758.0	Bryce Alford missed Three Point Jumper.	780.0	18.0	15.0	0.0	0.0	1.0	0.0
+64	400608758.0	Justin Jackson Defensive Rebound.	780.0	18.0	15.0	0.0	0.0	0.0	0.0
+65	400608758.0	Kennedy Meeks made Jumper. Assisted by J.P. Tokoto.	756.0	18.0	17.0	0.0	2.0	0.0	0.0
+66	400608758.0	Bryce Alford missed Jumper.	723.0	18.0	17.0	0.0	0.0	1.0	0.0
+67	400608758.0	Brice Johnson Defensive Rebound.	723.0	18.0	17.0	0.0	0.0	0.0	0.0
+68	400608758.0	Foul on Bryce Alford.	722.0	18.0	17.0	0.0	0.0	1.0	0.0
+69	400608758.0	 Official TV Timeout	722.0	18.0	17.0	0.0	0.0	0.0	0.0
+70	400608758.0	Joel Berry II missed Three Point Jumper.	707.0	18.0	17.0	0.0	0.0	0.0	0.0
+71	400608758.0	Kevon Looney Defensive Rebound.	707.0	18.0	17.0	0.0	0.0	1.0	0.0
+72	400608758.0	Foul on Joel Berry II.	695.0	18.0	17.0	0.0	0.0	0.0	0.0
+73	400608758.0	Kevon Looney missed Three Point Jumper.	684.0	18.0	17.0	0.0	0.0	1.0	0.0
+74	400608758.0	Thomas Welsh Offensive Rebound.	684.0	18.0	17.0	0.0	0.0	1.0	0.0
+75	400608758.0	Thomas Welsh Turnover.	674.0	18.0	17.0	0.0	0.0	1.0	1.0
+76	400608758.0	Brice Johnson Steal.	674.0	18.0	17.0	0.0	0.0	0.0	0.0
+77	400608758.0	Theo Pinson missed Three Point Jumper.	664.0	18.0	17.0	0.0	0.0	0.0	0.0
+78	400608758.0	Thomas Welsh Defensive Rebound.	664.0	18.0	17.0	0.0	0.0	1.0	0.0
+79	400608758.0	Norman Powell missed Three Point Jumper.	650.0	18.0	17.0	0.0	0.0	1.0	0.0
+80	400608758.0	North Carolina Defensive Rebound.	650.0	18.0	17.0	0.0	0.0	0.0	0.0
+81	400608758.0	Foul on Thomas Welsh.	650.0	18.0	17.0	0.0	0.0	1.0	0.0
+82	400608758.0	Marcus Paige missed Jumper.	623.0	18.0	17.0	0.0	0.0	0.0	0.0
+83	400608758.0	Theo Pinson Offensive Rebound.	623.0	18.0	17.0	0.0	0.0	0.0	0.0
+84	400608758.0	Kennedy Meeks Turnover.	612.0	18.0	17.0	0.0	0.0	0.0	1.0
+85	400608758.0	Norman Powell Steal.	612.0	18.0	17.0	0.0	0.0	1.0	0.0
+86	400608758.0	Foul on Theo Pinson.	610.0	18.0	17.0	0.0	0.0	0.0	0.0
+87	400608758.0	Foul on Kennedy Meeks.	590.0	18.0	17.0	0.0	0.0	0.0	0.0
+88	400608758.0	Norman Powell made Free Throw.	590.0	19.0	17.0	1.0	0.0	1.0	0.0
+89	400608758.0	Norman Powell missed Free Throw.	590.0	19.0	17.0	0.0	0.0	1.0	0.0
+90	400608758.0	J.P. Tokoto Defensive Rebound.	590.0	19.0	17.0	0.0	0.0	0.0	0.0
+91	400608758.0	J.P. Tokoto made Three Point Jumper. Assisted by Marcus Paige.	570.0	19.0	20.0	0.0	3.0	0.0	0.0
+92	400608758.0	Isaac Hamilton Turnover.	545.0	19.0	20.0	0.0	0.0	1.0	1.0
+93	400608758.0	Marcus Paige made Layup.	525.0	19.0	22.0	0.0	2.0	0.0	0.0
+94	400608758.0	Isaac Hamilton Turnover.	502.0	19.0	22.0	0.0	0.0	1.0	1.0
+95	400608758.0	J.P. Tokoto Steal.	502.0	19.0	22.0	0.0	0.0	0.0	0.0
+96	400608758.0	Theo Pinson missed Three Point Jumper.	493.0	19.0	22.0	0.0	0.0	0.0	0.0
+97	400608758.0	J.P. Tokoto Offensive Rebound.	493.0	19.0	22.0	0.0	0.0	0.0	0.0
+98	400608758.0	Marcus Paige missed Three Point Jumper.	471.0	19.0	22.0	0.0	0.0	0.0	0.0
+99	400608758.0	Isaac Hamilton Defensive Rebound.	471.0	19.0	22.0	0.0	0.0	1.0	0.0
+100	400608758.0	Bryce Alford missed Three Point Jumper.	462.0	19.0	22.0	0.0	0.0	1.0	0.0
+101	400608758.0	Marcus Paige Defensive Rebound.	462.0	19.0	22.0	0.0	0.0	0.0	0.0
+102	400608758.0	Marcus Paige Turnover.	462.0	19.0	22.0	0.0	0.0	0.0	1.0
+103	400608758.0	Norman Powell Steal.	462.0	19.0	22.0	0.0	0.0	1.0	0.0
+104	400608758.0	Norman Powell missed Dunk.	455.0	19.0	22.0	0.0	0.0	1.0	0.0
+105	400608758.0	Thomas Welsh Offensive Rebound.	455.0	19.0	22.0	0.0	0.0	1.0	0.0
+106	400608758.0	Foul on Marcus Paige.	454.0	19.0	22.0	0.0	0.0	0.0	0.0
+107	400608758.0	 Official TV Timeout	454.0	19.0	22.0	0.0	0.0	0.0	0.0
+108	400608758.0	Norman Powell made Free Throw.	454.0	20.0	22.0	1.0	0.0	1.0	0.0
+109	400608758.0	Norman Powell made Free Throw.	454.0	21.0	22.0	1.0	0.0	1.0	0.0
+110	400608758.0	Justin Jackson missed Jumper.	447.0	21.0	22.0	0.0	0.0	0.0	0.0
+111	400608758.0	Isaiah Hicks Offensive Rebound.	447.0	21.0	22.0	0.0	0.0	0.0	0.0
+112	400608758.0	Isaiah Hicks made Layup.	407.0	21.0	24.0	0.0	2.0	0.0	0.0
+113	400608758.0	Tony Parker missed Layup.	407.0	21.0	24.0	0.0	0.0	1.0	0.0
+114	400608758.0	Justin Jackson Defensive Rebound.	407.0	21.0	24.0	0.0	0.0	0.0	0.0
+115	400608758.0	Kennedy Meeks missed Layup.	407.0	21.0	24.0	0.0	0.0	0.0	0.0
+116	400608758.0	Wanaah Bail Block.	407.0	21.0	24.0	0.0	0.0	1.0	0.0
+117	400608758.0	Tony Parker Defensive Rebound.	407.0	21.0	24.0	0.0	0.0	1.0	0.0
+118	400608758.0	Theo Pinson missed Free Throw.	407.0	21.0	24.0	0.0	0.0	0.0	0.0
+119	400608758.0	Isaac Hamilton Turnover.	407.0	21.0	24.0	0.0	0.0	1.0	1.0
+120	400608758.0	Foul on Bryce Alford.	407.0	21.0	24.0	0.0	0.0	1.0	0.0
+121	400608758.0	Theo Pinson Steal.	407.0	21.0	24.0	0.0	0.0	0.0	0.0
+122	400608758.0	North Carolina Deadball Team Rebound.	407.0	21.0	24.0	0.0	0.0	0.0	0.0
+123	400608758.0	Theo Pinson made Free Throw.	407.0	21.0	25.0	0.0	1.0	0.0	0.0
+124	400608758.0	Foul on Nate Britt.	391.0	21.0	25.0	0.0	0.0	0.0	0.0
+125	400608758.0	Bryce Alford made Free Throw.	391.0	22.0	25.0	1.0	0.0	1.0	0.0
+126	400608758.0	Bryce Alford made Free Throw.	391.0	23.0	25.0	1.0	0.0	1.0	0.0
+127	400608758.0	Justin Jackson missed Three Point Jumper.	381.0	23.0	25.0	0.0	0.0	0.0	0.0
+128	400608758.0	Kevon Looney Defensive Rebound.	381.0	23.0	25.0	0.0	0.0	1.0	0.0
+129	400608758.0	Tony Parker Turnover.	367.0	23.0	25.0	0.0	0.0	1.0	1.0
+130	400608758.0	Justin Jackson missed Jumper.	352.0	23.0	25.0	0.0	0.0	0.0	0.0
+131	400608758.0	UCLA Defensive Rebound.	352.0	23.0	25.0	0.0	0.0	1.0	0.0
+132	400608758.0	Bryce Alford made Layup.	346.0	25.0	25.0	2.0	0.0	1.0	0.0
+133	400608758.0	Foul on Tony Parker.	324.0	25.0	25.0	0.0	0.0	1.0	0.0
+134	400608758.0	Kennedy Meeks made Free Throw.	324.0	25.0	26.0	0.0	1.0	0.0	0.0
+135	400608758.0	Kennedy Meeks made Free Throw.	324.0	25.0	27.0	0.0	1.0	0.0	0.0
+136	400608758.0	Isaac Hamilton Turnover.	308.0	25.0	27.0	0.0	0.0	1.0	1.0
+137	400608758.0	Nate Britt Steal.	308.0	25.0	27.0	0.0	0.0	0.0	0.0
+138	400608758.0	Justin Jackson made Layup. Assisted by Nate Britt.	296.0	25.0	29.0	0.0	2.0	0.0	0.0
+139	400608758.0	UCLA  Timeout	292.0	25.0	29.0	0.0	0.0	0.0	0.0
+140	400608758.0	Isaac Hamilton missed Three Point Jumper.	277.0	25.0	29.0	0.0	0.0	1.0	0.0
+141	400608758.0	North Carolina Defensive Rebound.	277.0	25.0	29.0	0.0	0.0	0.0	0.0
+142	400608758.0	Foul on Kevon Looney.	275.0	25.0	29.0	0.0	0.0	1.0	0.0
+143	400608758.0	Brice Johnson made Free Throw.	275.0	25.0	30.0	0.0	1.0	0.0	0.0
+144	400608758.0	Brice Johnson made Free Throw.	275.0	25.0	31.0	0.0	1.0	0.0	0.0
+145	400608758.0	Foul on Brice Johnson.	258.0	25.0	31.0	0.0	0.0	0.0	0.0
+146	400608758.0	Kevon Looney missed Free Throw.	258.0	25.0	31.0	0.0	0.0	1.0	0.0
+147	400608758.0	UCLA Deadball Team Rebound.	258.0	25.0	31.0	0.0	0.0	1.0	0.0
+148	400608758.0	Kevon Looney made Free Throw.	258.0	26.0	31.0	1.0	0.0	1.0	0.0
+149	400608758.0	Brice Johnson missed Jumper.	240.0	26.0	31.0	0.0	0.0	0.0	0.0
+150	400608758.0	Justin Jackson Offensive Rebound.	240.0	26.0	31.0	0.0	0.0	0.0	0.0
+151	400608758.0	Justin Jackson missed Dunk.	240.0	26.0	31.0	0.0	0.0	0.0	0.0
+152	400608758.0	North Carolina Offensive Rebound.	240.0	26.0	31.0	0.0	0.0	0.0	0.0
+153	400608758.0	 Official TV Timeout	236.0	26.0	31.0	0.0	0.0	0.0	0.0
+154	400608758.0	North Carolina  Timeout	233.0	26.0	31.0	0.0	0.0	0.0	0.0
+155	400608758.0	Marcus Paige made Three Point Jumper. Assisted by J.P. Tokoto.	221.0	26.0	34.0	0.0	3.0	0.0	0.0
+156	400608758.0	Bryce Alford missed Jumper.	196.0	26.0	34.0	0.0	0.0	1.0	0.0
+157	400608758.0	Brice Johnson Defensive Rebound.	196.0	26.0	34.0	0.0	0.0	0.0	0.0
+158	400608758.0	Foul on Kevon Looney.	185.0	26.0	34.0	0.0	0.0	1.0	0.0
+159	400608758.0	Marcus Paige made Free Throw.	185.0	26.0	35.0	0.0	1.0	0.0	0.0
+160	400608758.0	Marcus Paige made Free Throw.	185.0	26.0	36.0	0.0	1.0	0.0	0.0
+161	400608758.0	Tony Parker made Layup. Assisted by Bryce Alford.	169.0	28.0	36.0	2.0	0.0	1.0	0.0
+162	400608758.0	Justin Jackson missed Layup.	147.0	28.0	36.0	0.0	0.0	0.0	0.0
+163	400608758.0	Isaiah Hicks Offensive Rebound.	147.0	28.0	36.0	0.0	0.0	0.0	0.0
+164	400608758.0	Isaiah Hicks made Dunk.	125.0	28.0	38.0	0.0	2.0	0.0	0.0
+165	400608758.0	Isaac Hamilton missed Three Point Jumper.	125.0	28.0	38.0	0.0	0.0	1.0	0.0
+166	400608758.0	Wanaah Bail Offensive Rebound.	125.0	28.0	38.0	0.0	0.0	1.0	0.0
+167	400608758.0	Wanaah Bail Turnover.	123.0	28.0	38.0	0.0	0.0	1.0	1.0
+168	400608758.0	Isaiah Hicks made Layup.	113.0	28.0	40.0	0.0	2.0	0.0	0.0
+169	400608758.0	Foul on Justin Jackson.	96.0	28.0	40.0	0.0	0.0	0.0	0.0
+170	400608758.0	Norman Powell missed Free Throw.	96.0	28.0	40.0	0.0	0.0	1.0	0.0
+171	400608758.0	UCLA Deadball Team Rebound.	96.0	28.0	40.0	0.0	0.0	1.0	0.0
+172	400608758.0	Norman Powell made Free Throw.	96.0	29.0	40.0	1.0	0.0	1.0	0.0
+173	400608758.0	Marcus Paige missed Three Point Jumper.	88.0	29.0	40.0	0.0	0.0	0.0	0.0
+174	400608758.0	Justin Jackson Offensive Rebound.	88.0	29.0	40.0	0.0	0.0	0.0	0.0
+175	400608758.0	Justin Jackson Turnover.	77.0	29.0	40.0	0.0	0.0	0.0	1.0
+176	400608758.0	Foul on Isaiah Hicks.	64.0	29.0	40.0	0.0	0.0	0.0	0.0
+177	400608758.0	Tony Parker missed Free Throw.	64.0	29.0	40.0	0.0	0.0	1.0	0.0
+178	400608758.0	UCLA Deadball Team Rebound.	64.0	29.0	40.0	0.0	0.0	1.0	0.0
+179	400608758.0	Tony Parker missed Free Throw.	64.0	29.0	40.0	0.0	0.0	1.0	0.0
+180	400608758.0	Isaiah Hicks Defensive Rebound.	64.0	29.0	40.0	0.0	0.0	0.0	0.0
+181	400608758.0	Justin Jackson Turnover.	48.0	29.0	40.0	0.0	0.0	0.0	1.0
+182	400608758.0	Norman Powell Steal.	48.0	29.0	40.0	0.0	0.0	1.0	0.0
+183	400608758.0	Norman Powell Turnover.	48.0	29.0	40.0	0.0	0.0	1.0	1.0
+184	400608758.0	Marcus Paige Steal.	48.0	29.0	40.0	0.0	0.0	0.0	0.0
+185	400608758.0	Foul on Gyorgy Goloman.	36.0	29.0	40.0	0.0	0.0	1.0	0.0
+186	400608758.0	Justin Jackson made Free Throw.	36.0	29.0	41.0	0.0	1.0	0.0	0.0
+187	400608758.0	Justin Jackson missed Free Throw.	36.0	29.0	41.0	0.0	0.0	0.0	0.0
+188	400608758.0	Theo Pinson Offensive Rebound.	36.0	29.0	41.0	0.0	0.0	0.0	0.0
+189	400608758.0	J.P. Tokoto missed Jumper.	10.0	29.0	41.0	0.0	0.0	0.0	0.0
+190	400608758.0	Theo Pinson Offensive Rebound.	10.0	29.0	41.0	0.0	0.0	0.0	0.0
+191	400608758.0	Theo Pinson made Layup.	7.0	29.0	43.0	0.0	2.0	0.0	0.0
+192	400608758.0	End of 1st half	0.0	29.0	43.0	0.0	0.0	0.0	0.0
+193	400608758.0	Jump Ball won by North Carolina	1200.0	29.0	43.0	0.0	0.0	0.0	0.0
+194	400608758.0	Foul on Kevon Looney.	1193.0	29.0	43.0	0.0	0.0	1.0	0.0
+195	400608758.0	Isaiah Hicks made Layup.	1177.0	29.0	45.0	0.0	2.0	0.0	0.0
+196	400608758.0	Gyorgy Goloman made Jumper. Assisted by Bryce Alford.	1156.0	31.0	45.0	2.0	0.0	1.0	0.0
+197	400608758.0	Marcus Paige Turnover.	1142.0	31.0	45.0	0.0	0.0	0.0	1.0
+198	400608758.0	Gyorgy Goloman Steal.	1142.0	31.0	45.0	0.0	0.0	1.0	0.0
+199	400608758.0	Foul on Isaac Hamilton.	1123.0	31.0	45.0	0.0	0.0	1.0	0.0
+200	400608758.0	Isaac Hamilton Turnover.	1123.0	31.0	45.0	0.0	0.0	1.0	1.0
+201	400608758.0	Foul on Tony Parker.	1123.0	31.0	45.0	0.0	0.0	1.0	0.0
+202	400608758.0	Joel James missed Free Throw.	1123.0	31.0	45.0	0.0	0.0	0.0	0.0
+203	400608758.0	North Carolina Deadball Team Rebound.	1123.0	31.0	45.0	0.0	0.0	0.0	0.0
+204	400608758.0	Joel James missed Free Throw.	1123.0	31.0	45.0	0.0	0.0	0.0	0.0
+205	400608758.0	Gyorgy Goloman Defensive Rebound.	1123.0	31.0	45.0	0.0	0.0	1.0	0.0
+206	400608758.0	Isaac Hamilton missed Three Point Jumper.	1117.0	31.0	45.0	0.0	0.0	1.0	0.0
+207	400608758.0	Nate Britt Defensive Rebound.	1117.0	31.0	45.0	0.0	0.0	0.0	0.0
+208	400608758.0	Nate Britt missed Three Point Jumper.	1100.0	31.0	45.0	0.0	0.0	0.0	0.0
+209	400608758.0	Gyorgy Goloman Defensive Rebound.	1100.0	31.0	45.0	0.0	0.0	1.0	0.0
+210	400608758.0	Bryce Alford made Jumper.	1087.0	33.0	45.0	2.0	0.0	1.0	0.0
+211	400608758.0	Marcus Paige missed Three Point Jumper.	1070.0	33.0	45.0	0.0	0.0	0.0	0.0
+212	400608758.0	Gyorgy Goloman Defensive Rebound.	1070.0	33.0	45.0	0.0	0.0	1.0	0.0
+213	400608758.0	Bryce Alford Turnover.	1065.0	33.0	45.0	0.0	0.0	1.0	1.0
+214	400608758.0	Foul on Norman Powell.	1050.0	33.0	45.0	0.0	0.0	1.0	0.0
+215	400608758.0	Justin Jackson made Free Throw.	1050.0	33.0	46.0	0.0	1.0	0.0	0.0
+216	400608758.0	Justin Jackson made Free Throw.	1050.0	33.0	47.0	0.0	1.0	0.0	0.0
+217	400608758.0	Bryce Alford missed Jumper.	1038.0	33.0	47.0	0.0	0.0	1.0	0.0
+218	400608758.0	Tony Parker Offensive Rebound.	1038.0	33.0	47.0	0.0	0.0	1.0	0.0
+219	400608758.0	Tony Parker made Layup.	1023.0	35.0	47.0	2.0	0.0	1.0	0.0
+220	400608758.0	Foul on Gyorgy Goloman.	1022.0	35.0	47.0	0.0	0.0	1.0	0.0
+221	400608758.0	Nate Britt Turnover.	1019.0	35.0	47.0	0.0	0.0	0.0	1.0
+222	400608758.0	Norman Powell Steal.	1019.0	35.0	47.0	0.0	0.0	1.0	0.0
+223	400608758.0	Foul on Nate Britt.	1019.0	35.0	47.0	0.0	0.0	0.0	0.0
+224	400608758.0	Foul on Kennedy Meeks.	1000.0	35.0	47.0	0.0	0.0	0.0	0.0
+225	400608758.0	Tony Parker missed Free Throw.	1000.0	35.0	47.0	0.0	0.0	1.0	0.0
+226	400608758.0	UCLA Deadball Team Rebound.	1000.0	35.0	47.0	0.0	0.0	1.0	0.0
+227	400608758.0	Tony Parker made Free Throw.	1000.0	36.0	47.0	1.0	0.0	1.0	0.0
+228	400608758.0	J.P. Tokoto missed Jumper.	989.0	36.0	47.0	0.0	0.0	0.0	0.0
+229	400608758.0	Norman Powell Defensive Rebound.	989.0	36.0	47.0	0.0	0.0	1.0	0.0
+230	400608758.0	Foul on Justin Jackson.	978.0	36.0	47.0	0.0	0.0	0.0	0.0
+231	400608758.0	Norman Powell made Free Throw.	978.0	37.0	47.0	1.0	0.0	1.0	0.0
+232	400608758.0	Norman Powell made Free Throw.	978.0	38.0	47.0	1.0	0.0	1.0	0.0
+233	400608758.0	Kennedy Meeks made Jumper. Assisted by Marcus Paige.	969.0	38.0	49.0	0.0	2.0	0.0	0.0
+234	400608758.0	Isaac Hamilton Turnover.	953.0	38.0	49.0	0.0	0.0	1.0	1.0
+235	400608758.0	 Official TV Timeout	953.0	38.0	49.0	0.0	0.0	0.0	0.0
+236	400608758.0	Brice Johnson missed Jumper.	936.0	38.0	49.0	0.0	0.0	0.0	0.0
+237	400608758.0	Tony Parker Defensive Rebound.	936.0	38.0	49.0	0.0	0.0	1.0	0.0
+238	400608758.0	Foul on Justin Jackson.	927.0	38.0	49.0	0.0	0.0	0.0	0.0
+239	400608758.0	Norman Powell missed Free Throw.	927.0	38.0	49.0	0.0	0.0	1.0	0.0
+240	400608758.0	UCLA Deadball Team Rebound.	927.0	38.0	49.0	0.0	0.0	1.0	0.0
+241	400608758.0	Norman Powell missed Free Throw.	927.0	38.0	49.0	0.0	0.0	1.0	0.0
+242	400608758.0	Theo Pinson Defensive Rebound.	927.0	38.0	49.0	0.0	0.0	0.0	0.0
+243	400608758.0	Marcus Paige made Three Point Jumper. Assisted by Kennedy Meeks.	895.0	38.0	52.0	0.0	3.0	0.0	0.0
+244	400608758.0	Norman Powell missed Jumper.	874.0	38.0	52.0	0.0	0.0	1.0	0.0
+245	400608758.0	Marcus Paige Defensive Rebound.	874.0	38.0	52.0	0.0	0.0	0.0	0.0
+246	400608758.0	Marcus Paige made Three Point Jumper. Assisted by Theo Pinson.	860.0	38.0	55.0	0.0	3.0	0.0	0.0
+247	400608758.0	Foul on J.P. Tokoto.	828.0	38.0	55.0	0.0	0.0	0.0	0.0
+248	400608758.0	Foul on J.P. Tokoto.	824.0	38.0	55.0	0.0	0.0	0.0	0.0
+249	400608758.0	Bryce Alford missed Three Point Jumper.	815.0	38.0	55.0	0.0	0.0	1.0	0.0
+250	400608758.0	Theo Pinson Defensive Rebound.	815.0	38.0	55.0	0.0	0.0	0.0	0.0
+251	400608758.0	Brice Johnson Turnover.	798.0	38.0	55.0	0.0	0.0	0.0	1.0
+252	400608758.0	Bryce Alford Steal.	798.0	38.0	55.0	0.0	0.0	1.0	0.0
+253	400608758.0	Bryce Alford Turnover.	793.0	38.0	55.0	0.0	0.0	1.0	1.0
+254	400608758.0	Marcus Paige Steal.	793.0	38.0	55.0	0.0	0.0	0.0	0.0
+255	400608758.0	Theo Pinson Turnover.	791.0	38.0	55.0	0.0	0.0	0.0	1.0
+256	400608758.0	Bryce Alford Turnover.	765.0	38.0	55.0	0.0	0.0	1.0	1.0
+257	400608758.0	Kennedy Meeks missed Jumper.	744.0	38.0	55.0	0.0	0.0	0.0	0.0
+258	400608758.0	J.P. Tokoto Offensive Rebound.	744.0	38.0	55.0	0.0	0.0	0.0	0.0
+259	400608758.0	Joel Berry II missed Three Point Jumper.	736.0	38.0	55.0	0.0	0.0	0.0	0.0
+260	400608758.0	Noah Allen Defensive Rebound.	736.0	38.0	55.0	0.0	0.0	1.0	0.0
+261	400608758.0	Bryce Alford Turnover.	731.0	38.0	55.0	0.0	0.0	1.0	1.0
+262	400608758.0	J.P. Tokoto Steal.	731.0	38.0	55.0	0.0	0.0	0.0	0.0
+263	400608758.0	J.P. Tokoto made Dunk.	727.0	38.0	57.0	0.0	2.0	0.0	0.0
+264	400608758.0	UCLA  Timeout	727.0	38.0	57.0	0.0	0.0	0.0	0.0
+265	400608758.0	Noah Allen missed Jumper.	709.0	38.0	57.0	0.0	0.0	1.0	0.0
+266	400608758.0	Kennedy Meeks Defensive Rebound.	709.0	38.0	57.0	0.0	0.0	0.0	0.0
+267	400608758.0	Foul on Brice Johnson.	688.0	38.0	57.0	0.0	0.0	0.0	0.0
+268	400608758.0	Brice Johnson Turnover.	688.0	38.0	57.0	0.0	0.0	0.0	1.0
+269	400608758.0	 Official TV Timeout	688.0	38.0	57.0	0.0	0.0	0.0	0.0
+270	400608758.0	Thomas Welsh missed Jumper.	661.0	38.0	57.0	0.0	0.0	1.0	0.0
+271	400608758.0	J.P. Tokoto Defensive Rebound.	661.0	38.0	57.0	0.0	0.0	0.0	0.0
+272	400608758.0	Isaiah Hicks made Layup. Assisted by Theo Pinson.	640.0	38.0	59.0	0.0	2.0	0.0	0.0
+273	400608758.0	Kevon Looney Turnover.	628.0	38.0	59.0	0.0	0.0	1.0	1.0
+274	400608758.0	Foul on Norman Powell.	609.0	38.0	59.0	0.0	0.0	1.0	0.0
+275	400608758.0	Joel James Turnover.	599.0	38.0	59.0	0.0	0.0	0.0	1.0
+276	400608758.0	Norman Powell Turnover.	567.0	38.0	59.0	0.0	0.0	1.0	1.0
+277	400608758.0	J.P. Tokoto Steal.	567.0	38.0	59.0	0.0	0.0	0.0	0.0
+278	400608758.0	Justin Jackson made Three Point Jumper. Assisted by J.P. Tokoto.	552.0	38.0	62.0	0.0	3.0	0.0	0.0
+279	400608758.0	Kevon Looney made Dunk. Assisted by Norman Powell.	531.0	40.0	62.0	2.0	0.0	1.0	0.0
+280	400608758.0	Foul on Joel Berry II.	531.0	40.0	62.0	0.0	0.0	0.0	0.0
+281	400608758.0	Kevon Looney missed Free Throw.	531.0	40.0	62.0	0.0	0.0	1.0	0.0
+282	400608758.0	North Carolina Deadball Team Rebound.	531.0	40.0	62.0	0.0	0.0	0.0	0.0
+283	400608758.0	J.P. Tokoto made Three Point Jumper. Assisted by Marcus Paige.	514.0	40.0	65.0	0.0	3.0	0.0	0.0
+284	400608758.0	Foul on Isaiah Hicks.	485.0	40.0	65.0	0.0	0.0	0.0	0.0
+285	400608758.0	Thomas Welsh made Free Throw.	485.0	41.0	65.0	1.0	0.0	1.0	0.0
+286	400608758.0	Thomas Welsh made Free Throw.	485.0	42.0	65.0	1.0	0.0	1.0	0.0
+287	400608758.0	Marcus Paige missed Three Point Jumper.	472.0	42.0	65.0	0.0	0.0	0.0	0.0
+288	400608758.0	Thomas Welsh Defensive Rebound.	472.0	42.0	65.0	0.0	0.0	1.0	0.0
+289	400608758.0	Norman Powell Turnover.	457.0	42.0	65.0	0.0	0.0	1.0	1.0
+290	400608758.0	Brice Johnson Steal.	457.0	42.0	65.0	0.0	0.0	0.0	0.0
+291	400608758.0	Marcus Paige made Layup.	453.0	42.0	67.0	0.0	2.0	0.0	0.0
+292	400608758.0	Foul on Bryce Alford.	452.0	42.0	67.0	0.0	0.0	1.0	0.0
+293	400608758.0	 Official TV Timeout	452.0	42.0	67.0	0.0	0.0	0.0	0.0
+294	400608758.0	Marcus Paige made Free Throw.	452.0	42.0	68.0	0.0	1.0	0.0	0.0
+295	400608758.0	Bryce Alford Turnover.	448.0	42.0	68.0	0.0	0.0	1.0	1.0
+296	400608758.0	Marcus Paige Steal.	448.0	42.0	68.0	0.0	0.0	0.0	0.0
+297	400608758.0	Justin Jackson made Layup. Assisted by Marcus Paige.	443.0	42.0	70.0	0.0	2.0	0.0	0.0
+298	400608758.0	Kevon Looney missed Layup.	423.0	42.0	70.0	0.0	0.0	1.0	0.0
+299	400608758.0	J.P. Tokoto Defensive Rebound.	423.0	42.0	70.0	0.0	0.0	0.0	0.0
+300	400608758.0	J.P. Tokoto made Layup.	389.0	42.0	72.0	0.0	2.0	0.0	0.0
+301	400608758.0	Norman Powell made Dunk.	375.0	44.0	72.0	2.0	0.0	1.0	0.0
+302	400608758.0	Brice Johnson missed Layup.	353.0	44.0	72.0	0.0	0.0	0.0	0.0
+303	400608758.0	Noah Allen Defensive Rebound.	353.0	44.0	72.0	0.0	0.0	1.0	0.0
+304	400608758.0	Thomas Welsh made Layup. Assisted by Noah Allen.	342.0	46.0	72.0	2.0	0.0	1.0	0.0
+305	400608758.0	Justin Jackson missed Jumper.	310.0	46.0	72.0	0.0	0.0	0.0	0.0
+306	400608758.0	Thomas Welsh Defensive Rebound.	310.0	46.0	72.0	0.0	0.0	1.0	0.0
+307	400608758.0	Bryce Alford missed Three Point Jumper.	300.0	46.0	72.0	0.0	0.0	1.0	0.0
+308	400608758.0	Kevon Looney Offensive Rebound.	300.0	46.0	72.0	0.0	0.0	1.0	0.0
+309	400608758.0	Foul on Justin Jackson.	294.0	46.0	72.0	0.0	0.0	0.0	0.0
+310	400608758.0	Kevon Looney made Free Throw.	294.0	47.0	72.0	1.0	0.0	1.0	0.0
+311	400608758.0	Kevon Looney missed Free Throw.	294.0	47.0	72.0	0.0	0.0	1.0	0.0
+312	400608758.0	Brice Johnson Defensive Rebound.	294.0	47.0	72.0	0.0	0.0	0.0	0.0
+313	400608758.0	Brice Johnson missed Layup.	265.0	47.0	72.0	0.0	0.0	0.0	0.0
+314	400608758.0	Kevon Looney Defensive Rebound.	265.0	47.0	72.0	0.0	0.0	1.0	0.0
+315	400608758.0	Norman Powell made Layup.	255.0	49.0	72.0	2.0	0.0	1.0	0.0
+316	400608758.0	Marcus Paige missed Three Point Jumper.	237.0	49.0	72.0	0.0	0.0	0.0	0.0
+317	400608758.0	Bryce Alford Defensive Rebound.	237.0	49.0	72.0	0.0	0.0	1.0	0.0
+318	400608758.0	Foul on Theo Pinson.	223.0	49.0	72.0	0.0	0.0	0.0	0.0
+319	400608758.0	 Official TV Timeout	223.0	49.0	72.0	0.0	0.0	0.0	0.0
+320	400608758.0	Bryce Alford made Free Throw.	223.0	50.0	72.0	1.0	0.0	1.0	0.0
+321	400608758.0	Bryce Alford made Free Throw.	223.0	51.0	72.0	1.0	0.0	1.0	0.0
+322	400608758.0	Marcus Paige made Jumper.	212.0	51.0	74.0	0.0	2.0	0.0	0.0
+323	400608758.0	Norman Powell missed Three Point Jumper.	191.0	51.0	74.0	0.0	0.0	1.0	0.0
+324	400608758.0	Nate Britt Defensive Rebound.	191.0	51.0	74.0	0.0	0.0	0.0	0.0
+325	400608758.0	Kennedy Meeks missed Layup.	175.0	51.0	74.0	0.0	0.0	0.0	0.0
+326	400608758.0	Norman Powell Defensive Rebound.	175.0	51.0	74.0	0.0	0.0	1.0	0.0
+327	400608758.0	Isaac Hamilton missed Three Point Jumper.	163.0	51.0	74.0	0.0	0.0	1.0	0.0
+328	400608758.0	Kennedy Meeks Defensive Rebound.	163.0	51.0	74.0	0.0	0.0	0.0	0.0
+329	400608758.0	Nate Britt missed Layup.	163.0	51.0	74.0	0.0	0.0	0.0	0.0
+330	400608758.0	Kevon Looney Block.	163.0	51.0	74.0	0.0	0.0	1.0	0.0
+331	400608758.0	UCLA Offensive Rebound.	163.0	51.0	74.0	0.0	0.0	1.0	0.0
+332	400608758.0	Isaiah Hicks missed Layup.	134.0	51.0	74.0	0.0	0.0	0.0	0.0
+333	400608758.0	Noah Allen Defensive Rebound.	134.0	51.0	74.0	0.0	0.0	1.0	0.0
+334	400608758.0	Norman Powell missed Jumper.	123.0	51.0	74.0	0.0	0.0	1.0	0.0
+335	400608758.0	Thomas Welsh Offensive Rebound.	123.0	51.0	74.0	0.0	0.0	1.0	0.0
+336	400608758.0	Thomas Welsh missed Layup.	114.0	51.0	74.0	0.0	0.0	1.0	0.0
+337	400608758.0	Thomas Welsh Offensive Rebound.	114.0	51.0	74.0	0.0	0.0	1.0	0.0
+338	400608758.0	Thomas Welsh made Two Point Tip Shot.	114.0	53.0	74.0	2.0	0.0	1.0	0.0
+339	400608758.0	UCLA  Timeout	114.0	53.0	74.0	0.0	0.0	0.0	0.0
+340	400608758.0	Nate Britt made Three Point Jumper. Assisted by Theo Pinson.	106.0	53.0	77.0	0.0	3.0	0.0	0.0
+341	400608758.0	Foul on Theo Pinson.	97.0	53.0	77.0	0.0	0.0	0.0	0.0
+342	400608758.0	Noah Allen made Free Throw.	97.0	54.0	77.0	1.0	0.0	1.0	0.0
+343	400608758.0	Noah Allen made Free Throw.	97.0	55.0	77.0	1.0	0.0	1.0	0.0
+344	400608758.0	Joel Berry II missed Layup.	76.0	55.0	77.0	0.0	0.0	0.0	0.0
+345	400608758.0	Thomas Welsh Block.	76.0	55.0	77.0	0.0	0.0	1.0	0.0
+346	400608758.0	Theo Pinson Offensive Rebound.	76.0	55.0	77.0	0.0	0.0	0.0	0.0
+347	400608758.0	Theo Pinson missed Jumper.	76.0	55.0	77.0	0.0	0.0	0.0	0.0
+348	400608758.0	David Brown Defensive Rebound.	76.0	55.0	77.0	0.0	0.0	1.0	0.0
+349	400608758.0	Noah Allen missed Three Point Jumper.	76.0	55.0	77.0	0.0	0.0	1.0	0.0
+350	400608758.0	Theo Pinson Defensive Rebound.	76.0	55.0	77.0	0.0	0.0	0.0	0.0
+351	400608758.0	Joel Berry II missed Three Point Jumper.	56.0	55.0	77.0	0.0	0.0	0.0	0.0
+352	400608758.0	Noah Allen Defensive Rebound.	56.0	55.0	77.0	0.0	0.0	1.0	0.0
+353	400608758.0	Foul on Desmond Hubert.	20.0	55.0	77.0	0.0	0.0	0.0	0.0
+354	400608758.0	Noah Allen missed Free Throw.	20.0	55.0	77.0	0.0	0.0	1.0	0.0
+355	400608758.0	UCLA Deadball Team Rebound.	20.0	55.0	77.0	0.0	0.0	1.0	0.0
+356	400608758.0	Noah Allen made Free Throw.	20.0	56.0	77.0	1.0	0.0	1.0	0.0
+357	400608758.0	Foul on Thomas Welsh.	17.0	56.0	77.0	0.0	0.0	1.0	0.0
+358	400608758.0	Sasha Seymore made Free Throw.	17.0	56.0	78.0	0.0	1.0	0.0	0.0
+359	400608758.0	Sasha Seymore missed Free Throw.	17.0	56.0	78.0	0.0	0.0	0.0	0.0
+360	400608758.0	Thomas Welsh Defensive Rebound.	17.0	56.0	78.0	0.0	0.0	1.0	0.0
+361	400608758.0	Noah Allen Turnover.	13.0	56.0	78.0	0.0	0.0	1.0	1.0
+362	400608758.0	End of Game	0.0	56.0	78.0	0.0	0.0	0.0	0.0

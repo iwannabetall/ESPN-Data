@@ -1,0 +1,386 @@
+	Game_id	PBP_description	sec_remaining	home_score	away_score	home_points_scored	away_points_scored	home_poss	turnover
+0	400587836.0	Jump Ball won by Louisville	1200.0	0.0	0.0	0.0	0.0	1.0	0.0
+1	400587836.0	Chinanu Onuaku missed Jumper.	1189.0	0.0	0.0	0.0	0.0	1.0	0.0
+2	400587836.0	Indiana Defensive Rebound.	1189.0	0.0	0.0	0.0	0.0	0.0	0.0
+3	400587836.0	Hanner Mosquera-Perea made Layup.	1170.0	0.0	2.0	0.0	2.0	0.0	0.0
+4	400587836.0	Terry Rozier missed Three Point Jumper.	1145.0	0.0	2.0	0.0	0.0	1.0	0.0
+5	400587836.0	Hanner Mosquera-Perea Defensive Rebound.	1145.0	0.0	2.0	0.0	0.0	0.0	0.0
+6	400587836.0	Troy Williams made Jumper.	1129.0	0.0	4.0	0.0	2.0	0.0	0.0
+7	400587836.0	Wayne Blackshear missed Three Point Jumper.	1108.0	0.0	4.0	0.0	0.0	1.0	0.0
+8	400587836.0	Chinanu Onuaku Offensive Rebound.	1108.0	0.0	4.0	0.0	0.0	1.0	0.0
+9	400587836.0	Chris Jones made Three Point Jumper. Assisted by Chinanu Onuaku.	1101.0	3.0	4.0	3.0	0.0	1.0	0.0
+10	400587836.0	Hanner Mosquera-Perea made Dunk. Assisted by Troy Williams.	1088.0	3.0	6.0	0.0	2.0	0.0	0.0
+11	400587836.0	Montrezl Harrell missed Jumper.	1068.0	3.0	6.0	0.0	0.0	1.0	0.0
+12	400587836.0	Yogi Ferrell Defensive Rebound.	1068.0	3.0	6.0	0.0	0.0	0.0	0.0
+13	400587836.0	Troy Williams missed Jumper.	1058.0	3.0	6.0	0.0	0.0	0.0	0.0
+14	400587836.0	Montrezl Harrell Defensive Rebound.	1058.0	3.0	6.0	0.0	0.0	1.0	0.0
+15	400587836.0	Chris Jones missed Layup.	1050.0	3.0	6.0	0.0	0.0	1.0	0.0
+16	400587836.0	Wayne Blackshear Offensive Rebound.	1050.0	3.0	6.0	0.0	0.0	1.0	0.0
+17	400587836.0	Wayne Blackshear made Layup.	1048.0	5.0	6.0	2.0	0.0	1.0	0.0
+18	400587836.0	Foul on Robert Johnson.	1048.0	5.0	6.0	0.0	0.0	0.0	0.0
+19	400587836.0	Wayne Blackshear made Free Throw.	1048.0	6.0	6.0	1.0	0.0	1.0	0.0
+20	400587836.0	James Blackmon Jr. made Three Point Jumper. Assisted by Yogi Ferrell.	1043.0	6.0	9.0	0.0	3.0	0.0	0.0
+21	400587836.0	Wayne Blackshear made Three Point Jumper.	1031.0	9.0	9.0	3.0	0.0	1.0	0.0
+22	400587836.0	Hanner Mosquera-Perea missed Jumper.	1003.0	9.0	9.0	0.0	0.0	0.0	0.0
+23	400587836.0	Chris Jones Defensive Rebound.	1003.0	9.0	9.0	0.0	0.0	1.0	0.0
+24	400587836.0	Anas Mahmoud Turnover.	992.0	9.0	9.0	0.0	0.0	1.0	1.0
+25	400587836.0	James Blackmon Jr. Turnover.	980.0	9.0	9.0	0.0	0.0	0.0	1.0
+26	400587836.0	Anas Mahmoud missed Jumper.	975.0	9.0	9.0	0.0	0.0	1.0	0.0
+27	400587836.0	Yogi Ferrell Defensive Rebound.	975.0	9.0	9.0	0.0	0.0	0.0	0.0
+28	400587836.0	Troy Williams Turnover.	958.0	9.0	9.0	0.0	0.0	0.0	1.0
+29	400587836.0	Chris Jones Steal.	958.0	9.0	9.0	0.0	0.0	1.0	0.0
+30	400587836.0	Terry Rozier made Layup.	953.0	11.0	9.0	2.0	0.0	1.0	0.0
+31	400587836.0	James Blackmon Jr. Turnover.	923.0	11.0	9.0	0.0	0.0	0.0	1.0
+32	400587836.0	 Official TV Timeout	923.0	11.0	9.0	0.0	0.0	0.0	0.0
+33	400587836.0	Foul on Montrezl Harrell.	914.0	11.0	9.0	0.0	0.0	1.0	0.0
+34	400587836.0	Montrezl Harrell Turnover.	914.0	11.0	9.0	0.0	0.0	1.0	1.0
+35	400587836.0	Hanner Mosquera-Perea made Layup. Assisted by James Blackmon Jr..	901.0	11.0	11.0	0.0	2.0	0.0	0.0
+36	400587836.0	Terry Rozier made Jumper. Assisted by Chris Jones.	878.0	13.0	11.0	2.0	0.0	1.0	0.0
+37	400587836.0	Hanner Mosquera-Perea made Jumper. Assisted by Yogi Ferrell.	859.0	13.0	13.0	0.0	2.0	0.0	0.0
+38	400587836.0	Terry Rozier made Three Point Jumper. Assisted by Montrezl Harrell.	840.0	16.0	13.0	3.0	0.0	1.0	0.0
+39	400587836.0	Robert Johnson made Three Point Jumper. Assisted by Collin Hartman.	823.0	16.0	16.0	0.0	3.0	0.0	0.0
+40	400587836.0	Chris Jones missed Jumper.	806.0	16.0	16.0	0.0	0.0	1.0	0.0
+41	400587836.0	Terry Rozier Offensive Rebound.	806.0	16.0	16.0	0.0	0.0	1.0	0.0
+42	400587836.0	Foul on Hanner Mosquera-Perea.	800.0	16.0	16.0	0.0	0.0	0.0	0.0
+43	400587836.0	Terry Rozier missed Free Throw.	800.0	16.0	16.0	0.0	0.0	1.0	0.0
+44	400587836.0	Louisville Deadball Team Rebound.	800.0	16.0	16.0	0.0	0.0	1.0	0.0
+45	400587836.0	Terry Rozier missed Free Throw.	800.0	16.0	16.0	0.0	0.0	1.0	0.0
+46	400587836.0	Emmitt Holt Defensive Rebound.	800.0	16.0	16.0	0.0	0.0	0.0	0.0
+47	400587836.0	Foul on Nick Zeisloft.	792.0	16.0	16.0	0.0	0.0	0.0	0.0
+48	400587836.0	Nick Zeisloft Turnover.	792.0	16.0	16.0	0.0	0.0	0.0	1.0
+49	400587836.0	Wayne Blackshear missed Jumper.	786.0	16.0	16.0	0.0	0.0	1.0	0.0
+50	400587836.0	Chinanu Onuaku Offensive Rebound.	786.0	16.0	16.0	0.0	0.0	1.0	0.0
+51	400587836.0	Anton Gill missed Three Point Jumper.	774.0	16.0	16.0	0.0	0.0	1.0	0.0
+52	400587836.0	Montrezl Harrell Offensive Rebound.	774.0	16.0	16.0	0.0	0.0	1.0	0.0
+53	400587836.0	Montrezl Harrell made Dunk.	771.0	18.0	16.0	2.0	0.0	1.0	0.0
+54	400587836.0	Nick Zeisloft missed Three Point Jumper.	762.0	18.0	16.0	0.0	0.0	0.0	0.0
+55	400587836.0	Stanford Robinson Offensive Rebound.	762.0	18.0	16.0	0.0	0.0	0.0	0.0
+56	400587836.0	Stanford Robinson missed Layup.	755.0	18.0	16.0	0.0	0.0	0.0	0.0
+57	400587836.0	Montrezl Harrell Defensive Rebound.	755.0	18.0	16.0	0.0	0.0	1.0	0.0
+58	400587836.0	Foul on Chinanu Onuaku.	747.0	18.0	16.0	0.0	0.0	1.0	0.0
+59	400587836.0	Chinanu Onuaku Turnover.	747.0	18.0	16.0	0.0	0.0	1.0	1.0
+60	400587836.0	Stanford Robinson Turnover.	744.0	18.0	16.0	0.0	0.0	0.0	1.0
+61	400587836.0	Chris Jones Steal.	744.0	18.0	16.0	0.0	0.0	1.0	0.0
+62	400587836.0	Montrezl Harrell made Dunk. Assisted by Chris Jones.	741.0	20.0	16.0	2.0	0.0	1.0	0.0
+63	400587836.0	Collin Hartman Turnover.	734.0	20.0	16.0	0.0	0.0	0.0	1.0
+64	400587836.0	Montrezl Harrell Steal.	734.0	20.0	16.0	0.0	0.0	1.0	0.0
+65	400587836.0	Montrezl Harrell made Layup.	732.0	22.0	16.0	2.0	0.0	1.0	0.0
+66	400587836.0	Indiana  Timeout	730.0	22.0	16.0	0.0	0.0	0.0	0.0
+67	400587836.0	Stanford Robinson Turnover.	728.0	22.0	16.0	0.0	0.0	0.0	1.0
+68	400587836.0	Anton Gill Steal.	728.0	22.0	16.0	0.0	0.0	1.0	0.0
+69	400587836.0	Wayne Blackshear missed Three Point Jumper.	718.0	22.0	16.0	0.0	0.0	1.0	0.0
+70	400587836.0	Chris Jones Offensive Rebound.	718.0	22.0	16.0	0.0	0.0	1.0	0.0
+71	400587836.0	Wayne Blackshear missed Three Point Jumper.	707.0	22.0	16.0	0.0	0.0	1.0	0.0
+72	400587836.0	Jaylen Johnson Offensive Rebound.	707.0	22.0	16.0	0.0	0.0	1.0	0.0
+73	400587836.0	Jaylen Johnson missed Jumper.	700.0	22.0	16.0	0.0	0.0	1.0	0.0
+74	400587836.0	Wayne Blackshear Offensive Rebound.	700.0	22.0	16.0	0.0	0.0	1.0	0.0
+75	400587836.0	Chris Jones missed Three Point Jumper.	698.0	22.0	16.0	0.0	0.0	1.0	0.0
+76	400587836.0	Jaylen Johnson Offensive Rebound.	698.0	22.0	16.0	0.0	0.0	1.0	0.0
+77	400587836.0	Foul on Nick Zeisloft.	697.0	22.0	16.0	0.0	0.0	0.0	0.0
+78	400587836.0	 Official TV Timeout	697.0	22.0	16.0	0.0	0.0	0.0	0.0
+79	400587836.0	Jaylen Johnson made Free Throw.	697.0	23.0	16.0	1.0	0.0	1.0	0.0
+80	400587836.0	Jaylen Johnson missed Free Throw.	697.0	23.0	16.0	0.0	0.0	1.0	0.0
+81	400587836.0	Yogi Ferrell Defensive Rebound.	697.0	23.0	16.0	0.0	0.0	0.0	0.0
+82	400587836.0	Troy Williams made Dunk. Assisted by Robert Johnson.	677.0	23.0	18.0	0.0	2.0	0.0	0.0
+83	400587836.0	Wayne Blackshear missed Jumper.	653.0	23.0	18.0	0.0	0.0	1.0	0.0
+84	400587836.0	Emmitt Holt Defensive Rebound.	653.0	23.0	18.0	0.0	0.0	0.0	0.0
+85	400587836.0	Emmitt Holt missed Layup.	641.0	23.0	18.0	0.0	0.0	0.0	0.0
+86	400587836.0	Chinanu Onuaku Defensive Rebound.	641.0	23.0	18.0	0.0	0.0	1.0	0.0
+87	400587836.0	Wayne Blackshear missed Three Point Jumper.	635.0	23.0	18.0	0.0	0.0	1.0	0.0
+88	400587836.0	Troy Williams Defensive Rebound.	635.0	23.0	18.0	0.0	0.0	0.0	0.0
+89	400587836.0	Nick Zeisloft made Three Point Jumper. Assisted by Robert Johnson.	624.0	23.0	21.0	0.0	3.0	0.0	0.0
+90	400587836.0	Louisville  Timeout	619.0	23.0	21.0	0.0	0.0	0.0	0.0
+91	400587836.0	Terry Rozier made Three Point Jumper. Assisted by Chris Jones.	611.0	26.0	21.0	3.0	0.0	1.0	0.0
+92	400587836.0	Yogi Ferrell Turnover.	599.0	26.0	21.0	0.0	0.0	0.0	1.0
+93	400587836.0	Terry Rozier Steal.	599.0	26.0	21.0	0.0	0.0	1.0	0.0
+94	400587836.0	Terry Rozier missed Layup.	594.0	26.0	21.0	0.0	0.0	1.0	0.0
+95	400587836.0	Max Hoetzel Defensive Rebound.	594.0	26.0	21.0	0.0	0.0	0.0	0.0
+96	400587836.0	Yogi Ferrell made Three Point Jumper. Assisted by James Blackmon Jr..	589.0	26.0	24.0	0.0	3.0	0.0	0.0
+97	400587836.0	Montrezl Harrell made Dunk. Assisted by Chris Jones.	575.0	28.0	24.0	2.0	0.0	1.0	0.0
+98	400587836.0	James Blackmon Jr. missed Three Point Jumper.	559.0	28.0	24.0	0.0	0.0	0.0	0.0
+99	400587836.0	Chris Jones Block.	559.0	28.0	24.0	0.0	0.0	1.0	0.0
+100	400587836.0	Terry Rozier Defensive Rebound.	559.0	28.0	24.0	0.0	0.0	1.0	0.0
+101	400587836.0	Terry Rozier Turnover.	553.0	28.0	24.0	0.0	0.0	1.0	1.0
+102	400587836.0	James Blackmon Jr. Steal.	553.0	28.0	24.0	0.0	0.0	0.0	0.0
+103	400587836.0	Yogi Ferrell missed Jumper.	533.0	28.0	24.0	0.0	0.0	0.0	0.0
+104	400587836.0	Wayne Blackshear Block.	533.0	28.0	24.0	0.0	0.0	1.0	0.0
+105	400587836.0	James Blackmon Jr. Offensive Rebound.	533.0	28.0	24.0	0.0	0.0	0.0	0.0
+106	400587836.0	James Blackmon Jr. made Layup.	530.0	28.0	26.0	0.0	2.0	0.0	0.0
+107	400587836.0	Chris Jones made Jumper.	520.0	30.0	26.0	2.0	0.0	1.0	0.0
+108	400587836.0	Max Hoetzel made Three Point Jumper. Assisted by Troy Williams.	509.0	30.0	29.0	0.0	3.0	0.0	0.0
+109	400587836.0	Foul on Wayne Blackshear.	509.0	30.0	29.0	0.0	0.0	1.0	0.0
+110	400587836.0	Max Hoetzel missed Free Throw.	509.0	30.0	29.0	0.0	0.0	0.0	0.0
+111	400587836.0	Montrezl Harrell Defensive Rebound.	509.0	30.0	29.0	0.0	0.0	1.0	0.0
+112	400587836.0	Montrezl Harrell missed Three Point Jumper.	493.0	30.0	29.0	0.0	0.0	1.0	0.0
+113	400587836.0	Louisville Offensive Rebound.	493.0	30.0	29.0	0.0	0.0	1.0	0.0
+114	400587836.0	Chris Jones missed Three Point Jumper.	488.0	30.0	29.0	0.0	0.0	1.0	0.0
+115	400587836.0	Louisville Deadball Team Rebound.	488.0	30.0	29.0	0.0	0.0	1.0	0.0
+116	400587836.0	Foul on Hanner Mosquera-Perea.	485.0	30.0	29.0	0.0	0.0	0.0	0.0
+117	400587836.0	Montrezl Harrell made Dunk. Assisted by Terry Rozier.	469.0	32.0	29.0	2.0	0.0	1.0	0.0
+118	400587836.0	James Blackmon Jr. missed Layup.	454.0	32.0	29.0	0.0	0.0	0.0	0.0
+119	400587836.0	Mangok Mathiang Block.	454.0	32.0	29.0	0.0	0.0	1.0	0.0
+120	400587836.0	Anton Gill Defensive Rebound.	454.0	32.0	29.0	0.0	0.0	1.0	0.0
+121	400587836.0	Foul on Troy Williams.	452.0	32.0	29.0	0.0	0.0	0.0	0.0
+122	400587836.0	 Official TV Timeout	452.0	32.0	29.0	0.0	0.0	0.0	0.0
+123	400587836.0	Mangok Mathiang made Layup.	440.0	34.0	29.0	2.0	0.0	1.0	0.0
+124	400587836.0	Troy Williams missed Jumper.	414.0	34.0	29.0	0.0	0.0	0.0	0.0
+125	400587836.0	Max Hoetzel Offensive Rebound.	414.0	34.0	29.0	0.0	0.0	0.0	0.0
+126	400587836.0	Troy Williams missed Jumper.	406.0	34.0	29.0	0.0	0.0	0.0	0.0
+127	400587836.0	Chris Jones Defensive Rebound.	406.0	34.0	29.0	0.0	0.0	1.0	0.0
+128	400587836.0	Terry Rozier missed Layup.	398.0	34.0	29.0	0.0	0.0	1.0	0.0
+129	400587836.0	Max Hoetzel Block.	398.0	34.0	29.0	0.0	0.0	0.0	0.0
+130	400587836.0	Mangok Mathiang Offensive Rebound.	398.0	34.0	29.0	0.0	0.0	1.0	0.0
+131	400587836.0	Mangok Mathiang made Layup.	394.0	36.0	29.0	2.0	0.0	1.0	0.0
+132	400587836.0	Emmitt Holt made Layup. Assisted by Yogi Ferrell.	379.0	36.0	31.0	0.0	2.0	0.0	0.0
+133	400587836.0	Chris Jones made Layup.	368.0	38.0	31.0	2.0	0.0	1.0	0.0
+134	400587836.0	Troy Williams Turnover.	343.0	38.0	31.0	0.0	0.0	0.0	1.0
+135	400587836.0	Anton Gill Steal.	343.0	38.0	31.0	0.0	0.0	1.0	0.0
+136	400587836.0	Chris Jones missed Jumper.	332.0	38.0	31.0	0.0	0.0	1.0	0.0
+137	400587836.0	Yogi Ferrell Defensive Rebound.	332.0	38.0	31.0	0.0	0.0	0.0	0.0
+138	400587836.0	Foul on Terry Rozier.	326.0	38.0	31.0	0.0	0.0	1.0	0.0
+139	400587836.0	Robert Johnson missed Layup.	318.0	38.0	31.0	0.0	0.0	0.0	0.0
+140	400587836.0	Mangok Mathiang Block.	318.0	38.0	31.0	0.0	0.0	1.0	0.0
+141	400587836.0	Indiana Offensive Rebound.	318.0	38.0	31.0	0.0	0.0	0.0	0.0
+142	400587836.0	Foul on Anton Gill.	317.0	38.0	31.0	0.0	0.0	1.0	0.0
+143	400587836.0	Jeremiah April Turnover.	307.0	38.0	31.0	0.0	0.0	0.0	1.0
+144	400587836.0	Anton Gill Steal.	307.0	38.0	31.0	0.0	0.0	1.0	0.0
+145	400587836.0	Anton Gill missed Jumper.	303.0	38.0	31.0	0.0	0.0	1.0	0.0
+146	400587836.0	Montrezl Harrell Offensive Rebound.	303.0	38.0	31.0	0.0	0.0	1.0	0.0
+147	400587836.0	Montrezl Harrell made Dunk.	299.0	40.0	31.0	2.0	0.0	1.0	0.0
+148	400587836.0	Robert Johnson missed Layup.	288.0	40.0	31.0	0.0	0.0	0.0	0.0
+149	400587836.0	Mangok Mathiang Block.	288.0	40.0	31.0	0.0	0.0	1.0	0.0
+150	400587836.0	Mangok Mathiang Defensive Rebound.	288.0	40.0	31.0	0.0	0.0	1.0	0.0
+151	400587836.0	Mangok Mathiang made Jumper. Assisted by Wayne Blackshear.	276.0	42.0	31.0	2.0	0.0	1.0	0.0
+152	400587836.0	Indiana  Timeout	274.0	42.0	31.0	0.0	0.0	0.0	0.0
+153	400587836.0	Foul on Mangok Mathiang.	262.0	42.0	31.0	0.0	0.0	1.0	0.0
+154	400587836.0	Stanford Robinson Turnover.	257.0	42.0	31.0	0.0	0.0	0.0	1.0
+155	400587836.0	Wayne Blackshear Steal.	257.0	42.0	31.0	0.0	0.0	1.0	0.0
+156	400587836.0	Wayne Blackshear made Dunk.	252.0	44.0	31.0	2.0	0.0	1.0	0.0
+157	400587836.0	Stanford Robinson Turnover.	252.0	44.0	31.0	0.0	0.0	0.0	1.0
+158	400587836.0	Terry Rozier missed Jumper.	241.0	44.0	31.0	0.0	0.0	1.0	0.0
+159	400587836.0	Yogi Ferrell Defensive Rebound.	241.0	44.0	31.0	0.0	0.0	0.0	0.0
+160	400587836.0	Nick Zeisloft missed Three Point Jumper.	233.0	44.0	31.0	0.0	0.0	0.0	0.0
+161	400587836.0	Terry Rozier Defensive Rebound.	233.0	44.0	31.0	0.0	0.0	1.0	0.0
+162	400587836.0	Chris Jones missed Jumper.	217.0	44.0	31.0	0.0	0.0	1.0	0.0
+163	400587836.0	Montrezl Harrell Offensive Rebound.	217.0	44.0	31.0	0.0	0.0	1.0	0.0
+164	400587836.0	Foul on Montrezl Harrell.	207.0	44.0	31.0	0.0	0.0	1.0	0.0
+165	400587836.0	Montrezl Harrell Turnover.	207.0	44.0	31.0	0.0	0.0	1.0	1.0
+166	400587836.0	 Official TV Timeout	207.0	44.0	31.0	0.0	0.0	0.0	0.0
+167	400587836.0	Foul on Chris Jones.	196.0	44.0	31.0	0.0	0.0	1.0	0.0
+168	400587836.0	Yogi Ferrell made Free Throw.	196.0	44.0	32.0	0.0	1.0	0.0	0.0
+169	400587836.0	Yogi Ferrell missed Free Throw.	196.0	44.0	32.0	0.0	0.0	0.0	0.0
+170	400587836.0	Wayne Blackshear Defensive Rebound.	196.0	44.0	32.0	0.0	0.0	1.0	0.0
+171	400587836.0	Wayne Blackshear missed Three Point Jumper.	189.0	44.0	32.0	0.0	0.0	1.0	0.0
+172	400587836.0	Yogi Ferrell Defensive Rebound.	189.0	44.0	32.0	0.0	0.0	0.0	0.0
+173	400587836.0	Collin Hartman Turnover.	174.0	44.0	32.0	0.0	0.0	0.0	1.0
+174	400587836.0	Chris Jones missed Jumper.	163.0	44.0	32.0	0.0	0.0	1.0	0.0
+175	400587836.0	Jaylen Johnson Offensive Rebound.	163.0	44.0	32.0	0.0	0.0	1.0	0.0
+176	400587836.0	Jaylen Johnson missed Jumper.	159.0	44.0	32.0	0.0	0.0	1.0	0.0
+177	400587836.0	Nick Zeisloft Defensive Rebound.	159.0	44.0	32.0	0.0	0.0	0.0	0.0
+178	400587836.0	Nick Zeisloft made Three Point Jumper. Assisted by Yogi Ferrell.	152.0	44.0	35.0	0.0	3.0	0.0	0.0
+179	400587836.0	Mangok Mathiang missed Jumper.	138.0	44.0	35.0	0.0	0.0	1.0	0.0
+180	400587836.0	Hanner Mosquera-Perea Defensive Rebound.	138.0	44.0	35.0	0.0	0.0	0.0	0.0
+181	400587836.0	Nick Zeisloft made Three Point Jumper. Assisted by James Blackmon Jr..	105.0	44.0	38.0	0.0	3.0	0.0	0.0
+182	400587836.0	Jaylen Johnson Turnover.	78.0	44.0	38.0	0.0	0.0	1.0	1.0
+183	400587836.0	James Blackmon Jr. Steal.	78.0	44.0	38.0	0.0	0.0	0.0	0.0
+184	400587836.0	James Blackmon Jr. made Layup.	72.0	44.0	40.0	0.0	2.0	0.0	0.0
+185	400587836.0	Chris Jones made Jumper.	59.0	46.0	40.0	2.0	0.0	1.0	0.0
+186	400587836.0	Foul on Jaylen Johnson.	31.0	46.0	40.0	0.0	0.0	1.0	0.0
+187	400587836.0	James Blackmon Jr. missed Free Throw.	31.0	46.0	40.0	0.0	0.0	0.0	0.0
+188	400587836.0	Indiana Deadball Team Rebound.	31.0	46.0	40.0	0.0	0.0	0.0	0.0
+189	400587836.0	James Blackmon Jr. made Free Throw.	31.0	46.0	41.0	0.0	1.0	0.0	0.0
+190	400587836.0	Foul on Troy Williams.	3.0	46.0	41.0	0.0	0.0	0.0	0.0
+191	400587836.0	Chris Jones missed Free Throw.	3.0	46.0	41.0	0.0	0.0	1.0	0.0
+192	400587836.0	Louisville Deadball Team Rebound.	3.0	46.0	41.0	0.0	0.0	1.0	0.0
+193	400587836.0	Chris Jones missed Free Throw.	3.0	46.0	41.0	0.0	0.0	1.0	0.0
+194	400587836.0	Collin Hartman Defensive Rebound.	3.0	46.0	41.0	0.0	0.0	0.0	0.0
+195	400587836.0	End of 1st half	0.0	46.0	41.0	0.0	0.0	0.0	0.0
+196	400587836.0	Jump Ball won by Louisville	1200.0	46.0	41.0	0.0	0.0	1.0	0.0
+197	400587836.0	Terry Rozier missed Three Point Jumper.	1192.0	46.0	41.0	0.0	0.0	1.0	0.0
+198	400587836.0	Indiana Defensive Rebound.	1192.0	46.0	41.0	0.0	0.0	0.0	0.0
+199	400587836.0	Hanner Mosquera-Perea made Jumper.	1177.0	46.0	43.0	0.0	2.0	0.0	0.0
+200	400587836.0	Terry Rozier missed Jumper.	1160.0	46.0	43.0	0.0	0.0	1.0	0.0
+201	400587836.0	Montrezl Harrell Offensive Rebound.	1160.0	46.0	43.0	0.0	0.0	1.0	0.0
+202	400587836.0	Montrezl Harrell missed Dunk.	1157.0	46.0	43.0	0.0	0.0	1.0	0.0
+203	400587836.0	James Blackmon Jr. Defensive Rebound.	1157.0	46.0	43.0	0.0	0.0	0.0	0.0
+204	400587836.0	Troy Williams missed Layup.	1149.0	46.0	43.0	0.0	0.0	0.0	0.0
+205	400587836.0	Hanner Mosquera-Perea Offensive Rebound.	1149.0	46.0	43.0	0.0	0.0	0.0	0.0
+206	400587836.0	James Blackmon Jr. made Layup. Assisted by Yogi Ferrell.	1122.0	46.0	45.0	0.0	2.0	0.0	0.0
+207	400587836.0	Louisville  Timeout	1110.0	46.0	45.0	0.0	0.0	0.0	0.0
+208	400587836.0	Chris Jones Turnover.	1103.0	46.0	45.0	0.0	0.0	1.0	1.0
+209	400587836.0	James Blackmon Jr. made Jumper.	1087.0	46.0	47.0	0.0	2.0	0.0	0.0
+210	400587836.0	Anton Gill missed Jumper.	1066.0	46.0	47.0	0.0	0.0	1.0	0.0
+211	400587836.0	Robert Johnson Defensive Rebound.	1066.0	46.0	47.0	0.0	0.0	0.0	0.0
+212	400587836.0	Robert Johnson missed Layup.	1049.0	46.0	47.0	0.0	0.0	0.0	0.0
+213	400587836.0	Indiana Offensive Rebound.	1049.0	46.0	47.0	0.0	0.0	0.0	0.0
+214	400587836.0	Yogi Ferrell made Three Point Jumper.	1043.0	46.0	50.0	0.0	3.0	0.0	0.0
+215	400587836.0	Chris Jones missed Jumper.	1030.0	46.0	50.0	0.0	0.0	1.0	0.0
+216	400587836.0	Montrezl Harrell Offensive Rebound.	1030.0	46.0	50.0	0.0	0.0	1.0	0.0
+217	400587836.0	Montrezl Harrell made Layup.	1027.0	48.0	50.0	2.0	0.0	1.0	0.0
+218	400587836.0	Troy Williams made Layup.	1017.0	48.0	52.0	0.0	2.0	0.0	0.0
+219	400587836.0	Chris Jones made Jumper.	994.0	50.0	52.0	2.0	0.0	1.0	0.0
+220	400587836.0	Foul on Hanner Mosquera-Perea.	983.0	50.0	52.0	0.0	0.0	0.0	0.0
+221	400587836.0	Hanner Mosquera-Perea Turnover.	983.0	50.0	52.0	0.0	0.0	0.0	1.0
+222	400587836.0	Chris Jones made Three Point Jumper. Assisted by Wayne Blackshear.	964.0	53.0	52.0	3.0	0.0	1.0	0.0
+223	400587836.0	Troy Williams Turnover.	955.0	53.0	52.0	0.0	0.0	0.0	1.0
+224	400587836.0	 Official TV Timeout	955.0	53.0	52.0	0.0	0.0	0.0	0.0
+225	400587836.0	Wayne Blackshear missed Three Point Jumper.	930.0	53.0	52.0	0.0	0.0	1.0	0.0
+226	400587836.0	Robert Johnson Defensive Rebound.	930.0	53.0	52.0	0.0	0.0	0.0	0.0
+227	400587836.0	James Blackmon Jr. missed Layup.	920.0	53.0	52.0	0.0	0.0	0.0	0.0
+228	400587836.0	Mangok Mathiang Block.	920.0	53.0	52.0	0.0	0.0	1.0	0.0
+229	400587836.0	Chris Jones Defensive Rebound.	920.0	53.0	52.0	0.0	0.0	1.0	0.0
+230	400587836.0	Terry Rozier missed Layup.	913.0	53.0	52.0	0.0	0.0	1.0	0.0
+231	400587836.0	Chris Jones Offensive Rebound.	913.0	53.0	52.0	0.0	0.0	1.0	0.0
+232	400587836.0	Chris Jones made Layup.	906.0	55.0	52.0	2.0	0.0	1.0	0.0
+233	400587836.0	Troy Williams missed Layup.	894.0	55.0	52.0	0.0	0.0	0.0	0.0
+234	400587836.0	Chris Jones Defensive Rebound.	894.0	55.0	52.0	0.0	0.0	1.0	0.0
+235	400587836.0	Terry Rozier made Three Point Jumper. Assisted by Chris Jones.	890.0	58.0	52.0	3.0	0.0	1.0	0.0
+236	400587836.0	Robert Johnson made Layup.	857.0	58.0	54.0	0.0	2.0	0.0	0.0
+237	400587836.0	Montrezl Harrell made Jumper. Assisted by Wayne Blackshear.	846.0	60.0	54.0	2.0	0.0	1.0	0.0
+238	400587836.0	Foul on Chris Jones.	827.0	60.0	54.0	0.0	0.0	1.0	0.0
+239	400587836.0	Yogi Ferrell made Free Throw.	827.0	60.0	55.0	0.0	1.0	0.0	0.0
+240	400587836.0	Yogi Ferrell made Free Throw.	827.0	60.0	56.0	0.0	1.0	0.0	0.0
+241	400587836.0	Foul on Stanford Robinson.	811.0	60.0	56.0	0.0	0.0	0.0	0.0
+242	400587836.0	Wayne Blackshear missed Layup.	805.0	60.0	56.0	0.0	0.0	1.0	0.0
+243	400587836.0	Emmitt Holt Block.	805.0	60.0	56.0	0.0	0.0	0.0	0.0
+244	400587836.0	Mangok Mathiang Offensive Rebound.	805.0	60.0	56.0	0.0	0.0	1.0	0.0
+245	400587836.0	Mangok Mathiang missed Jumper.	800.0	60.0	56.0	0.0	0.0	1.0	0.0
+246	400587836.0	Montrezl Harrell Offensive Rebound.	800.0	60.0	56.0	0.0	0.0	1.0	0.0
+247	400587836.0	Foul on Robert Johnson.	799.0	60.0	56.0	0.0	0.0	0.0	0.0
+248	400587836.0	Montrezl Harrell missed Free Throw.	799.0	60.0	56.0	0.0	0.0	1.0	0.0
+249	400587836.0	Louisville Deadball Team Rebound.	799.0	60.0	56.0	0.0	0.0	1.0	0.0
+250	400587836.0	Montrezl Harrell missed Free Throw.	799.0	60.0	56.0	0.0	0.0	1.0	0.0
+251	400587836.0	Stanford Robinson Defensive Rebound.	799.0	60.0	56.0	0.0	0.0	0.0	0.0
+252	400587836.0	Yogi Ferrell missed Jumper.	792.0	60.0	56.0	0.0	0.0	0.0	0.0
+253	400587836.0	Wayne Blackshear Defensive Rebound.	792.0	60.0	56.0	0.0	0.0	1.0	0.0
+254	400587836.0	Montrezl Harrell made Dunk. Assisted by Wayne Blackshear.	769.0	62.0	56.0	2.0	0.0	1.0	0.0
+255	400587836.0	Stanford Robinson made Layup.	740.0	62.0	58.0	0.0	2.0	0.0	0.0
+256	400587836.0	Chris Jones made Jumper.	716.0	64.0	58.0	2.0	0.0	1.0	0.0
+257	400587836.0	Robert Johnson Turnover.	706.0	64.0	58.0	0.0	0.0	0.0	1.0
+258	400587836.0	Chris Jones Steal.	706.0	64.0	58.0	0.0	0.0	1.0	0.0
+259	400587836.0	Mangok Mathiang Turnover.	704.0	64.0	58.0	0.0	0.0	1.0	1.0
+260	400587836.0	Robert Johnson Steal.	704.0	64.0	58.0	0.0	0.0	0.0	0.0
+261	400587836.0	Robert Johnson missed Three Point Jumper.	702.0	64.0	58.0	0.0	0.0	0.0	0.0
+262	400587836.0	Terry Rozier Defensive Rebound.	702.0	64.0	58.0	0.0	0.0	1.0	0.0
+263	400587836.0	Foul on Yogi Ferrell.	694.0	64.0	58.0	0.0	0.0	0.0	0.0
+264	400587836.0	 Official TV Timeout	694.0	64.0	58.0	0.0	0.0	0.0	0.0
+265	400587836.0	Terry Rozier missed Free Throw.	694.0	64.0	58.0	0.0	0.0	1.0	0.0
+266	400587836.0	Louisville Deadball Team Rebound.	694.0	64.0	58.0	0.0	0.0	1.0	0.0
+267	400587836.0	Terry Rozier made Free Throw.	694.0	65.0	58.0	1.0	0.0	1.0	0.0
+268	400587836.0	Stanford Robinson missed Layup.	675.0	65.0	58.0	0.0	0.0	0.0	0.0
+269	400587836.0	Emmitt Holt Offensive Rebound.	675.0	65.0	58.0	0.0	0.0	0.0	0.0
+270	400587836.0	Emmitt Holt made Layup.	671.0	65.0	60.0	0.0	2.0	0.0	0.0
+271	400587836.0	Terry Rozier missed Three Point Jumper.	655.0	65.0	60.0	0.0	0.0	1.0	0.0
+272	400587836.0	James Blackmon Jr. Defensive Rebound.	655.0	65.0	60.0	0.0	0.0	0.0	0.0
+273	400587836.0	James Blackmon Jr. missed Three Point Jumper.	646.0	65.0	60.0	0.0	0.0	0.0	0.0
+274	400587836.0	Montrezl Harrell Defensive Rebound.	646.0	65.0	60.0	0.0	0.0	1.0	0.0
+275	400587836.0	Louisville  Timeout	638.0	65.0	60.0	0.0	0.0	0.0	0.0
+276	400587836.0	Wayne Blackshear made Layup.	627.0	67.0	60.0	2.0	0.0	1.0	0.0
+277	400587836.0	Stanford Robinson Turnover.	604.0	67.0	60.0	0.0	0.0	0.0	1.0
+278	400587836.0	Chris Jones Turnover.	589.0	67.0	60.0	0.0	0.0	1.0	1.0
+279	400587836.0	Troy Williams Steal.	589.0	67.0	60.0	0.0	0.0	0.0	0.0
+280	400587836.0	James Blackmon Jr. missed Three Point Jumper.	583.0	67.0	60.0	0.0	0.0	0.0	0.0
+281	400587836.0	Chris Jones Defensive Rebound.	583.0	67.0	60.0	0.0	0.0	1.0	0.0
+282	400587836.0	Terry Rozier missed Layup.	576.0	67.0	60.0	0.0	0.0	1.0	0.0
+283	400587836.0	Hanner Mosquera-Perea Block.	576.0	67.0	60.0	0.0	0.0	0.0	0.0
+284	400587836.0	Robert Johnson Defensive Rebound.	576.0	67.0	60.0	0.0	0.0	0.0	0.0
+285	400587836.0	Foul on Chris Jones.	555.0	67.0	60.0	0.0	0.0	1.0	0.0
+286	400587836.0	Robert Johnson missed Free Throw.	555.0	67.0	60.0	0.0	0.0	0.0	0.0
+287	400587836.0	Indiana Deadball Team Rebound.	555.0	67.0	60.0	0.0	0.0	0.0	0.0
+288	400587836.0	Robert Johnson missed Free Throw.	555.0	67.0	60.0	0.0	0.0	0.0	0.0
+289	400587836.0	Montrezl Harrell Defensive Rebound.	555.0	67.0	60.0	0.0	0.0	1.0	0.0
+290	400587836.0	Wayne Blackshear missed Three Point Jumper.	539.0	67.0	60.0	0.0	0.0	1.0	0.0
+291	400587836.0	Anas Mahmoud Offensive Rebound.	539.0	67.0	60.0	0.0	0.0	1.0	0.0
+292	400587836.0	Anas Mahmoud missed Layup.	535.0	67.0	60.0	0.0	0.0	1.0	0.0
+293	400587836.0	Anas Mahmoud Offensive Rebound.	535.0	67.0	60.0	0.0	0.0	1.0	0.0
+294	400587836.0	Anton Gill missed Jumper.	506.0	67.0	60.0	0.0	0.0	1.0	0.0
+295	400587836.0	Anas Mahmoud Offensive Rebound.	506.0	67.0	60.0	0.0	0.0	1.0	0.0
+296	400587836.0	Anas Mahmoud made Jumper.	502.0	69.0	60.0	2.0	0.0	1.0	0.0
+297	400587836.0	Foul on Hanner Mosquera-Perea.	502.0	69.0	60.0	0.0	0.0	0.0	0.0
+298	400587836.0	Anas Mahmoud missed Free Throw.	502.0	69.0	60.0	0.0	0.0	1.0	0.0
+299	400587836.0	Terry Rozier Offensive Rebound.	502.0	69.0	60.0	0.0	0.0	1.0	0.0
+300	400587836.0	Terry Rozier made Layup.	501.0	71.0	60.0	2.0	0.0	1.0	0.0
+301	400587836.0	Yogi Ferrell missed Three Point Jumper.	473.0	71.0	60.0	0.0	0.0	0.0	0.0
+302	400587836.0	Anton Gill Defensive Rebound.	473.0	71.0	60.0	0.0	0.0	1.0	0.0
+303	400587836.0	Wayne Blackshear missed Three Point Jumper.	454.0	71.0	60.0	0.0	0.0	1.0	0.0
+304	400587836.0	Max Hoetzel Defensive Rebound.	454.0	71.0	60.0	0.0	0.0	0.0	0.0
+305	400587836.0	Yogi Ferrell missed Layup.	445.0	71.0	60.0	0.0	0.0	0.0	0.0
+306	400587836.0	Anas Mahmoud Defensive Rebound.	445.0	71.0	60.0	0.0	0.0	1.0	0.0
+307	400587836.0	Foul on Robert Johnson.	439.0	71.0	60.0	0.0	0.0	0.0	0.0
+308	400587836.0	 Official TV Timeout	439.0	71.0	60.0	0.0	0.0	0.0	0.0
+309	400587836.0	Wayne Blackshear made Free Throw.	439.0	72.0	60.0	1.0	0.0	1.0	0.0
+310	400587836.0	Wayne Blackshear made Free Throw.	439.0	73.0	60.0	1.0	0.0	1.0	0.0
+311	400587836.0	Robert Johnson Turnover.	423.0	73.0	60.0	0.0	0.0	0.0	1.0
+312	400587836.0	Montrezl Harrell Turnover.	411.0	73.0	60.0	0.0	0.0	1.0	1.0
+313	400587836.0	Yogi Ferrell Steal.	411.0	73.0	60.0	0.0	0.0	0.0	0.0
+314	400587836.0	Foul on Montrezl Harrell.	405.0	73.0	60.0	0.0	0.0	1.0	0.0
+315	400587836.0	Troy Williams made Free Throw.	405.0	73.0	61.0	0.0	1.0	0.0	0.0
+316	400587836.0	Troy Williams made Free Throw.	405.0	73.0	62.0	0.0	1.0	0.0	0.0
+317	400587836.0	Terry Rozier made Three Point Jumper. Assisted by Chris Jones.	391.0	76.0	62.0	3.0	0.0	1.0	0.0
+318	400587836.0	James Blackmon Jr. made Dunk. Assisted by Troy Williams.	379.0	76.0	64.0	0.0	2.0	0.0	0.0
+319	400587836.0	Foul on Anas Mahmoud.	356.0	76.0	64.0	0.0	0.0	1.0	0.0
+320	400587836.0	Anas Mahmoud Turnover.	356.0	76.0	64.0	0.0	0.0	1.0	1.0
+321	400587836.0	Foul on Anas Mahmoud.	340.0	76.0	64.0	0.0	0.0	1.0	0.0
+322	400587836.0	Troy Williams made Free Throw.	340.0	76.0	65.0	0.0	1.0	0.0	0.0
+323	400587836.0	Troy Williams made Free Throw.	340.0	76.0	66.0	0.0	1.0	0.0	0.0
+324	400587836.0	Wayne Blackshear made Jumper.	323.0	78.0	66.0	2.0	0.0	1.0	0.0
+325	400587836.0	Yogi Ferrell made Jumper.	310.0	78.0	68.0	0.0	2.0	0.0	0.0
+326	400587836.0	Chris Jones missed Jumper.	285.0	78.0	68.0	0.0	0.0	1.0	0.0
+327	400587836.0	Yogi Ferrell Defensive Rebound.	285.0	78.0	68.0	0.0	0.0	0.0	0.0
+328	400587836.0	James Blackmon Jr. missed Three Point Jumper.	261.0	78.0	68.0	0.0	0.0	0.0	0.0
+329	400587836.0	Wayne Blackshear Defensive Rebound.	261.0	78.0	68.0	0.0	0.0	1.0	0.0
+330	400587836.0	Montrezl Harrell made Dunk. Assisted by Wayne Blackshear.	240.0	80.0	68.0	2.0	0.0	1.0	0.0
+331	400587836.0	James Blackmon Jr. Turnover.	206.0	80.0	68.0	0.0	0.0	0.0	1.0
+332	400587836.0	Montrezl Harrell Steal.	206.0	80.0	68.0	0.0	0.0	1.0	0.0
+333	400587836.0	Terry Rozier made Three Point Jumper. Assisted by Anas Mahmoud.	191.0	83.0	68.0	3.0	0.0	1.0	0.0
+334	400587836.0	Yogi Ferrell missed Layup.	175.0	83.0	68.0	0.0	0.0	0.0	0.0
+335	400587836.0	Montrezl Harrell Block.	175.0	83.0	68.0	0.0	0.0	1.0	0.0
+336	400587836.0	Troy Williams Offensive Rebound.	175.0	83.0	68.0	0.0	0.0	0.0	0.0
+337	400587836.0	James Blackmon Jr. missed Three Point Jumper.	171.0	83.0	68.0	0.0	0.0	0.0	0.0
+338	400587836.0	Wayne Blackshear Block.	171.0	83.0	68.0	0.0	0.0	1.0	0.0
+339	400587836.0	Chris Jones Defensive Rebound.	171.0	83.0	68.0	0.0	0.0	1.0	0.0
+340	400587836.0	Chris Jones Turnover.	161.0	83.0	68.0	0.0	0.0	1.0	1.0
+341	400587836.0	James Blackmon Jr. Steal.	161.0	83.0	68.0	0.0	0.0	0.0	0.0
+342	400587836.0	James Blackmon Jr. made Dunk.	158.0	83.0	70.0	0.0	2.0	0.0	0.0
+343	400587836.0	Indiana  Timeout	156.0	83.0	70.0	0.0	0.0	0.0	0.0
+344	400587836.0	Foul on Nick Zeisloft.	148.0	83.0	70.0	0.0	0.0	0.0	0.0
+345	400587836.0	 Official TV Timeout	148.0	83.0	70.0	0.0	0.0	0.0	0.0
+346	400587836.0	Mangok Mathiang missed Free Throw.	148.0	83.0	70.0	0.0	0.0	1.0	0.0
+347	400587836.0	Terry Rozier Offensive Rebound.	148.0	83.0	70.0	0.0	0.0	1.0	0.0
+348	400587836.0	Foul on Robert Johnson.	126.0	83.0	70.0	0.0	0.0	0.0	0.0
+349	400587836.0	Terry Rozier made Free Throw.	126.0	84.0	70.0	1.0	0.0	1.0	0.0
+350	400587836.0	Terry Rozier made Free Throw.	126.0	85.0	70.0	1.0	0.0	1.0	0.0
+351	400587836.0	James Blackmon Jr. missed Layup.	116.0	85.0	70.0	0.0	0.0	0.0	0.0
+352	400587836.0	Wayne Blackshear Defensive Rebound.	116.0	85.0	70.0	0.0	0.0	1.0	0.0
+353	400587836.0	Foul on James Blackmon Jr..	109.0	85.0	70.0	0.0	0.0	0.0	0.0
+354	400587836.0	Chris Jones made Free Throw.	109.0	86.0	70.0	1.0	0.0	1.0	0.0
+355	400587836.0	Chris Jones made Free Throw.	109.0	87.0	70.0	1.0	0.0	1.0	0.0
+356	400587836.0	Yogi Ferrell made Layup.	104.0	87.0	72.0	0.0	2.0	0.0	0.0
+357	400587836.0	Foul on James Blackmon Jr..	97.0	87.0	72.0	0.0	0.0	0.0	0.0
+358	400587836.0	Terry Rozier made Free Throw.	97.0	88.0	72.0	1.0	0.0	1.0	0.0
+359	400587836.0	Terry Rozier made Free Throw.	97.0	89.0	72.0	1.0	0.0	1.0	0.0
+360	400587836.0	James Blackmon Jr. missed Jumper.	91.0	89.0	72.0	0.0	0.0	0.0	0.0
+361	400587836.0	James Blackmon Jr. Offensive Rebound.	91.0	89.0	72.0	0.0	0.0	0.0	0.0
+362	400587836.0	James Blackmon Jr. made Layup.	88.0	89.0	74.0	0.0	2.0	0.0	0.0
+363	400587836.0	Indiana  Timeout	88.0	89.0	74.0	0.0	0.0	0.0	0.0
+364	400587836.0	Foul on James Blackmon Jr..	84.0	89.0	74.0	0.0	0.0	0.0	0.0
+365	400587836.0	Chris Jones made Free Throw.	84.0	90.0	74.0	1.0	0.0	1.0	0.0
+366	400587836.0	Chris Jones made Free Throw.	84.0	91.0	74.0	1.0	0.0	1.0	0.0
+367	400587836.0	James Blackmon Jr. missed Three Point Jumper.	76.0	91.0	74.0	0.0	0.0	0.0	0.0
+368	400587836.0	Nick Zeisloft Offensive Rebound.	76.0	91.0	74.0	0.0	0.0	0.0	0.0
+369	400587836.0	James Blackmon Jr. missed Three Point Jumper.	72.0	91.0	74.0	0.0	0.0	0.0	0.0
+370	400587836.0	Chris Jones Defensive Rebound.	72.0	91.0	74.0	0.0	0.0	1.0	0.0
+371	400587836.0	Foul on Troy Williams.	67.0	91.0	74.0	0.0	0.0	0.0	0.0
+372	400587836.0	Chris Jones made Free Throw.	67.0	92.0	74.0	1.0	0.0	1.0	0.0
+373	400587836.0	Chris Jones made Free Throw.	67.0	93.0	74.0	1.0	0.0	1.0	0.0
+374	400587836.0	Yogi Ferrell missed Three Point Jumper.	62.0	93.0	74.0	0.0	0.0	0.0	0.0
+375	400587836.0	Louisville Deadball Team Rebound.	62.0	93.0	74.0	0.0	0.0	1.0	0.0
+376	400587836.0	Foul on Max Hoetzel.	59.0	93.0	74.0	0.0	0.0	0.0	0.0
+377	400587836.0	Montrezl Harrell missed Free Throw.	59.0	93.0	74.0	0.0	0.0	1.0	0.0
+378	400587836.0	Louisville Deadball Team Rebound.	59.0	93.0	74.0	0.0	0.0	1.0	0.0
+379	400587836.0	Montrezl Harrell made Free Throw.	59.0	94.0	74.0	1.0	0.0	1.0	0.0
+380	400587836.0	Foul on Wayne Blackshear.	35.0	94.0	74.0	0.0	0.0	1.0	0.0
+381	400587836.0	Foul on Quentin Snider.	33.0	94.0	74.0	0.0	0.0	1.0	0.0
+382	400587836.0	Stanford Robinson missed Free Throw.	33.0	94.0	74.0	0.0	0.0	0.0	0.0
+383	400587836.0	Wayne Blackshear Defensive Rebound.	33.0	94.0	74.0	0.0	0.0	1.0	0.0
+384	400587836.0	End of Game	0.0	94.0	74.0	0.0	0.0	0.0	0.0

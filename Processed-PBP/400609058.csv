@@ -1,0 +1,266 @@
+	Game_id	PBP_description	sec_remaining	home_score	away_score	home_points_scored	away_points_scored	home_poss	turnover
+0	400609058.0	Jump Ball won by Virginia	1200.0	0.0	0.0	0.0	0.0	0.0	0.0
+1	400609058.0	Anthony Gill missed Layup.	1177.0	0.0	0.0	0.0	0.0	0.0	0.0
+2	400609058.0	Greg Lewis Block.	1177.0	0.0	0.0	0.0	0.0	1.0	0.0
+3	400609058.0	Darion Atkins Offensive Rebound.	1177.0	0.0	0.0	0.0	0.0	0.0	0.0
+4	400609058.0	Darion Atkins made Jumper.	1167.0	0.0	2.0	0.0	2.0	0.0	0.0
+5	400609058.0	Kadeem Jack missed Jumper.	1147.0	0.0	2.0	0.0	0.0	1.0	0.0
+6	400609058.0	Darion Atkins Block.	1147.0	0.0	2.0	0.0	0.0	0.0	0.0
+7	400609058.0	Anthony Gill Defensive Rebound.	1147.0	0.0	2.0	0.0	0.0	0.0	0.0
+8	400609058.0	Malcolm Brogdon missed Jumper.	1121.0	0.0	2.0	0.0	0.0	0.0	0.0
+9	400609058.0	Anthony Gill Offensive Rebound.	1121.0	0.0	2.0	0.0	0.0	0.0	0.0
+10	400609058.0	Malcolm Brogdon missed Layup.	1099.0	0.0	2.0	0.0	0.0	0.0	0.0
+11	400609058.0	Greg Lewis Block.	1099.0	0.0	2.0	0.0	0.0	1.0	0.0
+12	400609058.0	Greg Lewis Defensive Rebound.	1099.0	0.0	2.0	0.0	0.0	1.0	0.0
+13	400609058.0	Junior Etou missed Jumper.	1065.0	0.0	2.0	0.0	0.0	1.0	0.0
+14	400609058.0	Darion Atkins Defensive Rebound.	1065.0	0.0	2.0	0.0	0.0	0.0	0.0
+15	400609058.0	Justin Anderson made Dunk.	1032.0	0.0	4.0	0.0	2.0	0.0	0.0
+16	400609058.0	Mike Williams missed Three Point Jumper.	1014.0	0.0	4.0	0.0	0.0	1.0	0.0
+17	400609058.0	Darion Atkins Defensive Rebound.	1014.0	0.0	4.0	0.0	0.0	0.0	0.0
+18	400609058.0	Anthony Gill Turnover.	999.0	0.0	4.0	0.0	0.0	0.0	1.0
+19	400609058.0	Kadeem Jack made Layup.	991.0	2.0	4.0	2.0	0.0	1.0	0.0
+20	400609058.0	Justin Anderson missed Layup.	961.0	2.0	4.0	0.0	0.0	0.0	0.0
+21	400609058.0	Greg Lewis Block.	961.0	2.0	4.0	0.0	0.0	1.0	0.0
+22	400609058.0	Greg Lewis Defensive Rebound.	961.0	2.0	4.0	0.0	0.0	1.0	0.0
+23	400609058.0	Kadeem Jack Turnover.	947.0	2.0	4.0	0.0	0.0	1.0	1.0
+24	400609058.0	Anthony Gill Steal.	947.0	2.0	4.0	0.0	0.0	0.0	0.0
+25	400609058.0	Malcolm Brogdon Turnover.	947.0	2.0	4.0	0.0	0.0	0.0	1.0
+26	400609058.0	Myles Mack Steal.	947.0	2.0	4.0	0.0	0.0	1.0	0.0
+27	400609058.0	Foul on Anthony Gill.	943.0	2.0	4.0	0.0	0.0	0.0	0.0
+28	400609058.0	 Official TV Timeout	943.0	2.0	4.0	0.0	0.0	0.0	0.0
+29	400609058.0	Myles Mack missed Three Point Jumper.	935.0	2.0	4.0	0.0	0.0	1.0	0.0
+30	400609058.0	Mike Tobey Defensive Rebound.	935.0	2.0	4.0	0.0	0.0	0.0	0.0
+31	400609058.0	Mike Tobey made Layup. Assisted by Darion Atkins.	920.0	2.0	6.0	0.0	2.0	0.0	0.0
+32	400609058.0	Rutgers  Turnover.	881.0	2.0	6.0	0.0	0.0	1.0	1.0
+33	400609058.0	Justin Anderson missed Jumper.	860.0	2.0	6.0	0.0	0.0	0.0	0.0
+34	400609058.0	Virginia Offensive Rebound.	859.0	2.0	6.0	0.0	0.0	0.0	0.0
+35	400609058.0	Malcolm Brogdon missed Three Point Jumper.	856.0	2.0	6.0	0.0	0.0	0.0	0.0
+36	400609058.0	Junior Etou Defensive Rebound.	856.0	2.0	6.0	0.0	0.0	1.0	0.0
+37	400609058.0	Foul on Marial Shayok.	843.0	2.0	6.0	0.0	0.0	0.0	0.0
+38	400609058.0	Greg Lewis made Free Throw.	843.0	3.0	6.0	1.0	0.0	1.0	0.0
+39	400609058.0	Greg Lewis missed Free Throw.	843.0	3.0	6.0	0.0	0.0	1.0	0.0
+40	400609058.0	Rutgers Offensive Rebound.	843.0	3.0	6.0	0.0	0.0	1.0	0.0
+41	400609058.0	Kadeem Jack missed Jumper.	836.0	3.0	6.0	0.0	0.0	1.0	0.0
+42	400609058.0	Justin Anderson Defensive Rebound.	836.0	3.0	6.0	0.0	0.0	0.0	0.0
+43	400609058.0	Malcolm Brogdon missed Layup.	817.0	3.0	6.0	0.0	0.0	0.0	0.0
+44	400609058.0	Greg Lewis Block.	817.0	3.0	6.0	0.0	0.0	1.0	0.0
+45	400609058.0	Kadeem Jack Defensive Rebound.	817.0	3.0	6.0	0.0	0.0	1.0	0.0
+46	400609058.0	Kadeem Jack Turnover.	789.0	3.0	6.0	0.0	0.0	1.0	1.0
+47	400609058.0	Darion Atkins Steal.	789.0	3.0	6.0	0.0	0.0	0.0	0.0
+48	400609058.0	Justin Anderson made Dunk. Assisted by Malcolm Brogdon.	784.0	3.0	8.0	0.0	2.0	0.0	0.0
+49	400609058.0	Greg Lewis Turnover.	770.0	3.0	8.0	0.0	0.0	1.0	1.0
+50	400609058.0	Marial Shayok made Three Point Jumper. Assisted by London Perrantes.	755.0	3.0	11.0	0.0	3.0	0.0	0.0
+51	400609058.0	Kerwin Okoro missed Three Point Jumper.	725.0	3.0	11.0	0.0	0.0	1.0	0.0
+52	400609058.0	Evan Nolte Defensive Rebound.	725.0	3.0	11.0	0.0	0.0	0.0	0.0
+53	400609058.0	Mike Tobey missed Jumper.	698.0	3.0	11.0	0.0	0.0	0.0	0.0
+54	400609058.0	D.J. Foreman Defensive Rebound.	698.0	3.0	11.0	0.0	0.0	1.0	0.0
+55	400609058.0	Greg Lewis missed Jumper.	670.0	3.0	11.0	0.0	0.0	1.0	0.0
+56	400609058.0	Isaiah Wilkins Defensive Rebound.	670.0	3.0	11.0	0.0	0.0	0.0	0.0
+57	400609058.0	Isaiah Wilkins Turnover.	652.0	3.0	11.0	0.0	0.0	0.0	1.0
+58	400609058.0	 Official TV Timeout	652.0	3.0	11.0	0.0	0.0	0.0	0.0
+59	400609058.0	Myles Mack missed Jumper.	619.0	3.0	11.0	0.0	0.0	1.0	0.0
+60	400609058.0	Mike Tobey Defensive Rebound.	619.0	3.0	11.0	0.0	0.0	0.0	0.0
+61	400609058.0	Isaiah Wilkins missed Layup.	609.0	3.0	11.0	0.0	0.0	0.0	0.0
+62	400609058.0	Marial Shayok Offensive Rebound.	609.0	3.0	11.0	0.0	0.0	0.0	0.0
+63	400609058.0	Marial Shayok missed Layup.	609.0	3.0	11.0	0.0	0.0	0.0	0.0
+64	400609058.0	Rutgers Defensive Rebound.	609.0	3.0	11.0	0.0	0.0	1.0	0.0
+65	400609058.0	Shaquille Doorson made Layup. Assisted by Kerwin Okoro.	591.0	5.0	11.0	2.0	0.0	1.0	0.0
+66	400609058.0	London Perrantes missed Jumper.	559.0	5.0	11.0	0.0	0.0	0.0	0.0
+67	400609058.0	Malick Kone Defensive Rebound.	559.0	5.0	11.0	0.0	0.0	1.0	0.0
+68	400609058.0	Kerwin Okoro missed Jumper.	520.0	5.0	11.0	0.0	0.0	1.0	0.0
+69	400609058.0	Shaquille Doorson Offensive Rebound.	520.0	5.0	11.0	0.0	0.0	1.0	0.0
+70	400609058.0	Shaquille Doorson missed Two Point Tip Shot.	520.0	5.0	11.0	0.0	0.0	1.0	0.0
+71	400609058.0	Evan Nolte Defensive Rebound.	520.0	5.0	11.0	0.0	0.0	0.0	0.0
+72	400609058.0	London Perrantes missed Three Point Jumper.	490.0	5.0	11.0	0.0	0.0	0.0	0.0
+73	400609058.0	Darion Atkins Offensive Rebound.	490.0	5.0	11.0	0.0	0.0	0.0	0.0
+74	400609058.0	Foul on D.J. Foreman.	485.0	5.0	11.0	0.0	0.0	1.0	0.0
+75	400609058.0	Malcolm Brogdon missed Three Point Jumper.	481.0	5.0	11.0	0.0	0.0	0.0	0.0
+76	400609058.0	Kadeem Jack Defensive Rebound.	481.0	5.0	11.0	0.0	0.0	1.0	0.0
+77	400609058.0	Kadeem Jack made Layup. Assisted by Mike Williams.	467.0	7.0	11.0	2.0	0.0	1.0	0.0
+78	400609058.0	Justin Anderson missed Three Point Jumper.	444.0	7.0	11.0	0.0	0.0	0.0	0.0
+79	400609058.0	Mike Williams Defensive Rebound.	444.0	7.0	11.0	0.0	0.0	1.0	0.0
+80	400609058.0	Mike Williams made Layup.	421.0	9.0	11.0	2.0	0.0	1.0	0.0
+81	400609058.0	Justin Anderson made Layup.	396.0	9.0	13.0	0.0	2.0	0.0	0.0
+82	400609058.0	Foul on Darion Atkins.	382.0	9.0	13.0	0.0	0.0	0.0	0.0
+83	400609058.0	 Official TV Timeout	382.0	9.0	13.0	0.0	0.0	0.0	0.0
+84	400609058.0	Junior Etou made Jumper.	354.0	11.0	13.0	2.0	0.0	1.0	0.0
+85	400609058.0	Malcolm Brogdon Turnover.	332.0	11.0	13.0	0.0	0.0	0.0	1.0
+86	400609058.0	Kadeem Jack Steal.	332.0	11.0	13.0	0.0	0.0	1.0	0.0
+87	400609058.0	Kadeem Jack missed Jumper.	312.0	11.0	13.0	0.0	0.0	1.0	0.0
+88	400609058.0	Justin Anderson Defensive Rebound.	312.0	11.0	13.0	0.0	0.0	0.0	0.0
+89	400609058.0	Justin Anderson made Jumper.	289.0	11.0	15.0	0.0	2.0	0.0	0.0
+90	400609058.0	Myles Mack made Layup. Assisted by Junior Etou.	266.0	13.0	15.0	2.0	0.0	1.0	0.0
+91	400609058.0	 Official TV Timeout	238.0	13.0	15.0	0.0	0.0	0.0	0.0
+92	400609058.0	Malcolm Brogdon missed Three Point Jumper.	229.0	13.0	15.0	0.0	0.0	0.0	0.0
+93	400609058.0	Junior Etou Defensive Rebound.	229.0	13.0	15.0	0.0	0.0	1.0	0.0
+94	400609058.0	Greg Lewis missed Jumper.	211.0	13.0	15.0	0.0	0.0	1.0	0.0
+95	400609058.0	Justin Anderson Defensive Rebound.	211.0	13.0	15.0	0.0	0.0	0.0	0.0
+96	400609058.0	London Perrantes missed Three Point Jumper.	184.0	13.0	15.0	0.0	0.0	0.0	0.0
+97	400609058.0	Junior Etou Defensive Rebound.	184.0	13.0	15.0	0.0	0.0	1.0	0.0
+98	400609058.0	Mike Williams missed Jumper.	176.0	13.0	15.0	0.0	0.0	1.0	0.0
+99	400609058.0	Justin Anderson Defensive Rebound.	176.0	13.0	15.0	0.0	0.0	0.0	0.0
+100	400609058.0	London Perrantes missed Three Point Jumper.	158.0	13.0	15.0	0.0	0.0	0.0	0.0
+101	400609058.0	Mike Tobey Offensive Rebound.	158.0	13.0	15.0	0.0	0.0	0.0	0.0
+102	400609058.0	Foul on Greg Lewis.	154.0	13.0	15.0	0.0	0.0	1.0	0.0
+103	400609058.0	Malcolm Brogdon Turnover.	151.0	13.0	15.0	0.0	0.0	0.0	1.0
+104	400609058.0	Myles Mack made Jumper.	143.0	15.0	15.0	2.0	0.0	1.0	0.0
+105	400609058.0	Marial Shayok missed Jumper.	124.0	15.0	15.0	0.0	0.0	0.0	0.0
+106	400609058.0	Myles Mack Defensive Rebound.	124.0	15.0	15.0	0.0	0.0	1.0	0.0
+107	400609058.0	Greg Lewis made Layup. Assisted by Myles Mack.	109.0	17.0	15.0	2.0	0.0	1.0	0.0
+108	400609058.0	Foul on Mike Tobey.	109.0	17.0	15.0	0.0	0.0	0.0	0.0
+109	400609058.0	Greg Lewis made Free Throw.	109.0	18.0	15.0	1.0	0.0	1.0	0.0
+110	400609058.0	Anthony Gill made Jumper.	81.0	18.0	17.0	0.0	2.0	0.0	0.0
+111	400609058.0	Junior Etou missed Jumper.	62.0	18.0	17.0	0.0	0.0	1.0	0.0
+112	400609058.0	Virginia Defensive Rebound.	62.0	18.0	17.0	0.0	0.0	0.0	0.0
+113	400609058.0	Marial Shayok missed Three Point Jumper.	32.0	18.0	17.0	0.0	0.0	0.0	0.0
+114	400609058.0	Virginia Offensive Rebound.	32.0	18.0	17.0	0.0	0.0	0.0	0.0
+115	400609058.0	Foul on Greg Lewis.	32.0	18.0	17.0	0.0	0.0	1.0	0.0
+116	400609058.0	Virginia  Timeout	32.0	18.0	17.0	0.0	0.0	0.0	0.0
+117	400609058.0	Mike Tobey missed Layup.	1.0	18.0	17.0	0.0	0.0	0.0	0.0
+118	400609058.0	Virginia Offensive Rebound.	1.0	18.0	17.0	0.0	0.0	0.0	0.0
+119	400609058.0	End of 1st half	0.0	18.0	17.0	0.0	0.0	0.0	0.0
+120	400609058.0	Jump Ball won by Rutgers	1200.0	18.0	17.0	0.0	0.0	1.0	0.0
+121	400609058.0	Kadeem Jack missed Jumper.	1186.0	18.0	17.0	0.0	0.0	1.0	0.0
+122	400609058.0	Darion Atkins Defensive Rebound.	1186.0	18.0	17.0	0.0	0.0	0.0	0.0
+123	400609058.0	Foul on Kadeem Jack.	1152.0	18.0	17.0	0.0	0.0	1.0	0.0
+124	400609058.0	Anthony Gill made Free Throw.	1152.0	18.0	18.0	0.0	1.0	0.0	0.0
+125	400609058.0	Anthony Gill made Free Throw.	1152.0	18.0	19.0	0.0	1.0	0.0	0.0
+126	400609058.0	Mike Williams made Jumper.	1126.0	20.0	19.0	2.0	0.0	1.0	0.0
+127	400609058.0	Justin Anderson missed Layup.	1110.0	20.0	19.0	0.0	0.0	0.0	0.0
+128	400609058.0	Greg Lewis Block.	1110.0	20.0	19.0	0.0	0.0	1.0	0.0
+129	400609058.0	Mike Williams Defensive Rebound.	1110.0	20.0	19.0	0.0	0.0	1.0	0.0
+130	400609058.0	Myles Mack Turnover.	1098.0	20.0	19.0	0.0	0.0	1.0	1.0
+131	400609058.0	Malcolm Brogdon Steal.	1098.0	20.0	19.0	0.0	0.0	0.0	0.0
+132	400609058.0	Justin Anderson made Three Point Jumper. Assisted by London Perrantes.	1091.0	20.0	22.0	0.0	3.0	0.0	0.0
+133	400609058.0	Kadeem Jack made Jumper.	1079.0	22.0	22.0	2.0	0.0	1.0	0.0
+134	400609058.0	Malcolm Brogdon made Jumper. Assisted by London Perrantes.	1053.0	22.0	24.0	0.0	2.0	0.0	0.0
+135	400609058.0	Myles Mack missed Layup.	1033.0	22.0	24.0	0.0	0.0	1.0	0.0
+136	400609058.0	Darion Atkins Defensive Rebound.	1033.0	22.0	24.0	0.0	0.0	0.0	0.0
+137	400609058.0	Justin Anderson missed Three Point Jumper.	1025.0	22.0	24.0	0.0	0.0	0.0	0.0
+138	400609058.0	Anthony Gill Offensive Rebound.	1025.0	22.0	24.0	0.0	0.0	0.0	0.0
+139	400609058.0	Foul on Greg Lewis.	1012.0	22.0	24.0	0.0	0.0	1.0	0.0
+140	400609058.0	Anthony Gill made Free Throw.	1012.0	22.0	25.0	0.0	1.0	0.0	0.0
+141	400609058.0	Anthony Gill made Free Throw.	1012.0	22.0	26.0	0.0	1.0	0.0	0.0
+142	400609058.0	D.J. Foreman Turnover.	989.0	22.0	26.0	0.0	0.0	1.0	1.0
+143	400609058.0	Foul on D.J. Foreman.	978.0	22.0	26.0	0.0	0.0	1.0	0.0
+144	400609058.0	Darion Atkins missed Jumper.	960.0	22.0	26.0	0.0	0.0	0.0	0.0
+145	400609058.0	Kadeem Jack Defensive Rebound.	960.0	22.0	26.0	0.0	0.0	1.0	0.0
+146	400609058.0	Junior Etou missed Three Point Jumper.	950.0	22.0	26.0	0.0	0.0	1.0	0.0
+147	400609058.0	Kadeem Jack Offensive Rebound.	950.0	22.0	26.0	0.0	0.0	1.0	0.0
+148	400609058.0	Kadeem Jack made Layup.	945.0	24.0	26.0	2.0	0.0	1.0	0.0
+149	400609058.0	Foul on Kadeem Jack.	925.0	24.0	26.0	0.0	0.0	1.0	0.0
+150	400609058.0	 Official TV Timeout	925.0	24.0	26.0	0.0	0.0	0.0	0.0
+151	400609058.0	Anthony Gill missed Free Throw.	925.0	24.0	26.0	0.0	0.0	0.0	0.0
+152	400609058.0	Virginia Deadball Team Rebound.	925.0	24.0	26.0	0.0	0.0	0.0	0.0
+153	400609058.0	Anthony Gill made Free Throw.	925.0	24.0	27.0	0.0	1.0	0.0	0.0
+154	400609058.0	Kadeem Jack missed Three Point Jumper.	913.0	24.0	27.0	0.0	0.0	1.0	0.0
+155	400609058.0	London Perrantes Defensive Rebound.	913.0	24.0	27.0	0.0	0.0	0.0	0.0
+156	400609058.0	Malcolm Brogdon made Jumper.	890.0	24.0	29.0	0.0	2.0	0.0	0.0
+157	400609058.0	Mike Williams missed Jumper.	877.0	24.0	29.0	0.0	0.0	1.0	0.0
+158	400609058.0	Anthony Gill Defensive Rebound.	877.0	24.0	29.0	0.0	0.0	0.0	0.0
+159	400609058.0	Foul on Mike Williams.	871.0	24.0	29.0	0.0	0.0	1.0	0.0
+160	400609058.0	Malcolm Brogdon missed Three Point Jumper.	867.0	24.0	29.0	0.0	0.0	0.0	0.0
+161	400609058.0	Rutgers Defensive Rebound.	867.0	24.0	29.0	0.0	0.0	1.0	0.0
+162	400609058.0	Junior Etou missed Three Point Jumper.	842.0	24.0	29.0	0.0	0.0	1.0	0.0
+163	400609058.0	London Perrantes Defensive Rebound.	842.0	24.0	29.0	0.0	0.0	0.0	0.0
+164	400609058.0	Anthony Gill made Layup. Assisted by Justin Anderson.	831.0	24.0	31.0	0.0	2.0	0.0	0.0
+165	400609058.0	Rutgers  Timeout	822.0	24.0	31.0	0.0	0.0	0.0	0.0
+166	400609058.0	Kadeem Jack Turnover.	797.0	24.0	31.0	0.0	0.0	1.0	1.0
+167	400609058.0	Mike Tobey Steal.	797.0	24.0	31.0	0.0	0.0	0.0	0.0
+168	400609058.0	Malcolm Brogdon Turnover.	775.0	24.0	31.0	0.0	0.0	0.0	1.0
+169	400609058.0	Myles Mack Steal.	775.0	24.0	31.0	0.0	0.0	1.0	0.0
+170	400609058.0	Mike Williams Turnover.	765.0	24.0	31.0	0.0	0.0	1.0	1.0
+171	400609058.0	Justin Anderson missed Jumper.	737.0	24.0	31.0	0.0	0.0	0.0	0.0
+172	400609058.0	Junior Etou Defensive Rebound.	737.0	24.0	31.0	0.0	0.0	1.0	0.0
+173	400609058.0	Myles Mack missed Three Point Jumper.	718.0	24.0	31.0	0.0	0.0	1.0	0.0
+174	400609058.0	Malcolm Brogdon Defensive Rebound.	718.0	24.0	31.0	0.0	0.0	0.0	0.0
+175	400609058.0	Foul on Malick Kone.	701.0	24.0	31.0	0.0	0.0	1.0	0.0
+176	400609058.0	 Official TV Timeout	701.0	24.0	31.0	0.0	0.0	0.0	0.0
+177	400609058.0	Marial Shayok missed Jumper.	672.0	24.0	31.0	0.0	0.0	0.0	0.0
+178	400609058.0	Junior Etou Defensive Rebound.	672.0	24.0	31.0	0.0	0.0	1.0	0.0
+179	400609058.0	Foul on Marial Shayok.	657.0	24.0	31.0	0.0	0.0	0.0	0.0
+180	400609058.0	Mike Williams missed Jumper.	638.0	24.0	31.0	0.0	0.0	1.0	0.0
+181	400609058.0	Virginia Defensive Rebound.	638.0	24.0	31.0	0.0	0.0	0.0	0.0
+182	400609058.0	Malcolm Brogdon missed Three Point Jumper.	616.0	24.0	31.0	0.0	0.0	0.0	0.0
+183	400609058.0	Virginia Offensive Rebound.	616.0	24.0	31.0	0.0	0.0	0.0	0.0
+184	400609058.0	Malcolm Brogdon missed Layup.	602.0	24.0	31.0	0.0	0.0	0.0	0.0
+185	400609058.0	Mike Tobey Offensive Rebound.	602.0	24.0	31.0	0.0	0.0	0.0	0.0
+186	400609058.0	Mike Tobey missed Layup.	594.0	24.0	31.0	0.0	0.0	0.0	0.0
+187	400609058.0	Mike Tobey Offensive Rebound.	594.0	24.0	31.0	0.0	0.0	0.0	0.0
+188	400609058.0	Mike Tobey missed Jumper.	585.0	24.0	31.0	0.0	0.0	0.0	0.0
+189	400609058.0	Malcolm Brogdon Offensive Rebound.	585.0	24.0	31.0	0.0	0.0	0.0	0.0
+190	400609058.0	Malcolm Brogdon made Layup.	579.0	24.0	33.0	0.0	2.0	0.0	0.0
+191	400609058.0	Kadeem Jack missed Jumper.	569.0	24.0	33.0	0.0	0.0	1.0	0.0
+192	400609058.0	Mike Tobey Defensive Rebound.	569.0	24.0	33.0	0.0	0.0	0.0	0.0
+193	400609058.0	Foul on Malcolm Brogdon.	559.0	24.0	33.0	0.0	0.0	0.0	0.0
+194	400609058.0	Malcolm Brogdon Turnover.	559.0	24.0	33.0	0.0	0.0	0.0	1.0
+195	400609058.0	Kadeem Jack Steal.	559.0	24.0	33.0	0.0	0.0	1.0	0.0
+196	400609058.0	Mike Williams missed Three Point Jumper.	553.0	24.0	33.0	0.0	0.0	1.0	0.0
+197	400609058.0	Marial Shayok Defensive Rebound.	553.0	24.0	33.0	0.0	0.0	0.0	0.0
+198	400609058.0	Evan Nolte missed Three Point Jumper.	533.0	24.0	33.0	0.0	0.0	0.0	0.0
+199	400609058.0	Junior Etou Defensive Rebound.	533.0	24.0	33.0	0.0	0.0	1.0	0.0
+200	400609058.0	Rutgers  Timeout	515.0	24.0	33.0	0.0	0.0	0.0	0.0
+201	400609058.0	Junior Etou missed Three Point Jumper.	492.0	24.0	33.0	0.0	0.0	1.0	0.0
+202	400609058.0	Marial Shayok Defensive Rebound.	492.0	24.0	33.0	0.0	0.0	0.0	0.0
+203	400609058.0	Mike Tobey missed Jumper.	474.0	24.0	33.0	0.0	0.0	0.0	0.0
+204	400609058.0	Rutgers Defensive Rebound.	472.0	24.0	33.0	0.0	0.0	1.0	0.0
+205	400609058.0	Foul on Darion Atkins.	472.0	24.0	33.0	0.0	0.0	0.0	0.0
+206	400609058.0	 Official TV Timeout	472.0	24.0	33.0	0.0	0.0	0.0	0.0
+207	400609058.0	Myles Mack Turnover.	456.0	24.0	33.0	0.0	0.0	1.0	1.0
+208	400609058.0	Mike Tobey Steal.	456.0	24.0	33.0	0.0	0.0	0.0	0.0
+209	400609058.0	Marial Shayok missed Jumper.	427.0	24.0	33.0	0.0	0.0	0.0	0.0
+210	400609058.0	Greg Lewis Defensive Rebound.	427.0	24.0	33.0	0.0	0.0	1.0	0.0
+211	400609058.0	Myles Mack missed Three Point Jumper.	418.0	24.0	33.0	0.0	0.0	1.0	0.0
+212	400609058.0	Darion Atkins Defensive Rebound.	418.0	24.0	33.0	0.0	0.0	0.0	0.0
+213	400609058.0	Foul on Greg Lewis.	401.0	24.0	33.0	0.0	0.0	1.0	0.0
+214	400609058.0	Darion Atkins made Free Throw.	401.0	24.0	34.0	0.0	1.0	0.0	0.0
+215	400609058.0	Darion Atkins missed Free Throw.	401.0	24.0	34.0	0.0	0.0	0.0	0.0
+216	400609058.0	Kadeem Jack Defensive Rebound.	401.0	24.0	34.0	0.0	0.0	1.0	0.0
+217	400609058.0	Mike Williams made Layup.	381.0	26.0	34.0	2.0	0.0	1.0	0.0
+218	400609058.0	Marial Shayok missed Three Point Jumper.	358.0	26.0	34.0	0.0	0.0	0.0	0.0
+219	400609058.0	Myles Mack Defensive Rebound.	358.0	26.0	34.0	0.0	0.0	1.0	0.0
+220	400609058.0	Junior Etou missed Layup.	348.0	26.0	34.0	0.0	0.0	1.0	0.0
+221	400609058.0	Mike Williams Offensive Rebound.	348.0	26.0	34.0	0.0	0.0	1.0	0.0
+222	400609058.0	Mike Williams missed Two Point Tip Shot.	348.0	26.0	34.0	0.0	0.0	1.0	0.0
+223	400609058.0	Malcolm Brogdon Defensive Rebound.	348.0	26.0	34.0	0.0	0.0	0.0	0.0
+224	400609058.0	Marial Shayok made Layup. Assisted by Anthony Gill.	331.0	26.0	36.0	0.0	2.0	0.0	0.0
+225	400609058.0	Mike Williams missed Three Point Jumper.	308.0	26.0	36.0	0.0	0.0	1.0	0.0
+226	400609058.0	Myles Mack Offensive Rebound.	308.0	26.0	36.0	0.0	0.0	1.0	0.0
+227	400609058.0	Rutgers  Timeout	300.0	26.0	36.0	0.0	0.0	0.0	0.0
+228	400609058.0	Mike Williams missed Jumper.	288.0	26.0	36.0	0.0	0.0	1.0	0.0
+229	400609058.0	Kadeem Jack Offensive Rebound.	288.0	26.0	36.0	0.0	0.0	1.0	0.0
+230	400609058.0	Kadeem Jack missed Layup.	281.0	26.0	36.0	0.0	0.0	1.0	0.0
+231	400609058.0	Rutgers Offensive Rebound.	281.0	26.0	36.0	0.0	0.0	1.0	0.0
+232	400609058.0	Foul on Darion Atkins.	272.0	26.0	36.0	0.0	0.0	0.0	0.0
+233	400609058.0	Myles Mack Turnover.	267.0	26.0	36.0	0.0	0.0	1.0	1.0
+234	400609058.0	Darion Atkins missed Jumper.	249.0	26.0	36.0	0.0	0.0	0.0	0.0
+235	400609058.0	Greg Lewis Defensive Rebound.	249.0	26.0	36.0	0.0	0.0	1.0	0.0
+236	400609058.0	Mike Williams missed Three Point Jumper.	237.0	26.0	36.0	0.0	0.0	1.0	0.0
+237	400609058.0	Anthony Gill Defensive Rebound.	237.0	26.0	36.0	0.0	0.0	0.0	0.0
+238	400609058.0	Anthony Gill made Dunk. Assisted by Malcolm Brogdon.	211.0	26.0	38.0	0.0	2.0	0.0	0.0
+239	400609058.0	Myles Mack Turnover.	199.0	26.0	38.0	0.0	0.0	1.0	1.0
+240	400609058.0	Darion Atkins Steal.	199.0	26.0	38.0	0.0	0.0	0.0	0.0
+241	400609058.0	Justin Anderson made Dunk. Assisted by Anthony Gill.	194.0	26.0	40.0	0.0	2.0	0.0	0.0
+242	400609058.0	Rutgers  Timeout	182.0	26.0	40.0	0.0	0.0	0.0	0.0
+243	400609058.0	Junior Etou missed Three Point Jumper.	171.0	26.0	40.0	0.0	0.0	1.0	0.0
+244	400609058.0	Malcolm Brogdon Defensive Rebound.	171.0	26.0	40.0	0.0	0.0	0.0	0.0
+245	400609058.0	London Perrantes missed Jumper.	152.0	26.0	40.0	0.0	0.0	0.0	0.0
+246	400609058.0	Junior Etou Defensive Rebound.	152.0	26.0	40.0	0.0	0.0	1.0	0.0
+247	400609058.0	Myles Mack missed Jumper.	128.0	26.0	40.0	0.0	0.0	1.0	0.0
+248	400609058.0	Mike Tobey Defensive Rebound.	128.0	26.0	40.0	0.0	0.0	0.0	0.0
+249	400609058.0	Anthony Gill made Dunk. Assisted by London Perrantes.	118.0	26.0	42.0	0.0	2.0	0.0	0.0
+250	400609058.0	Foul on Anthony Gill.	96.0	26.0	42.0	0.0	0.0	0.0	0.0
+251	400609058.0	 Official TV Timeout	96.0	26.0	42.0	0.0	0.0	0.0	0.0
+252	400609058.0	D.J. Foreman missed Jumper.	82.0	26.0	42.0	0.0	0.0	1.0	0.0
+253	400609058.0	London Perrantes Defensive Rebound.	82.0	26.0	42.0	0.0	0.0	0.0	0.0
+254	400609058.0	Virginia  Timeout	70.0	26.0	42.0	0.0	0.0	0.0	0.0
+255	400609058.0	Evan Nolte missed Three Point Jumper.	53.0	26.0	42.0	0.0	0.0	0.0	0.0
+256	400609058.0	Khalil Batie Defensive Rebound.	53.0	26.0	42.0	0.0	0.0	1.0	0.0
+257	400609058.0	Kerwin Okoro Turnover.	38.0	26.0	42.0	0.0	0.0	1.0	1.0
+258	400609058.0	Evan Nolte Steal.	38.0	26.0	42.0	0.0	0.0	0.0	0.0
+259	400609058.0	Devon Hall made Layup.	32.0	26.0	44.0	0.0	2.0	0.0	0.0
+260	400609058.0	Foul on Malick Kone.	32.0	26.0	44.0	0.0	0.0	1.0	0.0
+261	400609058.0	Devon Hall made Free Throw.	32.0	26.0	45.0	0.0	1.0	0.0	0.0
+262	400609058.0	Shaquille Doorson missed Jumper.	10.0	26.0	45.0	0.0	0.0	1.0	0.0
+263	400609058.0	Isaiah Wilkins Defensive Rebound.	10.0	26.0	45.0	0.0	0.0	0.0	0.0
+264	400609058.0	End of Game	0.0	26.0	45.0	0.0	0.0	0.0	0.0

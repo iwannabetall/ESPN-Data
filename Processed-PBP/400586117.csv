@@ -1,0 +1,332 @@
+	Game_id	PBP_description	sec_remaining	home_score	away_score	home_points_scored	away_points_scored	home_poss	turnover
+0	400586117.0	Jump Ball won by Duke	1200.0	0.0	0.0	0.0	0.0	1.0	0.0
+1	400586117.0	Tyus Jones Turnover.	1189.0	0.0	0.0	0.0	0.0	1.0	1.0
+2	400586117.0	Amadou Sidibe Steal.	1189.0	0.0	0.0	0.0	0.0	0.0	0.0
+3	400586117.0	Amadou Sidibe made Jumper.	1178.0	0.0	2.0	0.0	2.0	0.0	0.0
+4	400586117.0	Quinn Cook made Three Point Jumper. Assisted by Amile Jefferson.	1159.0	3.0	2.0	3.0	0.0	1.0	0.0
+5	400586117.0	Mike Kirkland Jr. missed Jumper.	1122.0	3.0	2.0	0.0	0.0	0.0	0.0
+6	400586117.0	Justise Winslow Defensive Rebound.	1122.0	3.0	2.0	0.0	0.0	1.0	0.0
+7	400586117.0	Foul on Marcus Gilbert.	1110.0	3.0	2.0	0.0	0.0	0.0	0.0
+8	400586117.0	Justise Winslow made Free Throw.	1110.0	4.0	2.0	1.0	0.0	1.0	0.0
+9	400586117.0	Justise Winslow made Free Throw.	1110.0	5.0	2.0	1.0	0.0	1.0	0.0
+10	400586117.0	Marcus Gilbert missed Jumper.	1085.0	5.0	2.0	0.0	0.0	0.0	0.0
+11	400586117.0	Justise Winslow Block.	1085.0	5.0	2.0	0.0	0.0	1.0	0.0
+12	400586117.0	Justise Winslow Defensive Rebound.	1085.0	5.0	2.0	0.0	0.0	1.0	0.0
+13	400586117.0	Tyus Jones missed Three Point Jumper.	1059.0	5.0	2.0	0.0	0.0	1.0	0.0
+14	400586117.0	Amadou Sidibe Defensive Rebound.	1059.0	5.0	2.0	0.0	0.0	0.0	0.0
+15	400586117.0	Mike Kirkland Jr. missed Three Point Jumper.	1048.0	5.0	2.0	0.0	0.0	0.0	0.0
+16	400586117.0	Tyus Jones Defensive Rebound.	1048.0	5.0	2.0	0.0	0.0	1.0	0.0
+17	400586117.0	Justise Winslow made Layup.	1034.0	7.0	2.0	2.0	0.0	1.0	0.0
+18	400586117.0	K.J. Rose missed Layup.	1003.0	7.0	2.0	0.0	0.0	0.0	0.0
+19	400586117.0	Mike Kirkland Jr. Offensive Rebound.	1003.0	7.0	2.0	0.0	0.0	0.0	0.0
+20	400586117.0	Mike Kirkland Jr. made Two Point Tip Shot.	1003.0	7.0	4.0	0.0	2.0	0.0	0.0
+21	400586117.0	Justise Winslow made Three Point Jumper. Assisted by Tyus Jones.	988.0	10.0	4.0	3.0	0.0	1.0	0.0
+22	400586117.0	Steve Johnston missed Three Point Jumper.	966.0	10.0	4.0	0.0	0.0	0.0	0.0
+23	400586117.0	Jahlil Okafor Defensive Rebound.	966.0	10.0	4.0	0.0	0.0	1.0	0.0
+24	400586117.0	Foul on Mike Kirkland Jr..	963.0	10.0	4.0	0.0	0.0	0.0	0.0
+25	400586117.0	Quinn Cook missed Three Point Jumper.	950.0	10.0	4.0	0.0	0.0	1.0	0.0
+26	400586117.0	Marcus Gilbert Defensive Rebound.	950.0	10.0	4.0	0.0	0.0	0.0	0.0
+27	400586117.0	Mike Kirkland Jr. missed Layup.	941.0	10.0	4.0	0.0	0.0	0.0	0.0
+28	400586117.0	Quinn Cook Defensive Rebound.	941.0	10.0	4.0	0.0	0.0	1.0	0.0
+29	400586117.0	Jahlil Okafor made Dunk. Assisted by Quinn Cook.	934.0	12.0	4.0	2.0	0.0	1.0	0.0
+30	400586117.0	Official TV Timeout	912.0	12.0	4.0	0.0	0.0	0.0	0.0
+31	400586117.0	Coleman Johnson made Layup. Assisted by Marcus Gilbert.	909.0	12.0	6.0	0.0	2.0	0.0	0.0
+32	400586117.0	Amile Jefferson missed Jumper.	895.0	12.0	6.0	0.0	0.0	1.0	0.0
+33	400586117.0	Malcolm Gilbert Block.	895.0	12.0	6.0	0.0	0.0	0.0	0.0
+34	400586117.0	Jahlil Okafor Offensive Rebound.	895.0	12.0	6.0	0.0	0.0	1.0	0.0
+35	400586117.0	Jahlil Okafor Turnover.	892.0	12.0	6.0	0.0	0.0	1.0	1.0
+36	400586117.0	Malcolm Gilbert missed Jumper.	871.0	12.0	6.0	0.0	0.0	0.0	0.0
+37	400586117.0	Justise Winslow Defensive Rebound.	871.0	12.0	6.0	0.0	0.0	1.0	0.0
+38	400586117.0	Jahlil Okafor Turnover.	852.0	12.0	6.0	0.0	0.0	1.0	1.0
+39	400586117.0	Coleman Johnson Turnover.	840.0	12.0	6.0	0.0	0.0	0.0	1.0
+40	400586117.0	Amile Jefferson Steal.	840.0	12.0	6.0	0.0	0.0	1.0	0.0
+41	400586117.0	Amile Jefferson made Jumper. Assisted by Quinn Cook.	827.0	14.0	6.0	2.0	0.0	1.0	0.0
+42	400586117.0	K.J. Rose Turnover.	804.0	14.0	6.0	0.0	0.0	0.0	1.0
+43	400586117.0	Amile Jefferson made Layup. Assisted by Rasheed Sulaimon.	792.0	16.0	6.0	2.0	0.0	1.0	0.0
+44	400586117.0	Jerome Segura Turnover.	781.0	16.0	6.0	0.0	0.0	0.0	1.0
+45	400586117.0	Quinn Cook Steal.	781.0	16.0	6.0	0.0	0.0	1.0	0.0
+46	400586117.0	Quinn Cook made Layup.	772.0	18.0	6.0	2.0	0.0	1.0	0.0
+47	400586117.0	Fairfield  Timeout	772.0	18.0	6.0	0.0	0.0	0.0	0.0
+48	400586117.0	Fairfield  Turnover.	772.0	18.0	6.0	0.0	0.0	0.0	1.0
+49	400586117.0	Semi Ojeleye made Three Point Jumper. Assisted by Rasheed Sulaimon.	768.0	21.0	6.0	3.0	0.0	1.0	0.0
+50	400586117.0	Foul on Grayson Allen.	740.0	21.0	6.0	0.0	0.0	1.0	0.0
+51	400586117.0	Steve Johnston made Free Throw.	740.0	21.0	7.0	0.0	1.0	0.0	0.0
+52	400586117.0	Steve Johnston made Free Throw.	740.0	21.0	8.0	0.0	1.0	0.0	0.0
+53	400586117.0	Semi Ojeleye missed Three Point Jumper.	724.0	21.0	8.0	0.0	0.0	1.0	0.0
+54	400586117.0	Fairfield Deadball Team Rebound.	724.0	21.0	8.0	0.0	0.0	0.0	0.0
+55	400586117.0	Amadou Sidibe made Jumper.	693.0	21.0	10.0	0.0	2.0	0.0	0.0
+56	400586117.0	Grayson Allen made Layup.	675.0	23.0	10.0	2.0	0.0	1.0	0.0
+57	400586117.0	Jerome Segura missed Layup.	659.0	23.0	10.0	0.0	0.0	0.0	0.0
+58	400586117.0	Marshall Plumlee Block.	659.0	23.0	10.0	0.0	0.0	1.0	0.0
+59	400586117.0	Matt Jones Defensive Rebound.	659.0	23.0	10.0	0.0	0.0	1.0	0.0
+60	400586117.0	Semi Ojeleye missed Three Point Jumper.	647.0	23.0	10.0	0.0	0.0	1.0	0.0
+61	400586117.0	Marcus Gilbert Defensive Rebound.	647.0	23.0	10.0	0.0	0.0	0.0	0.0
+62	400586117.0	Jump Ball won by Duke	621.0	23.0	10.0	0.0	0.0	1.0	0.0
+63	400586117.0	Amadou Sidibe Turnover.	621.0	23.0	10.0	0.0	0.0	0.0	1.0
+64	400586117.0	Semi Ojeleye Steal.	621.0	23.0	10.0	0.0	0.0	1.0	0.0
+65	400586117.0	Official TV Timeout	621.0	23.0	10.0	0.0	0.0	0.0	0.0
+66	400586117.0	Justise Winslow missed Jumper.	608.0	23.0	10.0	0.0	0.0	1.0	0.0
+67	400586117.0	Justise Winslow Offensive Rebound.	608.0	23.0	10.0	0.0	0.0	1.0	0.0
+68	400586117.0	Justise Winslow made Jumper.	605.0	25.0	10.0	2.0	0.0	1.0	0.0
+69	400586117.0	Jerome Segura made Layup.	577.0	25.0	12.0	0.0	2.0	0.0	0.0
+70	400586117.0	Jahlil Okafor Turnover.	555.0	25.0	12.0	0.0	0.0	1.0	1.0
+71	400586117.0	Marcus Gilbert missed Three Point Jumper.	541.0	25.0	12.0	0.0	0.0	0.0	0.0
+72	400586117.0	Amile Jefferson Defensive Rebound.	541.0	25.0	12.0	0.0	0.0	1.0	0.0
+73	400586117.0	Jahlil Okafor made Jumper. Assisted by Quinn Cook.	531.0	27.0	12.0	2.0	0.0	1.0	0.0
+74	400586117.0	Amadou Sidibe made Jumper. Assisted by Steve Johnston.	523.0	27.0	14.0	0.0	2.0	0.0	0.0
+75	400586117.0	Quinn Cook missed Jumper.	514.0	27.0	14.0	0.0	0.0	1.0	0.0
+76	400586117.0	Fairfield Defensive Rebound.	514.0	27.0	14.0	0.0	0.0	0.0	0.0
+77	400586117.0	Marcus Gilbert made Three Point Jumper. Assisted by Jerome Segura.	502.0	27.0	17.0	0.0	3.0	0.0	0.0
+78	400586117.0	Jahlil Okafor made Layup. Assisted by Tyus Jones.	492.0	29.0	17.0	2.0	0.0	1.0	0.0
+79	400586117.0	Jerome Segura missed Jumper.	476.0	29.0	17.0	0.0	0.0	0.0	0.0
+80	400586117.0	Jahlil Okafor Defensive Rebound.	476.0	29.0	17.0	0.0	0.0	1.0	0.0
+81	400586117.0	Amile Jefferson Turnover.	460.0	29.0	17.0	0.0	0.0	1.0	1.0
+82	400586117.0	Official TV Timeout	460.0	29.0	17.0	0.0	0.0	0.0	0.0
+83	400586117.0	Marcus Gilbert missed Three Point Jumper.	442.0	29.0	17.0	0.0	0.0	0.0	0.0
+84	400586117.0	Amile Jefferson Defensive Rebound.	442.0	29.0	17.0	0.0	0.0	1.0	0.0
+85	400586117.0	Foul on Malcolm Gilbert.	438.0	29.0	17.0	0.0	0.0	0.0	0.0
+86	400586117.0	Justise Winslow missed Three Point Jumper.	411.0	29.0	17.0	0.0	0.0	1.0	0.0
+87	400586117.0	Malcolm Gilbert Defensive Rebound.	411.0	29.0	17.0	0.0	0.0	0.0	0.0
+88	400586117.0	Malcolm Gilbert made Jumper. Assisted by K.J. Rose.	397.0	29.0	19.0	0.0	2.0	0.0	0.0
+89	400586117.0	Tyus Jones missed Three Point Jumper.	385.0	29.0	19.0	0.0	0.0	1.0	0.0
+90	400586117.0	Amile Jefferson Offensive Rebound.	385.0	29.0	19.0	0.0	0.0	1.0	0.0
+91	400586117.0	Amile Jefferson missed Jumper.	380.0	29.0	19.0	0.0	0.0	1.0	0.0
+92	400586117.0	Amile Jefferson Offensive Rebound.	380.0	29.0	19.0	0.0	0.0	1.0	0.0
+93	400586117.0	Quinn Cook made Jumper.	377.0	31.0	19.0	2.0	0.0	1.0	0.0
+94	400586117.0	Marcus Gilbert made Jumper.	348.0	31.0	21.0	0.0	2.0	0.0	0.0
+95	400586117.0	Jahlil Okafor missed Jumper.	336.0	31.0	21.0	0.0	0.0	1.0	0.0
+96	400586117.0	Mike Kirkland Jr. Defensive Rebound.	336.0	31.0	21.0	0.0	0.0	0.0	0.0
+97	400586117.0	K.J. Rose Turnover.	330.0	31.0	21.0	0.0	0.0	0.0	1.0
+98	400586117.0	Tyus Jones Steal.	330.0	31.0	21.0	0.0	0.0	1.0	0.0
+99	400586117.0	Tyus Jones made Layup.	322.0	33.0	21.0	2.0	0.0	1.0	0.0
+100	400586117.0	Foul on K.J. Rose.	322.0	33.0	21.0	0.0	0.0	0.0	0.0
+101	400586117.0	Tyus Jones missed Free Throw.	322.0	33.0	21.0	0.0	0.0	1.0	0.0
+102	400586117.0	Tyus Jones Offensive Rebound.	322.0	33.0	21.0	0.0	0.0	1.0	0.0
+103	400586117.0	Tyus Jones Turnover.	322.0	33.0	21.0	0.0	0.0	1.0	1.0
+104	400586117.0	Steve Johnston Steal.	322.0	33.0	21.0	0.0	0.0	0.0	0.0
+105	400586117.0	Marcus Gilbert made Jumper.	322.0	33.0	23.0	0.0	2.0	0.0	0.0
+106	400586117.0	Justise Winslow missed Jumper.	322.0	33.0	23.0	0.0	0.0	1.0	0.0
+107	400586117.0	Marcus Gilbert Defensive Rebound.	322.0	33.0	23.0	0.0	0.0	0.0	0.0
+108	400586117.0	Marcus Gilbert made Three Point Jumper.	322.0	33.0	26.0	0.0	3.0	0.0	0.0
+109	400586117.0	Jahlil Okafor made Dunk. Assisted by Justise Winslow.	266.0	35.0	26.0	2.0	0.0	1.0	0.0
+110	400586117.0	Foul on Rasheed Sulaimon.	248.0	35.0	26.0	0.0	0.0	1.0	0.0
+111	400586117.0	Coleman Johnson missed Jumper.	247.0	35.0	26.0	0.0	0.0	0.0	0.0
+112	400586117.0	Marcus Gilbert Offensive Rebound.	247.0	35.0	26.0	0.0	0.0	0.0	0.0
+113	400586117.0	Malcolm Gilbert missed Jumper.	230.0	35.0	26.0	0.0	0.0	0.0	0.0
+114	400586117.0	Duke Deadball Team Rebound.	230.0	35.0	26.0	0.0	0.0	1.0	0.0
+115	400586117.0	Foul on Matt Jones.	228.0	35.0	26.0	0.0	0.0	1.0	0.0
+116	400586117.0	Official TV Timeout	228.0	35.0	26.0	0.0	0.0	0.0	0.0
+117	400586117.0	K.J. Rose missed Jumper.	216.0	35.0	26.0	0.0	0.0	0.0	0.0
+118	400586117.0	Jahlil Okafor Defensive Rebound.	216.0	35.0	26.0	0.0	0.0	1.0	0.0
+119	400586117.0	Foul on Malcolm Gilbert.	195.0	35.0	26.0	0.0	0.0	0.0	0.0
+120	400586117.0	Jahlil Okafor made Free Throw.	195.0	36.0	26.0	1.0	0.0	1.0	0.0
+121	400586117.0	Jahlil Okafor missed Free Throw.	195.0	36.0	26.0	0.0	0.0	1.0	0.0
+122	400586117.0	Amadou Sidibe Defensive Rebound.	195.0	36.0	26.0	0.0	0.0	0.0	0.0
+123	400586117.0	Jump Ball won by Fairfield	175.0	36.0	26.0	0.0	0.0	0.0	0.0
+124	400586117.0	Fairfield  Timeout	175.0	36.0	26.0	0.0	0.0	0.0	0.0
+125	400586117.0	Coleman Johnson made Layup. Assisted by Steve Johnston.	172.0	36.0	28.0	0.0	2.0	0.0	0.0
+126	400586117.0	Amile Jefferson made Layup. Assisted by Jahlil Okafor.	151.0	38.0	28.0	2.0	0.0	1.0	0.0
+127	400586117.0	Steve Johnston Turnover.	138.0	38.0	28.0	0.0	0.0	0.0	1.0
+128	400586117.0	Jahlil Okafor made Jumper. Assisted by Rasheed Sulaimon.	128.0	40.0	28.0	2.0	0.0	1.0	0.0
+129	400586117.0	Jerome Segura Turnover.	114.0	40.0	28.0	0.0	0.0	0.0	1.0
+130	400586117.0	Jahlil Okafor Steal.	114.0	40.0	28.0	0.0	0.0	1.0	0.0
+131	400586117.0	Foul on Jahlil Okafor.	105.0	40.0	28.0	0.0	0.0	1.0	0.0
+132	400586117.0	Jahlil Okafor Turnover.	105.0	40.0	28.0	0.0	0.0	1.0	1.0
+133	400586117.0	Marcus Gilbert missed Three Point Jumper.	86.0	40.0	28.0	0.0	0.0	0.0	0.0
+134	400586117.0	Coleman Johnson Offensive Rebound.	86.0	40.0	28.0	0.0	0.0	0.0	0.0
+135	400586117.0	Coleman Johnson made Layup.	81.0	40.0	30.0	0.0	2.0	0.0	0.0
+136	400586117.0	Jahlil Okafor made Layup. Assisted by Rasheed Sulaimon.	63.0	42.0	30.0	2.0	0.0	1.0	0.0
+137	400586117.0	K.J. Rose missed Jumper.	40.0	42.0	30.0	0.0	0.0	0.0	0.0
+138	400586117.0	Matt Jones Defensive Rebound.	40.0	42.0	30.0	0.0	0.0	1.0	0.0
+139	400586117.0	Duke  Timeout	25.0	42.0	30.0	0.0	0.0	0.0	0.0
+140	400586117.0	Justise Winslow made Layup. Assisted by Quinn Cook.	2.0	44.0	30.0	2.0	0.0	1.0	0.0
+141	400586117.0	End of 1st half	0.0	44.0	30.0	0.0	0.0	0.0	0.0
+142	400586117.0	Jump Ball won by Duke	1200.0	44.0	30.0	0.0	0.0	1.0	0.0
+143	400586117.0	Tyus Jones made Jumper.	1186.0	46.0	30.0	2.0	0.0	1.0	0.0
+144	400586117.0	Amadou Sidibe made Jumper.	1161.0	46.0	32.0	0.0	2.0	0.0	0.0
+145	400586117.0	Justise Winslow made Dunk. Assisted by Jahlil Okafor.	1148.0	48.0	32.0	2.0	0.0	1.0	0.0
+146	400586117.0	Amadou Sidibe missed Jumper.	1122.0	48.0	32.0	0.0	0.0	0.0	0.0
+147	400586117.0	Quinn Cook Defensive Rebound.	1122.0	48.0	32.0	0.0	0.0	1.0	0.0
+148	400586117.0	Quinn Cook Turnover.	1115.0	48.0	32.0	0.0	0.0	1.0	1.0
+149	400586117.0	K.J. Rose missed Layup.	1105.0	48.0	32.0	0.0	0.0	0.0	0.0
+150	400586117.0	Jahlil Okafor Block.	1105.0	48.0	32.0	0.0	0.0	1.0	0.0
+151	400586117.0	Fairfield Offensive Rebound.	1105.0	48.0	32.0	0.0	0.0	0.0	0.0
+152	400586117.0	Foul on Amile Jefferson.	1096.0	48.0	32.0	0.0	0.0	1.0	0.0
+153	400586117.0	Mike Kirkland Jr. missed Three Point Jumper.	1085.0	48.0	32.0	0.0	0.0	0.0	0.0
+154	400586117.0	Amile Jefferson Defensive Rebound.	1085.0	48.0	32.0	0.0	0.0	1.0	0.0
+155	400586117.0	Jahlil Okafor missed Jumper.	1066.0	48.0	32.0	0.0	0.0	1.0	0.0
+156	400586117.0	Amile Jefferson Offensive Rebound.	1066.0	48.0	32.0	0.0	0.0	1.0	0.0
+157	400586117.0	Amile Jefferson made Layup.	1056.0	50.0	32.0	2.0	0.0	1.0	0.0
+158	400586117.0	Foul on Quinn Cook.	1049.0	50.0	32.0	0.0	0.0	1.0	0.0
+159	400586117.0	Marcus Gilbert made Jumper.	1049.0	50.0	34.0	0.0	2.0	0.0	0.0
+160	400586117.0	Justise Winslow made Layup.	1042.0	52.0	34.0	2.0	0.0	1.0	0.0
+161	400586117.0	Foul on Amadou Sidibe.	1042.0	52.0	34.0	0.0	0.0	0.0	0.0
+162	400586117.0	Justise Winslow missed Free Throw.	1042.0	52.0	34.0	0.0	0.0	1.0	0.0
+163	400586117.0	Marcus Gilbert Defensive Rebound.	1042.0	52.0	34.0	0.0	0.0	0.0	0.0
+164	400586117.0	Mike Kirkland Jr. missed Jumper.	1015.0	52.0	34.0	0.0	0.0	0.0	0.0
+165	400586117.0	Amadou Sidibe Offensive Rebound.	1015.0	52.0	34.0	0.0	0.0	0.0	0.0
+166	400586117.0	Amadou Sidibe missed Jumper.	1005.0	52.0	34.0	0.0	0.0	0.0	0.0
+167	400586117.0	Justise Winslow Defensive Rebound.	1005.0	52.0	34.0	0.0	0.0	1.0	0.0
+168	400586117.0	Justise Winslow Turnover.	998.0	52.0	34.0	0.0	0.0	1.0	1.0
+169	400586117.0	Jerome Segura Steal.	998.0	52.0	34.0	0.0	0.0	0.0	0.0
+170	400586117.0	Marcus Gilbert Turnover.	988.0	52.0	34.0	0.0	0.0	0.0	1.0
+171	400586117.0	Foul on Marcus Gilbert.	988.0	52.0	34.0	0.0	0.0	0.0	0.0
+172	400586117.0	Quinn Cook made Three Point Jumper. Assisted by Amile Jefferson.	974.0	55.0	34.0	3.0	0.0	1.0	0.0
+173	400586117.0	Foul on Jahlil Okafor.	951.0	55.0	34.0	0.0	0.0	1.0	0.0
+174	400586117.0	Official TV Timeout	951.0	55.0	34.0	0.0	0.0	0.0	0.0
+175	400586117.0	Jerome Segura made Free Throw.	951.0	55.0	35.0	0.0	1.0	0.0	0.0
+176	400586117.0	Jerome Segura made Free Throw.	951.0	55.0	36.0	0.0	1.0	0.0	0.0
+177	400586117.0	Amile Jefferson missed Jumper.	942.0	55.0	36.0	0.0	0.0	1.0	0.0
+178	400586117.0	Justise Winslow Offensive Rebound.	942.0	55.0	36.0	0.0	0.0	1.0	0.0
+179	400586117.0	Justise Winslow missed Jumper.	937.0	55.0	36.0	0.0	0.0	1.0	0.0
+180	400586117.0	Jahlil Okafor Offensive Rebound.	937.0	55.0	36.0	0.0	0.0	1.0	0.0
+181	400586117.0	Jahlil Okafor made Jumper.	937.0	57.0	36.0	2.0	0.0	1.0	0.0
+182	400586117.0	Foul on Coleman Johnson.	937.0	57.0	36.0	0.0	0.0	0.0	0.0
+183	400586117.0	Jahlil Okafor missed Free Throw.	937.0	57.0	36.0	0.0	0.0	1.0	0.0
+184	400586117.0	Coleman Johnson Defensive Rebound.	937.0	57.0	36.0	0.0	0.0	0.0	0.0
+185	400586117.0	Jerome Segura missed Jumper.	913.0	57.0	36.0	0.0	0.0	0.0	0.0
+186	400586117.0	Jahlil Okafor Block.	913.0	57.0	36.0	0.0	0.0	1.0	0.0
+187	400586117.0	Amile Jefferson Defensive Rebound.	913.0	57.0	36.0	0.0	0.0	1.0	0.0
+188	400586117.0	Quinn Cook made Three Point Jumper. Assisted by Tyus Jones.	909.0	60.0	36.0	3.0	0.0	1.0	0.0
+189	400586117.0	K.J. Rose made Layup. Assisted by Malcolm Gilbert.	900.0	60.0	38.0	0.0	2.0	0.0	0.0
+190	400586117.0	Foul on Marcus Gilbert.	885.0	60.0	38.0	0.0	0.0	0.0	0.0
+191	400586117.0	Amile Jefferson made Free Throw.	885.0	61.0	38.0	1.0	0.0	1.0	0.0
+192	400586117.0	Amile Jefferson made Free Throw.	885.0	62.0	38.0	1.0	0.0	1.0	0.0
+193	400586117.0	Coleman Johnson Turnover.	870.0	62.0	38.0	0.0	0.0	0.0	1.0
+194	400586117.0	Matt Jones Steal.	870.0	62.0	38.0	0.0	0.0	1.0	0.0
+195	400586117.0	Quinn Cook made Jumper.	851.0	64.0	38.0	2.0	0.0	1.0	0.0
+196	400586117.0	Foul on Justise Winslow.	827.0	64.0	38.0	0.0	0.0	1.0	0.0
+197	400586117.0	Marcus Gilbert Turnover.	823.0	64.0	38.0	0.0	0.0	0.0	1.0
+198	400586117.0	Rasheed Sulaimon Steal.	823.0	64.0	38.0	0.0	0.0	1.0	0.0
+199	400586117.0	Foul on Jerome Segura.	823.0	64.0	38.0	0.0	0.0	0.0	0.0
+200	400586117.0	Duke  Timeout	823.0	64.0	38.0	0.0	0.0	0.0	0.0
+201	400586117.0	Marshall Plumlee made Free Throw.	823.0	65.0	38.0	1.0	0.0	1.0	0.0
+202	400586117.0	Marshall Plumlee made Free Throw.	823.0	66.0	38.0	1.0	0.0	1.0	0.0
+203	400586117.0	Foul on Matt Jones.	804.0	66.0	38.0	0.0	0.0	1.0	0.0
+204	400586117.0	Malcolm Gilbert made Free Throw.	804.0	66.0	39.0	0.0	1.0	0.0	0.0
+205	400586117.0	Malcolm Gilbert made Free Throw.	804.0	66.0	40.0	0.0	1.0	0.0	0.0
+206	400586117.0	Matt Jones missed Three Point Jumper.	792.0	66.0	40.0	0.0	0.0	1.0	0.0
+207	400586117.0	Malcolm Gilbert Defensive Rebound.	792.0	66.0	40.0	0.0	0.0	0.0	0.0
+208	400586117.0	Malcolm Gilbert made Jumper. Assisted by Tyler Nelson.	778.0	66.0	42.0	0.0	2.0	0.0	0.0
+209	400586117.0	Foul on Malcolm Gilbert.	764.0	66.0	42.0	0.0	0.0	0.0	0.0
+210	400586117.0	Foul on K.J. Rose.	759.0	66.0	42.0	0.0	0.0	0.0	0.0
+211	400586117.0	Justise Winslow missed Free Throw.	759.0	66.0	42.0	0.0	0.0	1.0	0.0
+212	400586117.0	Duke Deadball Team Rebound.	759.0	66.0	42.0	0.0	0.0	1.0	0.0
+213	400586117.0	Justise Winslow made Free Throw.	759.0	67.0	42.0	1.0	0.0	1.0	0.0
+214	400586117.0	Tyler Nelson missed Three Point Jumper.	754.0	67.0	42.0	0.0	0.0	0.0	0.0
+215	400586117.0	Matt Jones Defensive Rebound.	754.0	67.0	42.0	0.0	0.0	1.0	0.0
+216	400586117.0	Matt Jones made Three Point Jumper. Assisted by Tyus Jones.	742.0	70.0	42.0	3.0	0.0	1.0	0.0
+217	400586117.0	Foul on K.J. Rose.	742.0	70.0	42.0	0.0	0.0	0.0	0.0
+218	400586117.0	Matt Jones made Free Throw.	742.0	71.0	42.0	1.0	0.0	1.0	0.0
+219	400586117.0	K.J. Rose Turnover.	736.0	71.0	42.0	0.0	0.0	0.0	1.0
+220	400586117.0	Matt Jones Steal.	736.0	71.0	42.0	0.0	0.0	1.0	0.0
+221	400586117.0	Grayson Allen made Three Point Jumper. Assisted by Tyus Jones.	724.0	74.0	42.0	3.0	0.0	1.0	0.0
+222	400586117.0	Kevin Degnan missed Jumper.	711.0	74.0	42.0	0.0	0.0	0.0	0.0
+223	400586117.0	Matt Jones Defensive Rebound.	711.0	74.0	42.0	0.0	0.0	1.0	0.0
+224	400586117.0	Foul on K.J. Rose.	705.0	74.0	42.0	0.0	0.0	0.0	0.0
+225	400586117.0	Official TV Timeout	705.0	74.0	42.0	0.0	0.0	0.0	0.0
+226	400586117.0	Tyus Jones made Free Throw.	705.0	75.0	42.0	1.0	0.0	1.0	0.0
+227	400586117.0	Tyus Jones made Free Throw.	705.0	76.0	42.0	1.0	0.0	1.0	0.0
+228	400586117.0	Steve Johnston Turnover.	703.0	76.0	42.0	0.0	0.0	0.0	1.0
+229	400586117.0	Tyus Jones Steal.	703.0	76.0	42.0	0.0	0.0	1.0	0.0
+230	400586117.0	Grayson Allen missed Three Point Jumper.	699.0	76.0	42.0	0.0	0.0	1.0	0.0
+231	400586117.0	Matt Jones Offensive Rebound.	699.0	76.0	42.0	0.0	0.0	1.0	0.0
+232	400586117.0	Foul on Marcus Gilbert.	699.0	76.0	42.0	0.0	0.0	0.0	0.0
+233	400586117.0	Matt Jones missed Free Throw.	699.0	76.0	42.0	0.0	0.0	1.0	0.0
+234	400586117.0	Matt Jones made Free Throw.	699.0	77.0	42.0	1.0	0.0	1.0	0.0
+235	400586117.0	Steve Johnston Turnover.	680.0	77.0	42.0	0.0	0.0	0.0	1.0
+236	400586117.0	Grayson Allen Steal.	680.0	77.0	42.0	0.0	0.0	1.0	0.0
+237	400586117.0	Marshall Plumlee made Jumper.	667.0	79.0	42.0	2.0	0.0	1.0	0.0
+238	400586117.0	Foul on Matt Jones.	648.0	79.0	42.0	0.0	0.0	1.0	0.0
+239	400586117.0	Foul on Grayson Allen.	640.0	79.0	42.0	0.0	0.0	1.0	0.0
+240	400586117.0	DeMarcus Threatt made Free Throw.	640.0	79.0	43.0	0.0	1.0	0.0	0.0
+241	400586117.0	DeMarcus Threatt made Free Throw.	640.0	79.0	44.0	0.0	1.0	0.0	0.0
+242	400586117.0	Foul on Kevin Degnan.	619.0	79.0	44.0	0.0	0.0	0.0	0.0
+243	400586117.0	Semi Ojeleye made Free Throw.	619.0	80.0	44.0	1.0	0.0	1.0	0.0
+244	400586117.0	Semi Ojeleye missed Free Throw.	619.0	80.0	44.0	0.0	0.0	1.0	0.0
+245	400586117.0	Marshall Plumlee Offensive Rebound.	619.0	80.0	44.0	0.0	0.0	1.0	0.0
+246	400586117.0	Matt Jones made Jumper.	606.0	82.0	44.0	2.0	0.0	1.0	0.0
+247	400586117.0	Kevin Degnan made Layup. Assisted by DeMarcus Threatt.	582.0	82.0	46.0	0.0	2.0	0.0	0.0
+248	400586117.0	Marshall Plumlee made Jumper.	565.0	84.0	46.0	2.0	0.0	1.0	0.0
+249	400586117.0	Foul on Grayson Allen.	549.0	84.0	46.0	0.0	0.0	1.0	0.0
+250	400586117.0	DeMarcus Threatt missed Free Throw.	549.0	84.0	46.0	0.0	0.0	0.0	0.0
+251	400586117.0	Jahlil Okafor Defensive Rebound.	549.0	84.0	46.0	0.0	0.0	1.0	0.0
+252	400586117.0	Foul on Coleman Johnson.	531.0	84.0	46.0	0.0	0.0	0.0	0.0
+253	400586117.0	Grayson Allen made Free Throw.	531.0	85.0	46.0	1.0	0.0	1.0	0.0
+254	400586117.0	Grayson Allen made Free Throw.	531.0	86.0	46.0	1.0	0.0	1.0	0.0
+255	400586117.0	Foul on Grayson Allen.	502.0	86.0	46.0	0.0	0.0	1.0	0.0
+256	400586117.0	Marcus Gilbert missed Free Throw.	502.0	86.0	46.0	0.0	0.0	0.0	0.0
+257	400586117.0	Coleman Johnson Offensive Rebound.	502.0	86.0	46.0	0.0	0.0	0.0	0.0
+258	400586117.0	Coleman Johnson made Layup.	500.0	86.0	48.0	0.0	2.0	0.0	0.0
+259	400586117.0	Foul on Jahlil Okafor.	500.0	86.0	48.0	0.0	0.0	1.0	0.0
+260	400586117.0	Coleman Johnson made Free Throw.	500.0	86.0	49.0	0.0	1.0	0.0	0.0
+261	400586117.0	Jahlil Okafor Turnover.	470.0	86.0	49.0	0.0	0.0	1.0	1.0
+262	400586117.0	Coleman Johnson Steal.	470.0	86.0	49.0	0.0	0.0	0.0	0.0
+263	400586117.0	Foul on Semi Ojeleye.	461.0	86.0	49.0	0.0	0.0	1.0	0.0
+264	400586117.0	Official TV Timeout	461.0	86.0	49.0	0.0	0.0	0.0	0.0
+265	400586117.0	Marcus Gilbert made Free Throw.	461.0	86.0	50.0	0.0	1.0	0.0	0.0
+266	400586117.0	Marcus Gilbert missed Free Throw.	461.0	86.0	50.0	0.0	0.0	0.0	0.0
+267	400586117.0	Jahlil Okafor Defensive Rebound.	461.0	86.0	50.0	0.0	0.0	1.0	0.0
+268	400586117.0	Semi Ojeleye made Three Point Jumper. Assisted by Justise Winslow.	444.0	89.0	50.0	3.0	0.0	1.0	0.0
+269	400586117.0	K.J. Rose Turnover.	423.0	89.0	50.0	0.0	0.0	0.0	1.0
+270	400586117.0	Justise Winslow Steal.	423.0	89.0	50.0	0.0	0.0	1.0	0.0
+271	400586117.0	Quinn Cook made Layup.	417.0	91.0	50.0	2.0	0.0	1.0	0.0
+272	400586117.0	Marcus Gilbert made Jumper.	401.0	91.0	52.0	0.0	2.0	0.0	0.0
+273	400586117.0	Foul on Marcus Gilbert.	382.0	91.0	52.0	0.0	0.0	0.0	0.0
+274	400586117.0	Justise Winslow made Free Throw.	382.0	92.0	52.0	1.0	0.0	1.0	0.0
+275	400586117.0	Justise Winslow made Free Throw.	382.0	93.0	52.0	1.0	0.0	1.0	0.0
+276	400586117.0	Kevin Degnan missed Three Point Jumper.	365.0	93.0	52.0	0.0	0.0	0.0	0.0
+277	400586117.0	Semi Ojeleye Defensive Rebound.	365.0	93.0	52.0	0.0	0.0	1.0	0.0
+278	400586117.0	Amile Jefferson Turnover.	354.0	93.0	52.0	0.0	0.0	1.0	1.0
+279	400586117.0	Coleman Johnson made Jumper.	335.0	93.0	54.0	0.0	2.0	0.0	0.0
+280	400586117.0	Semi Ojeleye missed Three Point Jumper.	325.0	93.0	54.0	0.0	0.0	1.0	0.0
+281	400586117.0	Coleman Johnson Defensive Rebound.	325.0	93.0	54.0	0.0	0.0	0.0	0.0
+282	400586117.0	Foul on Semi Ojeleye.	317.0	93.0	54.0	0.0	0.0	1.0	0.0
+283	400586117.0	Tyler Nelson missed Free Throw.	317.0	93.0	54.0	0.0	0.0	0.0	0.0
+284	400586117.0	Fairfield Deadball Team Rebound.	317.0	93.0	54.0	0.0	0.0	0.0	0.0
+285	400586117.0	Tyler Nelson made Free Throw.	317.0	93.0	55.0	0.0	1.0	0.0	0.0
+286	400586117.0	Tyus Jones missed Three Point Jumper.	304.0	93.0	55.0	0.0	0.0	1.0	0.0
+287	400586117.0	Jahlil Okafor Offensive Rebound.	304.0	93.0	55.0	0.0	0.0	1.0	0.0
+288	400586117.0	Jahlil Okafor made Layup.	300.0	95.0	55.0	2.0	0.0	1.0	0.0
+289	400586117.0	Jerome Segura Turnover.	278.0	95.0	55.0	0.0	0.0	0.0	1.0
+290	400586117.0	Grayson Allen Steal.	278.0	95.0	55.0	0.0	0.0	1.0	0.0
+291	400586117.0	Grayson Allen made Dunk.	273.0	97.0	55.0	2.0	0.0	1.0	0.0
+292	400586117.0	Kevin Degnan missed Three Point Jumper.	259.0	97.0	55.0	0.0	0.0	0.0	0.0
+293	400586117.0	Jahlil Okafor Defensive Rebound.	259.0	97.0	55.0	0.0	0.0	1.0	0.0
+294	400586117.0	Grayson Allen missed Three Point Jumper.	231.0	97.0	55.0	0.0	0.0	1.0	0.0
+295	400586117.0	Amile Jefferson Offensive Rebound.	231.0	97.0	55.0	0.0	0.0	1.0	0.0
+296	400586117.0	Foul on Coleman Johnson.	223.0	97.0	55.0	0.0	0.0	0.0	0.0
+297	400586117.0	Official TV Timeout	223.0	97.0	55.0	0.0	0.0	0.0	0.0
+298	400586117.0	Amile Jefferson made Free Throw.	223.0	98.0	55.0	1.0	0.0	1.0	0.0
+299	400586117.0	Amile Jefferson made Free Throw.	223.0	99.0	55.0	1.0	0.0	1.0	0.0
+300	400586117.0	Tyler Nelson made Layup. Assisted by Kevin Degnan.	216.0	99.0	57.0	0.0	2.0	0.0	0.0
+301	400586117.0	Amile Jefferson made Layup.	204.0	101.0	57.0	2.0	0.0	1.0	0.0
+302	400586117.0	Kevin Degnan missed Three Point Jumper.	193.0	101.0	57.0	0.0	0.0	0.0	0.0
+303	400586117.0	Amile Jefferson Defensive Rebound.	193.0	101.0	57.0	0.0	0.0	1.0	0.0
+304	400586117.0	Foul on Steve Smith.	191.0	101.0	57.0	0.0	0.0	0.0	0.0
+305	400586117.0	Amile Jefferson made Free Throw.	191.0	102.0	57.0	1.0	0.0	1.0	0.0
+306	400586117.0	Amile Jefferson missed Free Throw.	191.0	102.0	57.0	0.0	0.0	1.0	0.0
+307	400586117.0	Tyler Nelson Defensive Rebound.	191.0	102.0	57.0	0.0	0.0	0.0	0.0
+308	400586117.0	Tyler Nelson missed Jumper.	180.0	102.0	57.0	0.0	0.0	0.0	0.0
+309	400586117.0	Tyus Jones Defensive Rebound.	180.0	102.0	57.0	0.0	0.0	1.0	0.0
+310	400586117.0	Matt Jones made Layup. Assisted by Amile Jefferson.	167.0	104.0	57.0	2.0	0.0	1.0	0.0
+311	400586117.0	Coleman Johnson missed Jumper.	154.0	104.0	57.0	0.0	0.0	0.0	0.0
+312	400586117.0	Nick Pagliuca Defensive Rebound.	154.0	104.0	57.0	0.0	0.0	1.0	0.0
+313	400586117.0	Nick Pagliuca missed Three Point Jumper.	133.0	104.0	57.0	0.0	0.0	1.0	0.0
+314	400586117.0	Steve Smith Defensive Rebound.	133.0	104.0	57.0	0.0	0.0	0.0	0.0
+315	400586117.0	Steve Smith missed Three Point Jumper.	115.0	104.0	57.0	0.0	0.0	0.0	0.0
+316	400586117.0	Grayson Allen Defensive Rebound.	115.0	104.0	57.0	0.0	0.0	1.0	0.0
+317	400586117.0	Marshall Plumlee made Dunk. Assisted by Grayson Allen.	96.0	106.0	57.0	2.0	0.0	1.0	0.0
+318	400586117.0	Fairfield  Timeout	90.0	106.0	57.0	0.0	0.0	0.0	0.0
+319	400586117.0	Jared Harper Turnover.	69.0	106.0	57.0	0.0	0.0	0.0	1.0
+320	400586117.0	Grayson Allen Turnover.	69.0	106.0	57.0	0.0	0.0	1.0	1.0
+321	400586117.0	Foul on Grayson Allen.	69.0	106.0	57.0	0.0	0.0	1.0	0.0
+322	400586117.0	Doug Chappell made Free Throw.	69.0	106.0	58.0	0.0	1.0	0.0	0.0
+323	400586117.0	Doug Chappell made Free Throw.	69.0	106.0	59.0	0.0	1.0	0.0	0.0
+324	400586117.0	Nick Pagliuca missed Three Point Jumper.	61.0	106.0	59.0	0.0	0.0	1.0	0.0
+325	400586117.0	Fairfield Deadball Team Rebound.	61.0	106.0	59.0	0.0	0.0	0.0	0.0
+326	400586117.0	Doug Chappell missed Three Point Jumper.	55.0	106.0	59.0	0.0	0.0	0.0	0.0
+327	400586117.0	Duke Defensive Rebound.	55.0	106.0	59.0	0.0	0.0	1.0	0.0
+328	400586117.0	Nick Pagliuca made Three Point Jumper. Assisted by Sean Kelly.	41.0	109.0	59.0	3.0	0.0	1.0	0.0
+329	400586117.0	Doug Chappell Turnover.	18.0	109.0	59.0	0.0	0.0	0.0	1.0
+330	400586117.0	End of Game	0.0	109.0	59.0	0.0	0.0	0.0	0.0

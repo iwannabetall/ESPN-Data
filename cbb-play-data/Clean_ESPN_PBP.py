@@ -22,6 +22,7 @@ for date in dates:
 		home_score = np.zeros(shape = (len(df),1))
 		home_poss = np.zeros(shape = (len(df),1))
 		home_margin = np.zeros(shape = (len(df),1))
+		home_win = np.zeros(shape = (len(df),1))
 		away_points_scored = np.zeros(shape = (len(df),1))
 		home_points_scored = np.zeros(shape = (len(df),1))
 		turnover = np.zeros(shape = (len(df),1))
@@ -122,7 +123,7 @@ for date in dates:
 				
 				player[i] = first_name[i] + " " + last_name[i]
 
-			data = np.column_stack((game_id, PBP_description, sec_remaining, home_score,away_score,home_points_scored,away_points_scored,home_poss, turnover))
+			data = np.column_stack((game_id, PBP_description, sec_remaining, home_score,away_score,home_points_scored,away_points_scored,home_poss, turnover, player, steal, foul,off_reb,def_reb))
 			titles = ["Game_id", "PBP_description", "sec_remaining", "home_score","away_score","home_points_scored","away_points_scored","home_poss", "turnover"]
 
 			data = pd.DataFrame(data, columns = titles)

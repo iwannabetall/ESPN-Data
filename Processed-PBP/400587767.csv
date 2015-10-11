@@ -1,0 +1,350 @@
+	Game_id	PBP_description	sec_remaining	home_score	away_score	home_points_scored	away_points_scored	home_poss	turnover
+0	400587767.0	Devin Thomas made Layup. Assisted by Madison Jones.	1188.0	0.0	2.0	0.0	0.0	0.0	0.0
+1	400587767.0	Jonathan Stark made Jumper.	1165.0	2.0	2.0	0.0	0.0	1.0	0.0
+2	400587767.0	Madison Jones missed Layup.	1144.0	2.0	2.0	0.0	0.0	0.0	0.0
+3	400587767.0	Ryan Smith Block.	1144.0	2.0	2.0	0.0	0.0	1.0	0.0
+4	400587767.0	Tre Drye Defensive Rebound.	1142.0	2.0	2.0	0.0	0.0	1.0	0.0
+5	400587767.0	Jonathan Stark missed Jumper.	1136.0	2.0	2.0	0.0	0.0	1.0	0.0
+6	400587767.0	Devin Thomas Defensive Rebound.	1136.0	2.0	2.0	0.0	0.0	0.0	0.0
+7	400587767.0	Madison Jones Turnover.	1128.0	2.0	2.0	0.0	0.0	0.0	1.0
+8	400587767.0	Jay Hook missed Layup.	1114.0	2.0	2.0	0.0	0.0	1.0	0.0
+9	400587767.0	Dinos Mitoglou Block.	1114.0	2.0	2.0	0.0	0.0	0.0	0.0
+10	400587767.0	Devin Thomas Defensive Rebound.	1112.0	2.0	2.0	0.0	0.0	0.0	0.0
+11	400587767.0	Dinos Mitoglou missed Layup.	1107.0	2.0	2.0	0.0	0.0	0.0	0.0
+12	400587767.0	Wake Forest Offensive Rebound.	1107.0	2.0	2.0	0.0	0.0	0.0	0.0
+13	400587767.0	Codi Miller-McIntyre missed Jumper.	1104.0	2.0	2.0	0.0	0.0	0.0	0.0
+14	400587767.0	Devin Thomas Offensive Rebound.	1104.0	2.0	2.0	0.0	0.0	0.0	0.0
+15	400587767.0	Dinos Mitoglou missed Layup.	1100.0	2.0	2.0	0.0	0.0	0.0	0.0
+16	400587767.0	Codi Miller-McIntyre Offensive Rebound.	1100.0	2.0	2.0	0.0	0.0	0.0	0.0
+17	400587767.0	Codi Miller-McIntyre missed Layup.	1097.0	2.0	2.0	0.0	0.0	0.0	0.0
+18	400587767.0	Wake Forest Offensive Rebound.	1097.0	2.0	2.0	0.0	0.0	0.0	0.0
+19	400587767.0	Dinos Mitoglou missed Jumper.	1084.0	2.0	2.0	0.0	0.0	0.0	0.0
+20	400587767.0	Ryan Smith Defensive Rebound.	1084.0	2.0	2.0	0.0	0.0	1.0	0.0
+21	400587767.0	Foul on Devin Thomas.	1083.0	2.0	2.0	0.0	0.0	0.0	0.0
+22	400587767.0	Louis Dabney made Jumper. Assisted by Ryan Smith.	1063.0	4.0	2.0	2.0	0.0	1.0	0.0
+23	400587767.0	Foul on Ryan Smith.	1053.0	4.0	2.0	0.0	0.0	1.0	0.0
+24	400587767.0	Dinos Mitoglou missed Three Point Jumper.	1040.0	4.0	2.0	0.0	0.0	0.0	0.0
+25	400587767.0	Jonathan Stark Defensive Rebound.	1040.0	4.0	2.0	0.0	0.0	1.0	0.0
+26	400587767.0	Tre Drye made Layup. Assisted by Jonathan Stark.	1031.0	6.0	2.0	2.0	0.0	1.0	0.0
+27	400587767.0	Greg McClinton missed Layup.	1023.0	6.0	2.0	0.0	0.0	0.0	0.0
+28	400587767.0	Tre Drye Block.	1023.0	6.0	2.0	0.0	0.0	1.0	0.0
+29	400587767.0	Tre Drye Defensive Rebound.	1021.0	6.0	2.0	0.0	0.0	1.0	0.0
+30	400587767.0	Jay Hook missed Three Point Jumper.	1017.0	6.0	2.0	0.0	0.0	1.0	0.0
+31	400587767.0	Codi Miller-McIntyre Defensive Rebound.	1017.0	6.0	2.0	0.0	0.0	0.0	0.0
+32	400587767.0	Darius Leonard missed Three Point Jumper.	998.0	6.0	2.0	0.0	0.0	0.0	0.0
+33	400587767.0	Greg McClinton Offensive Rebound.	998.0	6.0	2.0	0.0	0.0	0.0	0.0
+34	400587767.0	Greg McClinton made Layup.	994.0	6.0	4.0	0.0	2.0	0.0	0.0
+35	400587767.0	Jonathan Stark Turnover.	977.0	6.0	4.0	0.0	0.0	1.0	1.0
+36	400587767.0	Madison Jones Steal.	975.0	6.0	4.0	0.0	0.0	0.0	0.0
+37	400587767.0	Codi Miller-McIntyre missed Jumper.	960.0	6.0	4.0	0.0	0.0	0.0	0.0
+38	400587767.0	Dinos Mitoglou Offensive Rebound.	960.0	6.0	4.0	0.0	0.0	0.0	0.0
+39	400587767.0	Dinos Mitoglou made Layup.	957.0	6.0	6.0	0.0	2.0	0.0	0.0
+40	400587767.0	Louis Dabney missed Three Point Jumper.	936.0	6.0	6.0	0.0	0.0	1.0	0.0
+41	400587767.0	Ryan Smith Offensive Rebound.	936.0	6.0	6.0	0.0	0.0	1.0	0.0
+42	400587767.0	Tre Drye Turnover.	929.0	6.0	6.0	0.0	0.0	1.0	1.0
+43	400587767.0	Official TV Timeout	929.0	6.0	6.0	0.0	0.0	0.0	0.0
+44	400587767.0	Madison Jones missed Jumper.	917.0	6.0	6.0	0.0	0.0	0.0	0.0
+45	400587767.0	Kajon Mack Defensive Rebound.	917.0	6.0	6.0	0.0	0.0	1.0	0.0
+46	400587767.0	Jonathan Stark missed Jumper.	908.0	6.0	6.0	0.0	0.0	1.0	0.0
+47	400587767.0	Madison Jones Block.	908.0	6.0	6.0	0.0	0.0	0.0	0.0
+48	400587767.0	Cornelius Hudson Defensive Rebound.	906.0	6.0	6.0	0.0	0.0	0.0	0.0
+49	400587767.0	Foul on Dylan Osetkowski.	900.0	6.0	6.0	0.0	0.0	1.0	0.0
+50	400587767.0	Mitchell Wilbekin made Three Point Jumper. Assisted by Devin Thomas.	883.0	6.0	9.0	0.0	3.0	0.0	0.0
+51	400587767.0	Payton Henson missed Three Point Jumper.	874.0	6.0	9.0	0.0	0.0	1.0	0.0
+52	400587767.0	Mitchell Wilbekin Defensive Rebound.	874.0	6.0	9.0	0.0	0.0	0.0	0.0
+53	400587767.0	Darius Leonard made Layup. Assisted by Codi Miller-McIntyre.	864.0	6.0	11.0	0.0	2.0	0.0	0.0
+54	400587767.0	Jay Hook missed Three Point Jumper.	828.0	6.0	11.0	0.0	0.0	1.0	0.0
+55	400587767.0	Devin Thomas Defensive Rebound.	828.0	6.0	11.0	0.0	0.0	0.0	0.0
+56	400587767.0	Mitchell Wilbekin missed Three Point Jumper.	818.0	6.0	11.0	0.0	0.0	0.0	0.0
+57	400587767.0	Devin Thomas Offensive Rebound.	818.0	6.0	11.0	0.0	0.0	0.0	0.0
+58	400587767.0	Devin Thomas made Layup.	815.0	6.0	13.0	0.0	2.0	0.0	0.0
+59	400587767.0	Foul on Dylan Osetkowski.	812.0	6.0	13.0	0.0	0.0	1.0	0.0
+60	400587767.0	Devin Thomas made Free Throw.	812.0	6.0	14.0	0.0	1.0	0.0	0.0
+61	400587767.0	Foul on Mitchell Wilbekin.	802.0	6.0	14.0	0.0	0.0	0.0	0.0
+62	400587767.0	Jonathan Stark Turnover.	795.0	6.0	14.0	0.0	0.0	1.0	1.0
+63	400587767.0	Mitchell Wilbekin Steal.	793.0	6.0	14.0	0.0	0.0	0.0	0.0
+64	400587767.0	Foul on Jonathan Stark.	791.0	6.0	14.0	0.0	0.0	1.0	0.0
+65	400587767.0	Cornelius Hudson missed Free Throw.	791.0	6.0	14.0	0.0	0.0	0.0	0.0
+66	400587767.0	Wake Forest Deadball Team Rebound.	791.0	6.0	14.0	0.0	0.0	0.0	0.0
+67	400587767.0	Cornelius Hudson made Free Throw.	791.0	6.0	15.0	0.0	1.0	0.0	0.0
+68	400587767.0	Cameron Reynolds missed Three Point Jumper.	776.0	6.0	15.0	0.0	0.0	1.0	0.0
+69	400587767.0	Miles Overton Defensive Rebound.	776.0	6.0	15.0	0.0	0.0	0.0	0.0
+70	400587767.0	Miles Overton made Three Point Jumper. Assisted by Aaron Rountree III.	753.0	6.0	18.0	0.0	3.0	0.0	0.0
+71	400587767.0	Tulane  Timeout	748.0	6.0	18.0	0.0	0.0	0.0	0.0
+72	400587767.0	Tre Drye missed Three Point Jumper.	718.0	6.0	18.0	0.0	0.0	1.0	0.0
+73	400587767.0	Cornelius Hudson Defensive Rebound.	718.0	6.0	18.0	0.0	0.0	0.0	0.0
+74	400587767.0	Cornelius Hudson missed Three Point Jumper.	704.0	6.0	18.0	0.0	0.0	0.0	0.0
+75	400587767.0	Tre Drye Defensive Rebound.	704.0	6.0	18.0	0.0	0.0	1.0	0.0
+76	400587767.0	Jonathan Stark missed Jumper.	694.0	6.0	18.0	0.0	0.0	1.0	0.0
+77	400587767.0	Aaron Rountree III Defensive Rebound.	694.0	6.0	18.0	0.0	0.0	0.0	0.0
+78	400587767.0	Foul on Ryan Smith.	684.0	6.0	18.0	0.0	0.0	1.0	0.0
+79	400587767.0	Official TV Timeout	684.0	6.0	18.0	0.0	0.0	0.0	0.0
+80	400587767.0	Andre Washington made Layup. Assisted by Dinos Mitoglou.	673.0	6.0	20.0	0.0	2.0	0.0	0.0
+81	400587767.0	Tre Drye Turnover.	653.0	6.0	20.0	0.0	0.0	1.0	1.0
+82	400587767.0	Madison Jones missed Layup.	640.0	6.0	20.0	0.0	0.0	0.0	0.0
+83	400587767.0	Andre Washington Offensive Rebound.	640.0	6.0	20.0	0.0	0.0	0.0	0.0
+84	400587767.0	Andre Washington missed Dunk.	635.0	6.0	20.0	0.0	0.0	0.0	0.0
+85	400587767.0	Tre Drye Defensive Rebound.	635.0	6.0	20.0	0.0	0.0	1.0	0.0
+86	400587767.0	Tre Drye Turnover.	610.0	6.0	20.0	0.0	0.0	1.0	1.0
+87	400587767.0	Foul on Aaron Liberman.	581.0	6.0	20.0	0.0	0.0	1.0	0.0
+88	400587767.0	Greg McClinton missed Jumper.	564.0	6.0	20.0	0.0	0.0	0.0	0.0
+89	400587767.0	Tre Drye Defensive Rebound.	564.0	6.0	20.0	0.0	0.0	1.0	0.0
+90	400587767.0	Cameron Reynolds missed Three Point Jumper.	546.0	6.0	20.0	0.0	0.0	1.0	0.0
+91	400587767.0	Greg McClinton Defensive Rebound.	546.0	6.0	20.0	0.0	0.0	0.0	0.0
+92	400587767.0	Devin Thomas missed Layup.	527.0	6.0	20.0	0.0	0.0	0.0	0.0
+93	400587767.0	Tre Drye Defensive Rebound.	527.0	6.0	20.0	0.0	0.0	1.0	0.0
+94	400587767.0	Jonathan Stark missed Three Point Jumper.	520.0	6.0	20.0	0.0	0.0	1.0	0.0
+95	400587767.0	Wake Forest Defensive Rebound.	520.0	6.0	20.0	0.0	0.0	0.0	0.0
+96	400587767.0	Devin Thomas made Dunk. Assisted by Codi Miller-McIntyre.	491.0	6.0	22.0	0.0	2.0	0.0	0.0
+97	400587767.0	Louis Dabney made Jumper.	473.0	8.0	22.0	2.0	0.0	1.0	0.0
+98	400587767.0	Madison Jones missed Layup.	436.0	8.0	22.0	0.0	0.0	0.0	0.0
+99	400587767.0	Dinos Mitoglou Offensive Rebound.	436.0	8.0	22.0	0.0	0.0	0.0	0.0
+100	400587767.0	Devin Thomas missed Layup.	432.0	8.0	22.0	0.0	0.0	0.0	0.0
+101	400587767.0	Dinos Mitoglou Offensive Rebound.	432.0	8.0	22.0	0.0	0.0	0.0	0.0
+102	400587767.0	Dinos Mitoglou made Layup.	429.0	8.0	24.0	0.0	2.0	0.0	0.0
+103	400587767.0	Tulane  Timeout	427.0	8.0	24.0	0.0	0.0	0.0	0.0
+104	400587767.0	Foul on Aaron Rountree III.	408.0	8.0	24.0	0.0	0.0	0.0	0.0
+105	400587767.0	Official TV Timeout	408.0	8.0	24.0	0.0	0.0	0.0	0.0
+106	400587767.0	Ryan Smith missed Free Throw.	408.0	8.0	24.0	0.0	0.0	1.0	0.0
+107	400587767.0	Tulane Deadball Team Rebound.	408.0	8.0	24.0	0.0	0.0	1.0	0.0
+108	400587767.0	Ryan Smith missed Free Throw.	408.0	8.0	24.0	0.0	0.0	1.0	0.0
+109	400587767.0	Aaron Rountree III Defensive Rebound.	408.0	8.0	24.0	0.0	0.0	0.0	0.0
+110	400587767.0	Foul on Cameron Reynolds.	404.0	8.0	24.0	0.0	0.0	1.0	0.0
+111	400587767.0	Aaron Rountree III made Free Throw.	404.0	8.0	25.0	0.0	1.0	0.0	0.0
+112	400587767.0	Aaron Rountree III made Free Throw.	404.0	8.0	26.0	0.0	1.0	0.0	0.0
+113	400587767.0	Louis Dabney missed Layup.	389.0	8.0	26.0	0.0	0.0	1.0	0.0
+114	400587767.0	Aaron Rountree III Block.	389.0	8.0	26.0	0.0	0.0	0.0	0.0
+115	400587767.0	Tulane Offensive Rebound.	388.0	8.0	26.0	0.0	0.0	1.0	0.0
+116	400587767.0	Jay Hook missed Three Point Jumper.	372.0	8.0	26.0	0.0	0.0	1.0	0.0
+117	400587767.0	Tre Drye Offensive Rebound.	372.0	8.0	26.0	0.0	0.0	1.0	0.0
+118	400587767.0	Cameron Reynolds missed Layup.	362.0	8.0	26.0	0.0	0.0	1.0	0.0
+119	400587767.0	Aaron Rountree III Defensive Rebound.	362.0	8.0	26.0	0.0	0.0	0.0	0.0
+120	400587767.0	Devin Thomas missed Layup.	347.0	8.0	26.0	0.0	0.0	0.0	0.0
+121	400587767.0	Tre Drye Defensive Rebound.	347.0	8.0	26.0	0.0	0.0	1.0	0.0
+122	400587767.0	Foul on Devin Thomas.	345.0	8.0	26.0	0.0	0.0	0.0	0.0
+123	400587767.0	Jonathan Stark missed Three Point Jumper.	315.0	8.0	26.0	0.0	0.0	1.0	0.0
+124	400587767.0	Jay Hook Offensive Rebound.	315.0	8.0	26.0	0.0	0.0	1.0	0.0
+125	400587767.0	Jay Hook Turnover.	307.0	8.0	26.0	0.0	0.0	1.0	1.0
+126	400587767.0	Darius Leonard Steal.	306.0	8.0	26.0	0.0	0.0	0.0	0.0
+127	400587767.0	Mitchell Wilbekin Turnover.	298.0	8.0	26.0	0.0	0.0	0.0	1.0
+128	400587767.0	Louis Dabney Steal.	297.0	8.0	26.0	0.0	0.0	1.0	0.0
+129	400587767.0	Louis Dabney Turnover.	295.0	8.0	26.0	0.0	0.0	1.0	1.0
+130	400587767.0	Greg McClinton Turnover.	293.0	8.0	26.0	0.0	0.0	0.0	1.0
+131	400587767.0	Cameron Reynolds Steal.	292.0	8.0	26.0	0.0	0.0	1.0	0.0
+132	400587767.0	Louis Dabney made Three Point Jumper. Assisted by Cameron Reynolds.	284.0	11.0	26.0	3.0	0.0	1.0	0.0
+133	400587767.0	Darius Leonard Turnover.	265.0	11.0	26.0	0.0	0.0	0.0	1.0
+134	400587767.0	Jonathan Stark Steal.	264.0	11.0	26.0	0.0	0.0	1.0	0.0
+135	400587767.0	Foul on Codi Miller-McIntyre.	255.0	11.0	26.0	0.0	0.0	0.0	0.0
+136	400587767.0	Louis Dabney made Free Throw.	255.0	12.0	26.0	1.0	0.0	1.0	0.0
+137	400587767.0	Louis Dabney missed Free Throw.	255.0	12.0	26.0	0.0	0.0	1.0	0.0
+138	400587767.0	Miles Overton Defensive Rebound.	255.0	12.0	26.0	0.0	0.0	0.0	0.0
+139	400587767.0	Cornelius Hudson Turnover.	241.0	12.0	26.0	0.0	0.0	0.0	1.0
+140	400587767.0	Louis Dabney Steal.	240.0	12.0	26.0	0.0	0.0	1.0	0.0
+141	400587767.0	Louis Dabney made Layup.	232.0	14.0	26.0	2.0	0.0	1.0	0.0
+142	400587767.0	Foul on Cornelius Hudson.	232.0	14.0	26.0	0.0	0.0	0.0	0.0
+143	400587767.0	Official TV Timeout	232.0	14.0	26.0	0.0	0.0	0.0	0.0
+144	400587767.0	Louis Dabney made Free Throw.	232.0	15.0	26.0	1.0	0.0	1.0	0.0
+145	400587767.0	Madison Jones Turnover.	223.0	15.0	26.0	0.0	0.0	0.0	1.0
+146	400587767.0	Payton Henson Steal.	222.0	15.0	26.0	0.0	0.0	1.0	0.0
+147	400587767.0	Louis Dabney made Layup. Assisted by Payton Henson.	220.0	17.0	26.0	2.0	0.0	1.0	0.0
+148	400587767.0	Madison Jones Turnover.	208.0	17.0	26.0	0.0	0.0	0.0	1.0
+149	400587767.0	Payton Henson made Layup. Assisted by Kajon Mack.	193.0	19.0	26.0	2.0	0.0	1.0	0.0
+150	400587767.0	Miles Overton missed Three Point Jumper.	167.0	19.0	26.0	0.0	0.0	0.0	0.0
+151	400587767.0	Jay Hook Defensive Rebound.	167.0	19.0	26.0	0.0	0.0	1.0	0.0
+152	400587767.0	Kajon Mack made Layup.	142.0	21.0	26.0	2.0	0.0	1.0	0.0
+153	400587767.0	Codi Miller-McIntyre made Layup.	131.0	21.0	28.0	0.0	2.0	0.0	0.0
+154	400587767.0	Foul on Kajon Mack.	131.0	21.0	28.0	0.0	0.0	1.0	0.0
+155	400587767.0	Codi Miller-McIntyre made Free Throw.	131.0	21.0	29.0	0.0	1.0	0.0	0.0
+156	400587767.0	Louis Dabney missed Jumper.	110.0	21.0	29.0	0.0	0.0	1.0	0.0
+157	400587767.0	Codi Miller-McIntyre Defensive Rebound.	110.0	21.0	29.0	0.0	0.0	0.0	0.0
+158	400587767.0	Mitchell Wilbekin Turnover.	101.0	21.0	29.0	0.0	0.0	0.0	1.0
+159	400587767.0	Jonathan Stark made Layup.	86.0	23.0	29.0	2.0	0.0	1.0	0.0
+160	400587767.0	Foul on Tre Drye.	72.0	23.0	29.0	0.0	0.0	1.0	0.0
+161	400587767.0	Codi Miller-McIntyre missed Free Throw.	72.0	23.0	29.0	0.0	0.0	0.0	0.0
+162	400587767.0	Kajon Mack Defensive Rebound.	72.0	23.0	29.0	0.0	0.0	1.0	0.0
+163	400587767.0	Kajon Mack made Layup.	61.0	25.0	29.0	2.0	0.0	1.0	0.0
+164	400587767.0	Codi Miller-McIntyre Turnover.	47.0	25.0	29.0	0.0	0.0	0.0	1.0
+165	400587767.0	Louis Dabney Steal.	46.0	25.0	29.0	0.0	0.0	1.0	0.0
+166	400587767.0	Jonathan Stark made Layup. Assisted by Louis Dabney.	43.0	27.0	29.0	2.0	0.0	1.0	0.0
+167	400587767.0	Wake Forest  Timeout	40.0	27.0	29.0	0.0	0.0	0.0	0.0
+168	400587767.0	Darius Leonard made Three Point Jumper. Assisted by Codi Miller-McIntyre.	19.0	27.0	32.0	0.0	3.0	0.0	0.0
+169	400587767.0	Jonathan Stark missed Three Point Jumper.	2.0	27.0	32.0	0.0	0.0	1.0	0.0
+170	400587767.0	Tre Drye Offensive Rebound.	2.0	27.0	32.0	0.0	0.0	1.0	0.0
+171	400587767.0	End of 1st half	0.0	27.0	32.0	0.0	0.0	0.0	0.0
+172	400587767.0	Foul on Madison Jones.	1188.0	27.0	32.0	0.0	0.0	0.0	0.0
+173	400587767.0	Jonathan Stark made Free Throw.	1188.0	28.0	32.0	1.0	0.0	1.0	0.0
+174	400587767.0	Jonathan Stark missed Free Throw.	1188.0	28.0	32.0	0.0	0.0	1.0	0.0
+175	400587767.0	Devin Thomas Defensive Rebound.	1188.0	28.0	32.0	0.0	0.0	0.0	0.0
+176	400587767.0	Codi Miller-McIntyre missed Three Point Jumper.	1167.0	28.0	32.0	0.0	0.0	0.0	0.0
+177	400587767.0	Tre Drye Defensive Rebound.	1166.0	28.0	32.0	0.0	0.0	1.0	0.0
+178	400587767.0	Foul on Dinos Mitoglou.	1166.0	28.0	32.0	0.0	0.0	0.0	0.0
+179	400587767.0	Ryan Smith Turnover.	1138.0	28.0	32.0	0.0	0.0	1.0	1.0
+180	400587767.0	Dinos Mitoglou Steal.	1138.0	28.0	32.0	0.0	0.0	0.0	0.0
+181	400587767.0	Devin Thomas missed Layup.	1124.0	28.0	32.0	0.0	0.0	0.0	0.0
+182	400587767.0	Ryan Smith Defensive Rebound.	1124.0	28.0	32.0	0.0	0.0	1.0	0.0
+183	400587767.0	Louis Dabney missed Three Point Jumper.	1111.0	28.0	32.0	0.0	0.0	1.0	0.0
+184	400587767.0	Wake Forest Defensive Rebound.	1111.0	28.0	32.0	0.0	0.0	0.0	0.0
+185	400587767.0	Devin Thomas missed Jumper.	1085.0	28.0	32.0	0.0	0.0	0.0	0.0
+186	400587767.0	Ryan Smith Defensive Rebound.	1085.0	28.0	32.0	0.0	0.0	1.0	0.0
+187	400587767.0	Tre Drye missed Three Point Jumper.	1069.0	28.0	32.0	0.0	0.0	1.0	0.0
+188	400587767.0	Madison Jones Defensive Rebound.	1069.0	28.0	32.0	0.0	0.0	0.0	0.0
+189	400587767.0	Codi Miller-McIntyre made Jumper.	1053.0	28.0	34.0	0.0	2.0	0.0	0.0
+190	400587767.0	Foul on Greg McClinton.	1033.0	28.0	34.0	0.0	0.0	0.0	0.0
+191	400587767.0	Louis Dabney missed Free Throw.	1033.0	28.0	34.0	0.0	0.0	1.0	0.0
+192	400587767.0	Tulane Deadball Team Rebound.	1033.0	28.0	34.0	0.0	0.0	1.0	0.0
+193	400587767.0	Louis Dabney missed Free Throw.	1033.0	28.0	34.0	0.0	0.0	1.0	0.0
+194	400587767.0	Devin Thomas Defensive Rebound.	1033.0	28.0	34.0	0.0	0.0	0.0	0.0
+195	400587767.0	Dinos Mitoglou made Three Point Jumper. Assisted by Codi Miller-McIntyre.	1015.0	28.0	37.0	0.0	3.0	0.0	0.0
+196	400587767.0	Ryan Smith missed Three Point Jumper.	996.0	28.0	37.0	0.0	0.0	1.0	0.0
+197	400587767.0	Devin Thomas Defensive Rebound.	996.0	28.0	37.0	0.0	0.0	0.0	0.0
+198	400587767.0	Devin Thomas made Jumper.	985.0	28.0	39.0	0.0	2.0	0.0	0.0
+199	400587767.0	Tulane  Timeout	978.0	28.0	39.0	0.0	0.0	0.0	0.0
+200	400587767.0	Louis Dabney missed Layup.	958.0	28.0	39.0	0.0	0.0	1.0	0.0
+201	400587767.0	Devin Thomas Defensive Rebound.	958.0	28.0	39.0	0.0	0.0	0.0	0.0
+202	400587767.0	Foul on Louis Dabney.	946.0	28.0	39.0	0.0	0.0	1.0	0.0
+203	400587767.0	Official TV Timeout	946.0	28.0	39.0	0.0	0.0	0.0	0.0
+204	400587767.0	Devin Thomas missed Free Throw.	946.0	28.0	39.0	0.0	0.0	0.0	0.0
+205	400587767.0	Wake Forest Deadball Team Rebound.	946.0	28.0	39.0	0.0	0.0	0.0	0.0
+206	400587767.0	Devin Thomas missed Free Throw.	946.0	28.0	39.0	0.0	0.0	0.0	0.0
+207	400587767.0	Greg McClinton Offensive Rebound.	946.0	28.0	39.0	0.0	0.0	0.0	0.0
+208	400587767.0	Greg McClinton made Layup.	942.0	28.0	41.0	0.0	2.0	0.0	0.0
+209	400587767.0	Foul on Greg McClinton.	911.0	28.0	41.0	0.0	0.0	0.0	0.0
+210	400587767.0	Louis Dabney made Free Throw.	911.0	29.0	41.0	1.0	0.0	1.0	0.0
+211	400587767.0	Louis Dabney made Free Throw.	911.0	30.0	41.0	1.0	0.0	1.0	0.0
+212	400587767.0	Madison Jones Turnover.	904.0	30.0	41.0	0.0	0.0	0.0	1.0
+213	400587767.0	Jonathan Stark missed Jumper.	878.0	30.0	41.0	0.0	0.0	1.0	0.0
+214	400587767.0	Cornelius Hudson Defensive Rebound.	878.0	30.0	41.0	0.0	0.0	0.0	0.0
+215	400587767.0	Codi Miller-McIntyre made Layup.	856.0	30.0	43.0	0.0	2.0	0.0	0.0
+216	400587767.0	Payton Henson missed Three Point Jumper.	834.0	30.0	43.0	0.0	0.0	1.0	0.0
+217	400587767.0	Kajon Mack Offensive Rebound.	834.0	30.0	43.0	0.0	0.0	1.0	0.0
+218	400587767.0	Payton Henson made Dunk. Assisted by Dylan Osetkowski.	819.0	32.0	43.0	2.0	0.0	1.0	0.0
+219	400587767.0	Codi Miller-McIntyre made Jumper.	801.0	32.0	45.0	0.0	2.0	0.0	0.0
+220	400587767.0	Foul on Aaron Rountree III.	781.0	32.0	45.0	0.0	0.0	0.0	0.0
+221	400587767.0	Keith Pinckney Turnover.	780.0	32.0	45.0	0.0	0.0	1.0	1.0
+222	400587767.0	Mitchell Wilbekin Steal.	780.0	32.0	45.0	0.0	0.0	0.0	0.0
+223	400587767.0	Cornelius Hudson made Dunk. Assisted by Mitchell Wilbekin.	777.0	32.0	47.0	0.0	2.0	0.0	0.0
+224	400587767.0	Foul on Cornelius Hudson.	757.0	32.0	47.0	0.0	0.0	0.0	0.0
+225	400587767.0	Kajon Mack made Free Throw.	757.0	33.0	47.0	1.0	0.0	1.0	0.0
+226	400587767.0	Kajon Mack made Free Throw.	757.0	34.0	47.0	1.0	0.0	1.0	0.0
+227	400587767.0	Darius Leonard missed Three Point Jumper.	734.0	34.0	47.0	0.0	0.0	0.0	0.0
+228	400587767.0	Cornelius Hudson Offensive Rebound.	734.0	34.0	47.0	0.0	0.0	0.0	0.0
+229	400587767.0	Cornelius Hudson made Layup.	730.0	34.0	49.0	0.0	2.0	0.0	0.0
+230	400587767.0	Official TV Timeout	712.0	34.0	49.0	0.0	0.0	0.0	0.0
+231	400587767.0	Cameron Reynolds missed Jumper.	693.0	34.0	49.0	0.0	0.0	1.0	0.0
+232	400587767.0	Dinos Mitoglou Defensive Rebound.	693.0	34.0	49.0	0.0	0.0	0.0	0.0
+233	400587767.0	Dinos Mitoglou Turnover.	677.0	34.0	49.0	0.0	0.0	0.0	1.0
+234	400587767.0	Tre Drye made Layup. Assisted by Cameron Reynolds.	645.0	36.0	49.0	2.0	0.0	1.0	0.0
+235	400587767.0	Foul on Dinos Mitoglou.	645.0	36.0	49.0	0.0	0.0	0.0	0.0
+236	400587767.0	Tre Drye made Free Throw.	645.0	37.0	49.0	1.0	0.0	1.0	0.0
+237	400587767.0	Foul on Cameron Reynolds.	635.0	37.0	49.0	0.0	0.0	1.0	0.0
+238	400587767.0	Codi Miller-McIntyre missed Jumper.	633.0	37.0	49.0	0.0	0.0	0.0	0.0
+239	400587767.0	Payton Henson Defensive Rebound.	633.0	37.0	49.0	0.0	0.0	1.0	0.0
+240	400587767.0	Foul on Dinos Mitoglou.	631.0	37.0	49.0	0.0	0.0	0.0	0.0
+241	400587767.0	Payton Henson missed Free Throw.	631.0	37.0	49.0	0.0	0.0	1.0	0.0
+242	400587767.0	Codi Miller-McIntyre Defensive Rebound.	631.0	37.0	49.0	0.0	0.0	0.0	0.0
+243	400587767.0	Miles Overton made Jumper.	615.0	37.0	51.0	0.0	2.0	0.0	0.0
+244	400587767.0	Payton Henson missed Three Point Jumper.	595.0	37.0	51.0	0.0	0.0	1.0	0.0
+245	400587767.0	Devin Thomas Defensive Rebound.	595.0	37.0	51.0	0.0	0.0	0.0	0.0
+246	400587767.0	Foul on Kajon Mack.	582.0	37.0	51.0	0.0	0.0	1.0	0.0
+247	400587767.0	Darius Leonard made Layup. Assisted by Devin Thomas.	566.0	37.0	53.0	0.0	2.0	0.0	0.0
+248	400587767.0	Tulane  Timeout	562.0	37.0	53.0	0.0	0.0	0.0	0.0
+249	400587767.0	Foul on Darius Leonard.	549.0	37.0	53.0	0.0	0.0	0.0	0.0
+250	400587767.0	Payton Henson made Free Throw.	549.0	38.0	53.0	1.0	0.0	1.0	0.0
+251	400587767.0	Payton Henson missed Free Throw.	549.0	38.0	53.0	0.0	0.0	1.0	0.0
+252	400587767.0	Kajon Mack Offensive Rebound.	549.0	38.0	53.0	0.0	0.0	1.0	0.0
+253	400587767.0	Kajon Mack Turnover.	545.0	38.0	53.0	0.0	0.0	1.0	1.0
+254	400587767.0	Madison Jones Steal.	544.0	38.0	53.0	0.0	0.0	0.0	0.0
+255	400587767.0	Madison Jones made Dunk.	543.0	38.0	55.0	0.0	2.0	0.0	0.0
+256	400587767.0	Kajon Mack missed Jumper.	524.0	38.0	55.0	0.0	0.0	1.0	0.0
+257	400587767.0	Codi Miller-McIntyre Defensive Rebound.	524.0	38.0	55.0	0.0	0.0	0.0	0.0
+258	400587767.0	Codi Miller-McIntyre made Layup.	518.0	38.0	57.0	0.0	2.0	0.0	0.0
+259	400587767.0	Kajon Mack missed Three Point Jumper.	501.0	38.0	57.0	0.0	0.0	1.0	0.0
+260	400587767.0	Darius Leonard Defensive Rebound.	501.0	38.0	57.0	0.0	0.0	0.0	0.0
+261	400587767.0	Foul on Payton Henson.	498.0	38.0	57.0	0.0	0.0	1.0	0.0
+262	400587767.0	Madison Jones Turnover.	497.0	38.0	57.0	0.0	0.0	0.0	1.0
+263	400587767.0	Tre Drye missed Layup.	475.0	38.0	57.0	0.0	0.0	1.0	0.0
+264	400587767.0	Devin Thomas Defensive Rebound.	475.0	38.0	57.0	0.0	0.0	0.0	0.0
+265	400587767.0	Codi Miller-McIntyre missed Jumper.	439.0	38.0	57.0	0.0	0.0	0.0	0.0
+266	400587767.0	Wake Forest Offensive Rebound.	439.0	38.0	57.0	0.0	0.0	0.0	0.0
+267	400587767.0	Wake Forest  Turnover.	437.0	38.0	57.0	0.0	0.0	0.0	1.0
+268	400587767.0	Official TV Timeout	437.0	38.0	57.0	0.0	0.0	0.0	0.0
+269	400587767.0	Keith Pinckney missed Jumper.	427.0	38.0	57.0	0.0	0.0	1.0	0.0
+270	400587767.0	Miles Overton Defensive Rebound.	427.0	38.0	57.0	0.0	0.0	0.0	0.0
+271	400587767.0	Miles Overton Turnover.	423.0	38.0	57.0	0.0	0.0	0.0	1.0
+272	400587767.0	Louis Dabney Steal.	423.0	38.0	57.0	0.0	0.0	1.0	0.0
+273	400587767.0	Jay Hook made Free Throw.	420.0	39.0	57.0	1.0	0.0	1.0	0.0
+274	400587767.0	Jay Hook made Free Throw.	420.0	40.0	57.0	1.0	0.0	1.0	0.0
+275	400587767.0	Miles Overton Turnover.	412.0	40.0	57.0	0.0	0.0	0.0	1.0
+276	400587767.0	Kajon Mack missed Three Point Jumper.	395.0	40.0	57.0	0.0	0.0	1.0	0.0
+277	400587767.0	Wake Forest Defensive Rebound.	395.0	40.0	57.0	0.0	0.0	0.0	0.0
+278	400587767.0	Devin Thomas missed Free Throw.	377.0	40.0	57.0	0.0	0.0	0.0	0.0
+279	400587767.0	Devin Thomas made Layup. Assisted by Greg McClinton.	377.0	40.0	59.0	0.0	2.0	0.0	0.0
+280	400587767.0	Tre Drye Defensive Rebound.	377.0	40.0	59.0	0.0	0.0	1.0	0.0
+281	400587767.0	Foul on Tre Drye.	377.0	40.0	59.0	0.0	0.0	1.0	0.0
+282	400587767.0	Devin Thomas made Free Throw.	377.0	40.0	60.0	0.0	1.0	0.0	0.0
+283	400587767.0	Foul on Darius Leonard.	376.0	40.0	60.0	0.0	0.0	0.0	0.0
+284	400587767.0	Tre Drye made Free Throw.	376.0	41.0	60.0	1.0	0.0	1.0	0.0
+285	400587767.0	Tre Drye made Free Throw.	376.0	42.0	60.0	1.0	0.0	1.0	0.0
+286	400587767.0	Foul on Darius Leonard.	370.0	42.0	60.0	0.0	0.0	0.0	0.0
+287	400587767.0	Devin Thomas missed Layup.	355.0	42.0	60.0	0.0	0.0	0.0	0.0
+288	400587767.0	Jonathan Stark Defensive Rebound.	355.0	42.0	60.0	0.0	0.0	1.0	0.0
+289	400587767.0	Payton Henson missed Three Point Jumper.	345.0	42.0	60.0	0.0	0.0	1.0	0.0
+290	400587767.0	Devin Thomas Defensive Rebound.	345.0	42.0	60.0	0.0	0.0	0.0	0.0
+291	400587767.0	Foul on Cameron Reynolds.	315.0	42.0	60.0	0.0	0.0	1.0	0.0
+292	400587767.0	Mitchell Wilbekin missed Jumper.	315.0	42.0	60.0	0.0	0.0	0.0	0.0
+293	400587767.0	Kajon Mack Defensive Rebound.	315.0	42.0	60.0	0.0	0.0	1.0	0.0
+294	400587767.0	Foul on Mitchell Wilbekin.	306.0	42.0	60.0	0.0	0.0	0.0	0.0
+295	400587767.0	Louis Dabney made Free Throw.	306.0	43.0	60.0	1.0	0.0	1.0	0.0
+296	400587767.0	Louis Dabney made Free Throw.	306.0	44.0	60.0	1.0	0.0	1.0	0.0
+297	400587767.0	Devin Thomas made Dunk. Assisted by Greg McClinton.	295.0	44.0	62.0	0.0	2.0	0.0	0.0
+298	400587767.0	Aaron Liberman missed Layup.	281.0	44.0	62.0	0.0	0.0	1.0	0.0
+299	400587767.0	Aaron Rountree III Defensive Rebound.	281.0	44.0	62.0	0.0	0.0	0.0	0.0
+300	400587767.0	Foul on Cameron Reynolds.	279.0	44.0	62.0	0.0	0.0	1.0	0.0
+301	400587767.0	Aaron Rountree III made Free Throw.	279.0	44.0	63.0	0.0	1.0	0.0	0.0
+302	400587767.0	Aaron Rountree III made Free Throw.	279.0	44.0	64.0	0.0	1.0	0.0	0.0
+303	400587767.0	Aaron Liberman Turnover.	267.0	44.0	64.0	0.0	0.0	1.0	1.0
+304	400587767.0	Foul on Jay Hook.	259.0	44.0	64.0	0.0	0.0	1.0	0.0
+305	400587767.0	Codi Miller-McIntyre missed Free Throw.	259.0	44.0	64.0	0.0	0.0	0.0	0.0
+306	400587767.0	Wake Forest Deadball Team Rebound.	259.0	44.0	64.0	0.0	0.0	0.0	0.0
+307	400587767.0	Codi Miller-McIntyre made Free Throw.	259.0	44.0	65.0	0.0	1.0	0.0	0.0
+308	400587767.0	Louis Dabney Turnover.	241.0	44.0	65.0	0.0	0.0	1.0	1.0
+309	400587767.0	Mitchell Wilbekin Steal.	241.0	44.0	65.0	0.0	0.0	0.0	0.0
+310	400587767.0	Aaron Rountree III made Jumper. Assisted by Mitchell Wilbekin.	241.0	44.0	67.0	0.0	2.0	0.0	0.0
+311	400587767.0	Keith Pinckney Turnover.	198.0	44.0	67.0	0.0	0.0	1.0	1.0
+312	400587767.0	Official TV Timeout	198.0	44.0	67.0	0.0	0.0	0.0	0.0
+313	400587767.0	Devin Thomas Turnover.	188.0	44.0	67.0	0.0	0.0	0.0	1.0
+314	400587767.0	Josh Hearilhy missed Layup.	180.0	44.0	67.0	0.0	0.0	1.0	0.0
+315	400587767.0	Devin Thomas Block.	180.0	44.0	67.0	0.0	0.0	0.0	0.0
+316	400587767.0	Josh Hearilhy Offensive Rebound.	180.0	44.0	67.0	0.0	0.0	1.0	0.0
+317	400587767.0	Josh Hearilhy missed Jumper.	150.0	44.0	67.0	0.0	0.0	1.0	0.0
+318	400587767.0	Mitchell Wilbekin Defensive Rebound.	150.0	44.0	67.0	0.0	0.0	0.0	0.0
+319	400587767.0	Mitchell Wilbekin missed Three Point Jumper.	135.0	44.0	67.0	0.0	0.0	0.0	0.0
+320	400587767.0	Louis Dabney Defensive Rebound.	135.0	44.0	67.0	0.0	0.0	1.0	0.0
+321	400587767.0	Dylan Osetkowski made Jumper.	131.0	46.0	67.0	2.0	0.0	1.0	0.0
+322	400587767.0	Codi Miller-McIntyre missed Layup.	123.0	46.0	67.0	0.0	0.0	0.0	0.0
+323	400587767.0	Keith Pinckney Defensive Rebound.	123.0	46.0	67.0	0.0	0.0	1.0	0.0
+324	400587767.0	Foul on Mitchell Wilbekin.	117.0	46.0	67.0	0.0	0.0	0.0	0.0
+325	400587767.0	Kajon Mack made Free Throw.	117.0	47.0	67.0	1.0	0.0	1.0	0.0
+326	400587767.0	Kajon Mack made Free Throw.	117.0	48.0	67.0	1.0	0.0	1.0	0.0
+327	400587767.0	Wake Forest  Timeout	117.0	48.0	67.0	0.0	0.0	0.0	0.0
+328	400587767.0	Madison Jones Turnover.	109.0	48.0	67.0	0.0	0.0	0.0	1.0
+329	400587767.0	Keith Pinckney Steal.	109.0	48.0	67.0	0.0	0.0	1.0	0.0
+330	400587767.0	Foul on Mitchell Wilbekin.	106.0	48.0	67.0	0.0	0.0	0.0	0.0
+331	400587767.0	Keith Pinckney missed Free Throw.	106.0	48.0	67.0	0.0	0.0	1.0	0.0
+332	400587767.0	Tulane Deadball Team Rebound.	106.0	48.0	67.0	0.0	0.0	1.0	0.0
+333	400587767.0	Kajon Mack Turnover.	106.0	48.0	67.0	0.0	0.0	1.0	1.0
+334	400587767.0	Madison Jones missed Layup.	101.0	48.0	67.0	0.0	0.0	0.0	0.0
+335	400587767.0	Darius Leonard Offensive Rebound.	101.0	48.0	67.0	0.0	0.0	0.0	0.0
+336	400587767.0	Darius Leonard made Dunk.	101.0	48.0	69.0	0.0	2.0	0.0	0.0
+337	400587767.0	Josh Hearilhy Turnover.	80.0	48.0	69.0	0.0	0.0	1.0	1.0
+338	400587767.0	Darius Leonard Steal.	80.0	48.0	69.0	0.0	0.0	0.0	0.0
+339	400587767.0	Devin Thomas Turnover.	57.0	48.0	69.0	0.0	0.0	0.0	1.0
+340	400587767.0	Keith Pinckney Steal.	57.0	48.0	69.0	0.0	0.0	1.0	0.0
+341	400587767.0	Keith Pinckney Turnover.	51.0	48.0	69.0	0.0	0.0	1.0	1.0
+342	400587767.0	Mitchell Wilbekin Steal.	51.0	48.0	69.0	0.0	0.0	0.0	0.0
+343	400587767.0	Wake Forest  Timeout	40.0	48.0	69.0	0.0	0.0	0.0	0.0
+344	400587767.0	Mitchell Wilbekin made Three Point Jumper. Assisted by Rondale Watson.	40.0	48.0	72.0	0.0	3.0	0.0	0.0
+345	400587767.0	Foul on Andre Washington.	21.0	48.0	72.0	0.0	0.0	0.0	0.0
+346	400587767.0	Dylan Osetkowski missed Free Throw.	21.0	48.0	72.0	0.0	0.0	1.0	0.0
+347	400587767.0	Tulane Deadball Team Rebound.	21.0	48.0	72.0	0.0	0.0	1.0	0.0
+348	400587767.0	Dylan Osetkowski made Free Throw.	21.0	49.0	72.0	1.0	0.0	1.0	0.0

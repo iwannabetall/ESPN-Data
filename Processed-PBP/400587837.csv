@@ -1,0 +1,312 @@
+	Game_id	PBP_description	sec_remaining	home_score	away_score	home_points_scored	away_points_scored	home_poss	turnover
+0	400587837.0	Garet Beal missed Jumper.	1176.0	0.0	0.0	0.0	0.0	0.0	0.0
+1	400587837.0	Patrick Heckmann Defensive Rebound.	1176.0	0.0	0.0	0.0	0.0	1.0	0.0
+2	400587837.0	Foul on Zarko Valjarevic.	1154.0	0.0	0.0	0.0	0.0	0.0	0.0
+3	400587837.0	Patrick Heckmann made Free Throw.	1154.0	1.0	0.0	1.0	0.0	1.0	0.0
+4	400587837.0	Patrick Heckmann made Free Throw.	1154.0	2.0	0.0	1.0	0.0	1.0	0.0
+5	400587837.0	Till Gloger Turnover.	1134.0	2.0	0.0	0.0	0.0	0.0	1.0
+6	400587837.0	Dennis Clifford made Layup. Assisted by Dimitri Batten.	1119.0	4.0	0.0	2.0	0.0	1.0	0.0
+7	400587837.0	Shaun Lawton Turnover.	1094.0	4.0	0.0	0.0	0.0	0.0	1.0
+8	400587837.0	Patrick Heckmann Steal.	1094.0	4.0	0.0	0.0	0.0	1.0	0.0
+9	400587837.0	Aaron Brown missed Jumper.	1085.0	4.0	0.0	0.0	0.0	1.0	0.0
+10	400587837.0	Dennis Clifford Offensive Rebound.	1085.0	4.0	0.0	0.0	0.0	1.0	0.0
+11	400587837.0	Dennis Clifford made Layup.	1079.0	6.0	0.0	2.0	0.0	1.0	0.0
+12	400587837.0	Till Gloger missed Jumper.	1060.0	6.0	0.0	0.0	0.0	0.0	0.0
+13	400587837.0	Garet Beal Offensive Rebound.	1060.0	6.0	0.0	0.0	0.0	0.0	0.0
+14	400587837.0	Zarko Valjarevic made Three Point Jumper. Assisted by Garet Beal.	1057.0	6.0	3.0	0.0	3.0	0.0	0.0
+15	400587837.0	Aaron Brown made Three Point Jumper. Assisted by Olivier Hanlan.	1037.0	9.0	3.0	3.0	0.0	1.0	0.0
+16	400587837.0	Till Gloger missed Jumper.	1009.0	9.0	3.0	0.0	0.0	0.0	0.0
+17	400587837.0	Patrick Heckmann Defensive Rebound.	1009.0	9.0	3.0	0.0	0.0	1.0	0.0
+18	400587837.0	Aaron Brown missed Layup.	1003.0	9.0	3.0	0.0	0.0	1.0	0.0
+19	400587837.0	Garet Beal Block.	1003.0	9.0	3.0	0.0	0.0	0.0	0.0
+20	400587837.0	Shaun Lawton Defensive Rebound.	1001.0	9.0	3.0	0.0	0.0	0.0	0.0
+21	400587837.0	Aaron Calixte made Three Point Jumper. Assisted by Garet Beal.	994.0	9.0	6.0	0.0	3.0	0.0	0.0
+22	400587837.0	Patrick Heckmann missed Layup.	973.0	9.0	6.0	0.0	0.0	1.0	0.0
+23	400587837.0	Garet Beal Defensive Rebound.	973.0	9.0	6.0	0.0	0.0	0.0	0.0
+24	400587837.0	Till Gloger made Layup. Assisted by Aaron Calixte.	963.0	9.0	8.0	0.0	2.0	0.0	0.0
+25	400587837.0	Olivier Hanlan made Layup.	932.0	11.0	8.0	2.0	0.0	1.0	0.0
+26	400587837.0	Zarko Valjarevic missed Three Point Jumper.	911.0	11.0	8.0	0.0	0.0	0.0	0.0
+27	400587837.0	Dennis Clifford Defensive Rebound.	911.0	11.0	8.0	0.0	0.0	1.0	0.0
+28	400587837.0	Aaron Brown made Three Point Jumper. Assisted by Patrick Heckmann.	892.0	14.0	8.0	3.0	0.0	1.0	0.0
+29	400587837.0	Shaun Lawton missed Layup.	871.0	14.0	8.0	0.0	0.0	0.0	0.0
+30	400587837.0	Olivier Hanlan Defensive Rebound.	871.0	14.0	8.0	0.0	0.0	1.0	0.0
+31	400587837.0	Olivier Hanlan made Layup.	865.0	16.0	8.0	2.0	0.0	1.0	0.0
+32	400587837.0	Foul on Aaron Calixte.	865.0	16.0	8.0	0.0	0.0	0.0	0.0
+33	400587837.0	 Official TV Timeout	865.0	16.0	8.0	0.0	0.0	0.0	0.0
+34	400587837.0	Olivier Hanlan made Free Throw.	865.0	17.0	8.0	1.0	0.0	1.0	0.0
+35	400587837.0	Troy Reid-Knight Turnover.	854.0	17.0	8.0	0.0	0.0	0.0	1.0
+36	400587837.0	John Cain Carney Steal.	853.0	17.0	8.0	0.0	0.0	1.0	0.0
+37	400587837.0	Garland Owens Turnover.	849.0	17.0	8.0	0.0	0.0	1.0	1.0
+38	400587837.0	Zarko Valjarevic Steal.	847.0	17.0	8.0	0.0	0.0	0.0	0.0
+39	400587837.0	Zarko Valjarevic made Three Point Jumper.	842.0	17.0	11.0	0.0	3.0	0.0	0.0
+40	400587837.0	Aaron Brown missed Jumper.	822.0	17.0	11.0	0.0	0.0	1.0	0.0
+41	400587837.0	Garland Owens Offensive Rebound.	822.0	17.0	11.0	0.0	0.0	1.0	0.0
+42	400587837.0	Will Magarity made Jumper. Assisted by Aaron Brown.	806.0	19.0	11.0	2.0	0.0	1.0	0.0
+43	400587837.0	Till Gloger made Jumper.	776.0	19.0	13.0	0.0	2.0	0.0	0.0
+44	400587837.0	Foul on Christian Ejiga.	747.0	19.0	13.0	0.0	0.0	0.0	0.0
+45	400587837.0	Will Magarity missed Free Throw.	747.0	19.0	13.0	0.0	0.0	1.0	0.0
+46	400587837.0	Boston College Deadball Team Rebound.	747.0	19.0	13.0	0.0	0.0	1.0	0.0
+47	400587837.0	Will Magarity made Free Throw.	747.0	20.0	13.0	1.0	0.0	1.0	0.0
+48	400587837.0	Zarko Valjarevic missed Three Point Jumper.	729.0	20.0	13.0	0.0	0.0	0.0	0.0
+49	400587837.0	Boston College Defensive Rebound.	729.0	20.0	13.0	0.0	0.0	1.0	0.0
+50	400587837.0	Will Magarity Turnover.	710.0	20.0	13.0	0.0	0.0	1.0	1.0
+51	400587837.0	 Official TV Timeout	710.0	20.0	13.0	0.0	0.0	0.0	0.0
+52	400587837.0	Christian Ejiga missed Jumper.	687.0	20.0	13.0	0.0	0.0	0.0	0.0
+53	400587837.0	Will Magarity Defensive Rebound.	687.0	20.0	13.0	0.0	0.0	1.0	0.0
+54	400587837.0	Olivier Hanlan missed Three Point Jumper.	674.0	20.0	13.0	0.0	0.0	1.0	0.0
+55	400587837.0	Shaun Lawton Defensive Rebound.	674.0	20.0	13.0	0.0	0.0	0.0	0.0
+56	400587837.0	Zarko Valjarevic missed Three Point Jumper.	668.0	20.0	13.0	0.0	0.0	0.0	0.0
+57	400587837.0	Dimitri Batten Defensive Rebound.	668.0	20.0	13.0	0.0	0.0	1.0	0.0
+58	400587837.0	Foul on Zarko Valjarevic.	664.0	20.0	13.0	0.0	0.0	0.0	0.0
+59	400587837.0	Olivier Hanlan missed Layup.	648.0	20.0	13.0	0.0	0.0	1.0	0.0
+60	400587837.0	Shaun Lawton Defensive Rebound.	648.0	20.0	13.0	0.0	0.0	0.0	0.0
+61	400587837.0	Foul on Will Magarity.	641.0	20.0	13.0	0.0	0.0	1.0	0.0
+62	400587837.0	Aaron Calixte Turnover.	640.0	20.0	13.0	0.0	0.0	0.0	1.0
+63	400587837.0	Patrick Heckmann Steal.	639.0	20.0	13.0	0.0	0.0	1.0	0.0
+64	400587837.0	Olivier Hanlan made Layup. Assisted by Patrick Heckmann.	637.0	22.0	13.0	2.0	0.0	1.0	0.0
+65	400587837.0	Ethan Mackey made Layup. Assisted by Aaron Calixte.	629.0	22.0	15.0	0.0	2.0	0.0	0.0
+66	400587837.0	Patrick Heckmann missed Jumper.	612.0	22.0	15.0	0.0	0.0	1.0	0.0
+67	400587837.0	Ethan Mackey Defensive Rebound.	612.0	22.0	15.0	0.0	0.0	0.0	0.0
+68	400587837.0	Zarko Valjarevic missed Jumper.	601.0	22.0	15.0	0.0	0.0	0.0	0.0
+69	400587837.0	Christian Ejiga Offensive Rebound.	601.0	22.0	15.0	0.0	0.0	0.0	0.0
+70	400587837.0	Christian Ejiga missed Layup.	595.0	22.0	15.0	0.0	0.0	0.0	0.0
+71	400587837.0	Dennis Clifford Defensive Rebound.	595.0	22.0	15.0	0.0	0.0	1.0	0.0
+72	400587837.0	Foul on Christian Ejiga.	587.0	22.0	15.0	0.0	0.0	0.0	0.0
+73	400587837.0	Foul on Ethan Mackey.	577.0	22.0	15.0	0.0	0.0	0.0	0.0
+74	400587837.0	Dennis Clifford missed Free Throw.	577.0	22.0	15.0	0.0	0.0	1.0	0.0
+75	400587837.0	Boston College Deadball Team Rebound.	577.0	22.0	15.0	0.0	0.0	1.0	0.0
+76	400587837.0	Dennis Clifford made Free Throw.	577.0	23.0	15.0	1.0	0.0	1.0	0.0
+77	400587837.0	Troy Reid-Knight made Jumper.	564.0	23.0	17.0	0.0	2.0	0.0	0.0
+78	400587837.0	Foul on Garland Owens.	541.0	23.0	17.0	0.0	0.0	1.0	0.0
+79	400587837.0	Garland Owens Turnover.	541.0	23.0	17.0	0.0	0.0	1.0	1.0
+80	400587837.0	Shaun Lawton Turnover.	526.0	23.0	17.0	0.0	0.0	0.0	1.0
+81	400587837.0	Olivier Hanlan Steal.	525.0	23.0	17.0	0.0	0.0	1.0	0.0
+82	400587837.0	Foul on Troy Reid-Knight.	522.0	23.0	17.0	0.0	0.0	0.0	0.0
+83	400587837.0	Dimitri Batten made Free Throw.	522.0	24.0	17.0	1.0	0.0	1.0	0.0
+84	400587837.0	Dimitri Batten made Free Throw.	522.0	25.0	17.0	1.0	0.0	1.0	0.0
+85	400587837.0	Troy Reid-Knight made Jumper.	503.0	25.0	19.0	0.0	2.0	0.0	0.0
+86	400587837.0	Dimitri Batten made Three Point Jumper. Assisted by Patrick Heckmann.	478.0	28.0	19.0	3.0	0.0	1.0	0.0
+87	400587837.0	Foul on Patrick Heckmann.	456.0	28.0	19.0	0.0	0.0	1.0	0.0
+88	400587837.0	 Official TV Timeout	456.0	28.0	19.0	0.0	0.0	0.0	0.0
+89	400587837.0	Shaun Lawton Turnover.	449.0	28.0	19.0	0.0	0.0	0.0	1.0
+90	400587837.0	Patrick Heckmann Steal.	448.0	28.0	19.0	0.0	0.0	1.0	0.0
+91	400587837.0	Aaron Brown made Three Point Jumper. Assisted by Olivier Hanlan.	445.0	31.0	19.0	3.0	0.0	1.0	0.0
+92	400587837.0	Erik Nissen missed Layup.	425.0	31.0	19.0	0.0	0.0	0.0	0.0
+93	400587837.0	Dennis Clifford Block.	425.0	31.0	19.0	0.0	0.0	1.0	0.0
+94	400587837.0	Erik Nissen Offensive Rebound.	422.0	31.0	19.0	0.0	0.0	0.0	0.0
+95	400587837.0	Erik Nissen made Layup.	417.0	31.0	21.0	0.0	2.0	0.0	0.0
+96	400587837.0	Dennis Clifford made Dunk. Assisted by John Cain Carney.	406.0	33.0	21.0	2.0	0.0	1.0	0.0
+97	400587837.0	Erik Nissen Turnover.	390.0	33.0	21.0	0.0	0.0	0.0	1.0
+98	400587837.0	Olivier Hanlan missed Three Point Jumper.	359.0	33.0	21.0	0.0	0.0	1.0	0.0
+99	400587837.0	Aaron Calixte Defensive Rebound.	359.0	33.0	21.0	0.0	0.0	0.0	0.0
+100	400587837.0	Till Gloger missed Jumper.	335.0	33.0	21.0	0.0	0.0	0.0	0.0
+101	400587837.0	John Cain Carney Defensive Rebound.	335.0	33.0	21.0	0.0	0.0	1.0	0.0
+102	400587837.0	Olivier Hanlan missed Three Point Jumper.	319.0	33.0	21.0	0.0	0.0	1.0	0.0
+103	400587837.0	Aaron Calixte Defensive Rebound.	319.0	33.0	21.0	0.0	0.0	0.0	0.0
+104	400587837.0	Shaun Lawton made Layup. Assisted by Aaron Calixte.	312.0	33.0	23.0	0.0	2.0	0.0	0.0
+105	400587837.0	Maine  Timeout	310.0	33.0	23.0	0.0	0.0	0.0	0.0
+106	400587837.0	Will Magarity made Three Point Jumper. Assisted by Dimitri Batten.	276.0	36.0	23.0	3.0	0.0	1.0	0.0
+107	400587837.0	Christian Ejiga missed Three Point Jumper.	241.0	36.0	23.0	0.0	0.0	0.0	0.0
+108	400587837.0	Boston College Defensive Rebound.	241.0	36.0	23.0	0.0	0.0	1.0	0.0
+109	400587837.0	Olivier Hanlan made Layup.	222.0	38.0	23.0	2.0	0.0	1.0	0.0
+110	400587837.0	Zarko Valjarevic made Jumper.	203.0	38.0	25.0	0.0	2.0	0.0	0.0
+111	400587837.0	Foul on Aaron Brown.	203.0	38.0	25.0	0.0	0.0	1.0	0.0
+112	400587837.0	 Official TV Timeout	203.0	38.0	25.0	0.0	0.0	0.0	0.0
+113	400587837.0	Zarko Valjarevic made Free Throw.	203.0	38.0	26.0	0.0	1.0	0.0	0.0
+114	400587837.0	Dimitri Batten Turnover.	196.0	38.0	26.0	0.0	0.0	1.0	1.0
+115	400587837.0	Troy Reid-Knight Steal.	195.0	38.0	26.0	0.0	0.0	0.0	0.0
+116	400587837.0	Troy Reid-Knight Turnover.	194.0	38.0	26.0	0.0	0.0	0.0	1.0
+117	400587837.0	John Cain Carney Steal.	193.0	38.0	26.0	0.0	0.0	1.0	0.0
+118	400587837.0	Aaron Brown missed Three Point Jumper.	168.0	38.0	26.0	0.0	0.0	1.0	0.0
+119	400587837.0	Till Gloger Defensive Rebound.	168.0	38.0	26.0	0.0	0.0	0.0	0.0
+120	400587837.0	Shaun Lawton made Three Point Jumper. Assisted by Troy Reid-Knight.	158.0	38.0	29.0	0.0	3.0	0.0	0.0
+121	400587837.0	Foul on Aaron Brown.	158.0	38.0	29.0	0.0	0.0	1.0	0.0
+122	400587837.0	Shaun Lawton missed Free Throw.	158.0	38.0	29.0	0.0	0.0	0.0	0.0
+123	400587837.0	Will Magarity Defensive Rebound.	158.0	38.0	29.0	0.0	0.0	1.0	0.0
+124	400587837.0	Patrick Heckmann made Layup.	149.0	40.0	29.0	2.0	0.0	1.0	0.0
+125	400587837.0	Foul on Zarko Valjarevic.	149.0	40.0	29.0	0.0	0.0	0.0	0.0
+126	400587837.0	Patrick Heckmann missed Free Throw.	149.0	40.0	29.0	0.0	0.0	1.0	0.0
+127	400587837.0	Till Gloger Defensive Rebound.	149.0	40.0	29.0	0.0	0.0	0.0	0.0
+128	400587837.0	Troy Reid-Knight missed Three Point Jumper.	133.0	40.0	29.0	0.0	0.0	0.0	0.0
+129	400587837.0	Dimitri Batten Defensive Rebound.	133.0	40.0	29.0	0.0	0.0	1.0	0.0
+130	400587837.0	Foul on Will Magarity.	123.0	40.0	29.0	0.0	0.0	1.0	0.0
+131	400587837.0	Will Magarity Turnover.	123.0	40.0	29.0	0.0	0.0	1.0	1.0
+132	400587837.0	Till Gloger made Free Throw.	107.0	40.0	30.0	0.0	1.0	0.0	0.0
+133	400587837.0	Foul on Will Magarity.	107.0	40.0	30.0	0.0	0.0	1.0	0.0
+134	400587837.0	Till Gloger made Layup.	105.0	40.0	32.0	0.0	2.0	0.0	0.0
+135	400587837.0	Dimitri Batten made Jumper.	91.0	42.0	32.0	2.0	0.0	1.0	0.0
+136	400587837.0	Ethan Mackey made Layup. Assisted by Aaron Calixte.	74.0	42.0	34.0	0.0	2.0	0.0	0.0
+137	400587837.0	Boston College  Timeout	74.0	42.0	34.0	0.0	0.0	0.0	0.0
+138	400587837.0	Foul on Troy Reid-Knight.	51.0	42.0	34.0	0.0	0.0	0.0	0.0
+139	400587837.0	Olivier Hanlan missed Free Throw.	51.0	42.0	34.0	0.0	0.0	1.0	0.0
+140	400587837.0	Aaron Calixte Defensive Rebound.	51.0	42.0	34.0	0.0	0.0	0.0	0.0
+141	400587837.0	Shaun Lawton missed Three Point Jumper.	34.0	42.0	34.0	0.0	0.0	0.0	0.0
+142	400587837.0	Till Gloger Offensive Rebound.	34.0	42.0	34.0	0.0	0.0	0.0	0.0
+143	400587837.0	Aaron Calixte missed Layup.	6.0	42.0	34.0	0.0	0.0	0.0	0.0
+144	400587837.0	Dennis Clifford Block.	6.0	42.0	34.0	0.0	0.0	1.0	0.0
+145	400587837.0	Maine Offensive Rebound.	4.0	42.0	34.0	0.0	0.0	0.0	0.0
+146	400587837.0	End of 1st half	0.0	42.0	34.0	0.0	0.0	0.0	0.0
+147	400587837.0	Ethan Mackey missed Layup.	1185.0	42.0	34.0	0.0	0.0	0.0	0.0
+148	400587837.0	Dennis Clifford Block.	1185.0	42.0	34.0	0.0	0.0	1.0	0.0
+149	400587837.0	Ethan Mackey Offensive Rebound.	1184.0	42.0	34.0	0.0	0.0	0.0	0.0
+150	400587837.0	Shaun Lawton Turnover.	1171.0	42.0	34.0	0.0	0.0	0.0	1.0
+151	400587837.0	Dennis Clifford Steal.	1170.0	42.0	34.0	0.0	0.0	1.0	0.0
+152	400587837.0	Foul on Aaron Calixte.	1147.0	42.0	34.0	0.0	0.0	0.0	0.0
+153	400587837.0	Aaron Brown missed Free Throw.	1147.0	42.0	34.0	0.0	0.0	1.0	0.0
+154	400587837.0	Boston College Deadball Team Rebound.	1147.0	42.0	34.0	0.0	0.0	1.0	0.0
+155	400587837.0	Aaron Brown missed Free Throw.	1147.0	42.0	34.0	0.0	0.0	1.0	0.0
+156	400587837.0	Troy Reid-Knight Defensive Rebound.	1147.0	42.0	34.0	0.0	0.0	0.0	0.0
+157	400587837.0	Troy Reid-Knight Turnover.	1124.0	42.0	34.0	0.0	0.0	0.0	1.0
+158	400587837.0	Aaron Brown Steal.	1123.0	42.0	34.0	0.0	0.0	1.0	0.0
+159	400587837.0	Aaron Brown missed Layup.	1120.0	42.0	34.0	0.0	0.0	1.0	0.0
+160	400587837.0	Patrick Heckmann Offensive Rebound.	1120.0	42.0	34.0	0.0	0.0	1.0	0.0
+161	400587837.0	Foul on Ethan Mackey.	1118.0	42.0	34.0	0.0	0.0	0.0	0.0
+162	400587837.0	Patrick Heckmann made Layup.	1118.0	44.0	34.0	2.0	0.0	1.0	0.0
+163	400587837.0	Patrick Heckmann made Free Throw.	1118.0	45.0	34.0	1.0	0.0	1.0	0.0
+164	400587837.0	Zarko Valjarevic made Three Point Jumper.	1097.0	45.0	37.0	0.0	3.0	0.0	0.0
+165	400587837.0	Dimitri Batten missed Three Point Jumper.	1074.0	45.0	37.0	0.0	0.0	1.0	0.0
+166	400587837.0	Dennis Clifford Offensive Rebound.	1074.0	45.0	37.0	0.0	0.0	1.0	0.0
+167	400587837.0	Foul on Till Gloger.	1071.0	45.0	37.0	0.0	0.0	0.0	0.0
+168	400587837.0	Garland Owens missed Layup.	1061.0	45.0	37.0	0.0	0.0	1.0	0.0
+169	400587837.0	Aaron Calixte Defensive Rebound.	1061.0	45.0	37.0	0.0	0.0	0.0	0.0
+170	400587837.0	Aaron Calixte missed Jumper.	1029.0	45.0	37.0	0.0	0.0	0.0	0.0
+171	400587837.0	Patrick Heckmann Defensive Rebound.	1029.0	45.0	37.0	0.0	0.0	1.0	0.0
+172	400587837.0	Olivier Hanlan missed Layup.	1022.0	45.0	37.0	0.0	0.0	1.0	0.0
+173	400587837.0	Till Gloger Defensive Rebound.	1022.0	45.0	37.0	0.0	0.0	0.0	0.0
+174	400587837.0	Foul on Garland Owens.	1002.0	45.0	37.0	0.0	0.0	1.0	0.0
+175	400587837.0	Foul on Patrick Heckmann.	996.0	45.0	37.0	0.0	0.0	1.0	0.0
+176	400587837.0	Zarko Valjarevic made Free Throw.	996.0	45.0	38.0	0.0	1.0	0.0	0.0
+177	400587837.0	Zarko Valjarevic made Free Throw.	996.0	45.0	39.0	0.0	1.0	0.0	0.0
+178	400587837.0	Zarko Valjarevic made Free Throw.	996.0	45.0	40.0	0.0	1.0	0.0	0.0
+179	400587837.0	Dimitri Batten made Jumper.	981.0	47.0	40.0	2.0	0.0	1.0	0.0
+180	400587837.0	Zarko Valjarevic missed Three Point Jumper.	973.0	47.0	40.0	0.0	0.0	0.0	0.0
+181	400587837.0	Olivier Hanlan Defensive Rebound.	973.0	47.0	40.0	0.0	0.0	1.0	0.0
+182	400587837.0	John Cain Carney made Layup. Assisted by Olivier Hanlan.	957.0	49.0	40.0	2.0	0.0	1.0	0.0
+183	400587837.0	Foul on Dennis Clifford.	939.0	49.0	40.0	0.0	0.0	1.0	0.0
+184	400587837.0	 Official TV Timeout	939.0	49.0	40.0	0.0	0.0	0.0	0.0
+185	400587837.0	Troy Reid-Knight made Free Throw.	939.0	49.0	41.0	0.0	1.0	0.0	0.0
+186	400587837.0	Troy Reid-Knight made Free Throw.	939.0	49.0	42.0	0.0	1.0	0.0	0.0
+187	400587837.0	Olivier Hanlan missed Three Point Jumper.	928.0	49.0	42.0	0.0	0.0	1.0	0.0
+188	400587837.0	Zarko Valjarevic Defensive Rebound.	928.0	49.0	42.0	0.0	0.0	0.0	0.0
+189	400587837.0	Troy Reid-Knight missed Three Point Jumper.	906.0	49.0	42.0	0.0	0.0	0.0	0.0
+190	400587837.0	Troy Reid-Knight Offensive Rebound.	906.0	49.0	42.0	0.0	0.0	0.0	0.0
+191	400587837.0	Aaron Calixte Turnover.	897.0	49.0	42.0	0.0	0.0	0.0	1.0
+192	400587837.0	Olivier Hanlan missed Layup.	872.0	49.0	42.0	0.0	0.0	1.0	0.0
+193	400587837.0	Olivier Hanlan Offensive Rebound.	872.0	49.0	42.0	0.0	0.0	1.0	0.0
+194	400587837.0	Olivier Hanlan missed Layup.	870.0	49.0	42.0	0.0	0.0	1.0	0.0
+195	400587837.0	Dennis Clifford Offensive Rebound.	870.0	49.0	42.0	0.0	0.0	1.0	0.0
+196	400587837.0	Dennis Clifford made Layup.	869.0	51.0	42.0	2.0	0.0	1.0	0.0
+197	400587837.0	Foul on Shaun Lawton.	869.0	51.0	42.0	0.0	0.0	0.0	0.0
+198	400587837.0	Dennis Clifford made Free Throw.	869.0	52.0	42.0	1.0	0.0	1.0	0.0
+199	400587837.0	Troy Reid-Knight missed Three Point Jumper.	857.0	52.0	42.0	0.0	0.0	0.0	0.0
+200	400587837.0	Olivier Hanlan Defensive Rebound.	857.0	52.0	42.0	0.0	0.0	1.0	0.0
+201	400587837.0	Aaron Brown made Three Point Jumper. Assisted by Olivier Hanlan.	844.0	55.0	42.0	3.0	0.0	1.0	0.0
+202	400587837.0	Till Gloger made Layup. Assisted by Zarko Valjarevic.	822.0	55.0	44.0	0.0	2.0	0.0	0.0
+203	400587837.0	Olivier Hanlan Turnover.	799.0	55.0	44.0	0.0	0.0	1.0	1.0
+204	400587837.0	Zarko Valjarevic Turnover.	787.0	55.0	44.0	0.0	0.0	0.0	1.0
+205	400587837.0	Olivier Hanlan Steal.	786.0	55.0	44.0	0.0	0.0	1.0	0.0
+206	400587837.0	Garland Owens made Dunk. Assisted by Olivier Hanlan.	783.0	57.0	44.0	2.0	0.0	1.0	0.0
+207	400587837.0	Maine  Timeout	783.0	57.0	44.0	0.0	0.0	0.0	0.0
+208	400587837.0	Foul on Troy Reid-Knight.	783.0	57.0	44.0	0.0	0.0	0.0	0.0
+209	400587837.0	Garland Owens missed Free Throw.	783.0	57.0	44.0	0.0	0.0	1.0	0.0
+210	400587837.0	Till Gloger Defensive Rebound.	783.0	57.0	44.0	0.0	0.0	0.0	0.0
+211	400587837.0	Aaron Calixte made Layup.	750.0	57.0	46.0	0.0	2.0	0.0	0.0
+212	400587837.0	Garland Owens missed Three Point Jumper.	733.0	57.0	46.0	0.0	0.0	1.0	0.0
+213	400587837.0	Maine Defensive Rebound.	733.0	57.0	46.0	0.0	0.0	0.0	0.0
+214	400587837.0	Zarko Valjarevic made Jumper. Assisted by Troy Reid-Knight.	720.0	57.0	48.0	0.0	2.0	0.0	0.0
+215	400587837.0	Foul on Christian Ejiga.	695.0	57.0	48.0	0.0	0.0	0.0	0.0
+216	400587837.0	 Official TV Timeout	695.0	57.0	48.0	0.0	0.0	0.0	0.0
+217	400587837.0	Aaron Brown made Layup.	687.0	59.0	48.0	2.0	0.0	1.0	0.0
+218	400587837.0	Troy Reid-Knight made Three Point Jumper. Assisted by Zarko Valjarevic.	669.0	59.0	51.0	0.0	3.0	0.0	0.0
+219	400587837.0	Olivier Hanlan missed Jumper.	651.0	59.0	51.0	0.0	0.0	1.0	0.0
+220	400587837.0	Troy Reid-Knight Defensive Rebound.	651.0	59.0	51.0	0.0	0.0	0.0	0.0
+221	400587837.0	Troy Reid-Knight made Jumper.	636.0	59.0	53.0	0.0	2.0	0.0	0.0
+222	400587837.0	Boston College  Timeout	633.0	59.0	53.0	0.0	0.0	0.0	0.0
+223	400587837.0	Aaron Brown missed Three Point Jumper.	618.0	59.0	53.0	0.0	0.0	1.0	0.0
+224	400587837.0	Troy Reid-Knight Defensive Rebound.	618.0	59.0	53.0	0.0	0.0	0.0	0.0
+225	400587837.0	Christian Ejiga Turnover.	608.0	59.0	53.0	0.0	0.0	0.0	1.0
+226	400587837.0	Foul on Christian Ejiga.	584.0	59.0	53.0	0.0	0.0	0.0	0.0
+227	400587837.0	Dennis Clifford made Free Throw.	584.0	60.0	53.0	1.0	0.0	1.0	0.0
+228	400587837.0	Dennis Clifford made Free Throw.	584.0	61.0	53.0	1.0	0.0	1.0	0.0
+229	400587837.0	Shaun Lawton made Layup.	570.0	61.0	55.0	0.0	2.0	0.0	0.0
+230	400587837.0	Dimitri Batten made Three Point Jumper. Assisted by Olivier Hanlan.	549.0	64.0	55.0	3.0	0.0	1.0	0.0
+231	400587837.0	Shaun Lawton Turnover.	541.0	64.0	55.0	0.0	0.0	0.0	1.0
+232	400587837.0	Dimitri Batten Steal.	540.0	64.0	55.0	0.0	0.0	1.0	0.0
+233	400587837.0	Aaron Brown made Dunk. Assisted by Dimitri Batten.	537.0	66.0	55.0	2.0	0.0	1.0	0.0
+234	400587837.0	Maine  Timeout	536.0	66.0	55.0	0.0	0.0	0.0	0.0
+235	400587837.0	Till Gloger made Layup.	518.0	66.0	57.0	0.0	2.0	0.0	0.0
+236	400587837.0	Aaron Brown made Dunk.	498.0	68.0	57.0	2.0	0.0	1.0	0.0
+237	400587837.0	Zarko Valjarevic missed Jumper.	480.0	68.0	57.0	0.0	0.0	0.0	0.0
+238	400587837.0	Aaron Brown Defensive Rebound.	480.0	68.0	57.0	0.0	0.0	1.0	0.0
+239	400587837.0	Foul on Troy Reid-Knight.	470.0	68.0	57.0	0.0	0.0	0.0	0.0
+240	400587837.0	 Official TV Timeout	470.0	68.0	57.0	0.0	0.0	0.0	0.0
+241	400587837.0	Dennis Clifford missed Free Throw.	470.0	68.0	57.0	0.0	0.0	1.0	0.0
+242	400587837.0	Boston College Deadball Team Rebound.	470.0	68.0	57.0	0.0	0.0	1.0	0.0
+243	400587837.0	Dennis Clifford made Free Throw.	470.0	69.0	57.0	1.0	0.0	1.0	0.0
+244	400587837.0	Aaron Calixte missed Jumper.	461.0	69.0	57.0	0.0	0.0	0.0	0.0
+245	400587837.0	Will Magarity Defensive Rebound.	461.0	69.0	57.0	0.0	0.0	1.0	0.0
+246	400587837.0	Foul on Ethan Mackey.	453.0	69.0	57.0	0.0	0.0	0.0	0.0
+247	400587837.0	Patrick Heckmann made Free Throw.	453.0	70.0	57.0	1.0	0.0	1.0	0.0
+248	400587837.0	Patrick Heckmann made Free Throw.	453.0	71.0	57.0	1.0	0.0	1.0	0.0
+249	400587837.0	Zarko Valjarevic made Three Point Jumper.	436.0	71.0	60.0	0.0	3.0	0.0	0.0
+250	400587837.0	Aaron Brown missed Three Point Jumper.	415.0	71.0	60.0	0.0	0.0	1.0	0.0
+251	400587837.0	Shaun Lawton Defensive Rebound.	415.0	71.0	60.0	0.0	0.0	0.0	0.0
+252	400587837.0	Foul on Aaron Brown.	402.0	71.0	60.0	0.0	0.0	1.0	0.0
+253	400587837.0	Aaron Calixte missed Three Point Jumper.	396.0	71.0	60.0	0.0	0.0	0.0	0.0
+254	400587837.0	Ethan Mackey Offensive Rebound.	396.0	71.0	60.0	0.0	0.0	0.0	0.0
+255	400587837.0	Ethan Mackey made Layup.	393.0	71.0	62.0	0.0	2.0	0.0	0.0
+256	400587837.0	Foul on Aaron Brown.	393.0	71.0	62.0	0.0	0.0	1.0	0.0
+257	400587837.0	Ethan Mackey missed Free Throw.	393.0	71.0	62.0	0.0	0.0	0.0	0.0
+258	400587837.0	Garland Owens Defensive Rebound.	393.0	71.0	62.0	0.0	0.0	1.0	0.0
+259	400587837.0	Patrick Heckmann made Layup.	372.0	73.0	62.0	2.0	0.0	1.0	0.0
+260	400587837.0	Shaun Lawton missed Jumper.	358.0	73.0	62.0	0.0	0.0	0.0	0.0
+261	400587837.0	Shaun Lawton Offensive Rebound.	358.0	73.0	62.0	0.0	0.0	0.0	0.0
+262	400587837.0	Foul on Olivier Hanlan.	355.0	73.0	62.0	0.0	0.0	1.0	0.0
+263	400587837.0	Shaun Lawton made Free Throw.	355.0	73.0	63.0	0.0	1.0	0.0	0.0
+264	400587837.0	Shaun Lawton made Free Throw.	355.0	73.0	64.0	0.0	1.0	0.0	0.0
+265	400587837.0	Patrick Heckmann missed Three Point Jumper.	330.0	73.0	64.0	0.0	0.0	1.0	0.0
+266	400587837.0	Till Gloger Defensive Rebound.	330.0	73.0	64.0	0.0	0.0	0.0	0.0
+267	400587837.0	Foul on Garland Owens.	327.0	73.0	64.0	0.0	0.0	1.0	0.0
+268	400587837.0	Till Gloger made Free Throw.	327.0	73.0	65.0	0.0	1.0	0.0	0.0
+269	400587837.0	Till Gloger made Free Throw.	327.0	73.0	66.0	0.0	1.0	0.0	0.0
+270	400587837.0	Dimitri Batten Turnover.	308.0	73.0	66.0	0.0	0.0	1.0	1.0
+271	400587837.0	Foul on Dennis Clifford.	289.0	73.0	66.0	0.0	0.0	1.0	0.0
+272	400587837.0	Till Gloger made Free Throw.	289.0	73.0	67.0	0.0	1.0	0.0	0.0
+273	400587837.0	Till Gloger made Free Throw.	289.0	73.0	68.0	0.0	1.0	0.0	0.0
+274	400587837.0	Aaron Brown missed Layup.	255.0	73.0	68.0	0.0	0.0	1.0	0.0
+275	400587837.0	Dennis Clifford Offensive Rebound.	255.0	73.0	68.0	0.0	0.0	1.0	0.0
+276	400587837.0	Dennis Clifford made Layup.	252.0	75.0	68.0	2.0	0.0	1.0	0.0
+277	400587837.0	Troy Reid-Knight Turnover.	235.0	75.0	68.0	0.0	0.0	0.0	1.0
+278	400587837.0	Dennis Clifford Steal.	234.0	75.0	68.0	0.0	0.0	1.0	0.0
+279	400587837.0	Aaron Brown made Layup. Assisted by Dimitri Batten.	232.0	77.0	68.0	2.0	0.0	1.0	0.0
+280	400587837.0	Foul on Shaun Lawton.	232.0	77.0	68.0	0.0	0.0	0.0	0.0
+281	400587837.0	 Official TV Timeout	232.0	77.0	68.0	0.0	0.0	0.0	0.0
+282	400587837.0	Aaron Brown made Free Throw.	232.0	78.0	68.0	1.0	0.0	1.0	0.0
+283	400587837.0	Zarko Valjarevic made Jumper.	218.0	78.0	70.0	0.0	2.0	0.0	0.0
+284	400587837.0	Patrick Heckmann made Layup. Assisted by Dennis Clifford.	196.0	80.0	70.0	2.0	0.0	1.0	0.0
+285	400587837.0	Aaron Calixte Turnover.	172.0	80.0	70.0	0.0	0.0	0.0	1.0
+286	400587837.0	Patrick Heckmann missed Layup.	152.0	80.0	70.0	0.0	0.0	1.0	0.0
+287	400587837.0	Dennis Clifford Offensive Rebound.	152.0	80.0	70.0	0.0	0.0	1.0	0.0
+288	400587837.0	Foul on Till Gloger.	151.0	80.0	70.0	0.0	0.0	0.0	0.0
+289	400587837.0	Dennis Clifford made Free Throw.	151.0	81.0	70.0	1.0	0.0	1.0	0.0
+290	400587837.0	Dennis Clifford made Free Throw.	151.0	82.0	70.0	1.0	0.0	1.0	0.0
+291	400587837.0	Till Gloger made Layup. Assisted by Zarko Valjarevic.	141.0	82.0	72.0	0.0	2.0	0.0	0.0
+292	400587837.0	Boston College  Timeout	124.0	82.0	72.0	0.0	0.0	0.0	0.0
+293	400587837.0	Dennis Clifford missed Jumper.	110.0	82.0	72.0	0.0	0.0	1.0	0.0
+294	400587837.0	Zarko Valjarevic Defensive Rebound.	110.0	82.0	72.0	0.0	0.0	0.0	0.0
+295	400587837.0	Till Gloger missed Layup.	93.0	82.0	72.0	0.0	0.0	0.0	0.0
+296	400587837.0	Aaron Brown Defensive Rebound.	93.0	82.0	72.0	0.0	0.0	1.0	0.0
+297	400587837.0	Foul on Shaun Lawton.	66.0	82.0	72.0	0.0	0.0	0.0	0.0
+298	400587837.0	Maine  Timeout	66.0	82.0	72.0	0.0	0.0	0.0	0.0
+299	400587837.0	Olivier Hanlan missed Free Throw.	66.0	82.0	72.0	0.0	0.0	1.0	0.0
+300	400587837.0	Boston College Deadball Team Rebound.	66.0	82.0	72.0	0.0	0.0	1.0	0.0
+301	400587837.0	Olivier Hanlan made Free Throw.	66.0	83.0	72.0	1.0	0.0	1.0	0.0
+302	400587837.0	Shaun Lawton Turnover.	56.0	83.0	72.0	0.0	0.0	0.0	1.0
+303	400587837.0	Patrick Heckmann Steal.	55.0	83.0	72.0	0.0	0.0	1.0	0.0
+304	400587837.0	Foul on Till Gloger.	46.0	83.0	72.0	0.0	0.0	0.0	0.0
+305	400587837.0	Dennis Clifford made Free Throw.	46.0	84.0	72.0	1.0	0.0	1.0	0.0
+306	400587837.0	Dennis Clifford made Free Throw.	46.0	85.0	72.0	1.0	0.0	1.0	0.0
+307	400587837.0	Foul on John Cain Carney.	30.0	85.0	72.0	0.0	0.0	1.0	0.0
+308	400587837.0	Troy Reid-Knight made Free Throw.	30.0	85.0	73.0	0.0	1.0	0.0	0.0
+309	400587837.0	Troy Reid-Knight made Free Throw.	30.0	85.0	74.0	0.0	1.0	0.0	0.0
+310	400587837.0	End of Game	0.0	85.0	74.0	0.0	0.0	0.0	0.0

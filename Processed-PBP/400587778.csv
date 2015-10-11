@@ -1,0 +1,373 @@
+	Game_id	PBP_description	sec_remaining	home_score	away_score	home_points_scored	away_points_scored	home_poss	turnover
+0	400587778.0	Lennard Freeman missed Jumper.	1170.0	0.0	0.0	0.0	0.0	1.0	0.0
+1	400587778.0	Kori Babineaux Defensive Rebound.	1170.0	0.0	0.0	0.0	0.0	0.0	0.0
+2	400587778.0	Josh Adeyeye made Layup. Assisted by Tim Gill.	1136.0	0.0	2.0	0.0	2.0	0.0	0.0
+3	400587778.0	Ralston Turner missed Three Point Jumper.	1119.0	0.0	2.0	0.0	0.0	1.0	0.0
+4	400587778.0	Lennard Freeman Offensive Rebound.	1119.0	0.0	2.0	0.0	0.0	1.0	0.0
+5	400587778.0	Andris Misters missed Three Point Jumper.	1118.0	0.0	2.0	0.0	0.0	0.0	0.0
+6	400587778.0	Lennard Freeman Defensive Rebound.	1117.0	0.0	2.0	0.0	0.0	1.0	0.0
+7	400587778.0	Foul on Tim Gill.	1116.0	0.0	2.0	0.0	0.0	0.0	0.0
+8	400587778.0	Anthony Barber missed Layup.	1115.0	0.0	2.0	0.0	0.0	1.0	0.0
+9	400587778.0	Josh Adeyeye Defensive Rebound.	1115.0	0.0	2.0	0.0	0.0	0.0	0.0
+10	400587778.0	Lennard Freeman missed Layup.	1110.0	0.0	2.0	0.0	0.0	1.0	0.0
+11	400587778.0	Josh Adeyeye Block.	1110.0	0.0	2.0	0.0	0.0	0.0	0.0
+12	400587778.0	Andris Misters Defensive Rebound.	1105.0	0.0	2.0	0.0	0.0	0.0	0.0
+13	400587778.0	Foul on Ralston Turner.	1090.0	0.0	2.0	0.0	0.0	1.0	0.0
+14	400587778.0	Lennard Freeman made Jumper.	1089.0	2.0	2.0	2.0	0.0	1.0	0.0
+15	400587778.0	Tim Gill made Jumper.	1080.0	2.0	4.0	0.0	2.0	0.0	0.0
+16	400587778.0	Tim Gill made Free Throw.	1080.0	2.0	5.0	0.0	1.0	0.0	0.0
+17	400587778.0	Foul on Kyle Washington.	1080.0	2.0	5.0	0.0	0.0	1.0	0.0
+18	400587778.0	BJ Edwards missed Jumper.	1046.0	2.0	5.0	0.0	0.0	0.0	0.0
+19	400587778.0	Lennard Freeman Defensive Rebound.	1046.0	2.0	5.0	0.0	0.0	1.0	0.0
+20	400587778.0	Kyle Washington made Jumper.	1022.0	4.0	5.0	2.0	0.0	1.0	0.0
+21	400587778.0	Foul on Tim Gill.	1021.0	4.0	5.0	0.0	0.0	0.0	0.0
+22	400587778.0	Kyle Washington made Free Throw.	1021.0	5.0	5.0	1.0	0.0	1.0	0.0
+23	400587778.0	Kori Babineaux missed Layup.	1018.0	5.0	5.0	0.0	0.0	0.0	0.0
+24	400587778.0	Kyle Washington Block.	1018.0	5.0	5.0	0.0	0.0	1.0	0.0
+25	400587778.0	Lennard Freeman Defensive Rebound.	1017.0	5.0	5.0	0.0	0.0	1.0	0.0
+26	400587778.0	Kyle Washington missed Jumper.	983.0	5.0	5.0	0.0	0.0	1.0	0.0
+27	400587778.0	Ralston Turner Offensive Rebound.	983.0	5.0	5.0	0.0	0.0	1.0	0.0
+28	400587778.0	Ralston Turner Turnover.	977.0	5.0	5.0	0.0	0.0	1.0	1.0
+29	400587778.0	Josh Murray Steal.	976.0	5.0	5.0	0.0	0.0	0.0	0.0
+30	400587778.0	Josh Adeyeye missed Layup.	962.0	5.0	5.0	0.0	0.0	0.0	0.0
+31	400587778.0	NC State Deadball Team Rebound.	962.0	5.0	5.0	0.0	0.0	1.0	0.0
+32	400587778.0	Foul on Andris Misters.	941.0	5.0	5.0	0.0	0.0	0.0	0.0
+33	400587778.0	Anthony Barber Turnover.	933.0	5.0	5.0	0.0	0.0	1.0	1.0
+34	400587778.0	Josh Murray Steal.	933.0	5.0	5.0	0.0	0.0	0.0	0.0
+35	400587778.0	Foul on Kyle Washington.	933.0	5.0	5.0	0.0	0.0	1.0	0.0
+36	400587778.0	Foul on Ralston Turner.	917.0	5.0	5.0	0.0	0.0	1.0	0.0
+37	400587778.0	J.R. Holder Turnover.	905.0	5.0	5.0	0.0	0.0	0.0	1.0
+38	400587778.0	Foul on J.R. Holder.	905.0	5.0	5.0	0.0	0.0	0.0	0.0
+39	400587778.0	Lennard Freeman missed Layup.	889.0	5.0	5.0	0.0	0.0	1.0	0.0
+40	400587778.0	Josh Murray Block.	889.0	5.0	5.0	0.0	0.0	0.0	0.0
+41	400587778.0	Josh Adeyeye Defensive Rebound.	887.0	5.0	5.0	0.0	0.0	0.0	0.0
+42	400587778.0	Josh Adeyeye missed Jumper.	880.0	5.0	5.0	0.0	0.0	0.0	0.0
+43	400587778.0	Trevor Lacey Defensive Rebound.	880.0	5.0	5.0	0.0	0.0	1.0	0.0
+44	400587778.0	Caleb Martin missed Jumper.	867.0	5.0	5.0	0.0	0.0	1.0	0.0
+45	400587778.0	Caleb Martin Offensive Rebound.	867.0	5.0	5.0	0.0	0.0	1.0	0.0
+46	400587778.0	Caleb Martin made Layup.	864.0	7.0	5.0	2.0	0.0	1.0	0.0
+47	400587778.0	Josh Adeyeye Turnover.	841.0	7.0	5.0	0.0	0.0	0.0	1.0
+48	400587778.0	Trevor Lacey Steal.	840.0	7.0	5.0	0.0	0.0	1.0	0.0
+49	400587778.0	Foul on J.R. Holder.	837.0	7.0	5.0	0.0	0.0	0.0	0.0
+50	400587778.0	Trevor Lacey missed Free Throw.	837.0	7.0	5.0	0.0	0.0	1.0	0.0
+51	400587778.0	NC State Deadball Team Rebound.	837.0	7.0	5.0	0.0	0.0	1.0	0.0
+52	400587778.0	Trevor Lacey made Free Throw.	837.0	8.0	5.0	1.0	0.0	1.0	0.0
+53	400587778.0	Josh Adeyeye Turnover.	815.0	8.0	5.0	0.0	0.0	0.0	1.0
+54	400587778.0	Anthony Barber Turnover.	801.0	8.0	5.0	0.0	0.0	1.0	1.0
+55	400587778.0	Foul on Anthony Barber.	787.0	8.0	5.0	0.0	0.0	1.0	0.0
+56	400587778.0	Andris Misters missed Jumper.	778.0	8.0	5.0	0.0	0.0	0.0	0.0
+57	400587778.0	BeeJay Anya Defensive Rebound.	778.0	8.0	5.0	0.0	0.0	1.0	0.0
+58	400587778.0	Caleb Martin made Three Point Jumper. Assisted by Trevor Lacey.	770.0	11.0	5.0	3.0	0.0	1.0	0.0
+59	400587778.0	Andris Misters Turnover.	752.0	11.0	5.0	0.0	0.0	0.0	1.0
+60	400587778.0	Trevor Lacey Steal.	750.0	11.0	5.0	0.0	0.0	1.0	0.0
+61	400587778.0	Caleb Martin missed Layup.	746.0	11.0	5.0	0.0	0.0	1.0	0.0
+62	400587778.0	Cody Martin Offensive Rebound.	746.0	11.0	5.0	0.0	0.0	1.0	0.0
+63	400587778.0	Cody Martin made Two Point Tip Shot.	744.0	13.0	5.0	2.0	0.0	1.0	0.0
+64	400587778.0	Jacksonville  Timeout	743.0	13.0	5.0	0.0	0.0	0.0	0.0
+65	400587778.0	Kori Babineaux Turnover.	734.0	13.0	5.0	0.0	0.0	0.0	1.0
+66	400587778.0	Foul on Josh Adeyeye.	723.0	13.0	5.0	0.0	0.0	0.0	0.0
+67	400587778.0	Trevor Lacey made Three Point Jumper. Assisted by Caleb Martin.	710.0	16.0	5.0	3.0	0.0	1.0	0.0
+68	400587778.0	Josh Murray missed Jumper.	694.0	16.0	5.0	0.0	0.0	0.0	0.0
+69	400587778.0	Abdul-Malik Abu Defensive Rebound.	694.0	16.0	5.0	0.0	0.0	1.0	0.0
+70	400587778.0	Cody Martin Turnover.	680.0	16.0	5.0	0.0	0.0	1.0	1.0
+71	400587778.0	 Official TV Timeout	680.0	16.0	5.0	0.0	0.0	0.0	0.0
+72	400587778.0	Antwon Clayton Turnover.	668.0	16.0	5.0	0.0	0.0	0.0	1.0
+73	400587778.0	Foul on Antwon Clayton.	668.0	16.0	5.0	0.0	0.0	0.0	0.0
+74	400587778.0	Cody Martin Turnover.	650.0	16.0	5.0	0.0	0.0	1.0	1.0
+75	400587778.0	Andris Misters Steal.	648.0	16.0	5.0	0.0	0.0	0.0	0.0
+76	400587778.0	Kori Babineaux missed Layup.	646.0	16.0	5.0	0.0	0.0	0.0	0.0
+77	400587778.0	Abdul-Malik Abu Block.	646.0	16.0	5.0	0.0	0.0	1.0	0.0
+78	400587778.0	Trevor Lacey Defensive Rebound.	643.0	16.0	5.0	0.0	0.0	1.0	0.0
+79	400587778.0	Foul on Andris Misters.	640.0	16.0	5.0	0.0	0.0	0.0	0.0
+80	400587778.0	Caleb Martin missed Free Throw.	640.0	16.0	5.0	0.0	0.0	1.0	0.0
+81	400587778.0	NC State Deadball Team Rebound.	640.0	16.0	5.0	0.0	0.0	1.0	0.0
+82	400587778.0	Caleb Martin missed Free Throw.	640.0	16.0	5.0	0.0	0.0	1.0	0.0
+83	400587778.0	Antwon Clayton Defensive Rebound.	640.0	16.0	5.0	0.0	0.0	0.0	0.0
+84	400587778.0	J.R. Holder missed Three Point Jumper.	611.0	16.0	5.0	0.0	0.0	0.0	0.0
+85	400587778.0	Trevor Lacey Defensive Rebound.	611.0	16.0	5.0	0.0	0.0	1.0	0.0
+86	400587778.0	Caleb Martin missed Three Point Jumper.	604.0	16.0	5.0	0.0	0.0	1.0	0.0
+87	400587778.0	Jacksonville Defensive Rebound.	604.0	16.0	5.0	0.0	0.0	0.0	0.0
+88	400587778.0	Foul on Abdul-Malik Abu.	600.0	16.0	5.0	0.0	0.0	1.0	0.0
+89	400587778.0	J.R. Holder missed Three Point Jumper.	580.0	16.0	5.0	0.0	0.0	0.0	0.0
+90	400587778.0	Trevor Lacey Defensive Rebound.	580.0	16.0	5.0	0.0	0.0	1.0	0.0
+91	400587778.0	Trevor Lacey Turnover.	570.0	16.0	5.0	0.0	0.0	1.0	1.0
+92	400587778.0	Omar El Manasterly Steal.	568.0	16.0	5.0	0.0	0.0	0.0	0.0
+93	400587778.0	Kori Babineaux missed Layup.	565.0	16.0	5.0	0.0	0.0	0.0	0.0
+94	400587778.0	Caleb Martin Block.	565.0	16.0	5.0	0.0	0.0	1.0	0.0
+95	400587778.0	Trevor Lacey Defensive Rebound.	562.0	16.0	5.0	0.0	0.0	1.0	0.0
+96	400587778.0	Foul on Antwon Clayton.	558.0	16.0	5.0	0.0	0.0	0.0	0.0
+97	400587778.0	Abdul-Malik Abu made Free Throw.	558.0	17.0	5.0	1.0	0.0	1.0	0.0
+98	400587778.0	Abdul-Malik Abu made Free Throw.	558.0	18.0	5.0	1.0	0.0	1.0	0.0
+99	400587778.0	J.R. Holder missed Layup.	547.0	18.0	5.0	0.0	0.0	0.0	0.0
+100	400587778.0	BeeJay Anya Block.	547.0	18.0	5.0	0.0	0.0	1.0	0.0
+101	400587778.0	Kori Babineaux Offensive Rebound.	545.0	18.0	5.0	0.0	0.0	0.0	0.0
+102	400587778.0	Kori Babineaux missed Layup.	542.0	18.0	5.0	0.0	0.0	0.0	0.0
+103	400587778.0	BeeJay Anya Block.	542.0	18.0	5.0	0.0	0.0	1.0	0.0
+104	400587778.0	Jacksonville Offensive Rebound.	541.0	18.0	5.0	0.0	0.0	0.0	0.0
+105	400587778.0	Omar El Manasterly missed Layup.	538.0	18.0	5.0	0.0	0.0	0.0	0.0
+106	400587778.0	BeeJay Anya Block.	538.0	18.0	5.0	0.0	0.0	1.0	0.0
+107	400587778.0	Omar El Manasterly Offensive Rebound.	537.0	18.0	5.0	0.0	0.0	0.0	0.0
+108	400587778.0	J.R. Holder missed Layup.	525.0	18.0	5.0	0.0	0.0	0.0	0.0
+109	400587778.0	BeeJay Anya Block.	525.0	18.0	5.0	0.0	0.0	1.0	0.0
+110	400587778.0	Abdul-Malik Abu Defensive Rebound.	523.0	18.0	5.0	0.0	0.0	1.0	0.0
+111	400587778.0	Foul on Kori Babineaux.	523.0	18.0	5.0	0.0	0.0	0.0	0.0
+112	400587778.0	Cody Martin missed Free Throw.	523.0	18.0	5.0	0.0	0.0	1.0	0.0
+113	400587778.0	NC State Deadball Team Rebound.	523.0	18.0	5.0	0.0	0.0	1.0	0.0
+114	400587778.0	Abdul-Malik Abu Turnover.	506.0	18.0	5.0	0.0	0.0	1.0	1.0
+115	400587778.0	Kori Babineaux Turnover.	502.0	18.0	5.0	0.0	0.0	0.0	1.0
+116	400587778.0	Caleb Martin made Three Point Jumper. Assisted by Abdul-Malik Abu.	497.0	21.0	5.0	3.0	0.0	1.0	0.0
+117	400587778.0	Josh Adeyeye made Layup.	473.0	21.0	7.0	0.0	2.0	0.0	0.0
+118	400587778.0	Cody Martin Turnover.	453.0	21.0	7.0	0.0	0.0	1.0	1.0
+119	400587778.0	Foul on Cody Martin.	453.0	21.0	7.0	0.0	0.0	1.0	0.0
+120	400587778.0	 Official TV Timeout	453.0	21.0	7.0	0.0	0.0	0.0	0.0
+121	400587778.0	BJ Edwards missed Jumper.	433.0	21.0	7.0	0.0	0.0	0.0	0.0
+122	400587778.0	NC State Defensive Rebound.	433.0	21.0	7.0	0.0	0.0	1.0	0.0
+123	400587778.0	Foul on Antwon Clayton.	415.0	21.0	7.0	0.0	0.0	0.0	0.0
+124	400587778.0	BeeJay Anya missed Free Throw.	415.0	21.0	7.0	0.0	0.0	1.0	0.0
+125	400587778.0	NC State Deadball Team Rebound.	415.0	21.0	7.0	0.0	0.0	1.0	0.0
+126	400587778.0	BeeJay Anya made Free Throw.	415.0	22.0	7.0	1.0	0.0	1.0	0.0
+127	400587778.0	J.R. Holder missed Jumper.	380.0	22.0	7.0	0.0	0.0	0.0	0.0
+128	400587778.0	Anthony Barber Defensive Rebound.	380.0	22.0	7.0	0.0	0.0	1.0	0.0
+129	400587778.0	Anthony Barber missed Jumper.	373.0	22.0	7.0	0.0	0.0	1.0	0.0
+130	400587778.0	J.R. Holder Defensive Rebound.	373.0	22.0	7.0	0.0	0.0	0.0	0.0
+131	400587778.0	Josh Adeyeye missed Three Point Jumper.	351.0	22.0	7.0	0.0	0.0	0.0	0.0
+132	400587778.0	Omar El Manasterly Offensive Rebound.	351.0	22.0	7.0	0.0	0.0	0.0	0.0
+133	400587778.0	Omar El Manasterly missed Layup.	346.0	22.0	7.0	0.0	0.0	0.0	0.0
+134	400587778.0	BeeJay Anya Block.	346.0	22.0	7.0	0.0	0.0	1.0	0.0
+135	400587778.0	NC State Defensive Rebound.	346.0	22.0	7.0	0.0	0.0	1.0	0.0
+136	400587778.0	Trevor Lacey missed Three Point Jumper.	328.0	22.0	7.0	0.0	0.0	1.0	0.0
+137	400587778.0	J.R. Holder Defensive Rebound.	328.0	22.0	7.0	0.0	0.0	0.0	0.0
+138	400587778.0	Marcellous Bell missed Jumper.	291.0	22.0	7.0	0.0	0.0	0.0	0.0
+139	400587778.0	Anthony Barber Defensive Rebound.	291.0	22.0	7.0	0.0	0.0	1.0	0.0
+140	400587778.0	Anthony Barber missed Layup.	288.0	22.0	7.0	0.0	0.0	1.0	0.0
+141	400587778.0	Abdul-Malik Abu Offensive Rebound.	288.0	22.0	7.0	0.0	0.0	1.0	0.0
+142	400587778.0	Foul on J.R. Holder.	288.0	22.0	7.0	0.0	0.0	0.0	0.0
+143	400587778.0	Abdul-Malik Abu made Free Throw.	288.0	23.0	7.0	1.0	0.0	1.0	0.0
+144	400587778.0	Abdul-Malik Abu made Free Throw.	288.0	24.0	7.0	1.0	0.0	1.0	0.0
+145	400587778.0	Foul on Anthony Barber.	280.0	24.0	7.0	0.0	0.0	1.0	0.0
+146	400587778.0	Shea Jones missed Free Throw.	280.0	24.0	7.0	0.0	0.0	0.0	0.0
+147	400587778.0	Abdul-Malik Abu Defensive Rebound.	280.0	24.0	7.0	0.0	0.0	1.0	0.0
+148	400587778.0	Foul on Omar El Manasterly.	266.0	24.0	7.0	0.0	0.0	0.0	0.0
+149	400587778.0	Desmond Lee made Free Throw.	266.0	25.0	7.0	1.0	0.0	1.0	0.0
+150	400587778.0	Desmond Lee missed Free Throw.	266.0	25.0	7.0	0.0	0.0	1.0	0.0
+151	400587778.0	Josh Adeyeye Defensive Rebound.	266.0	25.0	7.0	0.0	0.0	0.0	0.0
+152	400587778.0	Josh Adeyeye missed Three Point Jumper.	245.0	25.0	7.0	0.0	0.0	0.0	0.0
+153	400587778.0	Caleb Martin Defensive Rebound.	245.0	25.0	7.0	0.0	0.0	1.0	0.0
+154	400587778.0	Desmond Lee missed Layup.	236.0	25.0	7.0	0.0	0.0	1.0	0.0
+155	400587778.0	Jacksonville Deadball Team Rebound.	236.0	25.0	7.0	0.0	0.0	0.0	0.0
+156	400587778.0	 Official TV Timeout	236.0	25.0	7.0	0.0	0.0	0.0	0.0
+157	400587778.0	Josh Adeyeye Turnover.	224.0	25.0	7.0	0.0	0.0	0.0	1.0
+158	400587778.0	Desmond Lee Steal.	218.0	25.0	7.0	0.0	0.0	1.0	0.0
+159	400587778.0	Desmond Lee made Dunk.	216.0	27.0	7.0	2.0	0.0	1.0	0.0
+160	400587778.0	Josh Adeyeye missed Three Point Jumper.	204.0	27.0	7.0	0.0	0.0	0.0	0.0
+161	400587778.0	BeeJay Anya Defensive Rebound.	204.0	27.0	7.0	0.0	0.0	1.0	0.0
+162	400587778.0	Abdul-Malik Abu missed Layup.	193.0	27.0	7.0	0.0	0.0	1.0	0.0
+163	400587778.0	BeeJay Anya Offensive Rebound.	193.0	27.0	7.0	0.0	0.0	1.0	0.0
+164	400587778.0	BeeJay Anya missed Layup.	188.0	27.0	7.0	0.0	0.0	1.0	0.0
+165	400587778.0	Josh Adeyeye Defensive Rebound.	188.0	27.0	7.0	0.0	0.0	0.0	0.0
+166	400587778.0	Foul on Abdul-Malik Abu.	186.0	27.0	7.0	0.0	0.0	1.0	0.0
+167	400587778.0	Josh Adeyeye made Free Throw.	186.0	27.0	8.0	0.0	1.0	0.0	0.0
+168	400587778.0	Josh Adeyeye made Free Throw.	186.0	27.0	9.0	0.0	1.0	0.0	0.0
+169	400587778.0	Foul on Marcellous Bell.	154.0	27.0	9.0	0.0	0.0	0.0	0.0
+170	400587778.0	Trevor Lacey missed Free Throw.	154.0	27.0	9.0	0.0	0.0	1.0	0.0
+171	400587778.0	NC State Deadball Team Rebound.	154.0	27.0	9.0	0.0	0.0	1.0	0.0
+172	400587778.0	Trevor Lacey made Free Throw.	154.0	28.0	9.0	1.0	0.0	1.0	0.0
+173	400587778.0	Omar El Manasterly missed Jumper.	130.0	28.0	9.0	0.0	0.0	0.0	0.0
+174	400587778.0	Lennard Freeman Defensive Rebound.	130.0	28.0	9.0	0.0	0.0	1.0	0.0
+175	400587778.0	BeeJay Anya missed Layup.	120.0	28.0	9.0	0.0	0.0	1.0	0.0
+176	400587778.0	Lennard Freeman Offensive Rebound.	120.0	28.0	9.0	0.0	0.0	1.0	0.0
+177	400587778.0	Lennard Freeman made Layup.	118.0	30.0	9.0	2.0	0.0	1.0	0.0
+178	400587778.0	Foul on Kori Babineaux.	118.0	30.0	9.0	0.0	0.0	0.0	0.0
+179	400587778.0	Lennard Freeman made Free Throw.	118.0	31.0	9.0	1.0	0.0	1.0	0.0
+180	400587778.0	Shea Jones made Three Point Jumper. Assisted by Kori Babineaux.	104.0	31.0	12.0	0.0	3.0	0.0	0.0
+181	400587778.0	Caleb Martin Turnover.	81.0	31.0	12.0	0.0	0.0	1.0	1.0
+182	400587778.0	Josh Adeyeye missed Jumper.	56.0	31.0	12.0	0.0	0.0	0.0	0.0
+183	400587778.0	BeeJay Anya Defensive Rebound.	56.0	31.0	12.0	0.0	0.0	1.0	0.0
+184	400587778.0	Caleb Martin made Layup. Assisted by Trevor Lacey.	38.0	33.0	12.0	2.0	0.0	1.0	0.0
+185	400587778.0	Josh Adeyeye missed Jumper.	10.0	33.0	12.0	0.0	0.0	0.0	0.0
+186	400587778.0	Caleb Martin Defensive Rebound.	10.0	33.0	12.0	0.0	0.0	1.0	0.0
+187	400587778.0	Caleb Martin made Layup.	5.0	35.0	12.0	2.0	0.0	1.0	0.0
+188	400587778.0	End of 1st half	0.0	35.0	12.0	0.0	0.0	0.0	0.0
+189	400587778.0	Tim Gill missed Layup.	1174.0	35.0	12.0	0.0	0.0	0.0	0.0
+190	400587778.0	BeeJay Anya Block.	1174.0	35.0	12.0	0.0	0.0	1.0	0.0
+191	400587778.0	Jacksonville Offensive Rebound.	1173.0	35.0	12.0	0.0	0.0	0.0	0.0
+192	400587778.0	Andris Misters missed Jumper.	1168.0	35.0	12.0	0.0	0.0	0.0	0.0
+193	400587778.0	Lennard Freeman Defensive Rebound.	1168.0	35.0	12.0	0.0	0.0	1.0	0.0
+194	400587778.0	Anthony Barber made Layup.	1162.0	37.0	12.0	2.0	0.0	1.0	0.0
+195	400587778.0	Kori Babineaux missed Jumper.	1142.0	37.0	12.0	0.0	0.0	0.0	0.0
+196	400587778.0	BeeJay Anya Defensive Rebound.	1142.0	37.0	12.0	0.0	0.0	1.0	0.0
+197	400587778.0	Trevor Lacey missed Layup.	1136.0	37.0	12.0	0.0	0.0	1.0	0.0
+198	400587778.0	Andris Misters Defensive Rebound.	1136.0	37.0	12.0	0.0	0.0	0.0	0.0
+199	400587778.0	Josh Adeyeye missed Layup.	1113.0	37.0	12.0	0.0	0.0	0.0	0.0
+200	400587778.0	BeeJay Anya Block.	1113.0	37.0	12.0	0.0	0.0	1.0	0.0
+201	400587778.0	Anthony Barber Defensive Rebound.	1111.0	37.0	12.0	0.0	0.0	1.0	0.0
+202	400587778.0	Foul on BJ Edwards.	1108.0	37.0	12.0	0.0	0.0	0.0	0.0
+203	400587778.0	Ralston Turner missed Three Point Jumper.	1091.0	37.0	12.0	0.0	0.0	1.0	0.0
+204	400587778.0	Lennard Freeman Offensive Rebound.	1091.0	37.0	12.0	0.0	0.0	1.0	0.0
+205	400587778.0	Lennard Freeman made Layup.	1086.0	39.0	12.0	2.0	0.0	1.0	0.0
+206	400587778.0	Tim Gill missed Jumper.	1067.0	39.0	12.0	0.0	0.0	0.0	0.0
+207	400587778.0	BeeJay Anya Block.	1067.0	39.0	12.0	0.0	0.0	1.0	0.0
+208	400587778.0	Anthony Barber Defensive Rebound.	1064.0	39.0	12.0	0.0	0.0	1.0	0.0
+209	400587778.0	Anthony Barber made Jumper.	1058.0	41.0	12.0	2.0	0.0	1.0	0.0
+210	400587778.0	Foul on BeeJay Anya.	1046.0	41.0	12.0	0.0	0.0	1.0	0.0
+211	400587778.0	Kori Babineaux made Free Throw.	1046.0	41.0	13.0	0.0	1.0	0.0	0.0
+212	400587778.0	Kori Babineaux made Free Throw.	1046.0	41.0	14.0	0.0	1.0	0.0	0.0
+213	400587778.0	Foul on Tim Gill.	1042.0	41.0	14.0	0.0	0.0	0.0	0.0
+214	400587778.0	Anthony Barber missed Jumper.	1042.0	41.0	14.0	0.0	0.0	1.0	0.0
+215	400587778.0	Lennard Freeman Offensive Rebound.	1042.0	41.0	14.0	0.0	0.0	1.0	0.0
+216	400587778.0	Lennard Freeman missed Layup.	1038.0	41.0	14.0	0.0	0.0	1.0	0.0
+217	400587778.0	Kori Babineaux Defensive Rebound.	1038.0	41.0	14.0	0.0	0.0	0.0	0.0
+218	400587778.0	Kori Babineaux made Layup.	1032.0	41.0	16.0	0.0	2.0	0.0	0.0
+219	400587778.0	Anthony Barber Turnover.	1025.0	41.0	16.0	0.0	0.0	1.0	1.0
+220	400587778.0	Kori Babineaux Steal.	1024.0	41.0	16.0	0.0	0.0	0.0	0.0
+221	400587778.0	Tim Gill missed Jumper.	1008.0	41.0	16.0	0.0	0.0	0.0	0.0
+222	400587778.0	BeeJay Anya Block.	1008.0	41.0	16.0	0.0	0.0	1.0	0.0
+223	400587778.0	Kori Babineaux Offensive Rebound.	1006.0	41.0	16.0	0.0	0.0	0.0	0.0
+224	400587778.0	Tim Gill Turnover.	994.0	41.0	16.0	0.0	0.0	0.0	1.0
+225	400587778.0	Foul on Tim Gill.	994.0	41.0	16.0	0.0	0.0	0.0	0.0
+226	400587778.0	Lennard Freeman missed Layup.	971.0	41.0	16.0	0.0	0.0	1.0	0.0
+227	400587778.0	BeeJay Anya Offensive Rebound.	971.0	41.0	16.0	0.0	0.0	1.0	0.0
+228	400587778.0	BeeJay Anya made Dunk.	968.0	43.0	16.0	2.0	0.0	1.0	0.0
+229	400587778.0	J.R. Holder missed Layup.	948.0	43.0	16.0	0.0	0.0	0.0	0.0
+230	400587778.0	Trevor Lacey Defensive Rebound.	948.0	43.0	16.0	0.0	0.0	1.0	0.0
+231	400587778.0	Anthony Barber missed Three Point Jumper.	940.0	43.0	16.0	0.0	0.0	1.0	0.0
+232	400587778.0	Antwon Clayton Defensive Rebound.	940.0	43.0	16.0	0.0	0.0	0.0	0.0
+233	400587778.0	Foul on Lennard Freeman.	938.0	43.0	16.0	0.0	0.0	1.0	0.0
+234	400587778.0	 Official TV Timeout	938.0	43.0	16.0	0.0	0.0	0.0	0.0
+235	400587778.0	Foul on Trevor Lacey.	924.0	43.0	16.0	0.0	0.0	1.0	0.0
+236	400587778.0	Kori Babineaux missed Jumper.	914.0	43.0	16.0	0.0	0.0	0.0	0.0
+237	400587778.0	BeeJay Anya Block.	914.0	43.0	16.0	0.0	0.0	1.0	0.0
+238	400587778.0	Trevor Lacey Defensive Rebound.	913.0	43.0	16.0	0.0	0.0	1.0	0.0
+239	400587778.0	Anthony Barber made Layup. Assisted by Trevor Lacey.	907.0	45.0	16.0	2.0	0.0	1.0	0.0
+240	400587778.0	Foul on BJ Edwards.	907.0	45.0	16.0	0.0	0.0	0.0	0.0
+241	400587778.0	Anthony Barber made Free Throw.	907.0	46.0	16.0	1.0	0.0	1.0	0.0
+242	400587778.0	Anthony Barber made Free Throw.	907.0	47.0	16.0	1.0	0.0	1.0	0.0
+243	400587778.0	BJ Edwards Turnover.	907.0	47.0	16.0	0.0	0.0	0.0	1.0
+244	400587778.0	Foul on BJ Edwards.	903.0	47.0	16.0	0.0	0.0	0.0	0.0
+245	400587778.0	Anthony Barber made Free Throw.	903.0	48.0	16.0	1.0	0.0	1.0	0.0
+246	400587778.0	Anthony Barber missed Free Throw.	903.0	48.0	16.0	0.0	0.0	1.0	0.0
+247	400587778.0	Antwon Clayton Defensive Rebound.	903.0	48.0	16.0	0.0	0.0	0.0	0.0
+248	400587778.0	J.R. Holder made Jumper. Assisted by Antwon Clayton.	889.0	48.0	18.0	0.0	2.0	0.0	0.0
+249	400587778.0	Lennard Freeman made Jumper. Assisted by Trevor Lacey.	864.0	50.0	18.0	2.0	0.0	1.0	0.0
+250	400587778.0	Foul on J.R. Holder.	864.0	50.0	18.0	0.0	0.0	0.0	0.0
+251	400587778.0	Lennard Freeman made Free Throw.	864.0	51.0	18.0	1.0	0.0	1.0	0.0
+252	400587778.0	Foul on Caleb Martin.	855.0	51.0	18.0	0.0	0.0	1.0	0.0
+253	400587778.0	J.R. Holder missed Jumper.	854.0	51.0	18.0	0.0	0.0	0.0	0.0
+254	400587778.0	Lennard Freeman Defensive Rebound.	854.0	51.0	18.0	0.0	0.0	1.0	0.0
+255	400587778.0	Ralston Turner missed Three Point Jumper.	835.0	51.0	18.0	0.0	0.0	1.0	0.0
+256	400587778.0	BeeJay Anya Offensive Rebound.	835.0	51.0	18.0	0.0	0.0	1.0	0.0
+257	400587778.0	BeeJay Anya made Dunk.	831.0	53.0	18.0	2.0	0.0	1.0	0.0
+258	400587778.0	Andris Misters missed Jumper.	810.0	53.0	18.0	0.0	0.0	0.0	0.0
+259	400587778.0	Lennard Freeman Defensive Rebound.	810.0	53.0	18.0	0.0	0.0	1.0	0.0
+260	400587778.0	Anthony Barber Turnover.	775.0	53.0	18.0	0.0	0.0	1.0	1.0
+261	400587778.0	Josh Murray Steal.	774.0	53.0	18.0	0.0	0.0	0.0	0.0
+262	400587778.0	J.R. Holder made Dunk. Assisted by Josh Murray.	771.0	53.0	20.0	0.0	2.0	0.0	0.0
+263	400587778.0	Ralston Turner missed Three Point Jumper.	737.0	53.0	20.0	0.0	0.0	1.0	0.0
+264	400587778.0	Caleb Martin Offensive Rebound.	737.0	53.0	20.0	0.0	0.0	1.0	0.0
+265	400587778.0	Caleb Martin missed Three Point Jumper.	733.0	53.0	20.0	0.0	0.0	1.0	0.0
+266	400587778.0	Marcel White Defensive Rebound.	733.0	53.0	20.0	0.0	0.0	0.0	0.0
+267	400587778.0	Andris Misters missed Three Point Jumper.	725.0	53.0	20.0	0.0	0.0	0.0	0.0
+268	400587778.0	Anthony Barber Defensive Rebound.	725.0	53.0	20.0	0.0	0.0	1.0	0.0
+269	400587778.0	Anthony Barber missed Three Point Jumper.	690.0	53.0	20.0	0.0	0.0	1.0	0.0
+270	400587778.0	BeeJay Anya Offensive Rebound.	690.0	53.0	20.0	0.0	0.0	1.0	0.0
+271	400587778.0	BeeJay Anya made Dunk.	687.0	55.0	20.0	2.0	0.0	1.0	0.0
+272	400587778.0	J.R. Holder missed Jumper.	671.0	55.0	20.0	0.0	0.0	0.0	0.0
+273	400587778.0	Lennard Freeman Defensive Rebound.	671.0	55.0	20.0	0.0	0.0	1.0	0.0
+274	400587778.0	Lennard Freeman missed Jumper.	635.0	55.0	20.0	0.0	0.0	1.0	0.0
+275	400587778.0	Jacksonville Deadball Team Rebound.	635.0	55.0	20.0	0.0	0.0	0.0	0.0
+276	400587778.0	Kori Babineaux made Jumper.	617.0	55.0	22.0	0.0	2.0	0.0	0.0
+277	400587778.0	Caleb Martin made Three Point Jumper. Assisted by Kyle Washington.	603.0	58.0	22.0	3.0	0.0	1.0	0.0
+278	400587778.0	Foul on Cody Martin.	576.0	58.0	22.0	0.0	0.0	1.0	0.0
+279	400587778.0	Antwon Clayton missed Layup.	566.0	58.0	22.0	0.0	0.0	0.0	0.0
+280	400587778.0	NC State Defensive Rebound.	566.0	58.0	22.0	0.0	0.0	1.0	0.0
+281	400587778.0	Foul on Tim Gill.	565.0	58.0	22.0	0.0	0.0	0.0	0.0
+282	400587778.0	Kyle Washington made Jumper. Assisted by Cody Martin.	552.0	60.0	22.0	2.0	0.0	1.0	0.0
+283	400587778.0	Antwon Clayton made Jumper. Assisted by Josh Adeyeye.	523.0	60.0	24.0	0.0	2.0	0.0	0.0
+284	400587778.0	Cody Martin Turnover.	507.0	60.0	24.0	0.0	0.0	1.0	1.0
+285	400587778.0	Antwon Clayton Steal.	505.0	60.0	24.0	0.0	0.0	0.0	0.0
+286	400587778.0	J.R. Holder made Layup.	501.0	60.0	26.0	0.0	2.0	0.0	0.0
+287	400587778.0	NC State Offensive Rebound.	481.0	60.0	26.0	0.0	0.0	1.0	0.0
+288	400587778.0	Abdul-Malik Abu missed Jumper.	481.0	60.0	26.0	0.0	0.0	1.0	0.0
+289	400587778.0	Josh Adeyeye Block.	481.0	60.0	26.0	0.0	0.0	0.0	0.0
+290	400587778.0	Cody Martin Turnover.	479.0	60.0	26.0	0.0	0.0	1.0	1.0
+291	400587778.0	 Official TV Timeout	479.0	60.0	26.0	0.0	0.0	0.0	0.0
+292	400587778.0	Foul on Kyle Washington.	464.0	60.0	26.0	0.0	0.0	1.0	0.0
+293	400587778.0	Antwon Clayton made Free Throw.	464.0	60.0	27.0	0.0	1.0	0.0	0.0
+294	400587778.0	Antwon Clayton made Free Throw.	464.0	60.0	28.0	0.0	1.0	0.0	0.0
+295	400587778.0	Trevor Lacey missed Three Point Jumper.	434.0	60.0	28.0	0.0	0.0	1.0	0.0
+296	400587778.0	Jacksonville Defensive Rebound.	434.0	60.0	28.0	0.0	0.0	0.0	0.0
+297	400587778.0	Foul on Kyle Washington.	431.0	60.0	28.0	0.0	0.0	1.0	0.0
+298	400587778.0	Josh Adeyeye made Free Throw.	431.0	60.0	29.0	0.0	1.0	0.0	0.0
+299	400587778.0	Josh Adeyeye made Free Throw.	431.0	60.0	30.0	0.0	1.0	0.0	0.0
+300	400587778.0	Abdul-Malik Abu made Layup. Assisted by Trevor Lacey.	404.0	62.0	30.0	2.0	0.0	1.0	0.0
+301	400587778.0	Foul on Desmond Lee.	386.0	62.0	30.0	0.0	0.0	1.0	0.0
+302	400587778.0	Kori Babineaux made Free Throw.	386.0	62.0	31.0	0.0	1.0	0.0	0.0
+303	400587778.0	Kori Babineaux made Free Throw.	386.0	62.0	32.0	0.0	1.0	0.0	0.0
+304	400587778.0	Desmond Lee missed Jumper.	359.0	62.0	32.0	0.0	0.0	1.0	0.0
+305	400587778.0	Abdul-Malik Abu Offensive Rebound.	359.0	62.0	32.0	0.0	0.0	1.0	0.0
+306	400587778.0	Abdul-Malik Abu made Dunk.	355.0	64.0	32.0	2.0	0.0	1.0	0.0
+307	400587778.0	Foul on Trevor Lacey.	335.0	64.0	32.0	0.0	0.0	1.0	0.0
+308	400587778.0	J.R. Holder missed Free Throw.	335.0	64.0	32.0	0.0	0.0	0.0	0.0
+309	400587778.0	Kyle Washington Defensive Rebound.	335.0	64.0	32.0	0.0	0.0	1.0	0.0
+310	400587778.0	Foul on Antwon Clayton.	325.0	64.0	32.0	0.0	0.0	0.0	0.0
+311	400587778.0	Desmond Lee made Free Throw.	325.0	65.0	32.0	1.0	0.0	1.0	0.0
+312	400587778.0	Desmond Lee made Free Throw.	325.0	66.0	32.0	1.0	0.0	1.0	0.0
+313	400587778.0	Antwon Clayton Turnover.	324.0	66.0	32.0	0.0	0.0	0.0	1.0
+314	400587778.0	Desmond Lee missed Layup.	323.0	66.0	32.0	0.0	0.0	1.0	0.0
+315	400587778.0	Cody Martin Offensive Rebound.	323.0	66.0	32.0	0.0	0.0	1.0	0.0
+316	400587778.0	Cody Martin made Layup.	319.0	68.0	32.0	2.0	0.0	1.0	0.0
+317	400587778.0	J.R. Holder missed Three Point Jumper.	309.0	68.0	32.0	0.0	0.0	0.0	0.0
+318	400587778.0	Desmond Lee Defensive Rebound.	309.0	68.0	32.0	0.0	0.0	1.0	0.0
+319	400587778.0	Foul on Marcel White.	282.0	68.0	32.0	0.0	0.0	0.0	0.0
+320	400587778.0	Abdul-Malik Abu missed Free Throw.	282.0	68.0	32.0	0.0	0.0	1.0	0.0
+321	400587778.0	Marcellous Bell Defensive Rebound.	282.0	68.0	32.0	0.0	0.0	0.0	0.0
+322	400587778.0	Kori Babineaux Turnover.	263.0	68.0	32.0	0.0	0.0	0.0	1.0
+323	400587778.0	Foul on Kori Babineaux.	263.0	68.0	32.0	0.0	0.0	0.0	0.0
+324	400587778.0	Kyle Washington made Jumper. Assisted by Abdul-Malik Abu.	251.0	70.0	32.0	2.0	0.0	1.0	0.0
+325	400587778.0	Foul on Cody Martin.	235.0	70.0	32.0	0.0	0.0	1.0	0.0
+326	400587778.0	 Official TV Timeout	235.0	70.0	32.0	0.0	0.0	0.0	0.0
+327	400587778.0	J.R. Holder made Free Throw.	235.0	70.0	33.0	0.0	1.0	0.0	0.0
+328	400587778.0	J.R. Holder made Free Throw.	235.0	70.0	34.0	0.0	1.0	0.0	0.0
+329	400587778.0	Anthony Barber Turnover.	220.0	70.0	34.0	0.0	0.0	1.0	1.0
+330	400587778.0	Josh Adeyeye missed Layup.	199.0	70.0	34.0	0.0	0.0	0.0	0.0
+331	400587778.0	Kyle Washington Block.	199.0	70.0	34.0	0.0	0.0	1.0	0.0
+332	400587778.0	Josh Adeyeye Offensive Rebound.	198.0	70.0	34.0	0.0	0.0	0.0	0.0
+333	400587778.0	Josh Adeyeye made Layup.	191.0	70.0	36.0	0.0	2.0	0.0	0.0
+334	400587778.0	Abdul-Malik Abu missed Jumper.	177.0	70.0	36.0	0.0	0.0	1.0	0.0
+335	400587778.0	Desmond Lee Offensive Rebound.	177.0	70.0	36.0	0.0	0.0	1.0	0.0
+336	400587778.0	Foul on Marcellous Bell.	174.0	70.0	36.0	0.0	0.0	0.0	0.0
+337	400587778.0	Desmond Lee made Free Throw.	174.0	71.0	36.0	1.0	0.0	1.0	0.0
+338	400587778.0	Desmond Lee made Free Throw.	174.0	72.0	36.0	1.0	0.0	1.0	0.0
+339	400587778.0	Josh Adeyeye made Three Point Jumper.	160.0	72.0	39.0	0.0	3.0	0.0	0.0
+340	400587778.0	Patrick Wallace made Three Point Jumper.	144.0	75.0	39.0	3.0	0.0	1.0	0.0
+341	400587778.0	Jeremy Bogus missed Three Point Jumper.	124.0	75.0	39.0	0.0	0.0	0.0	0.0
+342	400587778.0	Chase Cannon Defensive Rebound.	124.0	75.0	39.0	0.0	0.0	1.0	0.0
+343	400587778.0	Chase Cannon missed Three Point Jumper.	116.0	75.0	39.0	0.0	0.0	1.0	0.0
+344	400587778.0	Jacksonville Defensive Rebound.	116.0	75.0	39.0	0.0	0.0	0.0	0.0
+345	400587778.0	Marcellous Bell missed Three Point Jumper.	89.0	75.0	39.0	0.0	0.0	0.0	0.0
+346	400587778.0	Josh Adeyeye Offensive Rebound.	89.0	75.0	39.0	0.0	0.0	0.0	0.0
+347	400587778.0	Marcellous Bell made Layup. Assisted by Josh Adeyeye.	84.0	75.0	41.0	0.0	2.0	0.0	0.0
+348	400587778.0	Chris Corchiani Jr. Turnover.	66.0	75.0	41.0	0.0	0.0	1.0	1.0
+349	400587778.0	Josh Adeyeye Steal.	65.0	75.0	41.0	0.0	0.0	0.0	0.0
+350	400587778.0	Foul on Chris Corchiani Jr..	62.0	75.0	41.0	0.0	0.0	1.0	0.0
+351	400587778.0	Josh Adeyeye made Free Throw.	62.0	75.0	42.0	0.0	1.0	0.0	0.0
+352	400587778.0	Josh Adeyeye made Free Throw.	62.0	75.0	43.0	0.0	1.0	0.0	0.0
+353	400587778.0	Staats Battle missed Three Point Jumper.	56.0	75.0	43.0	0.0	0.0	1.0	0.0
+354	400587778.0	Chase Cannon Offensive Rebound.	56.0	75.0	43.0	0.0	0.0	1.0	0.0
+355	400587778.0	Chase Cannon made Layup.	52.0	77.0	43.0	2.0	0.0	1.0	0.0
+356	400587778.0	Foul on Jeremy Bogus.	52.0	77.0	43.0	0.0	0.0	0.0	0.0
+357	400587778.0	Chase Cannon missed Free Throw.	52.0	77.0	43.0	0.0	0.0	1.0	0.0
+358	400587778.0	Patrick Wallace Offensive Rebound.	52.0	77.0	43.0	0.0	0.0	1.0	0.0
+359	400587778.0	Patrick Wallace missed Three Point Jumper.	48.0	77.0	43.0	0.0	0.0	1.0	0.0
+360	400587778.0	Chris Brickhouse Offensive Rebound.	48.0	77.0	43.0	0.0	0.0	1.0	0.0
+361	400587778.0	Chris Brickhouse missed Layup.	45.0	77.0	43.0	0.0	0.0	1.0	0.0
+362	400587778.0	Staats Battle Offensive Rebound.	45.0	77.0	43.0	0.0	0.0	1.0	0.0
+363	400587778.0	Staats Battle made Two Point Tip Shot.	43.0	79.0	43.0	2.0	0.0	1.0	0.0
+364	400587778.0	Marcellous Bell missed Three Point Jumper.	21.0	79.0	43.0	0.0	0.0	0.0	0.0
+365	400587778.0	Chris Corchiani Jr. Defensive Rebound.	21.0	79.0	43.0	0.0	0.0	1.0	0.0
+366	400587778.0	Chris Corchiani Jr. missed Layup.	11.0	79.0	43.0	0.0	0.0	1.0	0.0
+367	400587778.0	Jacksonville Defensive Rebound.	11.0	79.0	43.0	0.0	0.0	0.0	0.0
+368	400587778.0	Marcellous Bell Turnover.	1.0	79.0	43.0	0.0	0.0	0.0	1.0
+369	400587778.0	Chris Corchiani Jr. missed Three Point Jumper.	1.0	79.0	43.0	0.0	0.0	1.0	0.0
+370	400587778.0	NC State Deadball Team Rebound.	1.0	79.0	43.0	0.0	0.0	1.0	0.0
+371	400587778.0	End of Game	0.0	79.0	43.0	0.0	0.0	0.0	0.0
