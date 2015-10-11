@@ -9,12 +9,15 @@ import os
 dates = [x for x in os.listdir(".") if os.path.isdir(os.path.join(".",x))] 
 for date in dates:
 	games = [x for x in os.listdir(date)] 
+	print games
+
 	for game in games:
 		fname = os.path.join(date,game)  #creates path by concatenating and adding / in btw
 		print fname
 
 		#pbp is a dataframe -- parse it with pip delimiter 
 		df = pd.read_csv(fname, delimiter = '\t')
+
 		game_id = np.zeros(shape = (len(df),1))
 		minutes = np.zeros(shape = (len(df),1))
 		seconds = np.zeros(shape = (len(df),1))
@@ -36,10 +39,14 @@ for date in dates:
 		FGM = np.zeros(shape = (len(df),1))
 		half = np.zeros(shape = (len(df),1))
 		foul = np.zeros(shape = (len(df),1))
+		block = np.zeros(shape = (len(df),1))
+		assist = np.zeros(shape = (len(df),1))
 		sec_remaining = np.zeros(shape = (len(df),1))
+		timeout = np.zeros(shape = (len(df),1))
 		first_name = [None] * len(df)
 		last_name = [None] * len(df)
 		player = [None] * len(df)
+		player2 = [None] * len(df)
 
 		half_index = 0
 		game_index = 0
@@ -88,30 +95,41 @@ for date in dates:
 				if ("timeout" in df['score'][i].lower()) | ("end" in df['score'][i].lower()):
 					away_score[i] = away_score[i-1]
 					home_score[i] = home_score[i-1]
+					timeout[i] = 1
 				else:	
 					away_score[i] = df['score'][i].split("-")[0]
 					home_score[i] = df['score'][i].split("-")[1]
+				
+				###home wins 
+				if away_score[-1] < home_score[i-1]:
+					home_win[i] = 1
+				else: 
+					home_win[i] = 0
+
+
+
 				if i > 1:
 					away_points_scored[i] = int(away_score[i]) - int(away_score[i-1])
 					home_points_scored[i] = int(home_score[i]) - int(home_score[i-1])
-				if df['away'][i] is ' ':
+				
+				if df['away'][i] is ' ':					
 					home_poss[i] = 1
 					PBP_description[i] = df['home'][i]
 				else:
 					home_poss[i] = 0
 					PBP_description[i] = df['away'][i]
-				first_name[i] = PBP_description[i].split(' ')[0]
-				last_name[i] = PBP_description[i].split(' ')[1]
+
+
 				##create dummy vars for stats 
 				if "turnover" in PBP_description[i].lower():
 					turnover[i] = 1
-				if "Defensive Rebound" in PBP_description[i].lower():
+				if "defensive rebound" in PBP_description[i].lower():
 					def_reb[i] = 1
-				if "Offensive Rebound" in PBP_description[i].lower():
+				if "offensive rebound" in PBP_description[i].lower():
 					off_reb[i] = 1
-				if "Three Point Jumper" in PBP_description[i].lower():
+				if "three point jumper" in PBP_description[i].lower():
 					FGA3[i] = 1
-				if ("Three Point Jumper" in PBP_description[i].lower()) & ("made" in PBP_description[i]):
+				if ("three point jumper" in PBP_description[i].lower()) & ("made" in PBP_description[i]):
 					FGA3M[i] = 1
 				if ("made" in PBP_description[i].lower()) | ("missed" in PBP_description[i].lower()):
 					FGA[i] = 1
@@ -119,19 +137,34 @@ for date in dates:
 					FGM[i] = 1
 				if "foul" in PBP_description[i].lower():
 					foul[i] = 1
+				if "block" in PBP_description[i].lower():
+					block[i] = 1
+				if "assist" in PBP_description[i].lower():
+					assist[i] = 1
 
-				
+				if foul[i] == 1: 
+					first_name[i] = PBP_description[i].split(' ')[-2].rstrip(".")
+					last_name[i] = PBP_description[i].split(' ')[-1].rstrip(".")
+				else:
+					first_name[i] = PBP_description[i].split(' ')[0]
+					last_name[i] = PBP_description[i].split(' ')[1]
+
+				if assist[i] == 1:
+					CP_assist = PBP_description[i].split(" ")
+					player2[i] = CP_assist[-2] + " " + CP_assist[-1].rstrip(".")
+
 				player[i] = first_name[i] + " " + last_name[i]
+				#print player
 
-			data = np.column_stack((game_id, PBP_description, sec_remaining, home_score,away_score,home_points_scored,away_points_scored,home_poss, turnover, player, steal, foul,off_reb,def_reb))
-			titles = ["Game_id", "PBP_description", "sec_remaining", "home_score","away_score","home_points_scored","away_points_scored","home_poss", "turnover"]
+			data = np.column_stack((game_id, PBP_description, sec_remaining, half,home_win, home_score,away_score,home_points_scored,away_points_scored,home_poss, player, player2,FGA,FGM,FGA3,FGA3M,turnover, block, steal, assist, foul,off_reb,def_reb, timeout))
+			titles = ["Game_id", "PBP_description", "sec_remaining", "half", "home_win", "home_score","away_score","home_points_scored","away_points_scored","home_poss","player","player2","FGA","made_FGA","3FGA","3FGA_made","turnover","block", "steal","assist", "foul","off_reb","def_reb", "timeout"]
 
 			data = pd.DataFrame(data, columns = titles)
 			return data
 
-	filename = "../Processed-PBP/%s" % game
-	data = stat_generator(game)
-	data.to_csv(filename, sep = '\t')
+		filename = "../Processed-PBP/%s" % game
+		data = stat_generator(game)
+		data.to_csv(filename, sep = '\t')
 
 def main():
 	#filename = "../Processed-PBP/{0}/".format(d.strftime("%Y-%m-%d")) + game_id + ".csv"
