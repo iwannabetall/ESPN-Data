@@ -1,5 +1,8 @@
 from bs4 import BeautifulSoup
+import urllib2
 from urllib2 import urlopen
+import cookielib
+from cookielib import CookieJar
 from datetime import datetime, timedelta
 #from urllib2.request import urlopen
 #import html5lib
@@ -11,20 +14,18 @@ from time import sleep   #tells your program to run and then pause (for updated 
 import sys
 import csv
 import mechanize
+import os
 
 # CONSTANTS
-ESPN_URL = "http://scores.espn.go.com"  ##global var 
+ESPN_URL = "http://scores.espn.go.com"  ##global var
+cj = CookieJar() # Not absolutely necessary but recommended
+opener = urllib2.build_opener(urllib2.HTTPCookieProcessor(cj))
+opener.addheaders = [('User-agent', 'Mozilla/5.0')] # To be able to crawl on websites that blocks Robots
 
 #print ("hello")
 def make_soup(url):
 
-    print ("Crawling...")
-    webpage = url
-    br = mechanize.Browser()
-    br.set_handle_robots(False)
-    br.addheaders = [('User-agent', 'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.1) Gecko/2008071615 Fedora/3.0.1-1.fc9 Firefox/3.0.1')]
-    data = br.open(webpage).read()
-    soup = BeautifulSoup(data, "html.parser")
+    soup = BeautifulSoup(opener.open(url).read(), "html.parser")
     soup.prettify()
     #print soup
     return soup
@@ -75,8 +76,8 @@ def get_play_by_play(pbp_path):
     table = soup.find("table", class_ = "mod-data mod-pbp")   #find the only table tag and returns string (find_all returns array)
     ##table has table row and table data (tr, td), but table var is a string**
     print "------------------------------"
-    print soup
-    print "------------------------------"
+    #print soup
+    #print "------------------------------"
     '''table = soup.find_all("div", "story-container")   #find the only table tag and returns string (find_all returns array)
     '''##table has table row and table data (tr, td), but table var is a string**
 #>>>>>>> 8c94b1874697e0be2b50ddaf102d215faf710eb4
@@ -89,15 +90,8 @@ def get_play_by_play(pbp_path):
 
     #rows = []
     #print tbl
-    table = soup
-    if not table:
-        return None
 
-    tbl = table.find_all("tr", lambda x: x in ("odd", "even"))
-    for r in table.find_all("tr", lambda x: x in ("odd", "even")):
-        print r
-
-    rows = [row.find_all("td") for row in table.find_all("tr",
+    rows = [row.find_all("td") for row in soup.find_all("tr",
         lambda x: x in ("odd", "even"))]
 
     data = []
@@ -116,11 +110,31 @@ def get_play_by_play(pbp_path):
         # repeat the timeout or note in the other columns
         #</tr><tr class="odd"><td valign=top width=50>17:28</td><td colspan=3 style="text-align:center;"><b>Kentucky  Timeout</b></td></tr>
         #kentucky timeout spanned 3 colms
-        
+
+
         if len(values) != 4:
-            print values
+            #print values
             values = [values[0], values[1], values[1], values[1]]  #timeout replaced multiple times 
+
         data.append(values)
+
+    '''Find Home and Away Team infos for the game'''
+    game_data = []
+    team_data = []
+    game_data.append(pbp_path.lower().split("gameid=")[1])
+    for team in ["team home", "team away"]:
+        matchup = soup.find("div", "matchup")
+        the_team = soup.find("div", team)
+        team_Name = the_team.find("a").text  #away team name 
+        team_Rank = ""   #away team rank 
+        rank = the_team.find("span", "rank")
+        if rank:
+            team_Rank = rank.text
+        team_Record = the_team.find("p").text   #away team record 
+        
+        team_data.extend([team_Name, team_Rank, team_Record])
+        #print "Name: %s, Rank %s, Record %s\n"%(team_Name, team_Rank, team_Record)
+    print game_data + team_data
 
     return data
 
@@ -149,8 +163,11 @@ if __name__ == '__main__':
                 #cbb-play-data/ is a directory/folder and will write separate file for each game
                 pbp = get_play_by_play(game)
                 if pbp:
-                    with open("cbb-play-data/" + game_id + ".csv", "w") as f:
-                        writer = csv.writer(f, delimiter="|")
+                    filename = "cbb-play-data/{0}/".format(d.strftime("%Y-%m-%d")) + game_id + ".csv"
+                    if not os.path.exists(os.path.dirname(filename)):
+                        os.makedirs(os.path.dirname(filename))
+                    with open(filename, "w") as f:
+                        writer = csv.writer(f, delimiter="\t")
                         #header of the data 
                         writer.writerow(["time", "away", "score", "home"])
                         writer.writerows(pbp)
