@@ -72,11 +72,15 @@ def get_play_by_play(pbp_path, current_date):
     "Returns the play-by-play data for a given game id."
     print (ESPN_URL + pbp_path)
     soup = make_soup(ESPN_URL + pbp_path)  #make_soup opens the url and returns the source code
+#<<<<<<< HEAD
+    table = soup.find("table", class_ = "mod-data mod-pbp")   #find the only table tag and returns string (find_all returns array)
+    ##table has table row and table data (tr, td), but table var is a string**
     print "------------------------------"
     #print soup
     #print "------------------------------"
     '''table = soup.find_all("div", "story-container")   #find the only table tag and returns string (find_all returns array)
     '''##table has table row and table data (tr, td), but table var is a string**
+#>>>>>>> 8c94b1874697e0be2b50ddaf102d215faf710eb4
     #table rows has class for odd or even (probly why the table on espn is switched colors)
     #rows is an matrix of tr tags with even or odd 
     #eg <tr class="even"><td valign=top width=50>19:53</td><td valign=top>&nbsp;</td><td valign=top style="text-align:center;" NOWRAP>0-0</td><td valign=top>Karl-Anthony Towns missed Three Point Jumper.</td></tr>
