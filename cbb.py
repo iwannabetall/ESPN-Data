@@ -68,7 +68,7 @@ def get_games(date):
     return play_by_plays
 
 
-def get_play_by_play(pbp_path):
+def get_play_by_play(pbp_path, current_date):
     "Returns the play-by-play data for a given game id."
     print (ESPN_URL + pbp_path)
     soup = make_soup(ESPN_URL + pbp_path)  #make_soup opens the url and returns the source code
@@ -121,7 +121,7 @@ def get_play_by_play(pbp_path):
     '''Find Home and Away Team infos for the game'''
     game_data = []
     team_data = []
-    game_data.append(pbp_path.lower().split("gameid=")[1])
+    game_data = [current_date, pbp_path.lower().split("gameid=")[1]]
     for team in ["team home", "team away"]:
         matchup = soup.find("div", "matchup")
         the_team = soup.find("div", team)
@@ -133,10 +133,13 @@ def get_play_by_play(pbp_path):
         team_Record = the_team.find("p").text   #away team record 
         
         team_data.extend([team_Name, team_Rank, team_Record])
+        team_data = [x.replace(u"\xa0", u" ") for x in team_data]
         #print "Name: %s, Rank %s, Record %s\n"%(team_Name, team_Rank, team_Record)
-    print game_data + team_data
+    #print game_data + team_data
+    game_data = game_data + team_data
 
-    return data
+    #print game_data
+    return data, game_data
 
 if __name__ == '__main__':
     try:
@@ -148,6 +151,9 @@ if __name__ == '__main__':
 
     d = START_DATE
     delta = timedelta(days=1)
+
+    game_details = []
+
     while d <= END_DATE:
         print "Getting data for: {0}".format(d.strftime("%Y-%m-%d"))
         
@@ -161,7 +167,10 @@ if __name__ == '__main__':
                 print "Writing data for game: {0}".format(game_id)
                 #save the data 
                 #cbb-play-data/ is a directory/folder and will write separate file for each game
-                pbp = get_play_by_play(game)
+                pbp, game_data = get_play_by_play(game, d.strftime("%Y-%m-%d"))
+
+                game_details.append(game_data)
+                '''
                 if pbp:
                     filename = "cbb-play-data/{0}/".format(d.strftime("%Y-%m-%d")) + game_id + ".csv"
                     if not os.path.exists(os.path.dirname(filename)):
@@ -171,12 +180,17 @@ if __name__ == '__main__':
                         #header of the data 
                         writer.writerow(["time", "away", "score", "home"])
                         writer.writerows(pbp)
-
+                    '''
             except UnicodeEncodeError:
                 print "Unable to write data for game: {0}".format(game_id)
                 print "Moving on ..."
                 continue
-
         d += delta
         sleep(2) # be nice
+    #print game_details
+    with open("cbb-play-data/game_details.csv", "w") as f:
+                        writer = csv.writer(f, delimiter="\t")
+                        #header of the data 
+                        writer.writerow(["Date", "GameID", "HomeTeam", "HomeRank", "HomeRecord", "AwayTeam", "AwayRank", "AwayRecord"])
+                        writer.writerows(game_details)
     print "Done!"
