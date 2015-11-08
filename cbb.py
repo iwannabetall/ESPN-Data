@@ -16,6 +16,8 @@ import csv
 import mechanize
 import os
 
+#2014-15 regular season 2014-11-13 to 2015-03-08
+
 # CONSTANTS
 ESPN_URL = "http://scores.espn.go.com"  ##global var
 cj = CookieJar() # Not absolutely necessary but recommended
@@ -39,8 +41,9 @@ def get_games(date):
     #print date
 
     soup = make_soup(ESPN_URL + 
-        "/ncb/scoreboard?date={0}&confId=2".format(date))   #all ACC games
-
+        "/ncb/scoreboard?date={0}&confId=3".format(date))   #all ACC games
+##conf IDs: ACC: 2; Big 10: 7; Big 12:8; SEC: 23; Pac 12:21; Big East: 4; A10: 3; Mountain West: 44; Am East: 1 
+    #have data for ACC, Big10,Big12,SEC,Pac12,Big East, A10 games 
     #"get's all conferences?  /ncb/scoreboard?date=""
     #array of span tags that start with, start with id and end with "-gamelinks-expand", 
     #eg <span id="400589301-gameLinks-expand"><a href="/ncb/boxscore?gameId=400589301">Box&nbsp;Score</a>&nbsp;&#187;&nbsp;  <a href="/ncb/playbyplay?gameId=400589301">Play&#8209;By&#8209;Play</a>&nbsp;&#187;&nbsp;  <a href="/ncb/video?gameId=400589301">Videos</a>&nbsp;&#187;&nbsp;  <a href="/ncb/photos?gameId=400589301">Photos</a>&nbsp;&#187;&nbsp;  <a href="/ncb/conversation?gameId=400589301">Conversation</a>&nbsp;&#187;&nbsp;  </span>
@@ -121,7 +124,7 @@ def get_play_by_play(pbp_path, current_date):
     '''Find Home and Away Team infos for the game'''
     game_data = []
     team_data = []
-    game_data = [current_date, pbp_path.lower().split("gameid=")[1]]
+    game_data = [pbp_path.lower().split("gameid=")[1], current_date]
     for team in ["team home", "team away"]:
         matchup = soup.find("div", "matchup")
         the_team = soup.find("div", team)
@@ -130,6 +133,8 @@ def get_play_by_play(pbp_path, current_date):
         rank = the_team.find("span", "rank")
         if rank:
             team_Rank = rank.text
+        else:
+            team_Rank = "NR"
         team_Record = the_team.find("p").text   #away team record 
         
         team_data.extend([team_Name, team_Rank, team_Record])
@@ -170,7 +175,7 @@ if __name__ == '__main__':
                 pbp, game_data = get_play_by_play(game, d.strftime("%Y-%m-%d"))
 
                 game_details.append(game_data)
-                '''
+               ##comment out from here  
                 if pbp:
                     filename = "cbb-play-data/{0}/".format(d.strftime("%Y-%m-%d")) + game_id + ".csv"
                     if not os.path.exists(os.path.dirname(filename)):
@@ -180,7 +185,7 @@ if __name__ == '__main__':
                         #header of the data 
                         writer.writerow(["time", "away", "score", "home"])
                         writer.writerows(pbp)
-                    '''
+                ##to here if don't want to print 
             except UnicodeEncodeError:
                 print "Unable to write data for game: {0}".format(game_id)
                 print "Moving on ..."
@@ -188,9 +193,10 @@ if __name__ == '__main__':
         d += delta
         sleep(2) # be nice
     #print game_details
-    with open("cbb-play-data/game_details.csv", "w") as f:
+    '''with open("cbb-play-data/game_details.csv", "w") as f:
                         writer = csv.writer(f, delimiter="\t")
                         #header of the data 
-                        writer.writerow(["Date", "GameID", "HomeTeam", "HomeRank", "HomeRecord", "AwayTeam", "AwayRank", "AwayRecord"])
+                        writer.writerow(["Game_id","Date", "HomeTeam", "HomeRank", "HomeRecord", "AwayTeam", "AwayRank", "AwayRecord"])
                         writer.writerows(game_details)
-    print "Done!"
+    print "Done!" 
+    '''

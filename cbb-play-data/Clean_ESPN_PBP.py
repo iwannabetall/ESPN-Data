@@ -6,12 +6,19 @@ import re
 import os
 
 #read in file of 
-team_gameID = pd.read_csv("Team_GameIDs.csv", delimiter = ',')
+team_gameID = pd.read_csv("All_Conf_Game_Details.csv", delimiter = ',')
+##get list of dates? /path folder names
+#os.listdir(".") lists all files and folders in directory 
+#for loop goes through directory listing and checks if it's a directory, ie folder
+#returns the directory/folder name if it is 
+#os.path.join(".",x) creates the path to the file/folder
 dates = [x for x in os.listdir(".") if os.path.isdir(os.path.join(".",x))] 
-for date in dates:
+#loop through the folders 
+for date in dates: 
 	games = [x for x in os.listdir(date)] 
 	#print games
 
+##for every game? 
 	for game in games:
 		fname = os.path.join(date,game)  #creates path by concatenating and adding / in btw
 		print fname
@@ -165,7 +172,8 @@ for date in dates:
 		data = stat_generator(game)
 		#print data["Game_id"]
 		merged_data = data.merge(team_gameID, how = 'left', on = "Game_id") 
-		#data.to_csv(filename, sep = '\t')
+		
+		#data.to_csv(filename, sep = '\t')  #print pulled data to file
 		merged_data.to_csv("../Processed-PBP/test.csv",sep = '\t')
 
 

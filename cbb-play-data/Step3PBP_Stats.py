@@ -64,7 +64,12 @@ def pbp_stats(fullsched, game_days, game_details, Team_Choice):
 		pbp = np.column_stack([game_id,pbp])  #concatenate columns 
 		pbp = pd.DataFrame(pbp, columns = ["Game_id","time", "away", "score","home"])
 		
-		#print pbp
+		#handle erroneous PBP without end of game
+		if not pbp.loc[len(pbp)-1,'away'].lower().startswith('end'):
+			print "Missing End of Game"
+		#pbp.append(["0:00","End of Game",pbp["score"][len(pbp)-2], "End of Game"])   ##WHY DOESN'T THIS WORK
+			pbp.loc[len(pbp)] = [game_id[1], "0:00","End of Game",pbp["score"][len(pbp)-2], "End of Game"]
+			game_id = np.append(game_id,fullsched[j])  #append to game id to get proper length
 
 		my_team = np.zeros(shape = (len(pbp),1))   #1 if stats for team of interest
 		home_game = np.zeros(shape = (len(pbp),1))   #1 if team of interest is playing home game 
@@ -152,6 +157,8 @@ def pbp_stats(fullsched, game_days, game_details, Team_Choice):
 					half[game_index + 1:i] = str(period_counter)
 					game_index = i
 			
+
+
 			if "timeout" in pbp['score'][i].lower():
 				timeout[i] = 1
 			##if timeout, repeat score before timeout 
@@ -180,13 +187,13 @@ def pbp_stats(fullsched, game_days, game_details, Team_Choice):
 			elif list(set(game_details[game_details.Game_id == fullsched[j]]["AwayTeam"] == Team_Choice))[0]:
 				home_game[range(len(pbp))] = 0
 	
-			##make one PBP column
+			'''##make one PBP column
 			if pbp['away'][i] is ' ':					
 				home_off_poss[i] = 1
 				PBP_description[i] = pbp['home'][i]
 			else:
 				home_off_poss[i] = 0	
-				PBP_description[i] = pbp['away'][i]
+				PBP_description[i] = pbp['away'][i]'''
 		
 			if ((home_off_poss[i] == 1) and (home_game[i] == 1)):
 				my_team[i] = 1
@@ -201,7 +208,9 @@ def pbp_stats(fullsched, game_days, game_details, Team_Choice):
 					home_off_poss[i] = 0
 				elif home_off_poss[i] == 0:
 					home_off_poss[i] = 1
-
+			
+			if FTA[i] == 1 and ((home_off_poss[i] != home_off_poss[i+1]) or ("offensive rebound" in PBP_description[i+1].lower())):
+				FTAlast[i] = 1
 			###use i-1 b/c i+1 wont be defined 
 			if i < (len(pbp)-1):
 
