@@ -4,12 +4,7 @@ from urllib2 import urlopen
 import cookielib
 from cookielib import CookieJar
 from datetime import datetime, timedelta
-#from urllib2.request import urlopen
-#import html5lib
-#from . import _htmlparser
-#import requests
-#import lxml
-#from lxml.html import *
+#  import sqlite3
 from time import sleep   #tells your program to run and then pause (for updated data)
 import sys
 import csv
@@ -18,6 +13,7 @@ import os
 
 # CONSTANTS
 ESPN_URL = "http://scores.espn.go.com"  ##global var
+conferences = {'2': 'ACC', '7': 'Big Ten', '23': 'SEC', '3': 'A 10', '21': 'Pac-12', '8': 'Big 12', '4': 'Big East'} #conferences of interest
 cj = CookieJar() # Not absolutely necessary but recommended
 opener = urllib2.build_opener(urllib2.HTTPCookieProcessor(cj))
 opener.addheaders = [('User-agent', 'Mozilla/5.0')] # To be able to crawl on websites that blocks Robots
@@ -31,7 +27,7 @@ def make_soup(url):
     return soup
 
 
-def get_games(date):
+def get_games(date, confid):
     """
     Gets all the play-by-play URLs for a given date (YYYYMMDD).
     Fair warning: ESPN doesn't have play-by-play data for all games.
@@ -39,7 +35,7 @@ def get_games(date):
     #print date
 
     soup = make_soup(ESPN_URL + 
-        "/ncb/scoreboard?date={0}&confId=2".format(date))   #all ACC games
+        "/ncb/scoreboard?date={0}&confId={1}".format(date, confid))   #all ACC games
 
     #"get's all conferences?  /ncb/scoreboard?date=""
     #array of span tags that start with, start with id and end with "-gamelinks-expand", 
@@ -141,14 +137,7 @@ def get_play_by_play(pbp_path, current_date):
     #print game_data
     return data, game_data
 
-if __name__ == '__main__':
-    try:
-        START_DATE = datetime.strptime(sys.argv[1], "%Y-%m-%d")
-        END_DATE = datetime.strptime(sys.argv[2], "%Y-%m-%d")
-    except IndexError:
-        print "I need a start and end date ('YYYY-MM-DD')."
-        sys.exit()
-
+def execute(START_DATE, END_DATE, confid):
     d = START_DATE
     delta = timedelta(days=1)
 
@@ -158,7 +147,7 @@ if __name__ == '__main__':
         print "Getting data for: {0}".format(d.strftime("%Y-%m-%d"))
         
         #games is array with /ncb/playbyplay?gameId=400589301
-        games = get_games(d.strftime("%Y%m%d"))  #string format for date time 
+        games = get_games(d.strftime("%Y%m%d"), confid)  #string format for date time 
         for game in games:
             game_id = game.lower().split("gameid=")[1]
 
@@ -170,9 +159,9 @@ if __name__ == '__main__':
                 pbp, game_data = get_play_by_play(game, d.strftime("%Y-%m-%d"))
 
                 game_details.append(game_data)
-                '''
+                
                 if pbp:
-                    filename = "cbb-play-data/{0}/".format(d.strftime("%Y-%m-%d")) + game_id + ".csv"
+                    filename = "cbb-play-data_{0}/{1}/".format(conferences[confid], d.strftime("%Y-%m-%d")) + game_id + ".csv"
                     if not os.path.exists(os.path.dirname(filename)):
                         os.makedirs(os.path.dirname(filename))
                     with open(filename, "w") as f:
@@ -180,17 +169,30 @@ if __name__ == '__main__':
                         #header of the data 
                         writer.writerow(["time", "away", "score", "home"])
                         writer.writerows(pbp)
-                    '''
+                    
             except UnicodeEncodeError:
                 print "Unable to write data for game: {0}".format(game_id)
                 print "Moving on ..."
                 continue
         d += delta
-        sleep(2) # be nice
+        sleep(.5) # be nice
+
     #print game_details
-    with open("cbb-play-data/game_details.csv", "w") as f:
+    with open("gameIDs/{0}Team_GameIDs.csv".format(conferences[confid]), "w") as f:
                         writer = csv.writer(f, delimiter="\t")
                         #header of the data 
                         writer.writerow(["Date", "GameID", "HomeTeam", "HomeRank", "HomeRecord", "AwayTeam", "AwayRank", "AwayRecord"])
                         writer.writerows(game_details)
+
+if __name__ == '__main__':
+    try:
+        START_DATE = datetime.strptime(sys.argv[1], "%Y-%m-%d")
+        END_DATE = datetime.strptime(sys.argv[2], "%Y-%m-%d")
+    except IndexError:
+        print "I need a start and end date ('YYYY-MM-DD')."
+        sys.exit()
+    for confid in conferences.keys():
+        # Run from 2014-11-12 to 2015-04-04
+        execute(START_DATE, END_DATE, confid)
+
     print "Done!"
