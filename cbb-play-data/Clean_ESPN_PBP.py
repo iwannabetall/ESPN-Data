@@ -76,29 +76,37 @@ for date in dates:
 				sec_remaining[i] = 60 * int(minutes[i]) + int(seconds[i])
 				home_margin[i] = home_score[i] - away_score[i]
 				
-				#mark if 1st/2nd half/OT 
-				if sec_remaining[i] < 60:
+				'''....Ignore Error.........'''
+				try:
 				
-					if df['score'][i].lower().startswith('end') and df['score'][i].lower().endswith('1st half'):
-						half_index = i
-						half[0:half_index] = '1'
-			 
-					#if 'end .* 2nd half' in df['score'][i].lower():
-					if df['score'][i].lower().startswith('end') and df['score'][i].lower().endswith('2nd half'):
-						game_index = i
-						half[half_index + 1:game_index] = '2'
-						overtime_indicator = 1
-					#game didn't go into overtime, ie 2 halves 
-					if overtime_indicator == 0 and df['score'][i].lower().startswith('end') and df['score'][i].lower().endswith('game'): 
-					#overtime_indicator == 0 & ('end .* game' in df['score'][i]):
-						game_index = i
-						half[half_index + 1:game_index] = '2'
+					#mark if 1st/2nd half/OT 
+					if sec_remaining[i] < 60:
+					
+						if df['score'][i].lower().startswith('end') and df['score'][i].lower().endswith('1st half'):
+							half_index = i
+							half[0:half_index] = '1'
+				 
+						#if 'end .* 2nd half' in df['score'][i].lower():
+						if df['score'][i].lower().startswith('end') and df['score'][i].lower().endswith('2nd half'):
+							game_index = i
+							half[half_index + 1:game_index] = '2'
+							overtime_indicator = 1
+						#game didn't go into overtime, ie 2 halves 
+						if overtime_indicator == 0 and df['score'][i].lower().startswith('end') and df['score'][i].lower().endswith('game'): 
+						#overtime_indicator == 0 & ('end .* game' in df['score'][i]):
+							game_index = i
+							half[half_index + 1:game_index] = '2'
 
-					if overtime_indicator == 1 and df['score'][i].lower().startswith('end'):
-						period_counter = period_counter + 1
-						half[game_index + 1:i] = str(period_counter)
-						game_index = i
-				
+						if overtime_indicator == 1 and df['score'][i].lower().startswith('end'):
+							period_counter = period_counter + 1
+							half[game_index + 1:i] = str(period_counter)
+							game_index = i
+
+				except Exception, e:
+					print "Error in" + filename
+					pass
+				'''.............'''
+
 				##if timeout, repeat score before timeout 
 				if ("timeout" in df['score'][i].lower()) | ("end" in df['score'][i].lower()):
 					away_score[i] = away_score[i-1]
