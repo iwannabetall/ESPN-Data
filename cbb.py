@@ -20,7 +20,6 @@ opener.addheaders = [('User-agent', 'Mozilla/5.0')] # To be able to crawl on web
 
 #print ("hello")
 def make_soup(url):
-
     soup = BeautifulSoup(opener.open(url).read(), "html.parser")
     soup.prettify()
     #print soup
@@ -34,8 +33,11 @@ def get_games(date, confid):
     """
     #print date
 
-    soup = make_soup(ESPN_URL + 
-        "/ncb/scoreboard?date={0}&confId={1}".format(date, confid))   #all ACC games
+    try:
+        soup = make_soup(ESPN_URL + "/ncb/scoreboard?date={0}&confId={1}".format(date, confid))   #all {ACC} games
+    except Exception, e:
+        pass
+    
 
     #"get's all conferences?  /ncb/scoreboard?date=""
     #array of span tags that start with, start with id and end with "-gamelinks-expand", 
@@ -66,12 +68,12 @@ def get_games(date, confid):
 
 def get_play_by_play(pbp_path, current_date):
     "Returns the play-by-play data for a given game id."
-    print (ESPN_URL + pbp_path)
+    #print (ESPN_URL + pbp_path)
     soup = make_soup(ESPN_URL + pbp_path)  #make_soup opens the url and returns the source code
 #<<<<<<< HEAD
     table = soup.find("table", class_ = "mod-data mod-pbp")   #find the only table tag and returns string (find_all returns array)
     ##table has table row and table data (tr, td), but table var is a string**
-    print "------------------------------"
+    #print "------------------------------"
     #print soup
     #print "------------------------------"
     '''table = soup.find_all("div", "story-container")   #find the only table tag and returns string (find_all returns array)
@@ -147,38 +149,41 @@ def execute(START_DATE, END_DATE, confid):
         print "Getting data for: {0}".format(d.strftime("%Y-%m-%d"))
         
         #games is array with /ncb/playbyplay?gameId=400589301
-        games = get_games(d.strftime("%Y%m%d"), confid)  #string format for date time 
-        for game in games:
-            game_id = game.lower().split("gameid=")[1]
+        try:
+            games = get_games(d.strftime("%Y%m%d"), confid)  #string format for date time 
+            for game in games:
+                game_id = game.lower().split("gameid=")[1]
 
-            # I didn't feel like dealing with unicode characters
-            try:
-                print "Writing data for game: {0}".format(game_id)
-                #save the data 
-                #cbb-play-data/ is a directory/folder and will write separate file for each game
-                pbp, game_data = get_play_by_play(game, d.strftime("%Y-%m-%d"))
+                # I didn't feel like dealing with unicode characters
+                try:
+                    print "Writing data for game: {0}".format(game_id)
+                    #save the data 
+                    #cbb-play-data/ is a directory/folder and will write separate file for each game
+                    pbp, game_data = get_play_by_play(game, d.strftime("%Y-%m-%d"))
 
-                game_details.append(game_data)
-                
-                if pbp:
-                    filename = "cbb-play-data_{0}/{1}/".format(conferences[confid], d.strftime("%Y-%m-%d")) + game_id + ".csv"
-                    if not os.path.exists(os.path.dirname(filename)):
-                        os.makedirs(os.path.dirname(filename))
-                    with open(filename, "w") as f:
-                        writer = csv.writer(f, delimiter="\t")
-                        #header of the data 
-                        writer.writerow(["time", "away", "score", "home"])
-                        writer.writerows(pbp)
+                    game_details.append(game_data)
                     
-            except UnicodeEncodeError:
-                print "Unable to write data for game: {0}".format(game_id)
-                print "Moving on ..."
-                continue
+                    if pbp:
+                        filename = "PLAY_DATA/{0}/{1}/".format(conferences[confid], d.strftime("%Y-%m-%d")) + game_id + ".csv"
+                        if not os.path.exists(os.path.dirname(filename)):
+                            os.makedirs(os.path.dirname(filename))
+                        with open(filename, "w") as f:
+                            writer = csv.writer(f, delimiter="\t")
+                            #header of the data 
+                            writer.writerow(["time", "away", "score", "home"])
+                            writer.writerows(pbp)
+                        
+                except UnicodeEncodeError:
+                    print "Unable to write data for game: {0}".format(game_id)
+                    print "Moving on ..."
+                    continue
+        except Exception, e:
+            print "Error encountered....... Skipped!"
         d += delta
         sleep(.5) # be nice
 
     #print game_details
-    with open("gameIDs/{0}Team_GameIDs.csv".format(conferences[confid]), "w") as f:
+    with open("gameIDs/{0}_Team_GameIDs.csv".format(conferences[confid]), "w") as f:
                         writer = csv.writer(f, delimiter="\t")
                         #header of the data 
                         writer.writerow(["Date", "GameID", "HomeTeam", "HomeRank", "HomeRecord", "AwayTeam", "AwayRank", "AwayRecord"])
@@ -192,7 +197,8 @@ if __name__ == '__main__':
         print "I need a start and end date ('YYYY-MM-DD')."
         sys.exit()
     for confid in conferences.keys():
-        # Run from 2014-11-12 to 2015-04-04
+
+        print "..::Executing for conference: " + conferences[confid] + "::.."
         execute(START_DATE, END_DATE, confid)
 
     print "Done!"
