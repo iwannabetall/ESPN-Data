@@ -58,7 +58,6 @@ def pbp_stats(fullsched, game_days, game_details, Team_Choice):
 			continue  #PBP does not exist for all games, skip to next game
 
 		pbp = pd.read_csv(filename[j],delimiter = '\t')  #read in file
-		#print pbp
 		game_id = np.zeros(shape = (len(pbp),1))  #create game ID for PBP data for each game
 		game_id[:] = fullsched[j]  #create game ID
 		pbp = np.column_stack([game_id,pbp])  #concatenate columns 
@@ -99,6 +98,13 @@ def pbp_stats(fullsched, game_days, game_details, Team_Choice):
 		half = np.zeros(shape = (len(pbp),1))
 		foul = np.zeros(shape = (len(pbp),1))
 		FTA = np.zeros(shape = (len(pbp),1))
+		
+		FTA1_1 = np.zeros(shape = (len(pbp),1))   #and one free throw
+		FTA1_2 = np.zeros(shape = (len(pbp),1))   #first of two FTs
+		FTA2_2 = np.zeros(shape = (len(pbp),1))	   #2nd of 2 shot FT
+		FTA3 = np.zeros(shape = (len(pbp),1))   	#fouled shooting a 3 pointer -- 1 for first shot, 2 for 2nd, 3 for 3rd shot
+		FTAlast = np.zeros(shape = (len(pbp),1))   	#FTA with REB opp
+
 		block = np.zeros(shape = (len(pbp),1))
 		assist = np.zeros(shape = (len(pbp),1))
 		sec_remaining = np.zeros(shape = (len(pbp),1))
