@@ -130,6 +130,26 @@ def pbp_stats(fullsched, game_days, game_details, Team_Choice):
 				home_off_poss[i] = 0	
 				PBP_description[i] = pbp['away'][i]
 
+			if "foul" in PBP_description[i].lower():
+				foul[i] = 1
+				if home_off_poss[i] == 1:
+					home_off_poss[i] = 0
+				elif home_off_poss[i] == 0:
+					home_off_poss[i] = 1
+
+			###use i-1 b/c i+1 wont be defined 
+			if i < (len(pbp)-1):
+
+				if timeout[i] == 1: 
+					#if home team has next play
+					if ((pbp['away'][i+1] is ' ') and home_game[i] == 1): 
+						home_off_poss[i] = 1
+					if ("foul" in pbp['away'][i+1].lower()) and (home_game[i] == 1):
+						home_off_poss[i] = 1
+			
+			if "free throw" in PBP_description[i].lower():
+				FTA[i] = 1
+
 		for i in range(len(pbp)):
 			global overtime_indicator
 			global period_counter
@@ -164,7 +184,6 @@ def pbp_stats(fullsched, game_days, game_details, Team_Choice):
 					game_index = i
 			
 
-
 			if "timeout" in pbp['score'][i].lower():
 				timeout[i] = 1
 			##if timeout, repeat score before timeout 
@@ -181,7 +200,24 @@ def pbp_stats(fullsched, game_days, game_details, Team_Choice):
 				before_home_points[i] = int(home_score[i]) - home_points_scored[i]
 				before_away_points[i] =	int(away_score[i]) - away_points_scored[i]
 			
-		
+		##if missed FTA --> def reb --> FTA 
+			#FTA --> timeout --> FTA 
+			#1 and 1 
+			# one FTA 
+			#3 pt FTA 
+			##rebounding opp on missed FTA -- immediately after FTA, it's change of poss or oreb 
+			if (FTA[i] == 1): #and ((home_points_scored[i] + away_points_scored[i]) == 0):
+				if (home_off_poss[i] != home_off_poss[i+1]) or ("offensive rebound" in PBP_description[i+1].lower()):
+					FTAlast[i] = 1   ##***INCLUDES MADE FREE THROWS -- FOR PURPOSES OF FT ANALYSIS W/PRESSURE
+				##two consecutive made FTs-->change poss
+				#if (FTA[i+1] == 1) and (home_off_poss[i+2] != home_off_poss[i+1]):
+				#	FTA1_2[i] = 1
+				#	FTA2_2[i+1] = 1
+
+				#j = i
+				#while (home_off_poss[i] == home_off_poss[j+1]) or ("timeout" in pbp['score'][j+1].lower()):
+				#	if FTA[i+1] == 1:
+
 			'''###dealing with possessions
 			#indicator if team of interest -- 1 if team is home team and has ball or if they're away team and have the ball
 			#first zero gets value of team choice, 2nd [0] gets the "true/false" value from the set
@@ -208,15 +244,13 @@ def pbp_stats(fullsched, game_days, game_details, Team_Choice):
 	
 	#possession on fouls should be with team with the ball, not team committing the foul
 	##changing home off poss for fouls needs to be changed AFTER my team is set or my team will not be with team committing foul
-			if "foul" in PBP_description[i].lower():
+			'''if "foul" in PBP_description[i].lower():   #moved up
 				foul[i] = 1
 				if home_off_poss[i] == 1:
 					home_off_poss[i] = 0
 				elif home_off_poss[i] == 0:
-					home_off_poss[i] = 1
+					home_off_poss[i] = 1'''
 			
-			if FTA[i] == 1 and ((home_off_poss[i] != home_off_poss[i+1]) or ("offensive rebound" in PBP_description[i+1].lower())):
-				FTAlast[i] = 1
 			###use i-1 b/c i+1 wont be defined 
 			if i < (len(pbp)-1):
 
@@ -224,9 +258,9 @@ def pbp_stats(fullsched, game_days, game_details, Team_Choice):
 					#if home team has next play
 					if ((pbp['away'][i+1] is ' ') and home_game[i] == 1): 
 						my_team[i] = 1
-						home_off_poss[i] = 1
+						#home_off_poss[i] = 1
 					if ("foul" in pbp['away'][i+1].lower()) and (home_game[i] == 1):
-						home_off_poss[i] = 1
+						#home_off_poss[i] = 1
 						my_team[i] = 1
 					#if team is road team
 					if ((pbp['home'][i+1] is ' ') and home_game[i] == 0):
@@ -270,8 +304,7 @@ def pbp_stats(fullsched, game_days, game_details, Team_Choice):
 				block[i] = 1
 			if "assist" in PBP_description[i].lower():
 				assist[i] = 1
-			if "free throw" in PBP_description[i].lower():
-				FTA[i] = 1
+			###MOVED FREE THROW			
 			if ("made" in PBP_description[i].lower()) | ("missed" in PBP_description[i].lower()):
 				FGA[i] = 1 - FTA[i] ##FTA is either 1 or 0, FGA included FTAs
 			if "made" in PBP_description[i].lower():
@@ -344,9 +377,3 @@ def main():
 if __name__ == '__main__':
 	main()
 
-
-##unique list of games from year 
-
-#print win_percentage[300:305]
-##what's the diff btwn 
-#game_details["HomeRecord"] and game_details["HomeRecord"].str.split(",")
