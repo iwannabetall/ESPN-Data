@@ -163,22 +163,22 @@ def pbp_stats(fullsched, game_days, game_details, Team_Choice):
 			#mark if 1st/2nd half/OT 
 			if sec_remaining[i] < 60:
 			
-				if pbp['score'][i].lower().startswith('end') and pbp['score'][i].lower().endswith('1st half'):
+				if pbp['home'][i].lower().startswith('end') and pbp['home'][i].lower().endswith('1st half'):
 					half_index = i
 					half[0:half_index] = '1'
 		 
 				#if 'end .* 2nd half' in pbp['score'][i].lower():
-				if pbp['score'][i].lower().startswith('end') and pbp['score'][i].lower().endswith('2nd half'):
+				if pbp['home'][i].lower().startswith('end') and pbp['home'][i].lower().endswith('2nd half'):
 					game_index = i
 					half[half_index + 1:game_index] = '2'
 					overtime_indicator = 1
 				#game didn't go into overtime, ie 2 halves 
-				if overtime_indicator == 0 and pbp['score'][i].lower().startswith('end') and pbp['score'][i].lower().endswith('game'): 
+				if overtime_indicator == 0 and pbp['home'][i].lower().startswith('end') and pbp['home'][i].lower().endswith('game'): 
 				#overtime_indicator == 0 & ('end .* game' in pbp['score'][i]):
 					game_index = i
 					half[half_index + 1:game_index] = '2'
 
-				if overtime_indicator == 1 and pbp['score'][i].lower().startswith('end'):
+				if overtime_indicator == 1 and pbp['home'][i].lower().startswith('end'):
 					period_counter = period_counter + 1
 					half[game_index + 1:i] = str(period_counter)
 					game_index = i
@@ -330,8 +330,8 @@ def pbp_stats(fullsched, game_days, game_details, Team_Choice):
 			home_win[range(len(pbp))] = 0
 			#print PBP_description[i]
 
-		data = np.column_stack((game_id, PBP_description, my_team, possession, home_off_poss,home_game,sec_remaining, half,home_win, before_home_points,home_score, before_away_points,away_score,home_points_scored,away_points_scored, player, player2,FGA,FGM,FTA,FGA3,FGA3M,turnover, block, steal, assist, foul,off_reb,def_reb, timeout))
-		titles = ["Game_id", "PBP_description", "my_team","possession","home_off_poss","home_game", "sec_remaining", "half", "home_win", "before_home_points","home_score","before_away_points","away_score","home_points_scored","away_points_scored","player","player2","FGA","made_FGA","FTA","3FGA","3FGA_made","turnover","block", "steal","assist", "foul","off_reb","def_reb", "timeout"]
+		data = np.column_stack((game_id, PBP_description, my_team, possession, home_off_poss,home_game,sec_remaining, half,home_win, before_home_points,home_score, before_away_points,away_score,home_points_scored,away_points_scored, player, player2,FGA,FGM,FTA,FTAlast, FGA3,FGA3M,turnover, block, steal, assist, foul,off_reb,def_reb, timeout))
+		titles = ["Game_id", "PBP_description", "my_team","possession","home_off_poss","home_game", "sec_remaining", "half", "home_win", "before_home_points","home_score","before_away_points","away_score","home_points_scored","away_points_scored","player","player2","FGA","made_FGA","FTA","FTA_RebOpp", "3FGA","3FGA_made","turnover","block", "steal","assist", "foul","off_reb","def_reb", "timeout"]
 		data = pd.DataFrame(data, columns = titles)
 		Team_GamePBP = Team_GamePBP.append(data)   #PBP for all games played by a particular team 
 		
