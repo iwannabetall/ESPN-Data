@@ -1,0 +1,96 @@
+import json
+from pprint import pprint
+import numpy as np
+import pandas as pd
+from unidecode import unidecode
+from fuzzywuzzy import fuzz
+from fuzzywuzzy import process
+import inflect  #finds indefinite articles 
+p = inflect.engine()
+
+articles = ["the", "a", "an", "and", "la", "le","el"]
+
+keys = ["name", "address","locality","neighborhood","website","tel","latitude", "longitude"]
+#restaurantlocs = np.zeros(shape = (1,len(keys))) 
+revs = pd.read_csv("PoorRestaurantGuide.csv")
+with open('restaurantinfo.json') as data_file:    
+    data = json.load(data_file)
+restaurantlocs = []
+for i in range(len(data)):
+	print i
+	for j in range(len(data[i])):   #number of entries for restaurant 		
+		restaurantlocsrow = []
+		for key in keys:  #check that key exists, if doesn't exist enter blanks 
+			if key not in data[i][j]:
+				value = ' '
+			else:
+				value = data[i][j][key]				
+				if key == "neighborhood":
+					value = data[i][j][key][0]
+			restaurantlocsrow.append(value)		
+		restaurantlocs.append(restaurantlocsrow)
+
+token_match	= np.zeros(shape = (len(restaurantlocs),1))  #max matching score to one of my restaurant docs 
+simple_match = np.zeros(shape = (len(restaurantlocs),1))
+partial_match = np.zeros(shape = (len(restaurantlocs),1))
+token_match_loc	= np.zeros(shape = (len(restaurantlocs),1))  #restaurant it most closely matched 
+simple_match_loc = np.zeros(shape = (len(restaurantlocs),1))
+partial_match_loc = np.zeros(shape = (len(restaurantlocs),1))
+
+df = np.column_stack((restaurantlocs,token_match,simple_match,partial_match,token_match_loc,simple_match_loc,partial_match_loc))
+restaurantlocsdata = pd.DataFrame(df, columns = ["name", "address","locality","neighborhood","website","tel","latitude", "longitude","token_match","simple_match", "partial_match","token_match_loc", "simple_match_loc","partial_match_loc"])
+restaurantlocsdata = pd.DataFrame(restaurantlocs, columns = ["name", "address","locality","neighborhood","website","tel","latitude", "longitude"])
+
+##fix unicode issues and get name similarity ratings 
+max_token = []
+max_partial = []
+max_simple = []
+
+for k in range(len(restaurantlocsdata["name"])):  #for every entry in list of biz
+	##check if restaurant name already done
+	restaurantlocsdata["name"][k] = unidecode(restaurantlocsdata["name"][k])
+	restaurantlocsdata["address"][k] = unidecode(restaurantlocsdata["address"][k])
+	simplematchscore = []  #ratio
+	tokenmatchscore = []  #token_set_ratio
+	partialmatchscore = []  #partial_ratio
+	for i in range(len(revs["Restaurant"])): 
+		##remove common words before string match, ie restaurant, sandwich, shop
+		tokenmatchscore.append(fuzz.token_set_ratio(revs["Restaurant"][i], restaurantlocsdata["name"][k]))
+		partialmatchscore.append(fuzz.partial_ratio(revs["Restaurant"][i], restaurantlocsdata["name"][k]))
+		simplematchscore.append(fuzz.ratio(revs["Restaurant"][i], restaurantlocsdata["name"][k]))
+	print k
+	max_token.append(max(tokenmatchscore))
+	max_partial.append(max(partialmatchscore))
+	max_simple.append(max(simplematchscore))
+
+df = np.column_stack((restaurantlocs,max_token,max_simple,max_partial,token_match_loc,simple_match_loc,partial_match_loc))
+
+for i in range(len(revs["Restaurant"])): 
+	restaurantlocsdata["token_match"][i] = max_token
+	restaurantlocsdata["simple_match"][i] = max_partial
+	restaurantlocsdata["partial_match"][i] = max_simple
+
+	restaurantlocsdata["token_match_loc"][i] 
+	#if osmething has a 100% ratio score, then bar for including something similar goes up?  
+
+		#need to save the ratio score for that restaurant too (in both docs to see if there's a full match)
+
+
+
+restaurantlocsdata.to_csv("RestaurantLocations.csv",sep = ',', encoding = 'utf-8')
+#    data[i][1].keys()
+#[u'website', u'category_labels', u'neighborhood', u'name', u'locality', u'country', u'region', u'address', u'longitude', u'category_ids', u'hours', u'postcode', u'factual_id', u'hours_display', u'latitude', u'tel']
+
+for i in range(len(restaurantlocsdata["name"])):
+
+for i in range(len(revs["Restaurant"])):
+	place = revs["Restaurant"][i].split(" ")
+	for j in range(len(place)):
+		if len(place[j]) > 3:
+			fuzz.token_set_ratio(place[j], restaurantlocsdata[""])
+			place[j]
+
+# if isinstance(value, unicode):  #check if unicode--does not work 
+  		# 			print "unicode string"
+    #     			print value
+    #     			value = unidecode(value)
