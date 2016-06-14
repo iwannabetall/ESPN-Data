@@ -20,7 +20,7 @@ import os
 
 #2014-15 regular season 2014-11-13 to 2015-03-08
 # CONSTANTS
-http://espn.go.com/mens-college-basketball/scoreboard/_/date/20160224
+#http://espn.go.com/mens-college-basketball/scoreboard/_/date/20160224
 ESPN_URL = "http://espn.go.com"  ##global var
 cj = CookieJar() # Not absolutely necessary but recommended
 opener = urllib2.build_opener(urllib2.HTTPCookieProcessor(cj))
@@ -55,7 +55,7 @@ def get_games(gamedate):
     #games = soup.find_all("span", {"id": lambda x: x and x.lower().endswith("-gamelinks-expand")})   #gets game ID "from gameLinks-expand
     #pattern = re.compile(r"window\.espn\.scoreboardData = (.*);", re.MULTILINE)
     script = soup.find("script", text=lambda x: x and "window.espn.scoreboardData" in x).text  #get dictionary
-    print script
+    #print script
     #create acceptable JSON format
     script = script.split("window.espn.scoreboardData \t= ",1)[1] #keep everything after window.espn.scoreboardData \t= 
     script = script.partition(";window.espn.scoreboardSettings")[0]  #delete everything after
@@ -81,28 +81,17 @@ def get_games(gamedate):
                 games.append(data["events"][i]["links"][j]["href"].split("=")[-1])  #game IDs
         #links = data["events"][i]["links"][j]["href"].split("=")  #first index numbers have all games--need to loop thru all, 2nd number = various links for a game--only want pbp link
     
-    return play_by_plays
+    return games
 #shot chart <div data-module="shotChart" id="gamepackage-shot-chart">
 
 def get_play_by_play(gameid, current_date):
     "Returns the play-by-play data for a given game id."
     #game 400841592 has OT
-    pbp = "/mens-college-basketball/playbyplay?gameId="
-    print (ESPN_URL + pbp + gameid)
-    soup = make_soup(ESPN_URL + pbp + gameid)  #make_soup opens the url and returns the source code
+    pbplink = "/mens-college-basketball/playbyplay?gameId="
+    print (ESPN_URL + pbplink + gameid)
+    soup = make_soup(ESPN_URL + pbplink + gameid)  #make_soup opens the url and returns the source code
 #<<<<<<< HEAD
-    pds = soup.select('li [data-period]')  #use CSS selector to find length of game, ie # of OTs
-    maxpd = []
-    for i in range(len(pds)):
-        maxpd.append(int(pds[i]["data-period"]))
-    if max(maxpd) > 2:   #number of OTs if more than 2 pds played
-        OTs = max(maxpd) - 2
-    #create id tag to get pbp data by period 
-    Q = "gp-quarter-" 
-    for i in range(max(maxpd)):
-        idtag = Q + str(maxpd[i] + 1)
-        pbp = soup.find_all('div', attrs = {'id' : idtag }) 
-    
+
     #h1table = soup.find_all("div", "accordion-content collapse in")  #first half pbp table 
     #h2table = soup.find_all("div", "accordion-content collapse")  #2nd half pbp table 
     ##table has table row and table data (tr, td), but table var is a string**
@@ -118,85 +107,66 @@ def get_play_by_play(gameid, current_date):
     #each row in rows is an array of td's
     #print table
     #find_all splits table string into array by tr 
-     <div class="team away"> #use to get image src link 
-      <div class="team home">
-      awayteam = soup.find_all("div", "team away")  #get team info
-      awayteam = soup.find_all("div", "team home")  #get team info
-      teams = soup.find_all("div", "team-container")  #get team info
-    
-    for t in teams:
-        t.find_all("img","src", attrs = {'class' : 'team-logo'}) #get team info
-    #find all table tags of class combined-score for each table row 
-    #scores = [row.find_all("td",attrs = {'class' : 'combined-score'}) for row in soup.find_all("tr")]
-    #description = [row.find_all("td",attrs = {'class' : 'game-details'}) for row in soup.find_all("tr")]
-    #timestamp = [row.find_all("td",attrs = {'class' : 'time-stamp'}) for row in soup.find_all("tr")]
-    logos = [x['src'] for x in soup.findAll('img', {'class': 'team-logo'})]
-**find logos in tr tag 
-    [row.find_all("img", "src", attrs = {'class' : 'team-logo'}) for row in soup.find_all("tr")]
-    logos[32][0]["src"] #???WHY DOES THIS WORK??!
-    
-    #get scores, pbp description, and time stamp 
-    scores = []
-    description = []
-    timestamp = []
-    logos = []
-    for tdtag in soup.find_all('td', attrs = {'class' : 'combined-score'}):
-        scores.append(tdtag.text) 
-    for tdtag in soup.find_all('td', attrs = {'class' : 'game-details'}):
-        description.append(tdtag.text)
-    for tdtag in soup.find_all('td', attrs = {'class' : 'time-stamp'}):
-        timestamp.append(tdtag.text)
-    for tdtag in soup.find_all('tr', attrs = {'class' : 'team-logo'}):
-        logos.append(tdtag.text)
-    
-    data = []
-    for row in rows:
-        values = []
-        for value in row:
-            #if td is empty, append nothing/empty string; u might be unicode?
-            #each string must be converted to unicode so you can process it
-            ##some emoji's show up as boxes vs a emoji --> convert to unicode
-            if value.string is None:    
-                values.append(u"")
-            else:
-            #unicode has u"\xa0" as whitespace?, get rid of it and replace w/blank space
-                values.append(value.string.replace(u"\xa0", u" "))   #u"\xa0" is unicode stuff -- read this 
-        # handle timeouts being colspan=3
-        # repeat the timeout or note in the other columns
-        #</tr><tr class="odd"><td valign=top width=50>17:28</td><td colspan=3 style="text-align:center;"><b>Kentucky  Timeout</b></td></tr>
-        #kentucky timeout spanned 3 colms
-
-
-        if len(values) != 4:
-            #print values
-            values = [values[0], values[1], values[1], values[1]]  #timeout replaced multiple times 
-
-        data.append(values)
-
-    '''Find Home and Away Team infos for the game'''
+#get link for image of team logo to tell what team data is for
+    awayteaminfo = []  #array of logo image link and team name
+    hometeaminfo = []
+    teamclasses = ["team away", "team home"]
+    teamlogolinks = {}
     game_data = []
-    team_data = []
-    game_data = [gameid, current_date]
-    for team in ["team home", "team away"]:
-        matchup = soup.find("div", "matchup")
-        the_team = soup.find("div", team)
-        team_Name = the_team.find("a").text  #away team name 
-        team_Rank = ""   #away team rank 
-        rank = the_team.find("span", "rank")
-        if rank:
-            team_Rank = rank.text
-        else:
-            team_Rank = "NR"
-        team_Record = the_team.find("p").text   #away team record 
-        
-        team_data.extend([team_Name, team_Rank, team_Record])
-        team_data = [x.replace(u"\xa0", u" ") for x in team_data]
-        #print "Name: %s, Rank %s, Record %s\n"%(team_Name, team_Rank, team_Record)
-    #print game_data + team_data
-    game_data = game_data + team_data
+    for j in range(len(teamclasses)):
+        teaminfo = soup.find_all("div", teamclasses[j])  #get team info - gets too much home/away info
+        logolink = []
+        for i in range(len(teaminfo)):
+            teamlogo = teaminfo[i].find_all("img", "team-logo")
+            logolink = teamlogo[i]["src"]
+            teamname = teaminfo[i].find("span","long-name").text
+            mascot = teaminfo[i].find("span","short-name").text
+            teamrecord = teaminfo[i].find("div","record").text  #has inner record
+            teamrecord2 = teaminfo[i].find("span","inner-record").text
+            teamrank = "NR"
+            teamlogolinks.update({teamlogo[i]["src"]:teamname})  #dictionary of logo img links and corresponding team
+            #check if team is ranked
+            if teaminfo[i].find("span","rank") != None:
+                teamrank = teaminfo[i].find("span","rank").text 
+            if len(logolink) > 0:  #if got link for logo
+                if teamclasses[j] == "team away":
+                    AwayTeam = teamname
+                    awayteaminfo.extend([AwayTeam, mascot, teamrank, teamrecord]) 
+                    awayteaminfo = [str(x) for x in awayteaminfo]
+                elif teamclasses[j] == "team home":
+                    HomeTeam = teamname
+                    hometeaminfo.extend([HomeTeam, mascot, teamrank, teamrecord]) 
+                    hometeaminfo = [str(x) for x in hometeaminfo]
+                break
+    game_data.extend([current_date, gameid]) 
+    game_data = game_data + hometeaminfo + awayteaminfo
 
+    #get scores, pbp description, and time stamp 
+
+    pbprow = []
+    scores = soup.find_all('td', attrs = {'class' : 'combined-score'})
+    description = soup.find_all('td', attrs = {'class' : 'game-details'})
+    timestamp = soup.find_all('td', attrs = {'class' : 'time-stamp'})
+    logospbplinks = soup.find_all('td', attrs = {'class' : 'logo'})
+    logos = []
+    pbpteam = []  #team for which the pbp data is for
+    pbpdata = []
+    for i in range(len(logospbplinks)):
+        logos.append(logospbplinks[i].find("img", attrs = {'class' : 'team-logo'})["src"])
+#find match btwn link of logo from pbp data (logos) and link of logo from data table.  if match 1st, use that, if not use hte other        
+        if logos[i] == teamlogolinks.keys()[0]:  
+            pbpteam.append(teamlogolinks.values()[0])
+        else:
+            pbpteam.append(teamlogolinks.values()[1])
+
+#concatenate pbp info row by row 
+    for i in range(len(scores)):
+        pbprow.extend([timestamp[i].text,description[i].text,scores[i].text, pbpteam[i]])
+        pbpdata.append(pbprow)
+        pbprow = []
+    
     #print game_data
-    return data, game_data
+    return pbpdata, game_data
 
 if __name__ == '__main__':
     try:
@@ -217,7 +187,8 @@ if __name__ == '__main__':
         #games is array with /ncb/playbyplay?gameId=400589301
         games = get_games(d.strftime("%Y%m%d"))  #string format for date time 
         for game in games:
-            game_id = game.lower().split("gameid=")[1]
+            #game_id = game.lower().split("gameid=")[1]
+            game_id = str(game)
 
             # I didn't feel like dealing with unicode characters
             try:
@@ -229,13 +200,13 @@ if __name__ == '__main__':
                 game_details.append(game_data)
                ##comment out from here  
                 if pbp:
-                    filename = "cbb-play-data/{0}/".format(d.strftime("%Y-%m-%d")) + game_id + ".csv"
+                    filename = "cbb-pbp-data-15-16/{0}/".format(d.strftime("%Y-%m-%d")) + game_id + ".csv"
                     if not os.path.exists(os.path.dirname(filename)):
                         os.makedirs(os.path.dirname(filename))
                     with open(filename, "w") as f:
                         writer = csv.writer(f, delimiter="\t")
                         #header of the data 
-                        writer.writerow(["time", "away", "score", "home"])
+                        writer.writerow(["time", "description", "score", "team"])
                         writer.writerows(pbp)
                 ##to here if don't want to print 
             except UnicodeEncodeError:
@@ -245,10 +216,9 @@ if __name__ == '__main__':
         d += delta
         sleep(2) # be nice
     #print game_details
-    '''with open("cbb-play-data/game_details.csv", "w") as f:
-                        writer = csv.writer(f, delimiter="\t")
-                        #header of the data 
-                        writer.writerow(["Game_id","Date", "HomeTeam", "HomeRank", "HomeRecord", "AwayTeam", "AwayRank", "AwayRecord"])
-                        writer.writerows(game_details)
+    with open("gdeets.csv", "w") as f:
+        writer = csv.writer(f, delimiter=",")
+        #header of the data 
+        writer.writerow(["Date", "Game_id", "HomeTeam", "HomeMascot", "HomeRank", "HomeRecord", "AwayTeam", "AwayMascot","AwayRank", "AwayRecord"])
+        writer.writerows(game_details)
     print "Done!" 
-    '''
