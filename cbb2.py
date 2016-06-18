@@ -91,7 +91,7 @@ def get_play_by_play(gameid, current_date):
     print (ESPN_URL + pbplink + gameid)
     soup = make_soup(ESPN_URL + pbplink + gameid)  #make_soup opens the url and returns the source code
 #<<<<<<< HEAD
-
+    #print soup
     #h1table = soup.find_all("div", "accordion-content collapse in")  #first half pbp table 
     #h2table = soup.find_all("div", "accordion-content collapse")  #2nd half pbp table 
     ##table has table row and table data (tr, td), but table var is a string**
