@@ -40,8 +40,8 @@ def get_games(gamedate):
     Fair warning: ESPN doesn't have play-by-play data for all games.
     """
     
-    soup = make_soup(ESPN_URL + "/mens-college-basketball/scoreboard/_/group/21/date/" + gamedate)
-
+    soup = make_soup(ESPN_URL + "/mens-college-basketball/scoreboard/_/group/2/date/" + gamedate)
+#first game last game 2015-11-13 2016-04-04
         #"/ncb/scoreboard?date={0}&confId=3".format(date))   #all ACC games
     #http://scores.espn.go.com/mens-college-basketball/scoreboard/_/group/21/date/20151122
 ##conf IDs: ACC: 2; Big 10: 7; Big 12:8; SEC: 23; Pac 12:21; Big East: 4; A10: 3; Mountain West: 44; Am East: 1 
@@ -107,24 +107,28 @@ def get_play_by_play(gameid, current_date):
     #each row in rows is an array of td's
     #print table
     #find_all splits table string into array by tr 
-#get link for image of team logo to tell what team data is for
+    #get link for image of team logo to tell what team data is for
     awayteaminfo = []  #array of logo image link and team name
     hometeaminfo = []
-    teamclasses = ["team away", "team home"]
+    teamclasses = ["team home", "team away"]
     teamlogolinks = {}
     game_data = []
     for j in range(len(teamclasses)):
         teaminfo = soup.find_all("div", teamclasses[j])  #get team info - gets too much home/away info
         logolink = []
         for i in range(len(teaminfo)):
-            teamlogo = teaminfo[i].find_all("img", "team-logo")
-            logolink = teamlogo[i]["src"]
             teamname = teaminfo[i].find("span","long-name").text
+            if teaminfo[i].find("div", "logo").contents == []:  #not all teams have logo
+                logolink = "null"
+                teamlogolinks.update({"null":teamname})  #dictionary of logo img links and corresponding team
+            else:    
+                teamlogo = teaminfo[i].find_all("img", "team-logo")
+                logolink = teamlogo[i]["src"]
+                teamlogolinks.update({teamlogo[i]["src"]:teamname})  #dictionary of logo img links and corresponding team
             mascot = teaminfo[i].find("span","short-name").text
             teamrecord = teaminfo[i].find("div","record").text  #has inner record
-            teamrecord2 = teaminfo[i].find("span","inner-record").text
+            #teamrecord2 = teaminfo[i].find("span","inner-record").text
             teamrank = "NR"
-            teamlogolinks.update({teamlogo[i]["src"]:teamname})  #dictionary of logo img links and corresponding team
             #check if team is ranked
             if teaminfo[i].find("span","rank") != None:
                 teamrank = teaminfo[i].find("span","rank").text 
@@ -216,7 +220,7 @@ if __name__ == '__main__':
         d += delta
         sleep(2) # be nice
     #print game_details
-    with open("gdeets.csv", "w") as f:
+    with open("cbb-pbp-data-15-16/ACCGameDetails.csv", "w") as f:
         writer = csv.writer(f, delimiter=",")
         #header of the data 
         writer.writerow(["Date", "Game_id", "HomeTeam", "HomeMascot", "HomeRank", "HomeRecord", "AwayTeam", "AwayMascot","AwayRank", "AwayRecord"])
