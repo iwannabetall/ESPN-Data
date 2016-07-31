@@ -18,6 +18,7 @@ import csv
 import mechanize
 import os
 
+##scrapes 2015-16 regular season - 2015-11-13 2016-04-04
 #2014-15 regular season 2014-11-13 to 2015-03-08
 # CONSTANTS
 #http://espn.go.com/mens-college-basketball/scoreboard/_/date/20160224
@@ -40,8 +41,9 @@ def get_games(gamedate):
     Fair warning: ESPN doesn't have play-by-play data for all games.
     """
     
-    soup = make_soup(ESPN_URL + "/mens-college-basketball/scoreboard/_/group/2/date/" + gamedate)
+    soup = make_soup(ESPN_URL + "/mens-college-basketball/scoreboard/_/group/3/date/" + gamedate)
 #first game last game 2015-11-13 2016-04-04
+#2013-14 2013-11-08 2014-04-07
         #"/ncb/scoreboard?date={0}&confId=3".format(date))   #all ACC games
     #http://scores.espn.go.com/mens-college-basketball/scoreboard/_/group/21/date/20151122
 ##conf IDs: ACC: 2; Big 10: 7; Big 12:8; SEC: 23; Pac 12:21; Big East: 4; A10: 3; Mountain West: 44; Am East: 1 
@@ -204,7 +206,8 @@ if __name__ == '__main__':
                 game_details.append(game_data)
                ##comment out from here  
                 if pbp:
-                    filename = "cbb-pbp-data-15-16/{0}/".format(d.strftime("%Y-%m-%d")) + game_id + ".csv"
+                    #filename = "cbb-pbp-data-14-15/{0}/".format(d.strftime("%Y-%m-%d")) + game_id + ".csv"
+                    filename = "cbb-pbp-data-13-14/{0}/".format(d.strftime("%Y-%m-%d")) + game_id + ".csv"
                     if not os.path.exists(os.path.dirname(filename)):
                         os.makedirs(os.path.dirname(filename))
                     with open(filename, "w") as f:
@@ -212,17 +215,24 @@ if __name__ == '__main__':
                         #header of the data 
                         writer.writerow(["time", "description", "score", "team"])
                         writer.writerows(pbp)
-                ##to here if don't want to print 
+                ##to here if don't want to print '''
             except UnicodeEncodeError:
                 print "Unable to write data for game: {0}".format(game_id)
                 print "Moving on ..."
                 continue
+            except urllib.HTTPError, detail:
+                if detail.errno == 500:
+                    print "wtf"
+                    time.sleep(1)
+                    continue
         d += delta
         sleep(2) # be nice
     #print game_details
-    with open("cbb-pbp-data-15-16/ACCGameDetails.csv", "w") as f:
+    with open("cbb-pbp-data-13-14/A10GameDetails.csv", "w") as f:
         writer = csv.writer(f, delimiter=",")
         #header of the data 
         writer.writerow(["Date", "Game_id", "HomeTeam", "HomeMascot", "HomeRank", "HomeRecord", "AwayTeam", "AwayMascot","AwayRank", "AwayRecord"])
         writer.writerows(game_details)
     print "Done!" 
+
+    os.system('say "DunDunDun Donnne"')
