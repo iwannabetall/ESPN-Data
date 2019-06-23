@@ -42,3 +42,15 @@ func sayHello(name:String) {
 
 sayHello(name: myname)
 
+func averageIsAbove75(a: Double, b: Double, c: Double) -> Bool {
+    var avg = (a + b + c)/3.0
+    if avg > 75 {
+        return true
+    }
+    else {
+        return false
+    }
+}
+
+print(averageIsAbove75(a: 76, b: 75, c: 71.9))
+
