@@ -2,7 +2,6 @@ import {Router} from "@reach/router"
 import Landing from './Landing'
 import Scoreboard from './ScoreBoard'
 
-
 const App = () => {
   return (
     <div>

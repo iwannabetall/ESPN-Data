@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'; 
 
 var suits = ['diamonds', 'spades', 'clubs', 'hearts'];
 

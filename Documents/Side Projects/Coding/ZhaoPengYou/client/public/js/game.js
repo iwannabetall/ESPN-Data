@@ -1,4 +1,4 @@
-window.socket = io();
+window.socket = io(); 
 // const socket = require('./helpers/socketConfig')
 
 var config = {
